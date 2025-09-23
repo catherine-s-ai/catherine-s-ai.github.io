@@ -1,0 +1,11 @@
+{
+  "name": "Catherine – English Teacher",
+  "short_name": "Catherine",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#826aed",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "64x64", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
