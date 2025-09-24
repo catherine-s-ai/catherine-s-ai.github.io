@@ -380,18 +380,24 @@ header {
   padding: 1.5rem;
   border-radius: 10px;
   text-align: center;
-    background-color: #0a0a0a;
-    border-color: #2a2a2a;
+  border: 1px solid rgba(16,24,40,0.04);
+  transition: transform 180ms ease, box-shadow 180ms ease;
 }
-.teaching-item:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,0.08); }
+.teaching-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(16,24,40,0.08);
+}
+
 :root[data-theme='dark'] .teaching-item {
   background-color: var(--surface-2);
   box-shadow: 0 2px 10px rgba(0,0,0,0.25);
-  border-radius: 6px;
-  transition: none;
-  transform: none;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.04);
 }
-:root[data-theme='dark'] .teaching-item:hover { transform: none; box-shadow: 0 2px 10px rgba(0,0,0,0.25); }
+:root[data-theme='dark'] .teaching-item:hover {
+  transform: none;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.35);
+}
 
 .teaching-item h3 {
   margin-top: 0.75rem;
@@ -405,7 +411,11 @@ header {
   font-size: 0.95rem;
   color: #555;
 }
-:root[data-theme='dark'] .teaching-item p { color: var(--text); }
+/* Ensure high contrast in dark theme for card body text */
+:root[data-theme='dark'] .teaching-item p {
+  color: var(--text);
+  opacity: 0.98; /* slightly reduce transparency for maximum readability */
+}
 
 .testimonials {
   margin-top: 3rem;
@@ -550,17 +560,56 @@ header {
 :root[data-theme='dark'] .gallery p { color: var(--text); }
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+
+/* card wrapper for each thumbnail */
+.gallery-grid a {
+  display: grid;
+  place-items: center; /* centers the image both horizontally and vertically */
+  background: var(--surface);
+  border-radius: 14px;
+  padding: 10px; /* smaller padding so images appear larger */
+  border: 1px solid rgba(0,0,0,0.06);
+  box-shadow: 0 8px 26px rgba(16,24,40,0.04);
+  overflow: hidden;
+  transition: transform 200ms ease, box-shadow 200ms ease;
+  aspect-ratio: 3 / 4; /* uniform card shape (portrait) */
+  width: 100%;
+}
+:root[data-theme='dark'] .gallery-grid a {
+  background: var(--surface-2);
+  border-color: rgba(255,255,255,0.04);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.36);
+}
+
+.gallery-grid a:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 48px rgba(16,24,40,0.08);
 }
 
 .gallery-grid img {
+  display: block;
   width: 100%;
-  border-radius: 6px;
-  height: 200px;
-  object-fit: cover;
-  background-color: #f0f0f0;
-  border: 1px solid #ddd;
+  height: 100%;
+  object-fit: contain; /* ensure full image is visible */
+  object-position: center center; /* perfectly centered inside card */
+  border-radius: 8px;
+  background-color: rgba(0,0,0,0.02);
+  transition: transform 220ms ease, box-shadow 220ms ease;
+}
+
+.gallery-grid a:hover img,
+.gallery-grid a:focus img {
+  transform: scale(1.03);
+  box-shadow: 0 10px 30px rgba(16,24,40,0.06);
+}
+
+.gallery-grid a:focus {
+  outline: 3px solid rgba(130,106,237,0.14);
+  outline-offset: 4px;
 }
 :root[data-theme='dark'] .gallery-grid img {
   background-color: #21252e;
@@ -722,6 +771,28 @@ header {
   color: var(--dark);
 }
 
+/* Contact form label & placeholder contrast adjustments */
+.contact .form-group label {
+  color: #222; /* readable in light theme */
+  font-weight: 600;
+}
+
+:root[data-theme='dark'] .contact .form-group label {
+  color: var(--text); /* high-contrast label color in dark theme */
+  font-weight: 600;
+}
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+  color: #8b8b8b;
+  opacity: 1; /* ensure full control over placeholder color */
+}
+
+:root[data-theme='dark'] .form-group input::placeholder,
+:root[data-theme='dark'] .form-group textarea::placeholder {
+  color: rgba(214,222,240,0.64); /* lighter placeholder in dark theme */
+}
+
 .error-message {
   color: #d33;
   font-size: 0.9rem;
@@ -741,8 +812,8 @@ header {
 
 /* Footer */
 footer {
-  background-color: #0c0f14;
-  color: var(--dark);
+  background-color: #0c0f14; /* keep a dark footer bar on light theme */
+  color: var(--light); /* ensure text is light and readable on the dark footer */
   text-align: center;
   padding: 1rem 0;
   font-size: 0.9rem;
@@ -751,6 +822,16 @@ footer {
 footer a {
   color: var(--primary);
   text-decoration: none;
+}
+
+/* Dark theme: make footer match theme background and use readable text color */
+:root[data-theme='dark'] footer {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+:root[data-theme='dark'] footer a {
+  color: var(--primary);
 }
 
 /* Focus styles for accessibility */
@@ -808,6 +889,16 @@ footer a {
   .teaching-grid {
     grid-template-columns: 1fr;
   }
+}
+
+@media (max-width: 900px) {
+  .gallery-grid { grid-auto-rows: 300px; gap: 1rem; }
+  .gallery-grid a { padding: 10px; border-radius: 10px; }
+}
+
+@media (max-width: 520px) {
+  .gallery-grid { grid-auto-rows: 220px; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); }
+  .gallery-grid a { padding: 8px; }
 }
 
 /* Respect reduced motion preferences */
