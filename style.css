@@ -315,18 +315,30 @@ header {
 
 /* Mobile: add a subtle translucent panel behind the hero text to improve legibility */
 @media (max-width: 768px) {
+  /* Mobile: integrate hero text with background (no boxed panel) */
   .hero-content {
-    background: rgba(255,255,255,0.78);
-    padding: 1rem 1.25rem;
-    border-radius: 12px;
-    box-shadow: 0 8px 24px rgba(16,24,40,0.06);
+    background: transparent; /* let background shapes show through */
+    padding: 0.5rem 0.75rem; /* light padding to keep touch targets comfortable */
+    border-radius: 6px;
+    box-shadow: none;
+    text-align: center;
   }
-  :root[data-theme='dark'] .hero-content {
-    background: rgba(8,10,14,0.45);
-    box-shadow: 0 8px 24px rgba(0,0,0,0.45);
+
+  /* Typography tweaks for legibility while blending with background */
+  .hero h1 { font-size: 2.2rem; color: var(--dark); text-shadow: 0 10px 30px rgba(130,106,237,0.06); }
+  .hero p  { font-size: 1.05rem; color: #444; text-shadow: 0 6px 18px rgba(0,0,0,0.04); }
+
+  /* Stronger CTA on mobile so it reads on top of the background */
+  .hero .btn.primary {
+    padding: 0.7rem 1.4rem;
+    box-shadow: 0 10px 28px rgba(130,106,237,0.12);
+    border: 1px solid rgba(130,106,237,0.06);
   }
-  .hero h1 { font-size: 2.2rem; }
-  .hero p { font-size: 1.05rem; }
+
+  /* Dark theme mobile adjustments */
+  :root[data-theme='dark'] .hero h1 { color: var(--text); text-shadow: 0 8px 26px rgba(0,0,0,0.6); }
+  :root[data-theme='dark'] .hero p  { color: var(--text); text-shadow: 0 6px 18px rgba(0,0,0,0.55); }
+  :root[data-theme='dark'] .hero .btn.primary { box-shadow: 0 10px 28px rgba(0,0,0,0.5); border: 1px solid rgba(255,255,255,0.04); }
 }
 
 /* Keep the call-to-action clearly above shapes */
@@ -373,11 +385,24 @@ header {
 :root[data-theme='dark'] .about-text p { color: var(--text); }
 
 .about-photo {
-  height: 500px; /* taller to reveal more of the subject */
+  height: 500px; /* taller to reveal more of the subject (matching original) */
   border-radius: 8px;
   overflow: hidden;
   background-color: #f0f0f0;
   border: 1px solid #ddd;
+  box-shadow: 0 12px 36px rgba(16,24,40,0.06);
+  transition: transform 220ms ease, box-shadow 220ms ease;
+}
+
+:root[data-theme='dark'] .about-photo {
+  background: var(--surface-2);
+  border-color: rgba(255,255,255,0.04);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.36);
+}
+
+.about-photo:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 26px 64px rgba(16,24,40,0.09);
 }
 
 .about-photo img {
@@ -386,6 +411,29 @@ header {
   object-fit: cover; /* crop to container while filling */
   object-position: 80% center; /* nudge view to the right to include more subject */
   border-radius: 0; /* border handled by container */
+}
+
+.about-photo:focus-within { outline: 3px solid rgba(130,106,237,0.12); outline-offset: 6px; }
+
+@media (max-width: 768px) {
+  .about-photo {
+    height: 500px; /* keep large but responsive on mobile */
+    padding: 12px;
+    border-radius: 12px;
+  }
+
+  /* Contact spacing: give the Preply CTA breathing room from the form */
+  .contact .btn.secondary {
+    display: inline-block;
+    margin-bottom: 1.25rem;
+  }
+  .contact-form { margin-top: 0.5rem; }
+}
+
+@media (max-width: 480px) {
+  .about-photo {
+    height: 320px;
+  }
 }
 
 /* Teaching section */
@@ -630,7 +678,7 @@ header {
   width: 100%;
   height: 100%;
   object-fit: contain; /* ensure full image is visible */
-  object-position: center center; /* perfectly centered inside card */
+  object-position: center 30%; /* nudge subjects upward for better framing */
   border-radius: 8px;
   background-color: rgba(0,0,0,0.02);
   transition: transform 220ms ease, box-shadow 220ms ease;
@@ -781,6 +829,12 @@ header {
   max-width: 600px;
 }
 
+/* Increase spacing between the Preply CTA and the contact form label/fields */
+.contact .btn.secondary {
+  display: inline-block;
+  margin-bottom: 2rem;
+}
+
 .form-group {
   display: flex;
   flex-direction: column;
@@ -919,7 +973,7 @@ footer a {
     height: 380px; /* show more on mobile */
   }
   .about-photo img {
-    object-position: 65% center; /* a bit more to the right on mobile */
+    object-position: center 22%; /* slightly less aggressive upward nudge on mobile */
   }
   .teaching-grid {
     grid-template-columns: 1fr;
