@@ -300,6 +300,41 @@ header {
   max-width: 800px;
 }
 
+/* Ensure hero text sits above blurred background shapes and is rendered crisply */
+.hero-content {
+  position: relative;
+  z-index: 2;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.hero h1, .hero p {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Mobile: add a subtle translucent panel behind the hero text to improve legibility */
+@media (max-width: 768px) {
+  .hero-content {
+    background: rgba(255,255,255,0.78);
+    padding: 1rem 1.25rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(16,24,40,0.06);
+  }
+  :root[data-theme='dark'] .hero-content {
+    background: rgba(8,10,14,0.45);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.45);
+  }
+  .hero h1 { font-size: 2.2rem; }
+  .hero p { font-size: 1.05rem; }
+}
+
+/* Keep the call-to-action clearly above shapes */
+.hero .btn {
+  position: relative;
+  z-index: 3;
+}
+
 .hero h1 {
   font-size: 2.8rem;
   margin-bottom: 1rem;
