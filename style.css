@@ -395,6 +395,9 @@ header {
 .about-photo {
   position: relative;
   height: 100%;
+  /* Ensure a pleasant portrait frame and prevent the face from being cut off */
+  min-height: clamp(520px, 72vh, 820px);
+  aspect-ratio: 3 / 4;
   min-height: 0;
   border-radius: 16px;
   padding: clamp(14px, 2.1vw, 26px);
@@ -420,11 +423,11 @@ header {
 }
 
 .about-photo img {
+  width: 100%;
   height: 100%;
-  width: auto;
-  max-width: min(100%, 560px);
-  object-fit: contain;
-  object-position: center top;
+  /* Fill the frame but keep focus on the upper body */
+  object-fit: cover;
+  object-position: 50% 18%;
   flex-shrink: 0;
   display: block;
   transition: transform 220ms ease;
@@ -435,7 +438,7 @@ header {
 .about-photo:focus-within { outline: 3px solid rgba(130,106,237,0.12); outline-offset: 6px; }
 
 @media (max-width: 1024px) {
-  .about-photo img { object-position: center 6%; }
+  .about-photo img { object-position: 50% 16%; }
 }
 
 @media (max-width: 900px) {
@@ -451,15 +454,16 @@ header {
   }
   .about-photo {
     height: auto;
+    min-height: clamp(420px, 78vw, 720px);
     padding: clamp(12px, 3vw, 20px);
     max-width: min(520px, 90vw);
     margin-inline: auto;
   }
   .about-photo img {
-    height: auto;
-    max-height: clamp(360px, 75vw, 640px);
     width: 100%;
-    object-position: center 18%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 22%;
   }
   /* Contact spacing: give the Preply CTA breathing room from the form */
   .contact .btn.secondary {
@@ -471,8 +475,7 @@ header {
 
 @media (max-width: 520px) {
   .about-photo img {
-    max-height: clamp(320px, 82vw, 520px);
-    object-position: center 20%;
+    object-position: 50% 24%;
   }
 }
 

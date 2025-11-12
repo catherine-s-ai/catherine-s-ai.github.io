@@ -1,5 +1,5 @@
 // Service Worker: improved caching for faster, fresher gallery images
-const CACHE_NAME = 'site-cache-v2';
+const CACHE_NAME = 'site-cache-v3';
 const CORE_ASSETS = [
   '/',
   '/index.html',
@@ -57,6 +57,24 @@ self.addEventListener('fetch', (event) => {
   if (request.method !== 'GET') return;
 
   const url = new URL(request.url);
+
+  // Always prefer fresh CSS/JS, cache the latest as fallback (stale-while-revalidate style)
+  if (request.destination === 'style' || request.destination === 'script') {
+    event.respondWith(
+      (async () => {
+        const cache = await caches.open(CACHE_NAME);
+        try {
+          const net = await fetch(request);
+          if (net && net.ok) cache.put(request, net.clone()).catch(() => {});
+          return net;
+        } catch (_) {
+          const cached = await cache.match(request);
+          return cached || fetch(request);
+        }
+      })()
+    );
+    return;
+  }
 
   // Images under /assets/ -> network-first with cache fallback
   if (url.origin === location.origin && url.pathname.startsWith('/assets/')) {
