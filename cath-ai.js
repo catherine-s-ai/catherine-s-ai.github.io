@@ -575,10 +575,81 @@ async function renderMarkdownInto(container, markdown) {
     const html = marked.parse(raw);
     const safe = DOMPurify.sanitize(html, { USE_PROFILES: { html: true, svg: true } });
     container.innerHTML = safe;
+    // Enhance: syntax highlighting and math typesetting
+    try {
+      const hl = await ensureHighlight();
+      container.querySelectorAll('pre code').forEach((block) => {
+        try { hl.highlightElement(block); } catch {}
+      });
+    } catch {}
+    try {
+      const katex = await ensureKatex();
+      if (window.renderMathInElement) {
+        window.renderMathInElement(container, {
+          delimiters: [
+            { left: '$$', right: '$$', display: true },
+            { left: '$', right: '$', display: false },
+            { left: '\\(', right: '\\)', display: false },
+            { left: '\\[', right: '\\]', display: true }
+          ],
+          throwOnError: false,
+          trust: false
+        });
+      }
+    } catch {}
   } catch (e) {
     // Fallback to plain text if parser fails
     container.textContent = markdown || '';
   }
+}
+
+// highlight.js loader
+let highlightPromise;
+async function ensureHighlight() {
+  if (window.hljs && ensureHighlight._cssLoaded) {
+    return window.hljs;
+  }
+  if (!highlightPromise) {
+    highlightPromise = (async () => {
+      await loadStyle('https://cdn.jsdelivr.net/npm/highlight.js@11.9.0/styles/github.min.css');
+      ensureHighlight._cssLoaded = true;
+      await loadScript('https://cdn.jsdelivr.net/npm/highlight.js@11.9.0/lib/common.min.js');
+      return window.hljs;
+    })();
+  }
+  return highlightPromise;
+}
+
+// KaTeX loader with auto-render
+let katexPromise;
+async function ensureKatex() {
+  if (window.katex && window.renderMathInElement && ensureKatex._cssLoaded) {
+    return window.katex;
+  }
+  if (!katexPromise) {
+    katexPromise = (async () => {
+      await loadStyle('https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css');
+      ensureKatex._cssLoaded = true;
+      await loadScript('https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js');
+      await loadScript('https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js');
+      return window.katex;
+    })();
+  }
+  return katexPromise;
+}
+
+function loadStyle(href) {
+  return new Promise((resolve, reject) => {
+    const existing = document.querySelector(`link[data-href="${href}"]`);
+    if (existing) { resolve(); return; }
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = href;
+    link.dataset.href = href;
+    link.onload = () => resolve();
+    link.onerror = (e) => reject(e);
+    document.head.appendChild(link);
+  });
 }
 
 function setupEvents() {

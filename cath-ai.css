@@ -368,6 +368,10 @@ body.cath-ai-page {
 }
 .message-body a { color: color-mix(in oklab, var(--primary) 70%, var(--text)); text-decoration: underline; }
 
+/* KaTeX math rendering adjustments */
+.message-body .katex { font-size: 1.02em; }
+.message-body .katex-display { margin: 0.65rem 0; overflow-x: auto; }
+
 .message.assistant-streaming {
   border-style: dashed;
   border-color: color-mix(in oklab, var(--primary) 45%, var(--border));

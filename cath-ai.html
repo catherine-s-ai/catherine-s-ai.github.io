@@ -10,7 +10,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel="stylesheet" href="style.css?v=20251112">
-  <link rel="stylesheet" href="cath-ai.css">
+  <link rel="stylesheet" href="cath-ai.css?v=20251112">
   <meta name="description" content="Chat with Cath-AI, Catherine's friendly multilingual teaching assistant powered by DeepSeek and GPT-4.1.">
   <meta property="og:title" content="Cath-AI • Catherine's Creative AI Studio">
   <meta property="og:description" content="Cath-AI blends Catherine's warmth with cutting-edge AI for language tips, study plans, and travel inspiration.">
@@ -186,6 +186,7 @@
         'deepseek-reasoner': {
           label: 'DeepSeek Reasoner',
           endpoint: 'https://deepseek-proxy.fan-wan-uk.workers.dev/chat',
+          maxTokens: 4096,
           icon: 'fa-solid fa-sparkles'
         },
         'gpt-4.1': {
@@ -203,7 +204,7 @@
       maxFileSize: 10 * 1024 * 1024
     };
   </script>
-  <script src="script.js"></script>
-  <script src="cath-ai.js?v=20251105" type="module"></script>
+  <script src="script.js?v=20251112"></script>
+  <script src="cath-ai.js?v=20251112" type="module"></script>
 </body>
 </html>

@@ -1,5 +1,5 @@
 // Service Worker: improved caching for faster, fresher gallery images
-const CACHE_NAME = 'site-cache-v3';
+const CACHE_NAME = 'site-cache-v4';
 const CORE_ASSETS = [
   '/',
   '/index.html',

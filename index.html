@@ -235,11 +235,38 @@
     </div>
   </footer>
 
-  <script src="script.js" data-analytics="placeholder" data-plausible-domain=""></script>
+  <script src="script.js?v=20251112" data-analytics="placeholder" data-plausible-domain=""></script>
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('sw.js').catch(() => {});
+        navigator.serviceWorker.register('sw.js?v=20251112').then((reg) => {
+          // Proactively check for updates
+          try { reg.update(); } catch {}
+          const activateNow = () => {
+            if (reg.waiting) {
+              // Tell the waiting SW to skip waiting
+              reg.waiting.postMessage({ type: 'SKIP_WAITING' });
+            }
+          };
+          if (reg.waiting) {
+            activateNow();
+          }
+          reg.addEventListener('updatefound', () => {
+            const sw = reg.installing;
+            if (!sw) return;
+            sw.addEventListener('statechange', () => {
+              if (sw.state === 'installed' && navigator.serviceWorker.controller) {
+                activateNow();
+              }
+            });
+          });
+          let refreshing = false;
+          navigator.serviceWorker.addEventListener('controllerchange', () => {
+            if (refreshing) return; // prevent double reloads
+            refreshing = true;
+            window.location.reload();
+          });
+        }).catch(() => {});
       });
     }
   </script>
