@@ -81,7 +81,12 @@ function createMessageElement(role, content, { streaming = false } = {}) {
   }
   const body = document.createElement('div');
   body.className = 'message-body';
-  body.textContent = content;
+  if (role === 'assistant') {
+    // Render assistant content as Markdown for better readability
+    renderMarkdownInto(body, content || '');
+  } else {
+    body.textContent = content;
+  }
   li.appendChild(body);
   return li;
 }
@@ -424,7 +429,7 @@ async function sendChat(event) {
   setStatus('Cath-AI is thinking…', 'info');
 
   try {
-    const assistantContent = await streamCompletion(provider.endpoint, payload, assistantEl);
+  const assistantContent = await streamCompletion(provider.endpoint, payload, assistantEl);
     assistantEl.classList.remove('assistant-streaming');
     if (!assistantContent) {
       throw new Error('No response received');
@@ -480,6 +485,7 @@ async function streamCompletion(endpoint, payload, assistantEl) {
   const decoder = new TextDecoder('utf-8');
   let buffer = '';
   let fullText = '';
+  let lastRender = 0;
 
   while (true) {
     const { value, done } = await reader.read();
@@ -502,9 +508,13 @@ async function streamCompletion(endpoint, payload, assistantEl) {
           const content = delta && typeof delta.content === 'string' ? delta.content : '';
           if (content) {
             fullText += content;
-            const body = assistantEl.firstChild || assistantEl;
-            body.textContent = fullText;
-            scrollMessages();
+            const now = Date.now();
+            if (now - lastRender > 60) {
+              const body = assistantEl.firstChild || assistantEl;
+              renderMarkdownInto(body, fullText);
+              scrollMessages();
+              lastRender = now;
+            }
           }
         } catch (error) {
           console.warn('SSE parse error', error);
@@ -527,7 +537,7 @@ async function streamCompletion(endpoint, payload, assistantEl) {
         if (content) {
           fullText += content;
           const body = assistantEl.firstChild || assistantEl;
-          body.textContent = fullText;
+          renderMarkdownInto(body, fullText);
         }
       } catch (error) {
         console.warn('SSE final parse error', error);
@@ -536,6 +546,39 @@ async function streamCompletion(endpoint, payload, assistantEl) {
   }
 
   return fullText.trim();
+}
+
+// --- Markdown rendering helpers ---
+let markdownLibsPromise;
+async function ensureMarkdownLibs() {
+  if (window.marked && window.DOMPurify) {
+    return { marked: window.marked, DOMPurify: window.DOMPurify };
+  }
+  if (!markdownLibsPromise) {
+    markdownLibsPromise = (async () => {
+      await loadScript('https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js');
+      await loadScript('https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js');
+      // Configure marked for GitHub-flavored Markdown with line breaks
+      if (window.marked && typeof window.marked.setOptions === 'function') {
+        window.marked.setOptions({ gfm: true, breaks: true });
+      }
+      return { marked: window.marked, DOMPurify: window.DOMPurify };
+    })();
+  }
+  return markdownLibsPromise;
+}
+
+async function renderMarkdownInto(container, markdown) {
+  try {
+    const { marked, DOMPurify } = await ensureMarkdownLibs();
+    const raw = typeof markdown === 'string' ? markdown : '';
+    const html = marked.parse(raw);
+    const safe = DOMPurify.sanitize(html, { USE_PROFILES: { html: true, svg: true } });
+    container.innerHTML = safe;
+  } catch (e) {
+    // Fallback to plain text if parser fails
+    container.textContent = markdown || '';
+  }
 }
 
 function setupEvents() {
