@@ -216,6 +216,24 @@ body.cath-ai-page {
   align-items: center;
 }
 
+/* Normalize control alignment and heights in toolbar */
+.chat-toolbar > * {
+  align-self: center;
+}
+
+/* On wider screens, place 'Model' label inline with the select for baseline alignment */
+@media (min-width: 600px) {
+  .chat-toolbar .input-select {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+  .chat-toolbar .input-select span {
+    margin: 0;
+    line-height: 1;
+  }
+}
+
 .input-select {
   display: grid;
   gap: 0.3rem;
@@ -229,6 +247,7 @@ body.cath-ai-page {
   border: 1px solid var(--border);
   background: var(--surface);
   color: inherit;
+  height: 40px;
 }
 
 .toggle {
@@ -238,6 +257,7 @@ body.cath-ai-page {
   gap: 0.6rem;
   font-size: 0.88rem;
   color: color-mix(in oklab, var(--muted), var(--text) 35%);
+  min-height: 40px; /* align with select/button height */
 }
 
 .toggle input {
@@ -255,7 +275,8 @@ body.cath-ai-page {
   background: color-mix(in oklab, var(--primary) 70%, var(--surface));
 }
 
-.toggle-switch::before {
+/* Render knob inside the capsule (the input) */
+.toggle input::before {
   content: '';
   position: absolute;
   width: 20px;
@@ -268,7 +289,7 @@ body.cath-ai-page {
   box-shadow: var(--shadow-sm);
 }
 
-.toggle input:checked + .toggle-switch::before {
+.toggle input:checked::before {
   transform: translateX(18px);
 }
 
@@ -276,6 +297,9 @@ body.cath-ai-page {
   font-weight: 600;
   color: color-mix(in oklab, var(--text), var(--primary) 20%);
 }
+
+/* The extra span used previously for the knob is no longer needed */
+.toggle .toggle-switch { display: none; }
 
 /* Disabled toggle state (web search not yet available) */
 .toggle.disabled,
@@ -298,6 +322,7 @@ body.cath-ai-page {
   align-items: center;
   font-weight: 600;
   color: color-mix(in oklab, var(--text), var(--primary) 20%);
+  min-height: 40px; /* consistent control height */
 }
 
 .chat-messages {
@@ -617,4 +642,75 @@ body.cath-ai-page {
 
 :root[data-theme="dark"] .message-user {
   color: white;
+}
+
+/* --- Dark theme contrast tuning for readability --- */
+:root[data-theme="dark"] .hero-content .intro {
+  color: #cfd7ee; /* increase contrast on hero intro text */
+}
+
+:root[data-theme="dark"] .chat-status {
+  color: #b8c4e6; /* clearer status text */
+}
+:root[data-theme="dark"] .chat-status[data-tone="success"] {
+  color: #7be6b1;
+}
+:root[data-theme="dark"] .chat-status[data-tone="error"] {
+  color: #ff8097;
+}
+
+:root[data-theme="dark"] .input-select {
+  color: #cfd7ee;
+}
+:root[data-theme="dark"] .input-select select {
+  background: #0f1218;
+  border-color: #2b2f3a;
+  color: #e6edff;
+}
+
+:root[data-theme="dark"] .toggle {
+  color: #c7d1ef;
+}
+:root[data-theme="dark"] .toggle input {
+  background: #2a2f3a;
+}
+:root[data-theme="dark"] .toggle input:checked {
+  background: linear-gradient(135deg, #7a66e9, #9a86ff);
+}
+:root[data-theme="dark"] .toggle-label {
+  color: #e0e7ff;
+}
+
+:root[data-theme="dark"] .btn.ghost {
+  color: #e0e7ff;
+  border-color: #424a61;
+}
+
+:root[data-theme="dark"] .prompt-list li {
+  background: rgba(148,163,184,0.08);
+  border-color: #3a4157;
+  color: #d9e2ff;
+}
+
+:root[data-theme="dark"] .message-assistant {
+  color: #e8eeff; /* ensure assistant text is bright */
+  border-color: #3d4460;
+}
+:root[data-theme="dark"] .message-body code {
+  background: rgba(148,163,184,0.12);
+  border-color: #4a516b;
+}
+:root[data-theme="dark"] .message-body pre {
+  background: rgba(12,16,28,0.9);
+  border-color: #3d4460;
+}
+:root[data-theme="dark"] .message-body a {
+  color: #a9b8ff;
+}
+
+:root[data-theme="dark"] .info-list li {
+  color: #c7d1ef;
+}
+:root[data-theme="dark"] .info-list i {
+  color: #a9b8ff;
 }
