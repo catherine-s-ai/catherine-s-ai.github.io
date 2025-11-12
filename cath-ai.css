@@ -277,6 +277,17 @@ body.cath-ai-page {
   color: color-mix(in oklab, var(--text), var(--primary) 20%);
 }
 
+/* Disabled toggle state (web search not yet available) */
+.toggle.disabled,
+.toggle input:disabled,
+.toggle.disabled .toggle-switch,
+.toggle.disabled .toggle-label {
+  cursor: not-allowed !important;
+}
+.toggle input:disabled {
+  opacity: 0.6;
+}
+
 .btn.ghost {
   background: transparent;
   border: 1px solid color-mix(in oklab, var(--border), var(--primary) 20%);

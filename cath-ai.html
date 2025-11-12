@@ -100,11 +100,10 @@
               <span>Model</span>
               <select id="model-select" aria-label="Select AI model">
                 <option value="deepseek-reasoner">DeepSeek Reasoner</option>
-                <option value="gpt-4.1">GPT-4.1</option>
               </select>
             </label>
-            <label class="toggle">
-              <input type="checkbox" id="web-search-toggle" aria-label="Enable web search">
+            <label class="toggle disabled" title="Web search is not available yet">
+              <input type="checkbox" id="web-search-toggle" aria-label="Enable web search" disabled>
               <span class="toggle-switch" aria-hidden="true"></span>
               <span class="toggle-label">Web search</span>
             </label>
@@ -188,11 +187,6 @@
           endpoint: 'https://deepseek-proxy.fan-wan-uk.workers.dev/chat',
           maxTokens: 4096,
           icon: 'fa-solid fa-sparkles'
-        },
-        'gpt-4.1': {
-          label: 'GPT-4.1',
-          endpoint: '',
-          icon: 'fa-solid fa-star'
         }
       },
       defaultModel: 'deepseek-reasoner',
