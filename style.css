@@ -1035,4 +1035,34 @@ footer a {
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
+}/* Add to style.css */
+.fx-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.btn-finance-mini {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: linear-gradient(135deg, #9d8ec4, #38bdf8);
+  color: white;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 4px 10px rgba(130, 106, 237, 0.2);
+}
+
+.btn-finance-mini:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(130, 106, 237, 0.3);
+}
+
+.btn-finance-mini i {
+  font-size: 0.9em;
 }

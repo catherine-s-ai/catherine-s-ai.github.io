@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Daily Finance • Catherine's Creative AI Studio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:ital,wght@0,600;1,600&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="style.css?v=20251112">
+  <link rel="stylesheet" href="finance.css?v=20251208">
+  <meta name="description" content="Daily financial wisdom and wealth management tips powered by AI.">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <meta name="theme-color" content="#826aed">
+</head>
+<body class="finance-page">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header>
+    <nav class="navbar">
+      <div class="logo">Catherine</div>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="index.html#about">About</a></li>
+        <li><a href="index.html#teaching">Teaching</a></li>
+        <li><a href="finance.html" aria-current="page">Finance</a></li>
+        <li><a href="index.html#travel">Travel</a></li>
+        <li><a href="index.html#gallery">Gallery</a></li>
+        <li><a href="cath-ai.html">Cath-AI</a></li>
+        <li><a href="index.html#contact">Contact</a></li>
+      </ul>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme" aria-pressed="false" title="Toggle theme">
+        <span class="icon sun" aria-hidden="true"><i class="fa-solid fa-sun"></i></span>
+        <span class="icon moon" aria-hidden="true"><i class="fa-solid fa-moon"></i></span>
+        <span class="label">Theme</span>
+      </button>
+      <div class="hamburger" id="hamburger" role="button" aria-label="Toggle navigation" aria-controls="nav-links" aria-expanded="false" tabindex="0">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="finance-hero">
+      <div class="hero-bg" aria-hidden="true"></div>
+      <div class="hero-content">
+        <span class="eyebrow">Daily Wisdom</span>
+        <h1>Financial Insights</h1>
+        <p class="intro">Curated daily lessons on wealth and economics, designed to help you grow with grace and confidence.</p>
+      </div>
+    </section>
+
+    <section class="lessons-section">
+      <div class="container">
+        <div class="lesson-grid" id="lesson-grid">
+          <!-- Cards will be injected here by JS -->
+          <div class="loading-state">
+            <i class="fa-solid fa-circle-notch fa-spin"></i>
+            <p>Gathering wisdom...</p>
+          </div>
+        </div>
+        
+        <div class="pagination-container" id="pagination-container" style="display: none;">
+          <button id="prev-page" class="pagination-btn" disabled><i class="fa-solid fa-chevron-left"></i> Previous</button>
+          <span id="page-info" class="page-info">Page 1</span>
+          <button id="next-page" class="pagination-btn">Next <i class="fa-solid fa-chevron-right"></i></button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Lesson Modal -->
+  <div class="modal-backdrop" id="modal-backdrop" aria-hidden="true">
+    <div class="modal-container" role="dialog" aria-modal="true">
+      <button class="modal-close" id="modal-close" aria-label="Close modal">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+      
+      <div id="modal-content-body" class="modal-content">
+        <!-- Content injected by JS -->
+      </div>
+    </div>
+  </div>
+
+  <footer class="mini-footer">
+    <div class="container">
+      <p>© <span id="year"></span> Catherine · Powered by Cath-AI.</p>
+    </div>
+  </footer>
+
+  <script src="script.js?v=20251112"></script>
+  <script src="finance.js?v=20251208" type="module"></script>
+</body>
+</html>

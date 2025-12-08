@@ -95,6 +95,12 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
+  // JSON Data -> Network Only (to ensure freshness)
+  if (url.pathname.endsWith('.json')) {
+    event.respondWith(fetch(request));
+    return;
+  }
+
   // Other requests: try cache-first, then network and cache response
   event.respondWith(
     caches.match(request).then((cached) => {

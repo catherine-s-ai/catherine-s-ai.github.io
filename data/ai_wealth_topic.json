@@ -1,0 +1,4702 @@
+[
+  {
+    "level": "1. Financial Basics",
+    "categories": [
+      {
+        "category": "Personal Finance Foundations",
+        "difficulty": 1,
+        "recommended_order": 1,
+        "topics": [
+          {
+            "topic": "Financial planning basics",
+            "difficulty": 1,
+            "order": 1,
+            "related_topics": [
+              "Budget and cash-flow planning",
+              "Financial goal setting"
+            ],
+            "keywords": [
+              "financial planning",
+              "goals",
+              "budget"
+            ]
+          },
+          {
+            "topic": "Managing income and budgets",
+            "difficulty": 1,
+            "order": 2,
+            "related_topics": [
+              "Cash-flow management",
+              "Income and expenses"
+            ],
+            "keywords": [
+              "budgeting",
+              "income",
+              "expenses"
+            ]
+          },
+          {
+            "topic": "Saving & emergency funds",
+            "difficulty": 1,
+            "order": 3,
+            "related_topics": [
+              "Financial planning basics",
+              "Power of compounding"
+            ],
+            "keywords": [
+              "saving",
+              "emergency fund",
+              "security"
+            ]
+          },
+          {
+            "topic": "Consumer credit & credit scores",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Debt management",
+              "Credit cards and loans"
+            ],
+            "keywords": [
+              "credit",
+              "credit score",
+              "debt management"
+            ]
+          },
+          {
+            "topic": "Inflation & purchasing power",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Time value of money",
+              "Interest rates"
+            ],
+            "keywords": [
+              "inflation",
+              "purchasing power",
+              "CPI"
+            ]
+          },
+          {
+            "topic": "Time value of money",
+            "difficulty": 2,
+            "order": 6,
+            "related_topics": [
+              "Power of compounding",
+              "Discounting"
+            ],
+            "keywords": [
+              "time value",
+              "discounting",
+              "future value"
+            ]
+          },
+          {
+            "topic": "Power of compounding",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "Time value of money",
+              "Annualized & compound returns"
+            ],
+            "keywords": [
+              "compound interest",
+              "compounding",
+              "growth"
+            ]
+          },
+          {
+            "topic": "Cash-flow management",
+            "difficulty": 2,
+            "order": 8,
+            "related_topics": [
+              "Managing income and budgets",
+              "Working capital"
+            ],
+            "keywords": [
+              "cash flow",
+              "income",
+              "expenses"
+            ]
+          },
+          {
+            "topic": "Mindset & spending habits",
+            "difficulty": 2,
+            "order": 9,
+            "related_topics": [
+              "Behavioral finance basics",
+              "Financial wellness"
+            ],
+            "keywords": [
+              "mindset",
+              "spending",
+              "behavior"
+            ]
+          },
+          {
+            "topic": "Financial fraud & security",
+            "difficulty": 2,
+            "order": 10,
+            "related_topics": [
+              "Consumer rights",
+              "Online safety"
+            ],
+            "keywords": [
+              "fraud",
+              "security",
+              "scams"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Basic Financial Knowledge",
+        "difficulty": 1,
+        "recommended_order": 2,
+        "topics": [
+          {
+            "topic": "Assets vs. liabilities",
+            "difficulty": 1,
+            "order": 1,
+            "related_topics": [
+              "Balance sheet",
+              "Net worth"
+            ],
+            "keywords": [
+              "assets",
+              "liabilities",
+              "net worth"
+            ]
+          },
+          {
+            "topic": "Balance sheet & cash-flow statement",
+            "difficulty": 2,
+            "order": 2,
+            "related_topics": [
+              "Financial statements",
+              "Financial ratios"
+            ],
+            "keywords": [
+              "balance sheet",
+              "cash flow",
+              "income statement"
+            ]
+          },
+          {
+            "topic": "Common banking products",
+            "difficulty": 1,
+            "order": 3,
+            "related_topics": [
+              "Savings account",
+              "Checking account"
+            ],
+            "keywords": [
+              "bank products",
+              "savings",
+              "checking"
+            ]
+          },
+          {
+            "topic": "Interest rates & deposits",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Inflation & purchasing power",
+              "Fixed income"
+            ],
+            "keywords": [
+              "interest rate",
+              "deposit",
+              "yield"
+            ]
+          },
+          {
+            "topic": "Overview of financial instruments",
+            "difficulty": 1,
+            "order": 5,
+            "related_topics": [
+              "Stocks",
+              "Bonds"
+            ],
+            "keywords": [
+              "financial instruments",
+              "overview",
+              "tools"
+            ]
+          },
+          {
+            "topic": "Insurance basics",
+            "difficulty": 2,
+            "order": 6,
+            "related_topics": [
+              "Risk management",
+              "Life insurance"
+            ],
+            "keywords": [
+              "insurance",
+              "risk transfer",
+              "policies"
+            ]
+          },
+          {
+            "topic": "Tax basics & filing",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "Tax planning",
+              "Tax strategies"
+            ],
+            "keywords": [
+              "tax",
+              "filing",
+              "tax bracket"
+            ]
+          },
+          {
+            "topic": "Consumer rights & regulation",
+            "difficulty": 2,
+            "order": 8,
+            "related_topics": [
+              "Financial regulation",
+              "Consumer protection"
+            ],
+            "keywords": [
+              "consumer rights",
+              "regulation",
+              "compliance"
+            ]
+          },
+          {
+            "topic": "Debt crisis prevention",
+            "difficulty": 2,
+            "order": 9,
+            "related_topics": [
+              "Debt management",
+              "Risk identification"
+            ],
+            "keywords": [
+              "debt prevention",
+              "debt crisis",
+              "management"
+            ]
+          },
+          {
+            "topic": "Financial goal setting",
+            "difficulty": 1,
+            "order": 10,
+            "related_topics": [
+              "Financial planning basics",
+              "Personal finance"
+            ],
+            "keywords": [
+              "goal setting",
+              "financial goals",
+              "plan"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "2. Investment Fundamentals",
+    "categories": [
+      {
+        "category": "Investment Concepts & Principles",
+        "difficulty": 2,
+        "recommended_order": 1,
+        "topics": [
+          {
+            "topic": "Risk–return trade-off",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "Portfolio diversification",
+              "Risk management"
+            ],
+            "keywords": [
+              "risk",
+              "return",
+              "trade-off"
+            ]
+          },
+          {
+            "topic": "Portfolio diversification",
+            "difficulty": 2,
+            "order": 2,
+            "related_topics": [
+              "Asset allocation",
+              "Risk reduction"
+            ],
+            "keywords": [
+              "diversification",
+              "portfolio",
+              "risk reduction"
+            ]
+          },
+          {
+            "topic": "Annualized & compound returns",
+            "difficulty": 2,
+            "order": 3,
+            "related_topics": [
+              "Compound interest",
+              "Return metrics"
+            ],
+            "keywords": [
+              "annual return",
+              "compound return",
+              "rate"
+            ]
+          },
+          {
+            "topic": "Investing vs. speculating",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Long-term investing",
+              "Trading"
+            ],
+            "keywords": [
+              "investment",
+              "speculation",
+              "trading"
+            ]
+          },
+          {
+            "topic": "Efficient market theory",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Market anomalies",
+              "CAPM"
+            ],
+            "keywords": [
+              "efficient market",
+              "EMH",
+              "information"
+            ]
+          },
+          {
+            "topic": "Introduction to behavioral finance",
+            "difficulty": 2,
+            "order": 6,
+            "related_topics": [
+              "Cognitive bias",
+              "Emotional bias"
+            ],
+            "keywords": [
+              "behavioral finance",
+              "psychology",
+              "bias"
+            ]
+          },
+          {
+            "topic": "Investment psychology biases",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "Fear & greed",
+              "Overconfidence"
+            ],
+            "keywords": [
+              "bias",
+              "cognitive",
+              "emotional"
+            ]
+          },
+          {
+            "topic": "Risk-adjusted performance measures",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Sharpe ratio",
+              "Sortino ratio"
+            ],
+            "keywords": [
+              "performance",
+              "risk-adjusted",
+              "metrics"
+            ]
+          },
+          {
+            "topic": "Active vs. passive investing",
+            "difficulty": 2,
+            "order": 9,
+            "related_topics": [
+              "Index investing",
+              "Active management"
+            ],
+            "keywords": [
+              "active",
+              "passive",
+              "portfolio"
+            ]
+          },
+          {
+            "topic": "Ethics & professional standards",
+            "difficulty": 4,
+            "order": 10,
+            "related_topics": [
+              "Disclosure",
+              "Conflicts of interest"
+            ],
+            "keywords": [
+              "ethics",
+              "standards",
+              "fiduciary"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Asset Classes & Products",
+        "difficulty": 2,
+        "recommended_order": 2,
+        "topics": [
+          {
+            "topic": "Fixed income & interest-rate products",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "Bond valuation",
+              "Yield curve"
+            ],
+            "keywords": [
+              "bonds",
+              "interest rate",
+              "fixed income"
+            ]
+          },
+          {
+            "topic": "Equity investments (stocks)",
+            "difficulty": 2,
+            "order": 2,
+            "related_topics": [
+              "Stock markets & trading mechanics",
+              "Equity valuation"
+            ],
+            "keywords": [
+              "equity",
+              "stocks",
+              "shares"
+            ]
+          },
+          {
+            "topic": "Foreign exchange & commodities",
+            "difficulty": 2,
+            "order": 3,
+            "related_topics": [
+              "Currency risk",
+              "Commodity futures"
+            ],
+            "keywords": [
+              "forex",
+              "commodities",
+              "hedging"
+            ]
+          },
+          {
+            "topic": "Real estate & REITs",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Property investment",
+              "REIT structure"
+            ],
+            "keywords": [
+              "real estate",
+              "REIT",
+              "property"
+            ]
+          },
+          {
+            "topic": "Mutual funds & ETFs",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Index funds",
+              "Active funds"
+            ],
+            "keywords": [
+              "mutual funds",
+              "ETF",
+              "funds"
+            ]
+          },
+          {
+            "topic": "Derivatives basics",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Options",
+              "Futures"
+            ],
+            "keywords": [
+              "derivatives",
+              "options",
+              "futures"
+            ]
+          },
+          {
+            "topic": "Alternative assets",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Private equity",
+              "Hedge funds"
+            ],
+            "keywords": [
+              "alternative",
+              "private equity",
+              "hedge fund"
+            ]
+          },
+          {
+            "topic": "Insurance & annuities",
+            "difficulty": 2,
+            "order": 8,
+            "related_topics": [
+              "Insurance basics",
+              "Retirement planning"
+            ],
+            "keywords": [
+              "insurance",
+              "annuity",
+              "risk transfer"
+            ]
+          },
+          {
+            "topic": "Retirement plans",
+            "difficulty": 2,
+            "order": 9,
+            "related_topics": [
+              "401(k)",
+              "IRA"
+            ],
+            "keywords": [
+              "retirement",
+              "pension",
+              "plan"
+            ]
+          },
+          {
+            "topic": "Tax-advantaged accounts",
+            "difficulty": 2,
+            "order": 10,
+            "related_topics": [
+              "Tax planning",
+              "Tax basics"
+            ],
+            "keywords": [
+              "tax",
+              "advantaged",
+              "account"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Market Operations",
+        "difficulty": 2,
+        "recommended_order": 3,
+        "topics": [
+          {
+            "topic": "Primary & secondary markets",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "IPOs",
+              "Secondary trading"
+            ],
+            "keywords": [
+              "primary market",
+              "secondary market",
+              "IPO"
+            ]
+          },
+          {
+            "topic": "Stock exchanges & trading platforms",
+            "difficulty": 2,
+            "order": 2,
+            "related_topics": [
+              "Market participants",
+              "Clearing"
+            ],
+            "keywords": [
+              "stock exchange",
+              "trading",
+              "platform"
+            ]
+          },
+          {
+            "topic": "Dividends & buybacks",
+            "difficulty": 2,
+            "order": 3,
+            "related_topics": [
+              "Corporate actions",
+              "Dividend policy"
+            ],
+            "keywords": [
+              "dividend",
+              "buyback",
+              "shareholder"
+            ]
+          },
+          {
+            "topic": "Order types",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Market order",
+              "Limit order",
+              "Stop order"
+            ],
+            "keywords": [
+              "orders",
+              "market order",
+              "limit order"
+            ]
+          },
+          {
+            "topic": "Settlement & custody",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "T+2 settlement",
+              "Custody"
+            ],
+            "keywords": [
+              "settlement",
+              "custody",
+              "clearing"
+            ]
+          },
+          {
+            "topic": "Regulation & trading rules",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Securities law",
+              "Disclosure"
+            ],
+            "keywords": [
+              "regulation",
+              "trading rules",
+              "SEC"
+            ]
+          },
+          {
+            "topic": "Market efficiency & anomalies",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Efficient market",
+              "Anomalies"
+            ],
+            "keywords": [
+              "market efficiency",
+              "anomaly",
+              "pricing"
+            ]
+          },
+          {
+            "topic": "Short selling & margin trading",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Leverage",
+              "Risk management"
+            ],
+            "keywords": [
+              "short selling",
+              "margin",
+              "leverage"
+            ]
+          },
+          {
+            "topic": "Market microstructure",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Bid-ask spread",
+              "Order book"
+            ],
+            "keywords": [
+              "microstructure",
+              "order book",
+              "spread"
+            ]
+          },
+          {
+            "topic": "Global market hours",
+            "difficulty": 2,
+            "order": 10,
+            "related_topics": [
+              "Time zones",
+              "Overnight risk"
+            ],
+            "keywords": [
+              "market hours",
+              "global",
+              "trading"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "3. Economics & Corporate Finance Basics",
+    "categories": [
+      {
+        "category": "Microeconomics Fundamentals",
+        "difficulty": 2,
+        "recommended_order": 1,
+        "topics": [
+          {
+            "topic": "Supply & demand analysis",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "Equilibrium",
+              "Elasticity"
+            ],
+            "keywords": [
+              "supply",
+              "demand",
+              "equilibrium"
+            ]
+          },
+          {
+            "topic": "Consumer theory",
+            "difficulty": 2,
+            "order": 2,
+            "related_topics": [
+              "Utility",
+              "Indifference curves"
+            ],
+            "keywords": [
+              "consumer",
+              "utility",
+              "preferences"
+            ]
+          },
+          {
+            "topic": "Producer theory",
+            "difficulty": 2,
+            "order": 3,
+            "related_topics": [
+              "Cost structure",
+              "Production functions"
+            ],
+            "keywords": [
+              "producer",
+              "cost",
+              "production"
+            ]
+          },
+          {
+            "topic": "Market structures",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Competition",
+              "Monopoly"
+            ],
+            "keywords": [
+              "market structure",
+              "competition",
+              "monopoly"
+            ]
+          },
+          {
+            "topic": "Game theory & strategic behavior",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Nash equilibrium",
+              "Prisoner's dilemma"
+            ],
+            "keywords": [
+              "game theory",
+              "strategy",
+              "Nash"
+            ]
+          },
+          {
+            "topic": "Externalities & public goods",
+            "difficulty": 2,
+            "order": 6,
+            "related_topics": [
+              "Market failure",
+              "Government intervention"
+            ],
+            "keywords": [
+              "externality",
+              "public goods",
+              "market failure"
+            ]
+          },
+          {
+            "topic": "Labor markets & income distribution",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "Wage determination",
+              "Unemployment"
+            ],
+            "keywords": [
+              "labor market",
+              "income distribution",
+              "unemployment"
+            ]
+          },
+          {
+            "topic": "Information economics",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Asymmetric information",
+              "Moral hazard"
+            ],
+            "keywords": [
+              "information",
+              "asymmetric",
+              "moral hazard"
+            ]
+          },
+          {
+            "topic": "Decision analysis under uncertainty",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Expected utility",
+              "Risk aversion"
+            ],
+            "keywords": [
+              "decision analysis",
+              "uncertainty",
+              "risk aversion"
+            ]
+          },
+          {
+            "topic": "Behavioral economics",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Cognitive bias",
+              "Prospect theory"
+            ],
+            "keywords": [
+              "behavioral",
+              "loss aversion",
+              "heuristics"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Macroeconomics Fundamentals",
+        "difficulty": 2,
+        "recommended_order": 2,
+        "topics": [
+          {
+            "topic": "National income accounting",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "GDP",
+              "GNP"
+            ],
+            "keywords": [
+              "GDP",
+              "income",
+              "accounting"
+            ]
+          },
+          {
+            "topic": "Business cycles",
+            "difficulty": 2,
+            "order": 2,
+            "related_topics": [
+              "Economic indicators",
+              "Recession"
+            ],
+            "keywords": [
+              "business cycle",
+              "recession",
+              "expansion"
+            ]
+          },
+          {
+            "topic": "Fiscal policy",
+            "difficulty": 2,
+            "order": 3,
+            "related_topics": [
+              "Government spending",
+              "Taxation"
+            ],
+            "keywords": [
+              "fiscal policy",
+              "government spending",
+              "tax"
+            ]
+          },
+          {
+            "topic": "Monetary policy",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Central bank",
+              "Interest rates"
+            ],
+            "keywords": [
+              "monetary policy",
+              "interest rate",
+              "central bank"
+            ]
+          },
+          {
+            "topic": "Inflation & unemployment",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Phillips curve",
+              "CPI"
+            ],
+            "keywords": [
+              "inflation",
+              "unemployment",
+              "CPI"
+            ]
+          },
+          {
+            "topic": "Exchange rates & balance of payments",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Currency regimes",
+              "Trade flows"
+            ],
+            "keywords": [
+              "exchange rate",
+              "balance of payments",
+              "trade"
+            ]
+          },
+          {
+            "topic": "International trade & globalization",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Comparative advantage",
+              "Trade agreements"
+            ],
+            "keywords": [
+              "trade",
+              "globalization",
+              "comparative advantage"
+            ]
+          },
+          {
+            "topic": "Economic growth theories",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Neoclassical growth",
+              "Endogenous growth"
+            ],
+            "keywords": [
+              "economic growth",
+              "models",
+              "theory"
+            ]
+          },
+          {
+            "topic": "Financial crises & stabilization",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Crisis causes",
+              "Policy response"
+            ],
+            "keywords": [
+              "financial crisis",
+              "stabilization",
+              "policy"
+            ]
+          },
+          {
+            "topic": "Global institutions",
+            "difficulty": 2,
+            "order": 10,
+            "related_topics": [
+              "IMF",
+              "World Bank"
+            ],
+            "keywords": [
+              "IMF",
+              "World Bank",
+              "WTO"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Financial Accounting & Corporate Analysis",
+        "difficulty": 3,
+        "recommended_order": 3,
+        "topics": [
+          {
+            "topic": "Accounting basics",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "Double-entry bookkeeping",
+              "Accrual accounting"
+            ],
+            "keywords": [
+              "accounting",
+              "bookkeeping",
+              "accrual"
+            ]
+          },
+          {
+            "topic": "Financial statements",
+            "difficulty": 2,
+            "order": 2,
+            "related_topics": [
+              "Income statement",
+              "Balance sheet",
+              "Cash flow"
+            ],
+            "keywords": [
+              "financial statements",
+              "income",
+              "balance sheet"
+            ]
+          },
+          {
+            "topic": "Financial ratios",
+            "difficulty": 2,
+            "order": 3,
+            "related_topics": [
+              "Liquidity ratios",
+              "Profitability ratios"
+            ],
+            "keywords": [
+              "ratios",
+              "liquidity",
+              "profitability"
+            ]
+          },
+          {
+            "topic": "Corporate finance fundamentals",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Time value of money",
+              "Capital budgeting"
+            ],
+            "keywords": [
+              "corporate finance",
+              "capital budgeting",
+              "cost of capital"
+            ]
+          },
+          {
+            "topic": "Capital structure",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Debt vs. equity",
+              "WACC"
+            ],
+            "keywords": [
+              "capital structure",
+              "debt",
+              "equity"
+            ]
+          },
+          {
+            "topic": "Dividend policy & share repurchases",
+            "difficulty": 2,
+            "order": 6,
+            "related_topics": [
+              "Payout ratio",
+              "Buybacks"
+            ],
+            "keywords": [
+              "dividend",
+              "share repurchase",
+              "payout"
+            ]
+          },
+          {
+            "topic": "Working capital management",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "Inventory",
+              "Receivables"
+            ],
+            "keywords": [
+              "working capital",
+              "inventory",
+              "receivables"
+            ]
+          },
+          {
+            "topic": "Mergers & acquisitions",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Valuation",
+              "Synergy"
+            ],
+            "keywords": [
+              "M&A",
+              "merger",
+              "acquisition"
+            ]
+          },
+          {
+            "topic": "Corporate governance",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Board structure",
+              "Agency problem"
+            ],
+            "keywords": [
+              "corporate governance",
+              "board",
+              "agency"
+            ]
+          },
+          {
+            "topic": "Ethics & disclosure",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Financial reporting",
+              "Fraud prevention"
+            ],
+            "keywords": [
+              "ethics",
+              "disclosure",
+              "fraud"
+            ]
+          },
+          {
+            "topic": "Cost of capital & WACC",
+            "difficulty": 3,
+            "order": 11,
+            "related_topics": [
+              "CAPM",
+              "Capital structure"
+            ],
+            "keywords": [
+              "cost of capital",
+              "WACC",
+              "CAPM"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "4. Advanced Investing & Risk Management",
+    "categories": [
+      {
+        "category": "Investment Strategies & Quantitative Methods",
+        "difficulty": 3,
+        "recommended_order": 1,
+        "topics": [
+          {
+            "topic": "Value vs. growth investing",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Equity valuation",
+              "Factor investing"
+            ],
+            "keywords": [
+              "value investing",
+              "growth investing",
+              "equity"
+            ]
+          },
+          {
+            "topic": "Factor investing",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Smart beta",
+              "Fama-French factors"
+            ],
+            "keywords": [
+              "factor",
+              "investment",
+              "beta"
+            ]
+          },
+          {
+            "topic": "Technical analysis",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Chart patterns",
+              "Indicators"
+            ],
+            "keywords": [
+              "technical analysis",
+              "charts",
+              "indicators"
+            ]
+          },
+          {
+            "topic": "Quantitative modeling",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Regression",
+              "Simulation"
+            ],
+            "keywords": [
+              "quantitative",
+              "model",
+              "statistics"
+            ]
+          },
+          {
+            "topic": "Asset allocation",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Portfolio diversification",
+              "Risk budgeting"
+            ],
+            "keywords": [
+              "asset allocation",
+              "portfolio",
+              "rebalancing"
+            ]
+          },
+          {
+            "topic": "Active vs. passive funds",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Tracking error",
+              "Alpha"
+            ],
+            "keywords": [
+              "active",
+              "passive",
+              "funds"
+            ]
+          },
+          {
+            "topic": "Smart beta & alternative indexing",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Factor investing",
+              "ETFs"
+            ],
+            "keywords": [
+              "smart beta",
+              "index",
+              "factor"
+            ]
+          },
+          {
+            "topic": "Risk budgeting",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Value-at-risk",
+              "Risk allocation"
+            ],
+            "keywords": [
+              "risk budgeting",
+              "risk allocation",
+              "VaR"
+            ]
+          },
+          {
+            "topic": "Performance attribution",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Selection effect",
+              "Allocation effect"
+            ],
+            "keywords": [
+              "performance",
+              "attribution",
+              "analysis"
+            ]
+          },
+          {
+            "topic": "Tax-efficient investing",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Tax planning",
+              "Portfolio turnover"
+            ],
+            "keywords": [
+              "tax",
+              "efficient",
+              "investing"
+            ]
+          },
+          {
+            "topic": "Portfolio optimization",
+            "difficulty": 4,
+            "order": 11,
+            "related_topics": [
+              "Mean-variance",
+              "Black-Litterman"
+            ],
+            "keywords": [
+              "portfolio optimization",
+              "mean-variance",
+              "Black-Litterman"
+            ]
+          },
+          {
+            "topic": "Machine learning in investing",
+            "difficulty": 4,
+            "order": 12,
+            "related_topics": [
+              "Algorithmic trading",
+              "AI"
+            ],
+            "keywords": [
+              "machine learning",
+              "AI",
+              "investing"
+            ]
+          },
+          {
+            "topic": "Behavioral corrections",
+            "difficulty": 3,
+            "order": 13,
+            "related_topics": [
+              "Behavioral biases",
+              "Decision frameworks"
+            ],
+            "keywords": [
+              "behavioral",
+              "correction",
+              "bias"
+            ]
+          },
+          {
+            "topic": "Trading psychology",
+            "difficulty": 3,
+            "order": 14,
+            "related_topics": [
+              "Fear & greed",
+              "Discipline"
+            ],
+            "keywords": [
+              "trading psychology",
+              "emotion",
+              "discipline"
+            ]
+          },
+          {
+            "topic": "Global investing",
+            "difficulty": 3,
+            "order": 15,
+            "related_topics": [
+              "Currency risk",
+              "Emerging markets"
+            ],
+            "keywords": [
+              "global",
+              "investing",
+              "emerging markets"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Fixed Income & Interest-Rate Products",
+        "difficulty": 3,
+        "recommended_order": 2,
+        "topics": [
+          {
+            "topic": "Bond types",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "Treasuries",
+              "Corporate bonds"
+            ],
+            "keywords": [
+              "bonds",
+              "treasuries",
+              "corporate"
+            ]
+          },
+          {
+            "topic": "Yield curves & term structure",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Spot rates",
+              "Forward rates"
+            ],
+            "keywords": [
+              "yield curve",
+              "term structure",
+              "forward rate"
+            ]
+          },
+          {
+            "topic": "Duration & convexity",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Interest rate risk",
+              "Bond pricing"
+            ],
+            "keywords": [
+              "duration",
+              "convexity",
+              "interest rate risk"
+            ]
+          },
+          {
+            "topic": "Credit analysis",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Rating agencies",
+              "Credit spreads"
+            ],
+            "keywords": [
+              "credit analysis",
+              "rating",
+              "spread"
+            ]
+          },
+          {
+            "topic": "Immunization strategies",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Duration matching",
+              "Cash-flow matching"
+            ],
+            "keywords": [
+              "immunization",
+              "duration matching",
+              "cash-flow matching"
+            ]
+          },
+          {
+            "topic": "Mortgage-backed securities",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Prepayment risk",
+              "CMOs"
+            ],
+            "keywords": [
+              "MBS",
+              "prepayment",
+              "CMO"
+            ]
+          },
+          {
+            "topic": "Floating-rate notes & inflation-linked bonds",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "TIPS",
+              "FRNs"
+            ],
+            "keywords": [
+              "floating rate",
+              "inflation-linked",
+              "TIPS"
+            ]
+          },
+          {
+            "topic": "Interest-rate derivatives",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Swaps",
+              "Futures"
+            ],
+            "keywords": [
+              "interest-rate derivatives",
+              "swaps",
+              "futures"
+            ]
+          },
+          {
+            "topic": "Corporate debt structure",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Senior debt",
+              "Covenants"
+            ],
+            "keywords": [
+              "corporate debt",
+              "senior",
+              "covenants"
+            ]
+          },
+          {
+            "topic": "Global fixed income markets",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Developed markets",
+              "Emerging markets"
+            ],
+            "keywords": [
+              "fixed income",
+              "global",
+              "emerging markets"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Equity Investment & Business Valuation",
+        "difficulty": 3,
+        "recommended_order": 3,
+        "topics": [
+          {
+            "topic": "Equity valuation methods",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "DCF",
+              "Relative valuation"
+            ],
+            "keywords": [
+              "equity valuation",
+              "DCF",
+              "multiples"
+            ]
+          },
+          {
+            "topic": "Fundamental analysis",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Financial statements",
+              "Industry analysis"
+            ],
+            "keywords": [
+              "fundamental analysis",
+              "financial statement",
+              "industry"
+            ]
+          },
+          {
+            "topic": "Earnings quality & forecasting",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Accruals",
+              "Cash earnings"
+            ],
+            "keywords": [
+              "earnings quality",
+              "forecasting",
+              "accruals"
+            ]
+          },
+          {
+            "topic": "Cost of equity & WACC",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "CAPM",
+              "Risk premium"
+            ],
+            "keywords": [
+              "cost of equity",
+              "WACC",
+              "CAPM"
+            ]
+          },
+          {
+            "topic": "Leveraged buyouts & private equity",
+            "difficulty": 4,
+            "order": 5,
+            "related_topics": [
+              "LBO",
+              "Private equity"
+            ],
+            "keywords": [
+              "LBO",
+              "private equity",
+              "leverage"
+            ]
+          },
+          {
+            "topic": "Real options analysis",
+            "difficulty": 4,
+            "order": 6,
+            "related_topics": [
+              "Option pricing",
+              "Capital budgeting"
+            ],
+            "keywords": [
+              "real options",
+              "option pricing",
+              "capital budgeting"
+            ]
+          },
+          {
+            "topic": "ESG factors in valuation",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "ESG investing",
+              "Sustainability"
+            ],
+            "keywords": [
+              "ESG",
+              "valuation",
+              "sustainability"
+            ]
+          },
+          {
+            "topic": "International valuation adjustments",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Country risk",
+              "Currency effects"
+            ],
+            "keywords": [
+              "international",
+              "valuation",
+              "country risk"
+            ]
+          },
+          {
+            "topic": "Equity research reports",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Analyst recommendations",
+              "Valuation"
+            ],
+            "keywords": [
+              "equity research",
+              "report",
+              "analysis"
+            ]
+          },
+          {
+            "topic": "Corporate events & valuation",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Mergers",
+              "Spin-offs"
+            ],
+            "keywords": [
+              "corporate events",
+              "valuation",
+              "M&A"
+            ]
+          },
+          {
+            "topic": "Stock valuation deep dive",
+            "difficulty": 4,
+            "order": 11,
+            "related_topics": [
+              "Equity valuation methods",
+              "Advanced analysis"
+            ],
+            "keywords": [
+              "stock valuation",
+              "DCF",
+              "relative valuation"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Derivatives & Alternative Investments",
+        "difficulty": 3,
+        "recommended_order": 4,
+        "topics": [
+          {
+            "topic": "Options basics",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Calls",
+              "Puts"
+            ],
+            "keywords": [
+              "options",
+              "calls",
+              "puts"
+            ]
+          },
+          {
+            "topic": "Futures & forwards",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Hedging",
+              "Speculation"
+            ],
+            "keywords": [
+              "futures",
+              "forwards",
+              "hedging"
+            ]
+          },
+          {
+            "topic": "Swaps & credit derivatives",
+            "difficulty": 4,
+            "order": 3,
+            "related_topics": [
+              "Interest rate swaps",
+              "Credit default swaps"
+            ],
+            "keywords": [
+              "swaps",
+              "CDS",
+              "derivatives"
+            ]
+          },
+          {
+            "topic": "Private equity & venture capital",
+            "difficulty": 4,
+            "order": 4,
+            "related_topics": [
+              "VC",
+              "PE"
+            ],
+            "keywords": [
+              "private equity",
+              "venture capital",
+              "investment"
+            ]
+          },
+          {
+            "topic": "Hedge fund strategies",
+            "difficulty": 4,
+            "order": 5,
+            "related_topics": [
+              "Long/short",
+              "Global macro"
+            ],
+            "keywords": [
+              "hedge funds",
+              "strategy",
+              "arbitrage"
+            ]
+          },
+          {
+            "topic": "Commodities & real assets",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Energy",
+              "Metals"
+            ],
+            "keywords": [
+              "commodities",
+              "real assets",
+              "commodity"
+            ]
+          },
+          {
+            "topic": "Cryptocurrencies & digital assets",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Blockchain",
+              "Bitcoin"
+            ],
+            "keywords": [
+              "cryptocurrency",
+              "digital asset",
+              "blockchain"
+            ]
+          },
+          {
+            "topic": "Art & collectibles",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Collectibles",
+              "Wine investment"
+            ],
+            "keywords": [
+              "collectibles",
+              "art",
+              "wine"
+            ]
+          },
+          {
+            "topic": "Structured products",
+            "difficulty": 4,
+            "order": 9,
+            "related_topics": [
+              "CDOs",
+              "Structured notes"
+            ],
+            "keywords": [
+              "structured products",
+              "CDO",
+              "note"
+            ]
+          },
+          {
+            "topic": "Carbon & ESG-linked instruments",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Green bonds",
+              "Carbon credits"
+            ],
+            "keywords": [
+              "carbon",
+              "ESG",
+              "green bond"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Risk Management",
+        "difficulty": 3,
+        "recommended_order": 5,
+        "topics": [
+          {
+            "topic": "Risk identification & measurement",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "Market risk",
+              "Credit risk"
+            ],
+            "keywords": [
+              "risk identification",
+              "measurement",
+              "risk types"
+            ]
+          },
+          {
+            "topic": "Value-at-Risk & stress testing",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "VaR",
+              "Scenario analysis"
+            ],
+            "keywords": [
+              "VaR",
+              "stress testing",
+              "risk"
+            ]
+          },
+          {
+            "topic": "Portfolio insurance & hedging",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Options",
+              "Futures"
+            ],
+            "keywords": [
+              "hedging",
+              "portfolio insurance",
+              "derivatives"
+            ]
+          },
+          {
+            "topic": "Tail risks & black swans",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Tail risk",
+              "Extreme events"
+            ],
+            "keywords": [
+              "tail risk",
+              "black swan",
+              "extreme events"
+            ]
+          },
+          {
+            "topic": "Enterprise risk management",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Risk frameworks",
+              "ERM"
+            ],
+            "keywords": [
+              "enterprise risk management",
+              "ERM",
+              "framework"
+            ]
+          },
+          {
+            "topic": "Regulatory capital requirements",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Basel accords",
+              "Solvency"
+            ],
+            "keywords": [
+              "regulatory capital",
+              "Basel",
+              "solvency"
+            ]
+          },
+          {
+            "topic": "Risk governance",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Board oversight",
+              "Risk committee"
+            ],
+            "keywords": [
+              "risk governance",
+              "oversight",
+              "committee"
+            ]
+          },
+          {
+            "topic": "Systemic risk & contagion",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Financial stability",
+              "Contagion"
+            ],
+            "keywords": [
+              "systemic risk",
+              "contagion",
+              "stability"
+            ]
+          },
+          {
+            "topic": "Insurance for risk mitigation",
+            "difficulty": 2,
+            "order": 9,
+            "related_topics": [
+              "Insurance products",
+              "Risk transfer"
+            ],
+            "keywords": [
+              "insurance",
+              "risk mitigation",
+              "transfer"
+            ]
+          },
+          {
+            "topic": "Behavioral aspects of risk",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Behavioral finance",
+              "Overconfidence"
+            ],
+            "keywords": [
+              "behavioral",
+              "risk",
+              "psychology"
+            ]
+          },
+          {
+            "topic": "Communication of risk",
+            "difficulty": 2,
+            "order": 11,
+            "related_topics": [
+              "Risk reporting",
+              "Dashboards"
+            ],
+            "keywords": [
+              "risk communication",
+              "reporting",
+              "dashboard"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "5. Emerging Finance & Global Trends",
+    "categories": [
+      {
+        "category": "Digital Finance & Blockchain",
+        "difficulty": 3,
+        "recommended_order": 1,
+        "topics": [
+          {
+            "topic": "Cryptocurrencies",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Bitcoin",
+              "Ethereum"
+            ],
+            "keywords": [
+              "cryptocurrency",
+              "bitcoin",
+              "ethereum"
+            ]
+          },
+          {
+            "topic": "Smart contracts",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Blockchain",
+              "DeFi"
+            ],
+            "keywords": [
+              "smart contracts",
+              "blockchain",
+              "DeFi"
+            ]
+          },
+          {
+            "topic": "Central bank digital currencies (CBDCs)",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Digital currency",
+              "Monetary policy"
+            ],
+            "keywords": [
+              "CBDC",
+              "digital currency",
+              "central bank"
+            ]
+          },
+          {
+            "topic": "Digital payments & fintech",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Mobile wallets",
+              "Neobanks"
+            ],
+            "keywords": [
+              "digital payments",
+              "fintech",
+              "mobile wallets"
+            ]
+          },
+          {
+            "topic": "Regulation of digital assets",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "AML",
+              "KYC"
+            ],
+            "keywords": [
+              "digital assets",
+              "regulation",
+              "AML"
+            ]
+          },
+          {
+            "topic": "Cybersecurity & data privacy",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Network security",
+              "Privacy laws"
+            ],
+            "keywords": [
+              "cybersecurity",
+              "data privacy",
+              "protection"
+            ]
+          },
+          {
+            "topic": "Fintech innovations",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "Robo-advisers",
+              "Crowdfunding"
+            ],
+            "keywords": [
+              "fintech",
+              "innovation",
+              "lending"
+            ]
+          },
+          {
+            "topic": "Tokenised securities",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Security tokens",
+              "Blockchain"
+            ],
+            "keywords": [
+              "token",
+              "security token",
+              "blockchain"
+            ]
+          },
+          {
+            "topic": "Blockchain beyond finance",
+            "difficulty": 2,
+            "order": 9,
+            "related_topics": [
+              "Supply chain",
+              "Identity"
+            ],
+            "keywords": [
+              "blockchain",
+              "supply chain",
+              "identity"
+            ]
+          },
+          {
+            "topic": "Risks & opportunities of digital finance",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Volatility",
+              "Fraud"
+            ],
+            "keywords": [
+              "digital finance",
+              "risk",
+              "opportunity"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Global Finance & Macro Trends",
+        "difficulty": 3,
+        "recommended_order": 2,
+        "topics": [
+          {
+            "topic": "Globalization & capital flows",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "FDI",
+              "Emerging markets"
+            ],
+            "keywords": [
+              "globalization",
+              "capital flows",
+              "FDI"
+            ]
+          },
+          {
+            "topic": "Emerging markets",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Growth drivers",
+              "Risk factors"
+            ],
+            "keywords": [
+              "emerging markets",
+              "growth",
+              "risk"
+            ]
+          },
+          {
+            "topic": "Geopolitical risk",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Trade wars",
+              "Sanctions"
+            ],
+            "keywords": [
+              "geopolitical",
+              "risk",
+              "politics"
+            ]
+          },
+          {
+            "topic": "Commodity cycles & resource economics",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Oil",
+              "Metals"
+            ],
+            "keywords": [
+              "commodities",
+              "resource economics",
+              "cycle"
+            ]
+          },
+          {
+            "topic": "Demographic trends",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Ageing population",
+              "Urbanisation"
+            ],
+            "keywords": [
+              "demographics",
+              "aging",
+              "urbanisation"
+            ]
+          },
+          {
+            "topic": "Climate change & finance",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Climate risk",
+              "Green finance"
+            ],
+            "keywords": [
+              "climate change",
+              "finance",
+              "green"
+            ]
+          },
+          {
+            "topic": "Monetary policy divergence",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Interest rate differentials",
+              "Currency impact"
+            ],
+            "keywords": [
+              "monetary policy",
+              "divergence",
+              "interest rate"
+            ]
+          },
+          {
+            "topic": "Technological disruption",
+            "difficulty": 2,
+            "order": 8,
+            "related_topics": [
+              "AI",
+              "Automation"
+            ],
+            "keywords": [
+              "technology",
+              "disruption",
+              "automation"
+            ]
+          },
+          {
+            "topic": "Pandemics & black swan events",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Resilience",
+              "Crisis management"
+            ],
+            "keywords": [
+              "pandemic",
+              "black swan",
+              "resilience"
+            ]
+          },
+          {
+            "topic": "Global economic governance",
+            "difficulty": 2,
+            "order": 10,
+            "related_topics": [
+              "G20",
+              "IMF"
+            ],
+            "keywords": [
+              "global governance",
+              "G20",
+              "IMF"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Financial Technology & Artificial Intelligence",
+        "difficulty": 3,
+        "recommended_order": 3,
+        "topics": [
+          {
+            "topic": "Machine learning in finance",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Credit scoring",
+              "Trading"
+            ],
+            "keywords": [
+              "machine learning",
+              "finance",
+              "AI"
+            ]
+          },
+          {
+            "topic": "Big data analytics",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Alternative data",
+              "Analytics"
+            ],
+            "keywords": [
+              "big data",
+              "analytics",
+              "alternative data"
+            ]
+          },
+          {
+            "topic": "Natural language processing",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Sentiment analysis",
+              "Earnings calls"
+            ],
+            "keywords": [
+              "NLP",
+              "sentiment",
+              "analysis"
+            ]
+          },
+          {
+            "topic": "Automated trading systems",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "High-frequency trading",
+              "Algorithms"
+            ],
+            "keywords": [
+              "algorithmic trading",
+              "HFT",
+              "system"
+            ]
+          },
+          {
+            "topic": "Robo-advisers",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Automated advice",
+              "Portfolio management"
+            ],
+            "keywords": [
+              "robo-adviser",
+              "automated",
+              "advice"
+            ]
+          },
+          {
+            "topic": "Regtech & compliance",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "AML",
+              "KYC"
+            ],
+            "keywords": [
+              "regtech",
+              "compliance",
+              "AML"
+            ]
+          },
+          {
+            "topic": "Insurtech",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Insurance innovation",
+              "Underwriting"
+            ],
+            "keywords": [
+              "insurtech",
+              "insurance",
+              "innovation"
+            ]
+          },
+          {
+            "topic": "Cybersecurity & fraud prevention",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Threat detection",
+              "Biometrics"
+            ],
+            "keywords": [
+              "cybersecurity",
+              "fraud",
+              "prevention"
+            ]
+          },
+          {
+            "topic": "Human–machine collaboration",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "AI oversight",
+              "Decision making"
+            ],
+            "keywords": [
+              "human-machine",
+              "collaboration",
+              "AI oversight"
+            ]
+          },
+          {
+            "topic": "Ethical considerations",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Algorithmic bias",
+              "Explainability"
+            ],
+            "keywords": [
+              "ethics",
+              "AI",
+              "bias"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "ESG & Impact Investing",
+        "difficulty": 3,
+        "recommended_order": 4,
+        "topics": [
+          {
+            "topic": "Environmental, social & governance factors",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Materiality",
+              "Scoring models"
+            ],
+            "keywords": [
+              "ESG",
+              "factors",
+              "materiality"
+            ]
+          },
+          {
+            "topic": "Climate finance",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Green bonds",
+              "Carbon markets"
+            ],
+            "keywords": [
+              "climate finance",
+              "green bonds",
+              "carbon"
+            ]
+          },
+          {
+            "topic": "Socially responsible investing",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Screening",
+              "Impact"
+            ],
+            "keywords": [
+              "SRI",
+              "socially responsible",
+              "investment"
+            ]
+          },
+          {
+            "topic": "Impact measurement",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Metrics",
+              "Outcomes"
+            ],
+            "keywords": [
+              "impact measurement",
+              "metrics",
+              "outcomes"
+            ]
+          },
+          {
+            "topic": "Shareholder engagement",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Proxy voting",
+              "Activism"
+            ],
+            "keywords": [
+              "shareholder engagement",
+              "proxy",
+              "activism"
+            ]
+          },
+          {
+            "topic": "ESG regulations",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Reporting standards",
+              "GRI"
+            ],
+            "keywords": [
+              "ESG regulation",
+              "reporting",
+              "standards"
+            ]
+          },
+          {
+            "topic": "Diversity & inclusion",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Gender equity",
+              "Pay equity"
+            ],
+            "keywords": [
+              "diversity",
+              "inclusion",
+              "equity"
+            ]
+          },
+          {
+            "topic": "Community investing",
+            "difficulty": 2,
+            "order": 8,
+            "related_topics": [
+              "Microfinance",
+              "CDFIs"
+            ],
+            "keywords": [
+              "community investing",
+              "microfinance",
+              "CDFI"
+            ]
+          },
+          {
+            "topic": "Blended finance",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Public-private partnerships",
+              "Development finance"
+            ],
+            "keywords": [
+              "blended finance",
+              "development",
+              "public-private"
+            ]
+          },
+          {
+            "topic": "Critiques of ESG",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Greenwashing",
+              "Standardization"
+            ],
+            "keywords": [
+              "ESG",
+              "critique",
+              "greenwashing"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Financial Innovation & Experimentation",
+        "difficulty": 3,
+        "recommended_order": 5,
+        "topics": [
+          {
+            "topic": "Open banking & APIs",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Data sharing",
+              "Third-party integration"
+            ],
+            "keywords": [
+              "open banking",
+              "API",
+              "integration"
+            ]
+          },
+          {
+            "topic": "Financial sandboxes",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Regulatory testing",
+              "Innovation"
+            ],
+            "keywords": [
+              "sandbox",
+              "regulation",
+              "innovation"
+            ]
+          },
+          {
+            "topic": "Platform economies",
+            "difficulty": 2,
+            "order": 3,
+            "related_topics": [
+              "Gig work",
+              "Subscription"
+            ],
+            "keywords": [
+              "platform",
+              "gig economy",
+              "subscription"
+            ]
+          },
+          {
+            "topic": "Decentralised finance (DeFi)",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Lending",
+              "Borrowing"
+            ],
+            "keywords": [
+              "DeFi",
+              "decentralised",
+              "finance"
+            ]
+          },
+          {
+            "topic": "Embedded finance",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Integration",
+              "E-commerce"
+            ],
+            "keywords": [
+              "embedded finance",
+              "integration",
+              "e-commerce"
+            ]
+          },
+          {
+            "topic": "Metaverse & virtual economies",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Virtual assets",
+              "NFTs"
+            ],
+            "keywords": [
+              "metaverse",
+              "virtual",
+              "NFT"
+            ]
+          },
+          {
+            "topic": "Quantum computing",
+            "difficulty": 4,
+            "order": 7,
+            "related_topics": [
+              "Cryptography",
+              "Portfolio optimization"
+            ],
+            "keywords": [
+              "quantum computing",
+              "cryptography",
+              "portfolio"
+            ]
+          },
+          {
+            "topic": "Synthetic data & privacy tech",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Data anonymization",
+              "Privacy"
+            ],
+            "keywords": [
+              "synthetic data",
+              "privacy",
+              "tech"
+            ]
+          },
+          {
+            "topic": "Financial inclusion",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Unbanked",
+              "Fintech"
+            ],
+            "keywords": [
+              "financial inclusion",
+              "unbanked",
+              "fintech"
+            ]
+          },
+          {
+            "topic": "Future trends",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Scenario analysis",
+              "Innovation"
+            ],
+            "keywords": [
+              "future trends",
+              "finance",
+              "scenario"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "6. Wealth Management & Personal Planning",
+    "categories": [
+      {
+        "category": "Financial Planning & Personal Finance Management",
+        "difficulty": 2,
+        "recommended_order": 1,
+        "topics": [
+          {
+            "topic": "Comprehensive financial planning",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "Budgeting",
+              "Tax planning"
+            ],
+            "keywords": [
+              "financial planning",
+              "comprehensive",
+              "budget"
+            ]
+          },
+          {
+            "topic": "Life-cycle planning",
+            "difficulty": 2,
+            "order": 2,
+            "related_topics": [
+              "Retirement planning",
+              "Education funding"
+            ],
+            "keywords": [
+              "life-cycle",
+              "planning",
+              "retirement"
+            ]
+          },
+          {
+            "topic": "Retirement planning",
+            "difficulty": 2,
+            "order": 3,
+            "related_topics": [
+              "Pension",
+              "Annuity"
+            ],
+            "keywords": [
+              "retirement",
+              "planning",
+              "pension"
+            ]
+          },
+          {
+            "topic": "College & education funding",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "529 plan",
+              "Student loans"
+            ],
+            "keywords": [
+              "education",
+              "funding",
+              "college"
+            ]
+          },
+          {
+            "topic": "Debt management",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Credit management",
+              "Debt crisis prevention"
+            ],
+            "keywords": [
+              "debt",
+              "management",
+              "credit"
+            ]
+          },
+          {
+            "topic": "Tax planning & optimization",
+            "difficulty": 2,
+            "order": 6,
+            "related_topics": [
+              "Tax basics",
+              "Tax-advantaged accounts"
+            ],
+            "keywords": [
+              "tax planning",
+              "optimization",
+              "strategy"
+            ]
+          },
+          {
+            "topic": "Estate planning",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "Wills",
+              "Trusts"
+            ],
+            "keywords": [
+              "estate planning",
+              "wills",
+              "trusts"
+            ]
+          },
+          {
+            "topic": "Insurance & risk management",
+            "difficulty": 2,
+            "order": 8,
+            "related_topics": [
+              "Insurance basics",
+              "Risk transfer"
+            ],
+            "keywords": [
+              "insurance",
+              "risk management",
+              "coverage"
+            ]
+          },
+          {
+            "topic": "Charitable giving & philanthropy",
+            "difficulty": 2,
+            "order": 9,
+            "related_topics": [
+              "Donor-advised funds",
+              "Foundation"
+            ],
+            "keywords": [
+              "charitable giving",
+              "philanthropy",
+              "donation"
+            ]
+          },
+          {
+            "topic": "Retirement income strategies",
+            "difficulty": 2,
+            "order": 10,
+            "related_topics": [
+              "Systematic withdrawal",
+              "Annuity"
+            ],
+            "keywords": [
+              "retirement income",
+              "strategy",
+              "withdrawal"
+            ]
+          },
+          {
+            "topic": "Financial wellness & coaching",
+            "difficulty": 2,
+            "order": 11,
+            "related_topics": [
+              "Behavioral finance",
+              "Financial literacy"
+            ],
+            "keywords": [
+              "financial wellness",
+              "coaching",
+              "literacy"
+            ]
+          },
+          {
+            "topic": "Pre- and post-retirement healthcare",
+            "difficulty": 2,
+            "order": 12,
+            "related_topics": [
+              "Medicare",
+              "Long-term care"
+            ],
+            "keywords": [
+              "healthcare",
+              "retirement",
+              "Medicare"
+            ]
+          },
+          {
+            "topic": "Financial milestones & checklists",
+            "difficulty": 2,
+            "order": 13,
+            "related_topics": [
+              "Goal setting",
+              "Life-cycle planning"
+            ],
+            "keywords": [
+              "milestones",
+              "checklist",
+              "financial planning"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Family Wealth & Business Management",
+        "difficulty": 3,
+        "recommended_order": 2,
+        "topics": [
+          {
+            "topic": "Family governance",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Family constitution",
+              "Decision making"
+            ],
+            "keywords": [
+              "family governance",
+              "constitution",
+              "decision"
+            ]
+          },
+          {
+            "topic": "Succession planning",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Estate planning",
+              "Leadership transition"
+            ],
+            "keywords": [
+              "succession planning",
+              "transition",
+              "family business"
+            ]
+          },
+          {
+            "topic": "Trusts & estate structures",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Trustees",
+              "Beneficiaries"
+            ],
+            "keywords": [
+              "trust",
+              "estate",
+              "structure"
+            ]
+          },
+          {
+            "topic": "Family offices",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Single-family office",
+              "Multi-family office"
+            ],
+            "keywords": [
+              "family office",
+              "HNW",
+              "management"
+            ]
+          },
+          {
+            "topic": "Philanthropy & family foundations",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Charitable trusts",
+              "Impact"
+            ],
+            "keywords": [
+              "philanthropy",
+              "foundation",
+              "charity"
+            ]
+          },
+          {
+            "topic": "Private company management",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Valuation",
+              "Performance monitoring"
+            ],
+            "keywords": [
+              "private company",
+              "management",
+              "valuation"
+            ]
+          },
+          {
+            "topic": "Tax planning for families",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Cross-border taxation",
+              "Residency"
+            ],
+            "keywords": [
+              "family tax",
+              "planning",
+              "cross-border"
+            ]
+          },
+          {
+            "topic": "Asset protection",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Legal structures",
+              "Liability protection"
+            ],
+            "keywords": [
+              "asset protection",
+              "legal",
+              "liability"
+            ]
+          },
+          {
+            "topic": "Family education programs",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Financial literacy",
+              "Next generation"
+            ],
+            "keywords": [
+              "family education",
+              "financial literacy",
+              "next generation"
+            ]
+          },
+          {
+            "topic": "Dynamics & conflict resolution",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Communication",
+              "Mediation"
+            ],
+            "keywords": [
+              "family dynamics",
+              "conflict",
+              "resolution"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Investment Advisory & Professional Conduct",
+        "difficulty": 3,
+        "recommended_order": 3,
+        "topics": [
+          {
+            "topic": "Advisory service models",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Fee-only",
+              "Commission-based"
+            ],
+            "keywords": [
+              "advisory",
+              "service model",
+              "fees"
+            ]
+          },
+          {
+            "topic": "Professional ethics",
+            "difficulty": 4,
+            "order": 2,
+            "related_topics": [
+              "Fiduciary duty",
+              "Disclosure"
+            ],
+            "keywords": [
+              "ethics",
+              "professional",
+              "fiduciary"
+            ]
+          },
+          {
+            "topic": "Client segmentation & risk profiling",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Risk tolerance",
+              "Investment policy"
+            ],
+            "keywords": [
+              "client segmentation",
+              "risk profile",
+              "assessment"
+            ]
+          },
+          {
+            "topic": "Investment policy statements",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "IPS",
+              "Portfolio management"
+            ],
+            "keywords": [
+              "IPS",
+              "policy statement",
+              "investment"
+            ]
+          },
+          {
+            "topic": "Portfolio monitoring & reporting",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Performance measurement",
+              "Benchmarking"
+            ],
+            "keywords": [
+              "portfolio monitoring",
+              "reporting",
+              "benchmark"
+            ]
+          },
+          {
+            "topic": "Fee structures & transparency",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Fee schedule",
+              "Advisory fees"
+            ],
+            "keywords": [
+              "fee structure",
+              "transparency",
+              "charges"
+            ]
+          },
+          {
+            "topic": "Privacy & confidentiality",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Data protection",
+              "Confidentiality"
+            ],
+            "keywords": [
+              "privacy",
+              "confidentiality",
+              "data protection"
+            ]
+          },
+          {
+            "topic": "Dispute resolution",
+            "difficulty": 4,
+            "order": 8,
+            "related_topics": [
+              "Mediation",
+              "Arbitration"
+            ],
+            "keywords": [
+              "dispute",
+              "resolution",
+              "mediation"
+            ]
+          },
+          {
+            "topic": "Continuing education & certifications",
+            "difficulty": 2,
+            "order": 9,
+            "related_topics": [
+              "CFA",
+              "CFP"
+            ],
+            "keywords": [
+              "continuing education",
+              "certification",
+              "professional development"
+            ]
+          },
+          {
+            "topic": "Behavioral coaching",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Behavioral finance",
+              "Psychology"
+            ],
+            "keywords": [
+              "behavioral coaching",
+              "bias",
+              "finance"
+            ]
+          },
+          {
+            "topic": "Regulatory compliance",
+            "difficulty": 3,
+            "order": 11,
+            "related_topics": [
+              "AML",
+              "KYC",
+              "Suitability"
+            ],
+            "keywords": [
+              "compliance",
+              "regulation",
+              "AML"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Behavioral Finance & Psychology",
+        "difficulty": 3,
+        "recommended_order": 4,
+        "topics": [
+          {
+            "topic": "Investor segmentation",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "Risk profiling",
+              "Client segmentation"
+            ],
+            "keywords": [
+              "investor type",
+              "conservative",
+              "aggressive"
+            ]
+          },
+          {
+            "topic": "Cognitive & emotional biases",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Overconfidence",
+              "Loss aversion"
+            ],
+            "keywords": [
+              "cognitive bias",
+              "emotional bias",
+              "heuristics"
+            ]
+          },
+          {
+            "topic": "Herding & market bubbles",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Herding effect",
+              "Market anomalies"
+            ],
+            "keywords": [
+              "herding",
+              "bubbles",
+              "mass psychology"
+            ]
+          },
+          {
+            "topic": "Prospect theory",
+            "difficulty": 4,
+            "order": 4,
+            "related_topics": [
+              "Loss aversion",
+              "Risk perception"
+            ],
+            "keywords": [
+              "prospect theory",
+              "loss aversion",
+              "risk perception"
+            ]
+          },
+          {
+            "topic": "Self-attribution & overconfidence",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Overconfidence",
+              "Self attribution"
+            ],
+            "keywords": [
+              "self-attribution",
+              "overconfidence",
+              "bias"
+            ]
+          },
+          {
+            "topic": "Fear & greed cycles",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Market cycles",
+              "Emotion"
+            ],
+            "keywords": [
+              "fear",
+              "greed",
+              "market cycle"
+            ]
+          },
+          {
+            "topic": "Herding effect & hindsight bias",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Herding",
+              "Hindsight bias"
+            ],
+            "keywords": [
+              "herding",
+              "hindsight",
+              "bias"
+            ]
+          },
+          {
+            "topic": "Bounded rationality",
+            "difficulty": 4,
+            "order": 8,
+            "related_topics": [
+              "Limited rationality",
+              "Decision making"
+            ],
+            "keywords": [
+              "bounded rationality",
+              "limited",
+              "decision-making"
+            ]
+          },
+          {
+            "topic": "Behavioral correction strategies",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Cognitive bias",
+              "Behavioral coaching"
+            ],
+            "keywords": [
+              "behavioral correction",
+              "coping",
+              "coaching"
+            ]
+          },
+          {
+            "topic": "Financial therapy",
+            "difficulty": 3,
+            "order": 10,
+            "related_topics": [
+              "Psychology",
+              "Counseling"
+            ],
+            "keywords": [
+              "financial therapy",
+              "psychology",
+              "wellness"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "High Net Worth & Alternative Planning",
+        "difficulty": 4,
+        "recommended_order": 5,
+        "topics": [
+          {
+            "topic": "High-net-worth client services",
+            "difficulty": 4,
+            "order": 1,
+            "related_topics": [
+              "Family office",
+              "Concierge service"
+            ],
+            "keywords": [
+              "HNW",
+              "client service",
+              "wealth management"
+            ]
+          },
+          {
+            "topic": "Private funds & hedge funds",
+            "difficulty": 4,
+            "order": 2,
+            "related_topics": [
+              "Hedge fund strategies",
+              "Private equity"
+            ],
+            "keywords": [
+              "private funds",
+              "hedge fund",
+              "investment"
+            ]
+          },
+          {
+            "topic": "Retail products & suitability",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Compliance",
+              "Investor protection"
+            ],
+            "keywords": [
+              "retail products",
+              "suitability",
+              "compliance"
+            ]
+          },
+          {
+            "topic": "Tax optimisation for high tax jurisdictions",
+            "difficulty": 4,
+            "order": 4,
+            "related_topics": [
+              "Tax planning",
+              "Cross-border taxation"
+            ],
+            "keywords": [
+              "tax",
+              "optimisation",
+              "high tax"
+            ]
+          },
+          {
+            "topic": "Cross-border inheritance & offshore assets",
+            "difficulty": 4,
+            "order": 5,
+            "related_topics": [
+              "Offshore trusts",
+              "Tax treaties"
+            ],
+            "keywords": [
+              "cross-border",
+              "inheritance",
+              "offshore assets"
+            ]
+          },
+          {
+            "topic": "Collectibles & luxury assets",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Art investment",
+              "Wine investment"
+            ],
+            "keywords": [
+              "collectibles",
+              "art",
+              "luxury"
+            ]
+          },
+          {
+            "topic": "Asset protection & loss prevention",
+            "difficulty": 4,
+            "order": 7,
+            "related_topics": [
+              "Insurance",
+              "Legal structures"
+            ],
+            "keywords": [
+              "asset protection",
+              "loss prevention",
+              "risk management"
+            ]
+          },
+          {
+            "topic": "Charitable trusts & foundations",
+            "difficulty": 4,
+            "order": 8,
+            "related_topics": [
+              "Philanthropy",
+              "Tax planning"
+            ],
+            "keywords": [
+              "charitable trust",
+              "foundation",
+              "philanthropy"
+            ]
+          },
+          {
+            "topic": "Multi-family office platforms",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Family office",
+              "Wealth management"
+            ],
+            "keywords": [
+              "multi-family office",
+              "platform",
+              "wealth management"
+            ]
+          },
+          {
+            "topic": "High-net-worth insurance solutions",
+            "difficulty": 4,
+            "order": 10,
+            "related_topics": [
+              "Insurance",
+              "Risk management"
+            ],
+            "keywords": [
+              "HNW insurance",
+              "coverage",
+              "policy"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "7. International Trade & Foreign Commerce",
+    "categories": [
+      {
+        "category": "Fundamentals of International Trade",
+        "difficulty": 2,
+        "recommended_order": 1,
+        "topics": [
+          {
+            "topic": "Imports & exports",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "Balance of trade",
+              "Trade finance"
+            ],
+            "keywords": [
+              "imports",
+              "exports",
+              "international trade"
+            ]
+          },
+          {
+            "topic": "Comparative advantage",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Absolute advantage",
+              "Trade theory"
+            ],
+            "keywords": [
+              "comparative advantage",
+              "specialization",
+              "trade theory"
+            ]
+          },
+          {
+            "topic": "Balance of trade & balance of payments",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Current account",
+              "Capital account"
+            ],
+            "keywords": [
+              "balance of trade",
+              "balance of payments",
+              "current account"
+            ]
+          },
+          {
+            "topic": "Trade policies & protectionism",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Tariffs",
+              "Quotas"
+            ],
+            "keywords": [
+              "trade policy",
+              "protectionism",
+              "tariff"
+            ]
+          },
+          {
+            "topic": "Global trade agreements",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "WTO",
+              "FTA"
+            ],
+            "keywords": [
+              "trade agreement",
+              "WTO",
+              "FTA"
+            ]
+          },
+          {
+            "topic": "Trade barriers & disputes",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Antidumping",
+              "IP rights"
+            ],
+            "keywords": [
+              "trade barrier",
+              "dispute",
+              "antidumping"
+            ]
+          },
+          {
+            "topic": "Cross-border e-commerce",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "Digital trade",
+              "Logistics"
+            ],
+            "keywords": [
+              "cross-border",
+              "e-commerce",
+              "digital trade"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Incoterms & Shipping Responsibilities",
+        "difficulty": 2,
+        "recommended_order": 2,
+        "topics": [
+          {
+            "topic": "Incoterms overview",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "ICC",
+              "Shipping contracts"
+            ],
+            "keywords": [
+              "incoterms",
+              "ICC",
+              "shipping"
+            ]
+          },
+          {
+            "topic": "Incoterms for all transport modes",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "EXW",
+              "DAP",
+              "DDP"
+            ],
+            "keywords": [
+              "incoterms",
+              "EXW",
+              "DDP"
+            ]
+          },
+          {
+            "topic": "Incoterms for sea & inland waterway",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "CIF",
+              "FOB"
+            ],
+            "keywords": [
+              "incoterms",
+              "CIF",
+              "FOB"
+            ]
+          },
+          {
+            "topic": "Responsibilities & cost allocation",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Buyer obligations",
+              "Seller obligations"
+            ],
+            "keywords": [
+              "responsibility",
+              "cost",
+              "allocation"
+            ]
+          },
+          {
+            "topic": "Updating incoterms versions",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Incoterms 2010",
+              "Incoterms 2020"
+            ],
+            "keywords": [
+              "incoterms",
+              "updates",
+              "version"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Trade Finance & Payment Instruments",
+        "difficulty": 3,
+        "recommended_order": 3,
+        "topics": [
+          {
+            "topic": "Letters of credit",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Documentary credit",
+              "Banks"
+            ],
+            "keywords": [
+              "letter of credit",
+              "L/C",
+              "payment"
+            ]
+          },
+          {
+            "topic": "Bills of exchange & drafts",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Promissory notes",
+              "Financing"
+            ],
+            "keywords": [
+              "bill of exchange",
+              "draft",
+              "financing"
+            ]
+          },
+          {
+            "topic": "Open account & documentary collection",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Open account",
+              "Collection"
+            ],
+            "keywords": [
+              "open account",
+              "documentary collection",
+              "payment"
+            ]
+          },
+          {
+            "topic": "Factoring & forfaiting",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Receivables",
+              "Trade finance"
+            ],
+            "keywords": [
+              "factoring",
+              "forfaiting",
+              "receivables"
+            ]
+          },
+          {
+            "topic": "Export credit agencies",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Export financing",
+              "Insurance"
+            ],
+            "keywords": [
+              "ECA",
+              "export credit",
+              "insurance"
+            ]
+          },
+          {
+            "topic": "Counter-trade & barter",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Barter",
+              "Non-monetary payment"
+            ],
+            "keywords": [
+              "counter trade",
+              "barter",
+              "payment"
+            ]
+          },
+          {
+            "topic": "Foreign exchange risk management",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Currency hedging",
+              "Forward contracts"
+            ],
+            "keywords": [
+              "forex",
+              "risk management",
+              "hedging"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Logistics, Customs & Compliance",
+        "difficulty": 3,
+        "recommended_order": 4,
+        "topics": [
+          {
+            "topic": "Global supply chains",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Sourcing",
+              "Warehousing"
+            ],
+            "keywords": [
+              "supply chain",
+              "global",
+              "logistics"
+            ]
+          },
+          {
+            "topic": "Customs procedures & documentation",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Import declaration",
+              "Export declaration"
+            ],
+            "keywords": [
+              "customs",
+              "documentation",
+              "procedures"
+            ]
+          },
+          {
+            "topic": "Tariff classification & valuation",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "HS codes",
+              "Rules of origin"
+            ],
+            "keywords": [
+              "tariff classification",
+              "HS code",
+              "valuation"
+            ]
+          },
+          {
+            "topic": "Trade compliance & sanctions",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Embargo",
+              "Anti-corruption"
+            ],
+            "keywords": [
+              "trade compliance",
+              "sanctions",
+              "embargo"
+            ]
+          },
+          {
+            "topic": "Insurance in trade",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Cargo insurance",
+              "Marine insurance"
+            ],
+            "keywords": [
+              "insurance",
+              "trade",
+              "cargo"
+            ]
+          },
+          {
+            "topic": "Sustainability & ethical trade",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Labor standards",
+              "Environmental impact"
+            ],
+            "keywords": [
+              "sustainability",
+              "ethical trade",
+              "fair trade"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Exchange Rates & Currency Management",
+        "difficulty": 3,
+        "recommended_order": 5,
+        "topics": [
+          {
+            "topic": "Foreign exchange markets",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Spot market",
+              "Forward market"
+            ],
+            "keywords": [
+              "foreign exchange",
+              "forex",
+              "market"
+            ]
+          },
+          {
+            "topic": "Exchange rate regimes",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Fixed exchange",
+              "Floating exchange"
+            ],
+            "keywords": [
+              "exchange rate",
+              "regime",
+              "fixed"
+            ]
+          },
+          {
+            "topic": "Currency risk hedging",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Forward contracts",
+              "Currency options"
+            ],
+            "keywords": [
+              "currency risk",
+              "hedging",
+              "forward"
+            ]
+          },
+          {
+            "topic": "Purchasing power parity & real exchange rates",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "PPP",
+              "Exchange rate theory"
+            ],
+            "keywords": [
+              "purchasing power parity",
+              "exchange rate",
+              "PPP"
+            ]
+          },
+          {
+            "topic": "Impact of interest rates & inflation",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Monetary policy",
+              "Inflation"
+            ],
+            "keywords": [
+              "interest rate",
+              "inflation",
+              "exchange rate"
+            ]
+          },
+          {
+            "topic": "Emerging-market currency risks",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Convertibility",
+              "Capital controls"
+            ],
+            "keywords": [
+              "emerging markets",
+              "currency",
+              "risk"
+            ]
+          },
+          {
+            "topic": "Central bank interventions",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Interventions",
+              "Reserve management"
+            ],
+            "keywords": [
+              "central bank",
+              "intervention",
+              "reserve"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "8. Stock Markets & Equity Investing",
+    "categories": [
+      {
+        "category": "Understanding Stocks & Share Classes",
+        "difficulty": 2,
+        "recommended_order": 1,
+        "topics": [
+          {
+            "topic": "Definition of stocks",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "Equities",
+              "Ownership"
+            ],
+            "keywords": [
+              "stock",
+              "equity",
+              "ownership"
+            ]
+          },
+          {
+            "topic": "Why companies issue stock",
+            "difficulty": 2,
+            "order": 2,
+            "related_topics": [
+              "Capital raising",
+              "Debt repayment"
+            ],
+            "keywords": [
+              "stock issuance",
+              "capital",
+              "company"
+            ]
+          },
+          {
+            "topic": "Common vs. preferred stock",
+            "difficulty": 2,
+            "order": 3,
+            "related_topics": [
+              "Voting rights",
+              "Dividends"
+            ],
+            "keywords": [
+              "common stock",
+              "preferred stock",
+              "dividend"
+            ]
+          },
+          {
+            "topic": "Stock categories by characteristics",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Growth stocks",
+              "Value stocks"
+            ],
+            "keywords": [
+              "stock category",
+              "growth",
+              "value"
+            ]
+          },
+          {
+            "topic": "Market capitalisation segments",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Large-cap",
+              "Small-cap"
+            ],
+            "keywords": [
+              "market cap",
+              "large cap",
+              "small cap"
+            ]
+          },
+          {
+            "topic": "Benefits & risks of stocks",
+            "difficulty": 2,
+            "order": 6,
+            "related_topics": [
+              "Capital appreciation",
+              "Volatility"
+            ],
+            "keywords": [
+              "benefits",
+              "risks",
+              "stocks"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Stock Markets & Trading Mechanics",
+        "difficulty": 3,
+        "recommended_order": 2,
+        "topics": [
+          {
+            "topic": "Stock exchanges",
+            "difficulty": 2,
+            "order": 1,
+            "related_topics": [
+              "NYSE",
+              "NASDAQ"
+            ],
+            "keywords": [
+              "stock exchange",
+              "market",
+              "trading"
+            ]
+          },
+          {
+            "topic": "Primary markets",
+            "difficulty": 2,
+            "order": 2,
+            "related_topics": [
+              "IPOs",
+              "Underwriting"
+            ],
+            "keywords": [
+              "primary market",
+              "IPO",
+              "underwriting"
+            ]
+          },
+          {
+            "topic": "Secondary markets",
+            "difficulty": 2,
+            "order": 3,
+            "related_topics": [
+              "Market liquidity",
+              "Price discovery"
+            ],
+            "keywords": [
+              "secondary market",
+              "liquidity",
+              "trading"
+            ]
+          },
+          {
+            "topic": "Market participants",
+            "difficulty": 2,
+            "order": 4,
+            "related_topics": [
+              "Retail investors",
+              "Institutional investors"
+            ],
+            "keywords": [
+              "market participant",
+              "investor",
+              "broker"
+            ]
+          },
+          {
+            "topic": "Order types & trading strategies",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Market order",
+              "Limit order",
+              "Stop order"
+            ],
+            "keywords": [
+              "order type",
+              "trading",
+              "strategy"
+            ]
+          },
+          {
+            "topic": "Margin accounts & leverage",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Leverage",
+              "Risk"
+            ],
+            "keywords": [
+              "margin",
+              "leverage",
+              "borrow"
+            ]
+          },
+          {
+            "topic": "Settlement cycles",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "T+2",
+              "Clearing"
+            ],
+            "keywords": [
+              "settlement",
+              "cycle",
+              "clearing"
+            ]
+          },
+          {
+            "topic": "Stock splits & corporate actions",
+            "difficulty": 2,
+            "order": 8,
+            "related_topics": [
+              "Share splits",
+              "Buybacks"
+            ],
+            "keywords": [
+              "stock split",
+              "corporate action",
+              "buyback"
+            ]
+          },
+          {
+            "topic": "Circuit breakers & trading halts",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Volatility control",
+              "Market safety"
+            ],
+            "keywords": [
+              "circuit breaker",
+              "trading halt",
+              "volatility"
+            ]
+          },
+          {
+            "topic": "Trading hours & global markets",
+            "difficulty": 2,
+            "order": 10,
+            "related_topics": [
+              "Time zones",
+              "24-hour trading"
+            ],
+            "keywords": [
+              "trading hours",
+              "global",
+              "market"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Stock Analysis & Valuation",
+        "difficulty": 3,
+        "recommended_order": 3,
+        "topics": [
+          {
+            "topic": "Fundamental analysis",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Financial statements",
+              "Industry analysis"
+            ],
+            "keywords": [
+              "fundamental analysis",
+              "valuation",
+              "analysis"
+            ]
+          },
+          {
+            "topic": "Valuation techniques",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "DCF",
+              "Multiples"
+            ],
+            "keywords": [
+              "valuation",
+              "DCF",
+              "multiples"
+            ]
+          },
+          {
+            "topic": "Earnings per share & growth rates",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "EPS",
+              "PEG"
+            ],
+            "keywords": [
+              "EPS",
+              "growth",
+              "ratio"
+            ]
+          },
+          {
+            "topic": "Technical analysis",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Chart patterns",
+              "Indicators"
+            ],
+            "keywords": [
+              "technical analysis",
+              "charts",
+              "indicators"
+            ]
+          },
+          {
+            "topic": "Quantitative screens",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Screening",
+              "Ratios"
+            ],
+            "keywords": [
+              "quantitative",
+              "screen",
+              "ratios"
+            ]
+          },
+          {
+            "topic": "Analyst research & consensus",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Research reports",
+              "Target price"
+            ],
+            "keywords": [
+              "analyst research",
+              "consensus",
+              "recommendation"
+            ]
+          },
+          {
+            "topic": "Factor investing",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Value factor",
+              "Momentum factor"
+            ],
+            "keywords": [
+              "factor investing",
+              "value",
+              "momentum"
+            ]
+          },
+          {
+            "topic": "Sentiment indicators",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "Put-call ratio",
+              "Volatility index"
+            ],
+            "keywords": [
+              "sentiment",
+              "indicator",
+              "VIX"
+            ]
+          },
+          {
+            "topic": "Behavioral considerations",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "Behavioral finance",
+              "Herding"
+            ],
+            "keywords": [
+              "behavioral",
+              "bias",
+              "investing"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Equity Portfolio Construction & Management",
+        "difficulty": 3,
+        "recommended_order": 4,
+        "topics": [
+          {
+            "topic": "Diversification across sectors & regions",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Sector allocation",
+              "Geographic diversification"
+            ],
+            "keywords": [
+              "diversification",
+              "sector",
+              "region"
+            ]
+          },
+          {
+            "topic": "Risk management",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Beta",
+              "Systematic risk"
+            ],
+            "keywords": [
+              "risk management",
+              "beta",
+              "systematic risk"
+            ]
+          },
+          {
+            "topic": "Active vs. passive stock funds",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Mutual funds",
+              "ETFs"
+            ],
+            "keywords": [
+              "active fund",
+              "passive fund",
+              "ETF"
+            ]
+          },
+          {
+            "topic": "Tax considerations",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Capital gains",
+              "Dividends"
+            ],
+            "keywords": [
+              "tax",
+              "capital gains",
+              "dividend"
+            ]
+          },
+          {
+            "topic": "Dividend reinvestment plans",
+            "difficulty": 2,
+            "order": 5,
+            "related_topics": [
+              "Dividends",
+              "Compounding"
+            ],
+            "keywords": [
+              "DRIP",
+              "dividend",
+              "reinvestment"
+            ]
+          },
+          {
+            "topic": "Direct stock purchase plans",
+            "difficulty": 2,
+            "order": 6,
+            "related_topics": [
+              "Company programs",
+              "Broker bypass"
+            ],
+            "keywords": [
+              "direct stock plan",
+              "DSP",
+              "purchase"
+            ]
+          },
+          {
+            "topic": "Brokerage accounts",
+            "difficulty": 2,
+            "order": 7,
+            "related_topics": [
+              "Discount broker",
+              "Full-service broker"
+            ],
+            "keywords": [
+              "brokerage",
+              "account",
+              "commission"
+            ]
+          },
+          {
+            "topic": "Ethical & ESG considerations",
+            "difficulty": 3,
+            "order": 8,
+            "related_topics": [
+              "ESG investing",
+              "SRI"
+            ],
+            "keywords": [
+              "ethical investing",
+              "ESG",
+              "socially responsible"
+            ]
+          },
+          {
+            "topic": "Global equity investing",
+            "difficulty": 3,
+            "order": 9,
+            "related_topics": [
+              "ADRs",
+              "Emerging markets"
+            ],
+            "keywords": [
+              "global investing",
+              "ADR",
+              "emerging market"
+            ]
+          },
+          {
+            "topic": "Rebalancing & monitoring",
+            "difficulty": 2,
+            "order": 10,
+            "related_topics": [
+              "Portfolio maintenance",
+              "Performance tracking"
+            ],
+            "keywords": [
+              "rebalancing",
+              "monitoring",
+              "portfolio"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Stock Market History & Events",
+        "difficulty": 3,
+        "recommended_order": 5,
+        "topics": [
+          {
+            "topic": "Great Depression & 1929 crash",
+            "difficulty": 3,
+            "order": 1,
+            "related_topics": [
+              "Stock market crash",
+              "Regulatory response"
+            ],
+            "keywords": [
+              "Great Depression",
+              "1929 crash",
+              "history"
+            ]
+          },
+          {
+            "topic": "Dot-com bubble & 2008 financial crisis",
+            "difficulty": 3,
+            "order": 2,
+            "related_topics": [
+              "Market bubbles",
+              "Financial crisis"
+            ],
+            "keywords": [
+              "dot-com bubble",
+              "2008 crisis",
+              "market crash"
+            ]
+          },
+          {
+            "topic": "Regulatory reforms",
+            "difficulty": 3,
+            "order": 3,
+            "related_topics": [
+              "Sarbanes-Oxley",
+              "Dodd-Frank"
+            ],
+            "keywords": [
+              "regulation",
+              "SOX",
+              "Dodd-Frank"
+            ]
+          },
+          {
+            "topic": "Technological evolution",
+            "difficulty": 3,
+            "order": 4,
+            "related_topics": [
+              "Electronic trading",
+              "High-frequency trading"
+            ],
+            "keywords": [
+              "technology",
+              "trading",
+              "HFT"
+            ]
+          },
+          {
+            "topic": "Globalization of capital markets",
+            "difficulty": 3,
+            "order": 5,
+            "related_topics": [
+              "Cross-listing",
+              "Integration"
+            ],
+            "keywords": [
+              "globalization",
+              "capital market",
+              "integration"
+            ]
+          },
+          {
+            "topic": "ESG & activism",
+            "difficulty": 3,
+            "order": 6,
+            "related_topics": [
+              "Shareholder activism",
+              "Sustainable investing"
+            ],
+            "keywords": [
+              "ESG",
+              "activism",
+              "sustainability"
+            ]
+          },
+          {
+            "topic": "Future outlook",
+            "difficulty": 3,
+            "order": 7,
+            "related_topics": [
+              "Tokenized securities",
+              "Fractional shares"
+            ],
+            "keywords": [
+              "future",
+              "stock market",
+              "outlook"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
