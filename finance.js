@@ -105,7 +105,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const title = typeof item.topic === 'object' ? (item.topic.en || item.topic.zh) : (item.topic || item.title);
             
             // Determine excerpt: use teaser if available, otherwise summary
-            let excerptRaw = typeof item.teaser === 'string' && item.teaser.trim() ? item.teaser : (
+            const hasTeaser = typeof item.teaser === 'string' && item.teaser.trim().length > 0;
+            let excerptRaw = hasTeaser ? item.teaser : (
                 typeof item.summary === 'object' ? (item.summary.en || item.summary.zh) : item.summary
             );
             
@@ -120,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.innerHTML = `
                 <div class="card-date">${dateStr}</div>
                 <h2 class="card-title">${title}</h2>
-                <div class="card-excerpt">${excerptHTML}</div>
+                <div class="card-excerpt ${hasTeaser ? 'is-teaser' : ''}">${excerptHTML}</div>
                 <div class="card-tags">
                     ${tags.slice(0, 3).map(tag => `<span class="card-tag">#${tag}</span>`).join('')}
                 </div>

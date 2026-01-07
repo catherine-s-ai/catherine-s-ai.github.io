@@ -183,6 +183,10 @@ body.finance-page {
   display: inline;
 }
 
+.card-excerpt.is-teaser {
+  -webkit-line-clamp: 8;
+}
+
 .card-tags {
   display: flex;
   flex-wrap: wrap;

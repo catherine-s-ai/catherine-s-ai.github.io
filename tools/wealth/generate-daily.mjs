@@ -284,6 +284,42 @@ function parseJSON(raw) {
   }
 }
 
+async function verifyUrl(url) {
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 8000);
+    
+    // First try HEAD
+    try {
+      const res = await fetch(url, {
+        method: "HEAD",
+        headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" },
+        signal: controller.signal
+      });
+      clearTimeout(timeout);
+      if (res.ok) return true;
+      // If 405 Method Not Allowed, try GET
+      if (res.status === 405) throw new Error("Method Not Allowed"); 
+    } catch (e) {
+      // Fall through to GET
+    }
+
+    // Try GET if HEAD failed
+    const controller2 = new AbortController();
+    const timeout2 = setTimeout(() => controller2.abort(), 8000);
+    const res = await fetch(url, {
+      method: "GET",
+      headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" },
+      signal: controller2.signal
+    });
+    clearTimeout(timeout2);
+    return res.ok;
+  } catch (error) {
+    // console.warn(`URL check failed for ${url}: ${error.message}`);
+    return false;
+  }
+}
+
 function coerceLesson(candidate, lesson, date) {
   const sources = normalizeSources(lesson.sources);
   const practice = normalizePractice(lesson.practice);
@@ -346,6 +382,31 @@ async function generateLesson(candidate, history) {
     const revisePrompt = buildRevisePrompt(draft, critique);
     const revisedRaw = await callLLM(revisePrompt);
     finalContent = parseJSON(revisedRaw);
+  }
+
+  // 5. Validate Sources
+  if (finalContent.sources && Array.isArray(finalContent.sources)) {
+    console.log("Validating sources...");
+    const validatedSources = [];
+    for (const src of finalContent.sources) {
+      if (src.url && /^https?:\/\//.test(src.url)) {
+        const isValid = await verifyUrl(src.url);
+        if (isValid) {
+          validatedSources.push(src);
+        } else {
+          console.warn(`Removing invalid source: ${src.url}`);
+        }
+      }
+    }
+
+    if (validatedSources.length === 0) {
+      console.log("All sources failed validation. Adding fallback search link.");
+      validatedSources.push({
+        title: `Search: ${finalContent.topic}`,
+        url: `https://www.google.com/search?q=${encodeURIComponent(finalContent.topic)}`
+      });
+    }
+    finalContent.sources = validatedSources;
   }
   
   return finalContent;
