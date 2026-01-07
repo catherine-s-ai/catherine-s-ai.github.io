@@ -1,3 +1,65 @@
 [
-  
+  {
+    "id": "7d666733-5441-4951-90ab-ec91b585b50a",
+    "date": "2026-01-07",
+    "topic": "Financial Planning as Time Travel: Aligning Present Resources with Future Possibilities",
+    "teaser": "What if every financial decision you make today is a message to a future version of yourself—and most of those messages are written in disappearing ink?",
+    "summary": "**Financial planning isn't about spreadsheets—it's about time travel.** Most people approach money management as a technical exercise in optimization, but this misses the fundamental truth: every financial decision represents a transfer of value across time. When you save $100 today, you're not just moving numbers between accounts—you're sending resources forward to a future version of yourself who will have different needs, opportunities, and constraints. Conversely, when you spend that same $100 on immediate gratification, you're effectively taxing that future self, forcing them to work harder or settle for less.\n\nThis time-travel perspective reveals why conventional financial advice fails. Without intentional planning, you're defaulting to someone else's plan. Inflation systematically erodes your purchasing power. Lifestyle creep quietly consumes raises and windfalls. Societal pressures dictate spending patterns that may not align with your deepest values. The gap between what you earn and what you keep compounds exponentially over time, making today's small decisions tomorrow's financial reality.\n\nThe person who understands this becomes the architect of their financial future rather than its accidental tenant. This isn't about deprivation or extreme frugality—it's about **conscious allocation of your most finite resource: your future time**. When you save and invest, you're buying back hours of your future life. When you spend mindlessly, you're mortgaging those same hours. The most successful financial plans recognize this temporal dimension and use it to create **optionality**—the freedom to choose paths that align with your evolving values and circumstances.",
+    "key_points": [
+      "Money represents stored human energy—every dollar equals time and effort you can never get back",
+      "Financial planning creates optionality by converting income into future choices rather than just present consumption",
+      "Inflation is a silent tax on your future self—ignoring it guarantees diminished purchasing power",
+      "The best plans prepare for multiple possible futures rather than optimizing for one predicted outcome"
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Freedom Number",
+        "steps": [
+          "List all essential monthly expenses (housing, food, utilities, insurance, basic transportation)",
+          "Total these expenses to find your monthly essential spending",
+          "Divide this number by 0.04 (representing a conservative 4% withdrawal rate)",
+          "This result shows the portfolio size needed to potentially cover basic living expenses through investment income"
+        ]
+      },
+      {
+        "title": "Conduct a Spending Autopsy",
+        "steps": [
+          "Identify your last three impulse purchases or unplanned expenses",
+          "For each purchase, ask: What emotional need was I trying to fill? (boredom, stress, social pressure, etc.)",
+          "Brainstorm alternative ways you could have met that same need without spending money",
+          "Note patterns in your emotional spending triggers for future awareness"
+        ]
+      },
+      {
+        "title": "Stress-Test Your Financial Priorities",
+        "steps": [
+          "Imagine you lost your primary income source for six months",
+          "Identify which future opportunities would vanish without that income (career changes, education, travel, family plans)",
+          "Map which current expenses directly support or threaten those future possibilities",
+          "The gap between what you protect and what you sacrifice reveals your true time-travel priorities"
+        ]
+      }
+    ],
+    "risk_notes": "Financial planning fails when it becomes rigid dogma rather than adaptive strategy. The hidden risks include: 1) **Over-optimization paralysis**—creating perfect plans that never get implemented because they're too complex, 2) **The planning fallacy**—systematically underestimating costs and time while overestimating control and predictability, and 3) **Mistaking the map for the territory**—when the planning process becomes a proxy for actual wealth building, creating false confidence without corresponding action. The most dangerous plans are those that assume certainty in an uncertain world.",
+    "sources": [
+      {
+        "title": "Your Money or Your Life by Vicki Robin and Joe Dominguez",
+        "url": "https://yourmoneyoryourlife.com/book/"
+      }
+    ],
+    "meta": {
+      "id": "Financial planning basics",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Budget and cash-flow planning",
+        "Financial goal setting"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  }
 ]
