@@ -355,7 +355,9 @@ import {
   writeJSON,
   rollWindowAndArchive,
   today,
-  loadDotEnv
+  loadDotEnv,
+  backoff,
+  sleep
 } from "./util.mjs";
 import crypto from "crypto";
 import path from "path";
@@ -387,14 +389,24 @@ async function main() {
   
   // Generate
   let lesson;
-  try {
-    const content = await generateLesson(candidate, history);
-    lesson = coerceLesson(candidate, content, todayStr);
-  } catch (error) {
-    console.error("Generation failed:", error);
-    if (maxRetries > 0) {
-      // Retry logic could go here, simplified for now
-      process.exit(1);
+  let attempts = 0;
+  
+  while (attempts <= maxRetries) {
+    try {
+      const content = await generateLesson(candidate, history);
+      lesson = coerceLesson(candidate, content, todayStr);
+      break;
+    } catch (error) {
+      attempts++;
+      console.error(`Generation failed (Attempt ${attempts}/${maxRetries + 1}):`, error.message);
+      
+      if (attempts > maxRetries) {
+        process.exit(1);
+      }
+      
+      const delay = backoff(attempts - 1);
+      console.log(`Retrying in ${delay}ms...`);
+      await sleep(delay);
     }
   }
   
