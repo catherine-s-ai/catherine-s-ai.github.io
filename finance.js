@@ -103,7 +103,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Handle bilingual content - prefer EN for UI, or fallback
             const title = typeof item.topic === 'object' ? (item.topic.en || item.topic.zh) : (item.topic || item.title);
-            const summary = typeof item.summary === 'object' ? (item.summary.en || item.summary.zh) : item.summary;
+            
+            // Determine excerpt: use teaser if available, otherwise summary
+            let excerptRaw = typeof item.teaser === 'string' && item.teaser.trim() ? item.teaser : (
+                typeof item.summary === 'object' ? (item.summary.en || item.summary.zh) : item.summary
+            );
+            
+            // Parse Markdown for the excerpt using parseInline to avoid wrapping <p> tags
+            // and keeping it suitable for card display
+            let excerptHTML = marked.parseInline(excerptRaw);
+
             let tags = item.meta && item.meta.tags ? item.meta.tags : (item.tags || []);
             // Filter out Chinese tags
             tags = tags.filter(tag => !/[\u4e00-\u9fa5]/.test(tag));
@@ -111,7 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.innerHTML = `
                 <div class="card-date">${dateStr}</div>
                 <h2 class="card-title">${title}</h2>
-                <div class="card-excerpt">${summary}</div>
+                <div class="card-excerpt">${excerptHTML}</div>
                 <div class="card-tags">
                     ${tags.slice(0, 3).map(tag => `<span class="card-tag">#${tag}</span>`).join('')}
                 </div>
@@ -176,7 +185,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="info-block key-points">
                     <h3><i class="fa-solid fa-star"></i> Key Insights</h3>
                     <ul>
-                        ${keyPoints.map(point => `<li>${point}</li>`).join('')}
+                        ${keyPoints.map(point => `<li>${marked.parse(point)}</li>`).join('')}
                     </ul>
                 </div>` : ''}
 
@@ -185,8 +194,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     <h3><i class="fa-solid fa-wand-magic-sparkles"></i> Actionable Practice</h3>
                     ${practice.map(p => `
                         <div style="margin-bottom: 1rem;">
-                            <strong>${p.title}</strong>
-                            <ul>${p.steps.map(s => `<li>${s}</li>`).join('')}</ul>
+                            <div class="practice-title">${marked.parse(p.title)}</div>
+                            <ul>${p.steps.map(s => `<li>${marked.parse(s)}</li>`).join('')}</ul>
                         </div>
                     `).join('')}
                 </div>` : ''}
@@ -194,7 +203,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 ${risk ? `
                 <div class="info-block risk">
                     <h3><i class="fa-solid fa-feather"></i> Gentle Reminder</h3>
-                    <p>${risk}</p>
+                    <div>${marked.parse(risk)}</div>
                 </div>
                 ` : ''}
             </div>

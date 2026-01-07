@@ -52,8 +52,9 @@ Blueprint:
 ${JSON.stringify(blueprint, null, 2)}
 
 Requirements:
-- Return strict JSON with fields: "topic", "summary", "key_points", "practice", "risk_notes", "sources".
+- Return strict JSON with fields: "topic", "teaser", "summary", "key_points", "practice", "risk_notes", "sources".
 - **topic**: String (English).
+- **teaser**: String (English, max 25 words). A "Marketing Hook" for the index card. It must be provocative, an "open loop", or a direct benefit that makes the user click. Do NOT summarize. Sell the click. (e.g., "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.")
 - **summary**: String (English). This is the core "Blog Post". Combine the Hook, Core Concept, and Why It Matters into a cohesive, engaging narrative (300-450 words). Use Markdown formatting (bolding key terms).
 - **key_points**: Array of 3-4 strings (English). Each string is a "Mental Model" or insight.
 - **practice**: Array of 3 objects. Each object has "title" (string) and "steps" (Array of strings). All in English.
@@ -91,6 +92,7 @@ Instructions:
 - If the score is < 9, rewrite the weak sections significantly.
 - Ensure the "summary" is a compelling read (Mini-Blog).
 - Ensure "key_points" are deep insights.
+- Ensure "teaser" is a "curiosity gap" marketing hook.
 - Keep the JSON structure exactly the same.
 
 Return strict JSON only.`;
@@ -290,6 +292,7 @@ function coerceLesson(candidate, lesson, date) {
     id: crypto.randomUUID(),
     date,
     topic: lesson.topic || candidate.title,
+    teaser: lesson.teaser || "",
     summary: lesson.summary || "",
     key_points: lesson.key_points || [],
     practice: practice,
