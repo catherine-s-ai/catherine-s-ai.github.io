@@ -1,5 +1,79 @@
 [
   {
+    "id": "a031dbab-09ac-4302-9c5d-eb7fd6009db0",
+    "date": "2026-01-10",
+    "topic": "Credit Scores Decoded: The Prediction Algorithm That Shapes Your Financial Life",
+    "teaser": "What if your credit score isn't measuring your financial morality, but predicting how profitable you'll be to lenders? The 1950s banker who judged your character has been replaced by an algorithm that sees only patterns—here's how to make it work for you.",
+    "summary": "**In 1958, a banker would look you in the eye, assess your character, and decide if you were 'good for the money.' Today, an algorithm scans your payment history and spits out a three-digit number that determines your financial fate.** This evolution from subjective judgment to mathematical prediction represents one of finance's great democratizations—and creates new, invisible cages. Your credit score isn't a report card on your virtue; it's a **probability calculation** designed to answer one question: How likely are you to make lenders money?\n\n**The algorithm emerged from a simple insight: past financial behavior predicts future repayment better than character assessments ever could.** In the 1950s, before FICO scores, lenders used 'character loans' where your appearance, social standing, and even race determined access. The Fair Isaac Corporation changed everything in 1989 by introducing the first credit scoring model based on five variables: **payment history (35%)**, **amounts owed (30%)**, **length of credit history (15%)**, **new credit (10%)**, and **credit mix (10%)**. These percentages aren't arbitrary—they're the distilled wisdom of millions of repayment patterns, showing which behaviors statistically correlate with profitability.\n\n**Right now, your score creates a financial caste system you can't see but feel every time you borrow.** A 100-point difference means paying $3,000 or $8,000 annually on a $400,000 mortgage—**$150,000+ in lifetime interest**. The algorithm is indifferent to your intentions, your hardships, or your strategic decisions. It sees only patterns: consistency beats magnitude, predictability trumps wealth, and your relationship with scarcity matters more than your balance sheet.\n\n**This mathematical revolution created both fairness and new blind spots.** Where a 1950s banker might have considered your community standing or employment stability, today's algorithm sees only payment patterns and debt ratios. This levels the playing field for those without traditional social connections but creates paradoxes: paying cash for everything makes you appear riskier, medical debt can tank your score before you know it's been reported, and the system can't distinguish between strategic defaults and genuine distress. Understanding this historical arc—from character judgment to data prediction—explains why optimizing for the algorithm requires different thinking than optimizing for financial health, and why your three-digit number has become the most important metric in your financial life.",
+    "key_points": [
+      "Credit utilization measures your relationship with scarcity—keeping it below 30% signals you won't panic-borrow when stressed, not that you're debt-free. The algorithm interprets high utilization as financial fragility, regardless of your income.",
+      "The algorithm rewards consistency over magnitude—$100 paid on time for 10 years beats $10,000 paid erratically. Your score measures predictability patterns, not wealth accumulation; it's tracking whether your financial behavior is statistically similar to people who default.",
+      "Credit bureaus are prediction factories, not morality courts. They don't judge your character—they analyze whether your payment patterns resemble those of profitable customers. This explains why strategic financial decisions (like paying cash) can paradoxically lower your score.",
+      "Your credit score creates a hidden interest rate tax based on behavior patterns. A 50-point drop doesn't just mean higher rates—it signals to lenders that you fit a statistical profile of customers who cost them money, triggering risk-based pricing that compounds over decades."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Lifetime Credit Score Cost",
+        "steps": [
+          "Use mortgage, auto loan, and credit card calculators with current risk-based pricing (MyFICO.com provides accurate rate tables).",
+          "Compare total interest paid over 30 years on a $400,000 mortgage at your current score versus an 800+ score—typically a 3% vs. 6.5% APR difference.",
+          "Add auto loan differences ($35,000 loan over 5 years) and credit card interest (assuming $5,000 revolving balance).",
+          "Sum these amounts: The average American pays $100,000+ in unnecessary interest due to suboptimal credit management. This makes the abstract number viscerally real."
+        ]
+      },
+      {
+        "title": "Manipulate Utilization Ratios Like a Pro",
+        "steps": [
+          "Request credit limit increases on existing cards (without hard inquiries) by calling issuers—most will soft-pull your credit if you have good payment history.",
+          "Time these requests strategically: ask 60-90 days before major borrowing needs, and space them out to avoid triggering 'new credit' alarms.",
+          "Calculate your new utilization ratios: if you have $10,000 in balances and increase limits from $30,000 to $50,000, utilization drops from 33% to 20% without paying down debt.",
+          "Monitor the impact: utilization updates monthly, so changes appear on your next statement cycle."
+        ]
+      },
+      {
+        "title": "Audit Your Credit Reports for Historical Errors",
+        "steps": [
+          "Request all three reports from AnnualCreditReport.com—focus on payment history sections where incorrect late payments create the most damage.",
+          "Look for medical debt reporting lags: bills often hit collections before you're notified, so dispute immediately with documentation.",
+          "Document discrepancies with precise dates and amounts, then use the CFPB's dispute template for formal correction—errors typically take 30-45 days to resolve."
+        ]
+      }
+    ],
+    "risk_notes": "The algorithm's greatest failure is punishing financial prudence: paying cash creates a 'thin file' paradox where responsible behavior appears risky. Score obsession leads people to optimize for the number rather than financial health—sometimes taking on unnecessary debt just to 'build credit.' Medical debt reporting often lags, tanking scores before disputes are resolved. The system can't distinguish between strategic defaults (walking away from underwater property) and genuine distress, treating both as equal predictors. Psychological trap: people focus on quick fixes (disputing minor errors) while ignoring the behavioral patterns (consistent payments, utilization management) that truly move scores.",
+    "sources": [
+      {
+        "title": "The Ascent of Money: A Financial History of the World by Niall Ferguson",
+        "url": "https://www.penguinrandomhouse.com/books/176321/the-ascent-of-money-by-niall-ferguson/"
+      },
+      {
+        "title": "MyFICO.com (Official FICO Educational Resource)",
+        "url": "https://www.myfico.com/credit-education"
+      },
+      {
+        "title": "CFPB's Credit Reports and Scores Guide",
+        "url": "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/"
+      },
+      {
+        "title": "Fair Isaac Corporation Historical Archives",
+        "url": "https://www.fico.com/en/about-us"
+      }
+    ],
+    "meta": {
+      "id": "Consumer credit & credit scores",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Debt management",
+        "Credit cards and loans"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "edfa9427-5cc4-4946-9381-418e8a910435",
     "date": "2026-01-09",
     "topic": "The Emergency Fund: Your Psychological Moat Against Financial Catastrophe",
