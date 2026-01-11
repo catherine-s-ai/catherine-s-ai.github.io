@@ -1,5 +1,88 @@
 [
   {
+    "id": "d669bdd3-64eb-468a-be79-b74e4ee58b5e",
+    "date": "2026-01-11",
+    "topic": "Inflation: The Silent Wealth Transfer You're Probably Ignoring",
+    "teaser": "What if the greatest financial threat isn't market crashes or recessions, but a force that has toppled empires while you slept? Discover how inflation quietly picks your pocket—and what the smartest investors know that you don't.",
+    "summary": "**Inflation isn't an economic statistic—it's history's most powerful political weapon.** For 2,000 years, from Roman emperors debasing denarii to Weimar Germany printing marks into oblivion, rulers have discovered the same brutal truth: inflation is the path of least resistance. When empires face collapse, they don't raise taxes or cut spending—they quietly dilute their currency, transferring wealth from savers to the state while citizens sleepwalk through the theft.\n\nThis isn't about prices rising; it's about **power dynamics**. Inflation occurs when governments choose currency devaluation over fiscal responsibility because it's politically easier than austerity. The Roman Empire didn't fall to barbarians—it collapsed when its silver coins became copper-washed tokens, destroying trust in the very foundation of commerce. The pattern repeats: revolutionary France with assignats, post-war Hungary with pengős, modern Venezuela with bolívars. The mechanism changes, but the human psychology remains constant.\n\n**The real danger isn't inflation—it's unexpected inflation.** When your expectations diverge from reality, that's when wealth transfers accelerate exponentially. If you expect 2% inflation but get 8%, your carefully planned retirement evaporates. This expectation gap creates what economist Milton Friedman called 'the cruelest tax'—one that disproportionately harms those who trust the system most: pensioners holding cash, workers on fixed wages, anyone who plays by yesterday's rules.\n\nYour personal experience with inflation likely differs dramatically from official statistics because **CPI is a political compromise**, not a scientific truth. Governments underreport healthcare and education inflation by 3-4x because admitting the true cost would expose systemic failures. If you're young, educated, and urban, your money might be decaying at 8-10% annually while official CPI claims 3%. This isn't measurement error—it's measurement convenience.\n\n**The psychological trap is profound.** We suffer from 'money illusion,' celebrating a 5% raise while ignoring 7% inflation. We hoard cash 'for safety' as it loses purchasing power at emergency-room-visit speed. We judge investments in nominal terms while real returns turn negative. This cognitive failure isn't accidental—it's why inflation persists. As John Maynard Keynes observed, 'There is no subtler, no surer means of overturning the existing basis of society than to debauch the currency.' The revolution happens not in streets, but in bank accounts, one devalued dollar at a time.",
+    "key_points": [
+      "Inflation is fundamentally a political choice, not an economic inevitability—governments consistently choose currency debasement over austerity because it's less immediately painful, creating a stealth wealth transfer from citizens to the state.",
+      "The true danger is unexpected inflation (the gap between expected and actual inflation), which destroys carefully laid financial plans and creates exponential wealth transfers to those positioned to benefit from the surprise.",
+      "Official inflation metrics systematically understate true cost increases for politically sensitive categories (healthcare, education, housing), meaning your personal inflation rate could be 2-3x higher than reported—a hidden tax on specific demographics.",
+      "High inflation environments create perverse incentives: they punish virtue (saving, planning, patience) while rewarding recklessness (leveraged speculation, debt accumulation), fundamentally distorting societal values over generations.",
+      "Deflation is more psychologically dangerous than inflation because it triggers primal hoarding instincts, but moderate, predictable inflation (2-3%) is the 'goldilocks zone' that encourages productive investment while maintaining currency trust."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Inflation Rate and Adjust Your Portfolio",
+        "steps": [
+          "Track your monthly spending for 3 months across 5 key categories: food, housing, transportation, healthcare, and education.",
+          "Compare your spending percentages to the Bureau of Labor Statistics' CPI component weights to identify where you diverge from the 'average' consumer.",
+          "Calculate your weighted personal inflation rate using current CPI data for each category, then stress-test with alternative inflation measures (PCE, Billion Prices Project, ShadowStats).",
+          "Multiply this rate against your cash savings to see your annual purchasing power loss in dollar terms.",
+          "**Portfolio Adjustment:** If your personal inflation rate exceeds 5%, allocate 15-25% to inflation-protected securities (TIPS, I-Bonds) and 10-15% to real assets (commodities, REITs, infrastructure). If below 3%, maintain but monitor."
+        ]
+      },
+      {
+        "title": "Conduct a Purchasing Power Autopsy with Historical Context",
+        "steps": [
+          "Select 3-5 specific purchases from 10 years ago (e.g., movie ticket: $8, gallon of gas: $2.50, average restaurant meal: $15).",
+          "Use the BLS Inflation Calculator to determine what each would cost today, then research what they cost during high-inflation periods (1970s, Weimar Germany, modern Venezuela).",
+          "Calculate the annual decay rate for each item using the compound annual growth formula, then compare to wage growth over the same period.",
+          "Apply the average decay rate to your current savings to project real value loss over the next decade under three scenarios: baseline (2-3%), stress (5-7%), and crisis (10%+).",
+          "**Portfolio Adjustment:** If your projections show >30% real loss over a decade, increase equity allocation to companies with pricing power (luxury brands, software, healthcare) and reduce long-duration bonds."
+        ]
+      },
+      {
+        "title": "Run a Debt-Inflation Stress Test with Actionable Thresholds",
+        "steps": [
+          "List all fixed-rate debts (mortgage, student loans, car payments) with their interest rates and remaining balances.",
+          "Simulate three scenarios: inflation at 3%, 6%, and 9% annually while your income grows at only 2% (the typical wage-price lag).",
+          "Calculate the real (inflation-adjusted) repayment burden for each year of remaining debt, identifying when inflation turns your debt into 'free money' (real interest rates turn negative).",
+          "Determine your personal inflation breakeven point: at what inflation rate does your debt become an asset rather than a liability?",
+          "**Portfolio Adjustment:** If you have substantial fixed-rate debt below 4%, reduce cash holdings (inflation erodes their value) and consider modest leverage in real assets. If debt rates exceed 6%, prioritize repayment over speculative investments."
+        ]
+      }
+    ],
+    "risk_notes": "Inflation expectations become self-fulfilling prophecies—once people expect higher inflation, they demand compensating wages and prices, creating the very inflation they feared. This psychological feedback loop is why central banks target 2% inflation: not because it's optimal, but because it's the highest rate that doesn't trigger expectation spirals. The greater systemic risk is that inflation metrics have become political tools: CPI methodology changes in the 1990s and 2000s systematically reduced reported inflation by 1-2% annually, creating a 'stealth default' on inflation-indexed obligations. Remember that during hyperinflation episodes, all traditional investments fail except tangible assets, foreign currency, and mobility—the ultimate hedge isn't financial, but geographical.",
+    "sources": [
+      {
+        "title": "'The Ascent of Money' by Niall Ferguson (historical perspective on currency erosion)",
+        "url": "https://www.niallferguson.com/the-ascent-of-money"
+      },
+      {
+        "title": "'The Great Inflation' by Federal Reserve History",
+        "url": "https://www.federalreservehistory.org/essays/great-inflation"
+      },
+      {
+        "title": "U.S. Bureau of Labor Statistics Inflation Calculator (interactive tool)",
+        "url": "https://www.bls.gov/data/inflation_calculator.htm"
+      },
+      {
+        "title": "'The Monetary History of the United States' by Milton Friedman and Anna Schwartz",
+        "url": "https://www.amazon.com/Monetary-History-United-States-1867-1960/dp/0691003548"
+      },
+      {
+        "title": "Billion Prices Project (alternative inflation measurement)",
+        "url": "https://www.thebillionpricesproject.com/"
+      }
+    ],
+    "meta": {
+      "id": "Inflation & purchasing power",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Time value of money",
+        "Interest rates"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "a031dbab-09ac-4302-9c5d-eb7fd6009db0",
     "date": "2026-01-10",
     "topic": "Credit Scores Decoded: The Prediction Algorithm That Shapes Your Financial Life",
