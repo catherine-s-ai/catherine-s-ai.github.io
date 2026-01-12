@@ -1,5 +1,64 @@
 [
   {
+    "id": "647e25bb-8f54-4b2a-ae2b-aca4e7b411d5",
+    "date": "2026-01-12",
+    "topic": "The Time Value of Money: Why a Dollar Today is Worth More Than a Dollar Tomorrow",
+    "teaser": "Queen Isabella's $30,000 mistake cost Spain $7 trillion. Your daily financial choices are making the same error—here's how to stop it.",
+    "summary": "In 1492, Queen Isabella of Spain funded Christopher Columbus's voyage with approximately $30,000. Had she instead invested that sum at a modest 4% annual return, compounded over 532 years, it would be worth over $7 trillion today—enough to buy modern Spain fifty times over. This isn't just historical trivia; it's the most expensive lesson in financial history, demonstrating that **the most expensive thing you'll ever buy is the thing you don't buy today**.\n\nAt its core, the time value of money rests on three irreducible first principles: **opportunity cost** (what else you could do with the money), **inflation's erosion** (money loses purchasing power over time), and **risk** (future money isn't guaranteed). These forces create two mirror concepts: **compounding** grows money forward through reinvestment, while **discounting** shrinks future money back to today's terms. Think of compounding as planting an oak tree—small actions today create massive shade decades later—and discounting as translating future promises into present reality.\n\nWhy does this matter for your daily life? Every financial decision you make is a time-value calculation. Consider the 25-year-old who invests $500 monthly at a 7% return versus waiting until age 35. By retirement at 65, the early starter accumulates $1.2 million, while the latecomer has just $520,000—a 2.3x difference that represents not just numbers, but life trajectories. This principle applies whether you're delaying retirement savings by one year, choosing between a cash discount or 0% financing, or even deciding to spend on experiences versus investments. **Time doesn't just heal wounds; it creates fortunes** when harnessed correctly.",
+    "key_points": [
+      "The 'Rule of 72' is actually the 'Rule of Continuity'—money compounds in continuous moments, not annual jumps. At 7%, money doubles every 10.2 years (using e^(rt)) rather than 10.3 years (using (1+r)^t), revealing exponential growth's true power.",
+      "Discounting exposes hidden costs: A 'free' $10,000 car loan over 5 years at 0% interest actually costs $8,900 in today's money with 2.5% inflation—nothing is ever truly free when time value is accounted for.",
+      "Your most valuable asset isn't money—it's youth. A dollar invested at age 20 has 45 years to compound; at 50, only 15 years. Time arbitrage consistently outperforms market timing."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your 'Time Tax'",
+        "steps": [
+          "Identify your next planned luxury purchase (e.g., a $2,000 vacation).",
+          "Discount this amount by 7% annually for 10 years using the formula: Present Value = Future Value / (1 + 0.07)^10.",
+          "The result ($2,000 / 1.967 ≈ $1,017) represents what you're really spending in future opportunity cost—the money you won't have compounding for a decade."
+        ]
+      },
+      {
+        "title": "Run a 'Compounding Autopsy'",
+        "steps": [
+          "Locate an old savings account statement from 5+ years ago with a specific balance (e.g., $5,000).",
+          "Calculate what that balance would be worth today at a 7% annual return using: Future Value = $5,000 × (1 + 0.07)^years.",
+          "Compare this projected value to your actual current balance—the difference is your 'laziness tax' from suboptimal investing."
+        ]
+      },
+      {
+        "title": "Simulate the 'Benjamin Franklin Test'",
+        "steps": [
+          "When offered a choice (e.g., $10,000 today vs. $11,000 in one year), calculate the implied interest rate: Rate = (Future Value / Present Value) - 1 = ($11,000 / $10,000) - 1 = 10%.",
+          "Check if you can beat this 10% rate elsewhere (e.g., through investments or debt repayment).",
+          "Most people take the cash without this 60-second calculation, often missing better opportunities."
+        ]
+      }
+    ],
+    "risk_notes": "The time value of money assumes rational actors, predictable returns, and stable currencies—conditions that rarely exist in reality. Hyperinflation (e.g., Weimar Germany or Zimbabwe) can destroy compounding's benefits entirely. Behavioral traps include 'exponential growth blindness' (where humans linearize curves and underestimate compounding) and 'hyperbolic discounting' (preferring $100 today over $200 tomorrow, but $200 in 365 days over $100 in 364 days). Additionally, over-discounting future costs can paralyze all spending—sometimes, experiences today are worth more than money tomorrow, and not all decisions should be purely financial.",
+    "sources": [
+      {
+        "title": "Search: The Time Value of Money: Why a Dollar Today is Worth More Than a Dollar Tomorrow",
+        "url": "https://www.google.com/search?q=The%20Time%20Value%20of%20Money%3A%20Why%20a%20Dollar%20Today%20is%20Worth%20More%20Than%20a%20Dollar%20Tomorrow"
+      }
+    ],
+    "meta": {
+      "id": "Time value of money",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Power of compounding",
+        "Discounting"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "d669bdd3-64eb-468a-be79-b74e4ee58b5e",
     "date": "2026-01-11",
     "topic": "Inflation: The Silent Wealth Transfer You're Probably Ignoring",
