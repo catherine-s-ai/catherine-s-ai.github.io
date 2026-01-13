@@ -1,5 +1,73 @@
 [
   {
+    "id": "08a3791d-3677-48f5-9d9f-5506268b1b09",
+    "date": "2026-01-13",
+    "topic": "The Double-Edged Sword of Compounding: How Exponential Math Builds and Destroys Wealth",
+    "teaser": "The same mathematical force that quietly turned $10,000 into $750,000 for early Coca-Cola investors also reduced Weimar Republic savings to wallpaper in three years—and most people only see one side of the equation.",
+    "summary": "In 1919, a German housewife watched her life savings—carefully compounded over decades—become worthless as hyperinflation accelerated at 29,500% per month. That same year, an American investor who bought $10,000 of Coca-Cola stock saw it compound to over $750,000 by the time of his death. Both experienced the same mathematical phenomenon: compounding. Not as Einstein's 'eighth wonder,' but as finance's most powerful and indifferent force—a mathematical certainty that works with equal precision whether building empires or destroying them.\n\nCompounding isn't about interest rates or investment returns. It's about time's exponential mathematics. The core mechanism is brutally simple: returns generate more returns, which generate still more returns. This creates not linear growth but exponential curves—the same mathematics that describes pandemics, technological adoption, and nuclear chain reactions. This is why two investors with identical contributions can end up with fortunes separated by decades: not because of market timing or stock selection, but because of when they started the compounding clock.\n\nConsider the brutal asymmetry: A 25-year-old investing $500 monthly at 7% accumulates $1.2 million by 65. Wait until 35, and they'll have less than half—not because they missed $60,000 in contributions, but because they lost ten years of compounding on every subsequent dollar. Meanwhile, that same exponential mathematics works invisibly against them: a 20% credit card balance doubles in under four years with minimum payments, while 3% annual inflation silently halves purchasing power every 24 years. The mathematics doesn't care about direction—it simply executes.\n\nThe real insight isn't mathematical but psychological. Our brains evolved for linear thinking in a world of exponential reality. We see the compounding in our retirement statements but miss it in our debts, in inflation's silent erosion, and in the opportunity cost of every delayed decision. The wealthy understand this asymmetry: they harness compounding's positive side while building moats against its destructive power. The rest pay the price of exponential blindness—not in single mistakes, but in fortunes that never materialize and debts that never disappear. Understanding compounding means recognizing that time is the only truly non-renewable resource in finance, and its exponential mathematics ticks relentlessly in both directions.",
+    "key_points": [
+      "Compounding creates exponential growth through a simple feedback loop: returns generate returns that generate more returns. This is why starting early matters more than contribution size—you're not just investing money, you're investing time in the exponential machine.",
+      "The Rule of 72 is a dangerous psychological trap that assumes consistent returns in a volatile world. In reality, sequence risk destroys compounding more than modest returns do—a 50% loss requires a 100% gain just to break even, permanently disrupting the exponential curve.",
+      "Credit card companies exploit our linear thinking while their algorithms run exponential calculations in real-time. They understand that minimum payments on 20% APR debt create a mathematical certainty: your balance will double faster than most investments, transferring wealth from your future self to their balance sheets.",
+      "The tyranny of small percentages: A 1% difference in annual fees or taxes compounds over 40 years to create a 30-40% wealth transfer from investors to financial intermediaries. This isn't a fee—it's an exponential tax on your future that most accept without understanding the mathematics.",
+      "Compounding works identically in all directions: wealth, debt, inflation, and opportunity cost. The Weimar Republic's hyperinflation and Coca-Cola's century-long returns were driven by the same exponential mathematics—one destroyed savings, the other built fortunes. The force doesn't choose sides."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Compounding Velocity with Emotional Awareness",
+        "steps": [
+          "Project your current savings at 7% annual returns for 30 years—notice your emotional response to the future number",
+          "Now calculate what happens with just a 1% higher return (8%)—the difference represents the exponential power of marginal improvements",
+          "Finally, calculate the same with a 1% annual fee deducted—observe how this 'small' fee consumes more future wealth than you likely anticipated",
+          "Reflect: If the fee calculation triggered more emotion than the return improvement, you're underestimating compounding's destructive power"
+        ]
+      },
+      {
+        "title": "Run a 'Lost Decade' Stress Test with Behavioral Tracking",
+        "steps": [
+          "Calculate your portfolio's growth with normal 7% returns over 10 years",
+          "Now run the identical calculation with zero returns for the entire decade (like 2000-2009)",
+          "Compare the outcomes—then track your emotional response",
+          "If the zero-return scenario triggers despair, you're over-relying on compounding's positive side and need more margin of safety in your planning"
+        ]
+      },
+      {
+        "title": "Conduct a Compounding Audit with Psychological Rewiring",
+        "steps": [
+          "For one week, document every impulse purchase you consider but avoid",
+          "Calculate what each avoided purchase would compound to over 20 years at 7% returns",
+          "Create a 'compounded opportunity' ledger—watch how seeing small expenses as future wealth changes your spending psychology",
+          "After one month, review: Has your relationship with small purchases fundamentally shifted from linear ('just $5') to exponential ('$5 × 20 years of compounding')?"
+        ]
+      }
+    ],
+    "risk_notes": "Compounding's exponential power contains hidden risks that most models ignore: 1) **Sequence risk annihilates compounding**—withdrawals during market downturns permanently destroy the exponential growth engine, as recovered markets compound on a smaller base. 2) **Inflation compounds with equal mathematical certainty**—at 3% annually, it silently transfers purchasing power from savers to debtors over decades. 3) **Psychological extrapolation bias**—we project recent returns exponentially into the future, ignoring mean reversion and creating disastrous planning assumptions. 4) **The consistency fallacy**—real markets deliver volatility that disrupts smooth exponential curves, requiring margin of safety rather than mathematical precision. 5) **Asymmetric destruction**—compounding destroys faster than it builds: a 50% loss requires 100% gain to recover, creating permanent mathematical scars.",
+    "sources": [
+      {
+        "title": "Principles for Navigating Big Debt Crises",
+        "url": "https://www.principles.com/big-debt-crises/"
+      },
+      {
+        "title": "When Money Dies: The Nightmare of the Weimar Hyperinflation",
+        "url": "https://www.amazon.com/When-Money-Dies-Nightmare-Hyper-Inflation/dp/1586489941"
+      }
+    ],
+    "meta": {
+      "id": "Power of compounding",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Time value of money",
+        "Annualized & compound returns"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "647e25bb-8f54-4b2a-ae2b-aca4e7b411d5",
     "date": "2026-01-12",
     "topic": "The Time Value of Money: Why a Dollar Today is Worth More Than a Dollar Tomorrow",
