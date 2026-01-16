@@ -1,5 +1,74 @@
 [
   {
+    "id": "a9870e64-e7b3-4b4d-aff0-f3e68420a82e",
+    "date": "2026-01-16",
+    "topic": "Financial Fraud: The Ancient Scam That Never Changes",
+    "teaser": "Your bank account is being drained by a psychological trick perfected 2,000 years ago—and you're helping them do it.",
+    "summary": "Financial fraud isn't a modern invention—it's a fundamental feature of human exchange. In ancient Rome, 'coin-clippers' shaved gold from currency edges, creating the first documented wealth transfer through deception. Today, the tools have evolved from physical shears to phishing emails and AI deepfakes, but the **core mechanism remains unchanged**: exploiting the gap between what you believe and what you can verify.\n\nAt its **first principles**, fraud is a failure of verification systems. Every financial transaction represents a claim: \"This money is real,\" \"This person is who they say,\" \"This investment will perform.\" When verification fails, deception wins. The Romans solved this by weighing coins; we must solve it by weighing digital claims.\n\nWhy this matters now: Digital transactions have compressed verification time from days to milliseconds, while AI has democratized sophisticated deception. The result is a **verification crisis**—we're making more financial decisions with less time to authenticate them. Your vulnerability isn't measured by your technical knowledge, but by your verification habits. Every unchecked email, reused password, or assumed identity creates what economists call a **verification deficit**—the gap between what you should verify and what you actually do.\n\nThis isn't about building impenetrable walls. It's about creating **verification friction**—deliberate, systematic checks that make deception statistically improbable. Just as Roman merchants developed scales and touchstones, modern investors need layered authentication and healthy skepticism. The systems that protect you aren't technological marvels; they're ancient verification principles applied to digital contexts.",
+    "key_points": [
+      "Fraud doesn't exploit ignorance—it exploits verification gaps. Scammers don't need you to be stupid; they need you to be busy, trusting, or emotionally triggered enough to skip verification steps.",
+      "The most dangerous financial systems are the most convenient ones. Every reduction in friction (one-click purchases, auto-fill passwords) creates a corresponding increase in verification responsibility that most users ignore.",
+      "Verification is a skill, not a checklist. It requires developing what intelligence agencies call 'source skepticism'—the habit of independently confirming every financial claim, regardless of how reputable the source appears.",
+      "Perfect security is impossible; probabilistic protection is practical. Layered verification creates what mathematicians call 'defense in depth'—multiple independent checks that make successful deception statistically vanishing.",
+      "Your verification habits determine your financial surface area. Every unverified assumption expands what fraudsters can target; every systematic check contracts it."
+    ],
+    "practice": [
+      {
+        "title": "Phishing Simulation Exercise",
+        "steps": [
+          "Create a fake email mimicking your bank's communication with urgent language about 'account suspension' (15 minutes)",
+          "Analyze for red flags: mismatched sender addresses, generic greetings, suspicious links, grammatical errors (10 minutes)",
+          "Practice verification protocol: never click links—log in directly through official website/app (5 minutes)"
+        ]
+      },
+      {
+        "title": "Digital Footprint Audit",
+        "steps": [
+          "Use HaveIBeenPwned.com to check email/password exposure in data breaches (10 minutes)",
+          "Identify accounts using compromised credentials, prioritize by financial sensitivity (15 minutes)",
+          "Implement password manager for unique, complex passwords per account (20 minutes)"
+        ]
+      },
+      {
+        "title": "Fraud Exposure Assessment",
+        "steps": [
+          "List all accounts with automatic payments/saved payment methods (20 minutes)",
+          "Document each: current balance, authentication methods, recovery options (15 minutes)",
+          "Enable two-factor authentication on top three accounts by value (10 minutes)"
+        ]
+      }
+    ],
+    "risk_notes": "Over-focusing on fraud prevention can create financial paranoia or decision paralysis, causing avoidance of legitimate opportunities. Complex security measures may create false safety, neglecting basic hygiene like password updates. The 'it won't happen to me' bias is particularly dangerous—fraud often targets those who feel immune. Balance vigilance with practicality: implement systems that protect without consuming excessive mental bandwidth. Remember that verification is a means to financial freedom, not an end in itself.",
+    "sources": [
+      {
+        "title": "The Psychology of Fraud: Why Good People Do Bad Things",
+        "url": "https://www.apa.org/news/press/releases/2010/06/fraud"
+      },
+      {
+        "title": "Federal Trade Commission Consumer Information on Scams",
+        "url": "https://www.consumer.ftc.gov/features/scam-alerts"
+      },
+      {
+        "title": "Book: 'The Confidence Game' by Maria Konnikova",
+        "url": "https://www.penguinrandomhouse.com/books/316292/the-confidence-game-by-maria-konnikova/"
+      }
+    ],
+    "meta": {
+      "id": "Financial fraud & security",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Consumer rights",
+        "Online safety"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "b65bb190-8a14-4a08-8ce3-3b13cadd99b1",
     "date": "2026-01-15",
     "topic": "The Biology of Spending: How Your Stone-Age Brain Sabotages Modern Wealth",
