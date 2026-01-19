@@ -1,5 +1,72 @@
 [
   {
+    "id": "6703d309-107e-4a14-9274-90aefd9a06b2",
+    "date": "2026-01-19",
+    "topic": "Banking Fundamentals: Checking vs. Savings Accounts",
+    "teaser": "Your checking account is a psychological trap disguised as convenience—here's how ancient temples and behavioral blindspots reveal why you're paying 2-3% annually for access you rarely need.",
+    "summary": "**The first banks weren't institutions—they were psychological contracts.** In ancient Mesopotamia around 3000 BCE, priests stored grain in temple vaults and issued clay receipts that circulated as currency. This worked not because of marble columns or complex ledgers, but because humans evolved to trust secure storage more than personal possession. Our brains are wired for loss aversion—we'd rather pay a hidden premium for perceived safety than risk losing what we have. This 5,000-year-old psychological bias explains why you keep too much cash in checking today.\n\nModern banking exploits this ancient wiring through convenience bias and mental accounting. We treat checking accounts as 'safe' because money is visible and accessible, ignoring that inflation silently erodes 2-3% annually—a tax on psychological comfort. The transition from temple vaults to digital banking didn't change human nature; it just made the costs less visible. Banks profit from the gap between our emotional need for liquidity and our rational understanding of opportunity cost.\n\n**First principles reveal the deception:** All banking products are tools for managing time and trust. A **checking account** is a velocity tool—optimized for moving money quickly, like a high-speed train that charges premium fares for immediate departure. You're paying 2-3% annually (the inflation gap) for the illusion of control. A **savings account** is a storage tool—designed to preserve value over time, like a warehouse that charges modest fees for protection. Both rely on the same ancient principle: we trust intermediaries more than ourselves with our resources.\n\n**The urgent insight:** Your brain defaults to suboptimal cash management because evolution prioritized immediate access over compound growth. Ancient humans needed grain available now for survival; modern humans keep cash accessible for psychological comfort, not mathematical necessity. This mismatch costs the average American household $300-500 annually in lost purchasing power—not from fees or bad decisions, but from perfectly natural behavior that's perfectly wrong for wealth building.",
+    "key_points": [
+      "The Liquidity Tax: You're paying 2-3% annually for instant access—a premium most wouldn't pay if it were explicit. Banks monetize your loss aversion by making convenience feel free while charging through inflation erosion. This is the modern equivalent of temple offerings: a voluntary payment for psychological security.",
+      "Float as Working Capital Mismanagement: Corporate finance treats idle cash as a failure of working capital management—yet individuals celebrate it as 'safety.' Banks profit from your float because they lend it at 4-5% while paying you 0.1%. Your checking account isn't just a tool; it's an interest-free loan to your bank, secured by your behavioral biases.",
+      "The Tool Confusion Fallacy: Checking accounts are velocity tools (for moving value), savings accounts are storage tools (for preserving value). Using checking for storage is like using a refrigerator as an oven—it might work temporarily, but violates the fundamental design. This mental model prevents the commingling that costs thousands in lifetime wealth."
+    ],
+    "practice": [
+      {
+        "title": "The Behavioral Audit: Calculate Your Psychological Tax",
+        "steps": [
+          "Track your checking balance peaks and valleys over 90 days—note when anxiety drives you to keep 'extra' cash accessible.",
+          "Multiply your average excess balance (above true monthly needs) by 2.5% (current inflation minus savings yield).",
+          "This reveals your annual 'convenience premium.' Now, set up an automatic transfer for this amount to savings—a commitment device that bypasses willpower."
+        ]
+      },
+      {
+        "title": "Pre-Mortem: Why Your System Will Fail",
+        "steps": [
+          "Imagine it's six months from now and you've abandoned your cash management plan. Write three reasons why: e.g., 'An unexpected expense made me nervous, so I stopped transfers' or 'I got busy and forgot.'",
+          "For each failure scenario, design a countermeasure: e.g., 'Keep one month's extra expenses in checking as a buffer' or 'Schedule account reviews during weekly coffee.'",
+          "Implement the strongest countermeasure immediately—this is temptation bundling that links behavior to existing routines."
+        ]
+      },
+      {
+        "title": "Stress-Test Emotional Triggers, Not Just Expenses",
+        "steps": [
+          "Simulate three scenarios: (1) Market drops 20% and you feel panicked, (2) You see a 'must-have' purchase that exceeds your budget, (3) You receive unexpected bonus money.",
+          "For each, document where you'd pull funds and why—does emotion drive you to raid savings or leave money idle?",
+          "Adjust your system: If emotional spending is a risk, create a separate 'guilt-free' account with limited funds. If panic is a risk, write an 'emergency protocol' for accessing funds without sabotaging long-term savings."
+        ]
+      }
+    ],
+    "risk_notes": "Bank failures reveal the temple illusion: FDIC insurance is modern society's collective trust mechanism, but it covers only $250,000 per bank—a limit most don't consider until crisis hits. During high inflation, even savings accounts become wealth destroyers, losing 2-3% annually in purchasing power. The greatest risk isn't institutional collapse but behavioral failure: the 'parking fallacy' (leaving cash idle due to decision fatigue) and 'yield blindness' (accepting low rates because shopping feels tedious). Online banks offer better yields but require trusting digital systems over physical branches—a trade-off between ancient preference for tangible security and modern mathematical advantage. In systemic crises, all cash instruments suffer; the solution isn't perfect safety but understanding that all choices involve trade-offs between access, yield, and psychological comfort.",
+    "sources": [
+      {
+        "title": "Principles for Navigating Big Debt Crises by Ray Dalio (for systemic banking risks)",
+        "url": "https://www.principles.com/big-debt-crises/"
+      },
+      {
+        "title": "Nudge by Richard Thaler and Cass Sunstein (for commitment devices and choice architecture)",
+        "url": "https://yalebooks.yale.edu/book/9780300122237/nudge"
+      },
+      {
+        "title": "Federal Deposit Insurance Corporation (for insurance limits and bank failure data)",
+        "url": "https://www.fdic.gov"
+      }
+    ],
+    "meta": {
+      "id": "Common banking products",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Savings account",
+        "Checking account"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "02fa51d2-5104-4691-9fb5-236771806a39",
     "date": "2026-01-18",
     "topic": "Cash Flow vs. Balance Sheet: Why Your Financial GPS Matters More Than Your Location",
