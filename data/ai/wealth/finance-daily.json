@@ -1,5 +1,72 @@
 [
   {
+    "id": "c181500c-0290-4321-9e4c-1f16623c9112",
+    "date": "2026-01-20",
+    "topic": "The Ancient Price of Time: Why Your Bank Account Is Losing Money",
+    "teaser": "Your savings account is a 4,000-year-old financial instrument that's silently taxing your future self—here's how to stop the bleeding.",
+    "summary": "**The first recorded interest rate wasn't for money—it was for grain.** In ancient Mesopotamia around 2000 BCE, temples charged 20% interest on grain deposits. This wasn't a loan; it was storage with a time premium. Your modern bank account descends directly from this system, but with a critical difference: today's deposit rates are losing the battle against inflation, making you pay for the privilege of saving.\n\n**Interest rates are fundamentally the price of time.** When you deposit money, you're renting your purchasing power to the bank. The bank then lends it out at higher rates, pocketing the difference. This rate is determined by three first principles: (1) **inflation's erosion of value**—money loses purchasing power over time, (2) **the opportunity cost of your capital**—what you could earn elsewhere, and (3) **the bank's risk in lending it out**—the chance borrowers won't repay.\n\n**Why this matters today:** With inflation running at 3-5% in many economies and standard savings accounts paying 0.5-2%, your deposits are losing 1-3% annually in real terms. Every $10,000 in a typical account silently loses $100-300 in purchasing power each year. This isn't just poor returns—it's a **hidden tax on your future self**, compounded over decades. The psychological trap is what I call the **'parking fallacy'**: treating temporary parking spots (like checking accounts) as permanent storage, when they're actually leaky containers.\n\n**The real interest rate—nominal rate minus inflation—is what actually matters.** When this number turns negative (as it has for much of the past decade), you're effectively paying the bank to hold your money. Banks use your deposits as raw material for their profit machine—you're the supplier getting wholesale prices while they sell retail loans at 4-20% interest. Understanding this dynamic is the first step toward reclaiming your financial sovereignty.",
+    "key_points": [
+      "Deposit rates are the floor of your financial universe—any investment must beat this minimum to be worthwhile.",
+      "The 'real' interest rate (nominal minus inflation) determines whether you're growing or losing purchasing power.",
+      "Banks profit from the spread between what they pay you (deposit rates) and what they charge borrowers (loan rates).",
+      "Negative real rates mean you're paying for the privilege of saving—a modern inversion of ancient grain storage."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Real Deposit Return",
+        "steps": [
+          "Find your account's current interest rate (check your bank statement or website).",
+          "Look up the current inflation rate (use FRED or your country's central bank data).",
+          "Subtract inflation from your interest rate: Real Rate = Nominal Rate - Inflation Rate.",
+          "Interpret: Positive = growing purchasing power, Negative = losing purchasing power."
+        ]
+      },
+      {
+        "title": "Map Your Cash Holdings",
+        "steps": [
+          "List every deposit account (checking, savings, money market) with current balances.",
+          "Record each account's interest rate and any fees.",
+          "Calculate the total weighted average return across all accounts.",
+          "Identify gaps where cash is earning below the best available high-yield options."
+        ]
+      },
+      {
+        "title": "Run a 5-Year Simulation",
+        "steps": [
+          "Take a sample amount (e.g., $10,000) currently in your lowest-yielding account.",
+          "Project its value in 5 years using: Future Value = Principal × (1 + Current Rate)^5.",
+          "Repeat using the best available high-yield savings or money market rate.",
+          "Compare the difference in purchasing power after adjusting for 3% annual inflation."
+        ]
+      }
+    ],
+    "risk_notes": "Deposits create the illusion of safety while guaranteeing loss against inflation over time. During periods of hyperinflation (like Weimar Germany or modern Venezuela) or bank failures, deposits can become worthless or inaccessible overnight. The psychological comfort of FDIC/NCUA insurance masks the certainty of purchasing power erosion. Never treat deposit accounts as long-term storage—they're temporary parking for emergency funds and short-term needs.",
+    "sources": [
+      {
+        "title": "The Ascent of Money by Niall Ferguson",
+        "url": "https://www.penguinrandomhouse.com/books/176274/the-ascent-of-money-by-niall-ferguson/"
+      },
+      {
+        "title": "Federal Reserve Economic Data (FRED) - Deposit Rates",
+        "url": "https://fred.stlouisfed.org/categories/32245"
+      }
+    ],
+    "meta": {
+      "id": "Interest rates & deposits",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Inflation & purchasing power",
+        "Fixed income"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "6703d309-107e-4a14-9274-90aefd9a06b2",
     "date": "2026-01-19",
     "topic": "Banking Fundamentals: Checking vs. Savings Accounts",
