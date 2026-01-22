@@ -1,5 +1,73 @@
 [
   {
+    "id": "d8da9970-d19a-4b21-a156-f3811f9d7b0f",
+    "date": "2026-01-22",
+    "topic": "Insurance: The 17th-Century Coffeehouse Bet That Still Protects Your Wealth Today",
+    "teaser": "Why did 17th-century merchants pay for ships that sank? The answer reveals why insurance isn't about safety—it's about optionality, and why your current coverage is probably mathematically wrong.",
+    "summary": "**London, 1688.** In Edward Lloyd's coffeehouse, merchants didn't just gamble on ships—they discovered a mathematical truth that would reshape capitalism. By pooling capital to cover maritime losses, they weren't buying safety; they were **purchasing optionality**—the right to continue trading after disaster. This wasn't emotion; it was cold calculation. Each premium represented the **expected value** of loss (probability × magnitude) plus a margin for the insurer. The **law of large numbers** made this work: with enough independent risks, actual losses converge toward expected losses, transforming uncertainty into predictable cost.\n\n**Insurance is fundamentally a negative expected value transaction.** You pay more in premiums than your expected loss (otherwise insurers couldn't profit). Yet you rationally accept this because of **convexity**—the mathematical principle that large losses hurt more than proportionally. Losing $1 million doesn't just hurt 1,000× more than losing $1,000; it can be ruinous. Insurance works best for **low-probability, high-severity events** (the 'black swans' that could wipe you out), not high-probability events where self-insurance through savings is optimal.\n\n**The behavioral economics are precise.** Insurers profit from the gap between **actuarial risk** (calculated mathematically) and **perceived risk** (distorted by psychology). The **availability heuristic** makes vivid risks (theft, fire) seem more likely than they are, while **probability neglect** makes abstract risks (liability, disability) seem less threatening. This asymmetry lets insurers charge premiums that exceed actuarial value for overestimated risks while collecting pure profit for underestimated ones.\n\n**Your wealth strategy depends on this calculus.** Proper insurance creates the foundation for risk-taking elsewhere—it's the **cost of maintaining financial optionality**. Without it, a single catastrophe destroys your ability to recover. With it, you can invest, build businesses, and accumulate capital. The optimal coverage balances: 1) **Risk retention capacity** (what you can afford to lose), 2) **Premium efficiency** (expected loss plus insurer margin), and 3) **Optionality value** (the strategic benefit of protection).",
+    "key_points": [
+      "Insurance is a negative expected value transaction you rationally accept to avoid ruin: Premiums exceed expected loss (probability × magnitude), but the convexity of financial ruin makes this tradeoff optimal for catastrophic risks.",
+      "Insurers profit from the behavioral gap between actuarial and perceived risk: They exploit availability heuristic (overestimating vivid risks) and probability neglect (underestimating abstract risks) to price premiums above actuarial value.",
+      "Insurance creates optionality—it's the cost of maintaining financial optionality in an uncertain world: By capping downside, it enables calculated risk-taking in investing, entrepreneurship, and wealth accumulation.",
+      "Insurance works best for low-probability, high-severity events (black swan protection): For high-probability events, self-insurance through savings is mathematically superior; optimal coverage focuses on risks that could cause non-linear damage to your financial system."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Mathematical Risk Tolerance",
+        "steps": [
+          "Calculate your risk retention capacity as a percentage of liquid net worth (e.g., 'I can absorb losses up to 5% of my $500,000 portfolio = $25,000 without derailing financial goals')",
+          "For each risk, compute expected loss: (probability of event) × (financial impact). Example: 1% chance of $50,000 loss = $500 expected loss annually",
+          "Compare expected loss to insurance premium: If premium is $600 for that $500 expected loss, you're paying a 20% margin for risk transfer"
+        ]
+      },
+      {
+        "title": "Conduct a Precision Coverage Gap Analysis",
+        "steps": [
+          "For property insurance: Calculate the coinsurance penalty you'd face = (amount insured / required insurance) × loss - deductible. Most homeowners are underinsured by 20-40% on replacement cost",
+          "For life/disability: Calculate human capital value = present value of future earnings. Compare to policy limits—most professionals are underinsured by 50%+",
+          "Evaluate policies as put options: Your deductible is the strike price—higher deductibles create cheaper 'options' but require more risk retention"
+        ]
+      },
+      {
+        "title": "Perform an Actuarial Premium Audit",
+        "steps": [
+          "Calculate the internal rate of return on premiums: What catastrophic loss probability would justify this premium? Example: $1,000 premium for $100,000 coverage implies breakeven at 1% probability",
+          "Evaluate insurance efficiency ratio: (Premium - expected loss) / expected loss. Ratios above 0.3 suggest overpaying for risk transfer",
+          "Optimize deductible selection: Calculate the premium savings from increasing deductible vs. the increased expected out-of-pocket cost using probability distributions"
+        ]
+      }
+    ],
+    "risk_notes": "Insurance creates three mathematical dangers: 1) **Moral hazard**—the statistical increase in risk-taking when protected (estimated at 10-20% higher claim frequency), 2) **Basis risk**—the gap between insured loss and actual loss due to exclusions and limits, and 3) **Opportunity cost**—premiums invested instead could compound to exceed potential losses for many risks. The most insured aren't safest; they've often mispriced optionality.",
+    "sources": [
+      {
+        "title": "Against the Gods: The Remarkable Story of Risk by Peter L. Bernstein",
+        "url": "https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639"
+      },
+      {
+        "title": "The Black Swan: The Impact of the Highly Improbable by Nassim Nicholas Taleb",
+        "url": "https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X"
+      },
+      {
+        "title": "Thinking, Fast and Slow by Daniel Kahneman (availability heuristic, probability neglect)",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      }
+    ],
+    "meta": {
+      "id": "Insurance basics",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Risk management",
+        "Life insurance"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "58c164a1-6d5f-4883-b157-3ce3f63e8a78",
     "date": "2026-01-21",
     "topic": "Financial Instruments: The Time Machines That Shape Your Wealth",
