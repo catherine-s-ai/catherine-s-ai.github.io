@@ -1,5 +1,69 @@
 [
   {
+    "id": "2f687777-af02-41ac-bd90-8f0f4cf661c6",
+    "date": "2026-01-24",
+    "topic": "Consumer Rights in Finance: The Guardrails That Prevent Markets From Becoming Casinos",
+    "teaser": "What if the most important financial regulation wasn't written by economists, but by a doctor studying immune systems? Discover why your financial safety depends not on preventing failure, but on engineering how the system fails.",
+    "summary": "Picture October 29, 1929. A 38-year-old clerk named John—who'd never invested before—watches his life savings evaporate in hours. His broker had lent him 90% of his investment without mentioning this small detail: when prices fell, John would owe more than he owned. This wasn't a market crash; it was a predator-prey relationship disguised as capitalism. The 1929 collapse wasn't caused by complex derivatives or algorithmic trading—it was enabled by the complete absence of what we now consider basic: the right to know when you're being set up to fail.\n\nHere's the uncomfortable truth most financial writing avoids: **consumer protection isn't about creating perfect safety. It's about designing failure modes that don't cascade into systemic collapse.** Think of it as controlled burns in a financial forest—allowing small fires to prevent infernos. The 2008 mortgage crisis wasn't a failure of regulation existing; it was a failure of regulation working. Disclosure forms were signed, boxes were checked, and yet toxic assets spread through the system like a pathogen in an immunocompromised body.\n\nWhy does this distinction matter today? Because we're living through the greatest financial complexity explosion in history. Your retirement account, mortgage, and even your credit card rewards are engineered to be incomprehensible—not by accident, but by design. When products are too complex for even experts to understand, consent becomes theater. You're not agreeing to terms; you're performing a ritual of compliance.\n\nConsumer rights function as your financial immune system: invisible when working properly, catastrophic when absent. They operate on three unavoidable realities: 1) **Information asymmetry isn't a bug—it's the business model**, 2) **Power imbalance isn't temporary—it's structural**, and 3) **Psychological vulnerability isn't your fault—it's being weaponized against you**. The real question isn't whether regulation restricts freedom, but whether without it, freedom is even possible when the game is rigged before you sit down to play.",
+    "key_points": [
+      "The most dangerous financial products aren't the risky ones—they're the ones labeled 'safe' through compliance theater. A 'regulated' stamp often means 'the rules of exploitation are formally documented' rather than 'this won't harm you.'",
+      "Regulation's true purpose isn't to prevent failure but to engineer failure modes that don't cascade. Like circuit breakers in an electrical grid or controlled burns in a forest, the goal is containment, not elimination—survivable accidents rather than catastrophic collapses.",
+      "Consumer protection functions as a financial immune system: you only notice it when it fails. The 2008 crisis revealed what happens when disclosure becomes paperwork theater rather than genuine risk communication—the system develops autoimmune disorders, attacking itself.",
+      "The three structural realities that make consumer rights non-negotiable: 1) Information asymmetry (they know the game better), 2) Power imbalance (they write the rules), 3) Psychological exploitation (they design products around your cognitive biases). Regulation doesn't level the playing field—it prevents the field from being a cliff.",
+      "False confidence is more dangerous than acknowledged risk. When people believe 'someone is watching,' they stop watching themselves—creating the moral hazard that turns minor regulatory gaps into systemic vulnerabilities."
+    ],
+    "practice": [
+      {
+        "title": "The Risk-First Autopsy",
+        "steps": [
+          "Choose a financial product you currently use (credit card, mortgage, investment)",
+          "Read ONLY the 'Risks' section first—ignore marketing, benefits, and features",
+          "Ask: 'What would need to go wrong for these risks to materialize?' Document every assumption you're making",
+          "Now research one actual complaint from the CFPB database involving this product type. Compare the real-world failure to the disclosed risks—the gap between them is where regulation either works or becomes theater"
+        ]
+      },
+      {
+        "title": "Regulatory Reality Check",
+        "steps": [
+          "Take your most recent financial statement",
+          "Identify which regulator oversees it (FDIC, SEC, FINRA, CFPB, etc.)",
+          "Research one actual enforcement action that regulator took in the past year",
+          "Now ask: 'If my institution did exactly what was punished in that case, would I even know?' The difference between theoretical protection and practical protection is where your vulnerability lives"
+        ]
+      },
+      {
+        "title": "Complaint-to-Consequence Drill",
+        "steps": [
+          "Document a real financial frustration you've had (hidden fees, unclear terms, service issues)",
+          "Write the formal complaint you would file",
+          "Now research what actually happens: Find three resolved complaints in the CFPB database and track: 1) How long resolution took, 2) What compensation was provided, 3) Whether the institution changed practices",
+          "The gap between your ideal outcome and these real outcomes reveals whether consumer rights exist on paper or in practice"
+        ]
+      }
+    ],
+    "risk_notes": "Regulation creates three paradoxical dangers: 1) **The theater of safety**—when compliance boxes are checked but protection isn't delivered, creating false confidence, 2) **The outsourcing of vigilance**—when 'someone is watching' becomes an excuse for personal complacency, and 3) **The capture of watchdogs**—when regulators become more responsive to industry lobbying than public protection. The greatest risk isn't insufficient regulation, but regulation that creates the illusion of safety while leaving the underlying vulnerabilities intact. Effective consumer rights require understanding that regulation establishes the minimum floor of protection—your personal vigilance determines the ceiling.",
+    "sources": [
+      {
+        "title": "Consumer Financial Protection Bureau - Actual complaint data and enforcement actions",
+        "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/"
+      }
+    ],
+    "meta": {
+      "id": "Consumer rights & regulation",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Financial regulation",
+        "Consumer protection"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "0fb3fdff-ef12-4130-b47e-8c10bfdbcdf8",
     "date": "2026-01-23",
     "topic": "The True Cost of Civilization: Understanding Taxes as Your Financial Operating System",
