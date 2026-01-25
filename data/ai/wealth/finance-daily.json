@@ -1,5 +1,81 @@
 [
   {
+    "id": "b628c77b-5493-4fc0-bb05-0e076dc5c42a",
+    "date": "2026-01-25",
+    "topic": "The Psychology of Debt Crises: How Collective Delusions Create Financial Catastrophes",
+    "teaser": "The most dangerous debt isn't on your balance sheet—it's the invisible story you tell yourself about why it's safe. Discover how to spot the psychological infection before it bankrupts you.",
+    "summary": "**The 2008 crisis didn't begin with defaults—it began with a story.** A story whispered from real estate agents to mortgage brokers to Wall Street traders: 'Housing prices never fall nationally.' This narrative became so contagious that by 2006, homeowners were taking out 'NINJA' loans (No Income, No Job, No Assets) believing property appreciation would cover their bets. Banks packaged these loans into securities rated AAA—not because the math worked, but because everyone believed the story. The crisis wasn't a financial event; it was a **mass psychological breakdown** where fiction temporarily replaced reality.\n\nAt its core, every debt crisis follows the same three-act tragedy: **Act I: The Rationalization** (We invent reasons why 'this time is different'), **Act II: The Contagion** (Our beliefs infect others through social proof), **Act III: The Collision** (Reality arrives uninvited). Debt represents a bet on your future cash flows, but we price that bet using yesterday's probabilities filtered through today's optimism. The fatal error isn't borrowing—it's borrowing while believing your future income is certain when it's actually a probability distribution with fat tails.\n\n**Why this matters now:** We're living in Act II of the next crisis. Global debt-to-GDP sits at 336%—higher than 2008—while real interest rates remain negative in many developed economies. This creates the perfect psychological petri dish: stability feels permanent, risk appears distant, and debt feels 'cheap.' But like 2006, the warning signs are behavioral, not financial: Are you justifying debt because 'everyone's doing it'? Are you assuming your job/industry/asset values will remain stable because they have been? The most dangerous assumption isn't that you'll default—it's that you couldn't possibly need to.\n\nYour personal financial stability depends on recognizing that **debt represents a narrative about your future**, and like all narratives, it can be wrong. The systems meant to protect you—credit ratings, monetary policy, financial advisors—often fail because they're staffed by humans equally susceptible to the same collective delusions. True safety comes from building **psychological firewalls** between your decisions and the prevailing optimism, understanding that debt crises don't announce themselves with sirens but with increasingly reasonable-sounding justifications for taking on just a little more risk.",
+    "key_points": [
+      "Debt is a call option on your future income where the strike price is your survival threshold—not your current lifestyle. Most people misprice this option because they underestimate income volatility (the 'underlying asset') and overestimate their ability to control macroeconomic shocks.",
+      "The Minsky Mechanism: Stability doesn't just breed complacency—it actively rewires risk assessment through operant conditioning. Each successful debt payment reinforces the belief that debt is safe, creating a feedback loop where riskier behavior gets rewarded until the system encounters a reality it wasn't conditioned to handle.",
+      "Debt-to-asset liquidity matters more than debt-to-income because income can disappear overnight while assets provide optionality. The 6-month threshold comes from historical crisis data: the average time for job recovery after systemic shocks is 5-8 months, and asset liquidations during panics realize 40-60% less than fair value.",
+      "Debt crises are coordination failures disguised as financial events. Each participant acts rationally (taking manageable debt, assuming others will repay), but collectively they create an unstable system. This explains why 'predictable' patterns repeat: we're not falling for the same trick—we're playing a game where individual rationality guarantees collective disaster.",
+      "The most dangerous debt carries plausible deniability. 'Reasonable' mortgage debt becomes catastrophic when housing correlations approach 1.0 during crises. 'Manageable' student loans become anchors when credential inflation devalues degrees. Debt's toxicity depends not on its amount but on its correlation to systemic risks you pretend don't exist."
+    ],
+    "practice": [
+      {
+        "title": "Debt Delusion Autopsy",
+        "steps": [
+          "Document every justification for your current debt levels ('low rates,' 'good investment,' 'stable job').",
+          "For each justification, identify the underlying assumption and assign a probability (0-100%) of it being wrong within 5 years.",
+          "Calculate your 'delusion score': multiply each debt amount by the probability its justification fails. This reveals which debts rest on shakiest psychological ground.",
+          "For debts with delusion scores above 30%, create contingency plans that don't depend on your justifications being right."
+        ]
+      },
+      {
+        "title": "Coordination Failure Simulation",
+        "steps": [
+          "Map your debt ecosystem: who else depends on your repayments (banks, family, services)? Who do you depend on (employer, government, markets)?",
+          "Simulate three degrees of separation: what happens if your employer's main client fails? If your bank's liquidity dries up? If your industry's regulatory support vanishes?",
+          "Identify single points of failure where multiple dependencies converge—these are your contagion vectors.",
+          "Build redundancy for at least two critical dependencies, recognizing that during crises, correlations approach 1.0 and diversification fails."
+        ]
+      },
+      {
+        "title": "Probability-Weighted Debt Stress Test",
+        "steps": [
+          "Instead of arbitrary scenarios, use historical frequencies: 15% probability of 20% income drop (recession), 5% probability of 50% asset decline (crisis), 2% probability of both simultaneously (depression).",
+          "Calculate expected value of disaster: (Debt payments × Probability × Severity) across scenarios.",
+          "Compare this 'mathematical fear' to your current emergency fund. The gap represents your psychological discount—the risk you're ignoring because it feels remote.",
+          "Adjust liquidity until expected disaster value represents less than 10% of liquid assets, forcing engagement with actual probabilities rather than feelings."
+        ]
+      }
+    ],
+    "risk_notes": "Deflationary periods transform debt management from arithmetic problem to psychological trap: as asset values and incomes fall simultaneously, the rational response (pay down debt) becomes mathematically impossible, creating learned helplessness. The 'sunk cost fallacy' manifests as doubling down on bad debt decisions to avoid admitting error, while 'normalcy bias' causes systematic underestimation of correlated risks. Ironically, excessive debt avoidance can be as dangerous as over-leverage—the opportunity cost of missed investments compounds silently while default risk screams. The optimal balance isn't found in spreadsheets but in managing the tension between two truths: (1) debt magnifies both gains and losses, and (2) human psychology is asymmetrically bad at anticipating losses. The ultimate risk isn't carrying debt—it's carrying debt while believing your psychological immunity to collective delusions is higher than everyone else's.",
+    "sources": [
+      {
+        "title": "The Big Debt Crisis by Ray Dalio",
+        "url": "https://www.principles.com/big-debt-crises/"
+      },
+      {
+        "title": "Federal Reserve Economic Data (FRED) on Household Debt",
+        "url": "https://fred.stlouisfed.org/categories/32242"
+      },
+      {
+        "title": "Manias, Panics and Crashes by Charles Kindleberger",
+        "url": "https://www.palgrave.com/gp/book/9781137525758"
+      },
+      {
+        "title": "Thinking in Bets by Annie Duke",
+        "url": "https://www.annieduke.com/thinking-in-bets"
+      }
+    ],
+    "meta": {
+      "id": "Debt crisis prevention",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Debt management",
+        "Risk identification"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "2f687777-af02-41ac-bd90-8f0f4cf661c6",
     "date": "2026-01-24",
     "topic": "Consumer Rights in Finance: The Guardrails That Prevent Markets From Becoming Casinos",
