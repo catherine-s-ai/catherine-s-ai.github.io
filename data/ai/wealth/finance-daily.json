@@ -1,5 +1,72 @@
 [
   {
+    "id": "b0769365-f5d3-4655-8816-3dd3e8d23647",
+    "date": "2026-01-28",
+    "topic": "Portfolio Diversification: The Free Lunch That Isn't Free",
+    "teaser": "The 17th-century merchant who owned 200 ships and still lost everything in the tulip bubble—why your 'diversified' portfolio might be just as fragile.",
+    "summary": "In 1637, a Dutch merchant who owned shares in 200 different ships—what seemed like the ultimate diversified portfolio—lost everything when the tulip bubble burst. His mistake wasn't lack of diversification, but a failure to identify independent return drivers. He owned ships, but they were all sailing in the same economic waters, all exposed to the same speculative fever that gripped the Netherlands. This historical lesson reveals the fundamental truth about diversification: **it's not about spreading bets; it's about understanding what you're actually betting on.**\n\nAt its core, portfolio diversification is the systematic reduction of uncompensated risk by holding assets whose returns don't move in perfect sync. The first principle here is that all investments contain two types of risk: **systematic risk** (market-wide, unavoidable) and **idiosyncratic risk** (specific to that asset, diversifiable). Diversification eliminates idiosyncratic risk while preserving expected returns—what economists call the 'free lunch' in finance. But like most free lunches, this one comes with hidden costs and conditions.\n\nWhy does this matter right now? Because your portfolio likely contains hidden concentrations you can't see. That 'safe' S&P 500 index fund might be 25% technology stocks. That 'diversified' retirement account might have just five companies representing 40% of its value. Without proper diversification, you're taking risks the market won't pay you for—essentially working for free while exposing yourself to unnecessary volatility. The problem isn't that you're not diversified; it's that you're probably diversified across the wrong dimensions, creating the illusion of safety while missing the actual risks.\n\nThe mathematics behind this is elegant: by combining assets with imperfect correlations, you can create portfolios that offer the same expected return with lower volatility, or higher returns with the same risk. But the practical implementation is where most investors fail. They add more assets thinking they're reducing risk, when in reality they're often just adding complexity without addressing the fundamental question: what are the independent return drivers in this portfolio? The Dutch merchant had 200 ships, but they were all sailing in the same storm.",
+    "key_points": [
+      "Diversification works because correlation coefficients are unstable—what moves together today might diverge tomorrow. The 2008 financial crisis proved this when supposedly uncorrelated assets all crashed simultaneously.",
+      "The optimal diversification point isn't 'more assets' but 'enough uncorrelated return streams.' Research shows 20-30 stocks capture most diversification benefits; beyond that, you're just collecting paperwork.",
+      "True diversification requires thinking in multiple dimensions: not just asset classes, but also geography, currency, duration, and liquidity. Most investors only diversify across the first dimension."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Effective Number of Bets",
+        "steps": [
+          "List every holding in your portfolio (stocks, bonds, funds, etc.)",
+          "Group them by independent return drivers (e.g., US large-cap growth, emerging markets value, short-term bonds)",
+          "Count how many truly independent return streams you have (hint: most S&P 500 stocks aren't independent)",
+          "If your number is below 5-7, you're likely overconcentrated; if above 30, you might be over-diversified"
+        ]
+      },
+      {
+        "title": "Run a Historical Stress Test",
+        "steps": [
+          "Take your current portfolio allocation",
+          "Check what happened to similar allocations during March 2020 (COVID crash)",
+          "Check what happened during October 2008 (financial crisis)",
+          "Check what happened during March 2000 (dot-com bubble burst)",
+          "Note: Did everything move together? Did your 'diversifiers' actually diversify?"
+        ]
+      },
+      {
+        "title": "Identify Your Three Largest Hidden Concentrations",
+        "steps": [
+          "Analyze your portfolio by sector exposure (what percentage is technology, healthcare, etc.)",
+          "Analyze by geographic tilt (what percentage is US vs. international)",
+          "Analyze by factor exposure (are all your stocks 'growth' or 'quality' stocks?)",
+          "List the three largest concentrations you weren't previously aware of"
+        ]
+      }
+    ],
+    "risk_notes": "Diversification creates the illusion of safety while exposing you to 'diworsification'—adding assets that dilute returns without reducing risk. The psychological trap is believing you're protected when you've merely created complexity. During systemic crises, correlations converge toward 1.0, making diversified portfolios feel undiversified just when you need protection most. Also, over-diversification can lead to 'closet indexing'—paying active management fees for passive-like returns. Remember: diversification protects against ignorance, not against being wrong about the market's direction.",
+    "sources": [
+      {
+        "title": "\"A Random Walk Down Wall Street\" by Burton Malkiel",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      },
+      {
+        "title": "Portfolio Charts - Tools for visualizing diversification",
+        "url": "https://portfoliocharts.com/"
+      }
+    ],
+    "meta": {
+      "id": "Portfolio diversification",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Asset allocation",
+        "Risk reduction"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "b3c6bd1e-33ab-43b7-a950-9397ab8c76e3",
     "date": "2026-01-27",
     "topic": "The Biological Roots of Risk and Return",
