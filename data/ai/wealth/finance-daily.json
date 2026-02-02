@@ -1,5 +1,72 @@
 [
   {
+    "id": "4ce9950d-6df2-4f4b-b660-75367806da8c",
+    "date": "2026-02-02",
+    "topic": "Investment Psychology Biases",
+    "teaser": "Your brain's survival instincts are sabotaging your portfolio—here's how to spot and stop them before your next trade.",
+    "summary": "**The stock market isn't a casino; it's a mirror reflecting your own cognitive biases, where the most dangerous opponent is the one staring back at you from the screen.**\n\nAt first glance, this might sound like philosophical musing, but it's grounded in decades of behavioral finance research. **Investment psychology biases** are systematic errors in thinking that distort financial decisions, and they're not random flaws—they're evolutionary shortcuts our brains developed for survival. Our ancestors needed to prioritize immediate threats (loss aversion), follow the herd (social proof), and overestimate their control over situations (overconfidence) to survive in a dangerous world. These instincts worked beautifully when the threat was a predator, but they misfire catastrophically in complex, probabilistic markets where delayed gratification and independent analysis are the actual keys to success.\n\n**Why does this matter right now?** In today's volatile markets saturated with information overload, these biases operate silently in the background, eroding your returns through predictable patterns: panic selling during market dips, chasing investment fads at their peaks, or holding onto losing positions out of pride. Each of these mistakes compounds over time. Research shows that individual investors underperform the market by approximately 1.5% annually due to behavioral errors alone—a seemingly small percentage that translates to hundreds of thousands of dollars in lost wealth over an investing lifetime. Ignoring these psychological traps means leaving substantial money on the table and risking financial setbacks that can derail long-term goals.\n\nThe most insidious aspect is that these biases feel completely rational in the moment. When you sell during a downturn, it feels like prudent risk management. When you buy a hot stock everyone's talking about, it feels like joining a smart consensus. This is why **awareness alone isn't enough**—you need systems and practices to counteract these hardwired tendencies. The market doesn't reward what feels right; it rewards what is statistically and fundamentally sound. Your job isn't to eliminate emotion (an impossible task), but to recognize when your ancient brain is responding to modern financial markets with Stone Age programming, and to have protocols in place that override those impulses.",
+    "key_points": [
+      "Loss aversion isn't just fear of losing money—it's the irrational reality that the pain of a loss feels approximately twice as powerful as the joy of an equivalent gain, causing investors to exit winning positions prematurely while holding losers too long.",
+      "Overconfidence manifests as the illusion of control, where investors mistake random luck for personal skill, often visible in excessive trading that incurs hidden costs and consistently underperforms simple index strategies.",
+      "Confirmation bias acts as a mental filter, selectively seeking information that supports existing beliefs while ignoring contradictory evidence, effectively turning your portfolio into an echo chamber of your own unexamined assumptions.",
+      "These biases aren't personal failures but evolutionary adaptations that served survival needs in our ancestral environment—understanding their origins helps depersonalize them and create effective counter-strategies."
+    ],
+    "practice": [
+      {
+        "title": "Bias Audit",
+        "steps": [
+          "Review your last 10 investment decisions (trades, adjustments, or allocations).",
+          "For each decision, identify and label the probable psychological bias at play (e.g., 'sold early due to loss aversion,' 'bought because of social proof').",
+          "Calculate the hypothetical return if you had followed a fundamentals-based strategy instead, using market benchmarks or original investment theses as reference points.",
+          "Document patterns in a journal to identify your most frequent bias triggers."
+        ]
+      },
+      {
+        "title": "Pre-Mortem Analysis",
+        "steps": [
+          "Before making any new investment, write down three specific, evidence-based reasons why this decision might fail.",
+          "Research and document at least one credible counter-argument from a source you normally disagree with or avoid.",
+          "Require yourself to address these potential failures in your investment thesis before proceeding.",
+          "File this analysis alongside your investment records for future review."
+        ]
+      },
+      {
+        "title": "24-Hour Cooling Protocol",
+        "steps": [
+          "When you feel any emotional impulse to trade (fear, excitement, FOMO), implement a mandatory 24-hour waiting period.",
+          "During this period, research one substantive counter-argument from a credible source with a different perspective.",
+          "After 24 hours, reassess the decision using a predetermined checklist of fundamental criteria.",
+          "Only proceed if the decision passes both the emotional cooling period and the fundamental checklist."
+        ]
+      }
+    ],
+    "risk_notes": "While understanding investment psychology biases is crucial, this framework carries significant risks if misapplied. The most common failure mode is **analysis paralysis**, where fear of biases prevents any decision-making at all. Another danger is using psychological explanations to rationalize poor outcomes ('It was just my loss aversion') rather than addressing fundamentally flawed strategies. Hidden risks include the **Dunning-Kruger effect**, where beginners underestimate their susceptibility to biases, and the trap of believing that mere awareness eliminates biases without implementing disciplined systems. Additionally, overemphasis on individual psychology can lead to neglecting macroeconomic factors, valuation metrics, or portfolio construction principles. These practices work best as complements to—not replacements for—sound financial fundamentals.",
+    "sources": [
+      {
+        "title": "Thinking, Fast and Slow by Daniel Kahneman",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      },
+      {
+        "title": "The Psychology of Money by Morgan Housel",
+        "url": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
+      }
+    ],
+    "meta": {
+      "id": "Investment psychology biases",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Fear & greed",
+        "Overconfidence"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "d49ef1c8-4653-4ac2-991b-a6eb695a2486",
     "date": "2026-02-01",
     "topic": "Behavioral Finance: Why Your Brain Is Your Worst Financial Enemy",
