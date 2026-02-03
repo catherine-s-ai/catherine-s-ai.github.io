@@ -1,5 +1,72 @@
 [
   {
+    "id": "462a63f9-8207-40fd-b8a5-982f87b77c2a",
+    "date": "2026-02-03",
+    "topic": "Risk-Adjusted Returns: The Math That Separates Skill From Luck",
+    "teaser": "Wall Street rejected the Nobel-winning formula that exposed their 'star fund managers' as glorified gamblers—here's how to use it to protect your wealth.",
+    "summary": "In 1960, William Sharpe couldn't get a Wall Street job because he was 'too academic.' The real reason was more damning: his emerging mathematics threatened to expose the industry's core business model as intellectual bankruptcy. While teaching at UC Irvine, he developed a simple formula that would eventually win him a Nobel Prize—while Wall Street was still measuring performance with crude return percentages that hid dangerous gambling behind the veneer of 'investment strategy.' His creation, the **Sharpe ratio**, answered a question nobody on Wall Street wanted asked: *How much return are you actually earning per unit of risk you're taking?*\n\nAt first principles, all investing involves trading potential return for potential loss. You can't get higher returns without accepting higher risk—but the critical insight Sharpe provided was that we can **quantify this trade-off**. Risk-adjusted measures like the Sharpe and Sortino ratios work by dividing your excess returns (above a risk-free rate like Treasury bills) by your volatility or downside deviation. This reveals whether those impressive returns came from genuine skill or simply from taking dangerous, potentially catastrophic risks that clients didn't understand. Sharpe's formula showed that most 'star fund managers' were just taking hidden risks while collecting performance fees for what was essentially glorified gambling.\n\nWhy does this matter right now? With markets at all-time highs and volatility creeping back in, you're probably looking at your portfolio returns with satisfaction. But are those returns worth the sleepless nights? Without risk adjustment, you might be celebrating returns that actually came from taking foolish risks—like a gambler celebrating a big win while ignoring how much they could have lost. This is precisely how investors get wiped out during corrections. The 2008 financial crisis wasn't caused by people earning low returns; it was caused by people taking risks they didn't understand, masked by what looked like 'great performance' on the surface. Risk-adjusted measures strip away that illusion, showing you what you're really buying: Are you paying for skill, or just for danger?",
+    "key_points": [
+      "The Sharpe ratio assumes all volatility is bad, but the Sortino ratio recognizes that only downside volatility matters—this is the difference between fearing turbulence on a flight versus fearing the plane might crash.",
+      "Compounding works best with smooth returns—volatility destroys geometric returns through the mathematics of sequence of returns risk. This is why the tortoise consistently beats the hare in wealth creation.",
+      "These ratios work best when comparing similar strategies—comparing Sharpe ratios across asset classes is like comparing a submarine's speed to an airplane's: different environments require different risk frameworks.",
+      "The most dangerous psychological trap is mistaking mathematical sophistication for actual safety. Long-Term Capital Management's beautiful risk models ignored regime changes and collapsed spectacularly in 1998—a perfect example of how a high Sharpe ratio can hide catastrophic tail risks that only appear during black swan events."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Portfolio's Sharpe Ratio",
+        "steps": [
+          "Gather your portfolio's monthly returns for the last 3 years (36 data points)",
+          "Calculate the average monthly return using Excel's AVERAGE function",
+          "Subtract the current 3-month Treasury bill rate (annualized, divided by 12 for monthly) to get excess returns",
+          "Calculate the standard deviation of your monthly returns using Excel's STDEV function",
+          "Divide your average excess return by the standard deviation, then multiply by √12 to annualize",
+          "Warning: These calculations give you historical risk-adjusted returns, which are backward-looking. The future may have different risk characteristics—this is why Warren Buffett says past performance is for the birds."
+        ]
+      },
+      {
+        "title": "Compare Two Funds Using Real Data",
+        "steps": [
+          "Choose two funds you own or are considering—preferably in the same category (e.g., two large-cap growth funds)",
+          "Look up their 5-year Sharpe and Sortino ratios on Morningstar or Yahoo Finance",
+          "Notice which fund has higher risk-adjusted returns—not just higher raw returns",
+          "Ask: 'Would I prefer the fund with 15% returns and 25% volatility, or 12% returns with 10% volatility?'"
+        ]
+      },
+      {
+        "title": "The Mental Model Exercise",
+        "steps": [
+          "Consider: Fund A returns 12% with 20% annual volatility",
+          "Consider: Fund B returns 10% with 8% annual volatility",
+          "Assume a 2% risk-free rate (Treasury bills)",
+          "Calculate: Fund A Sharpe = (12%-2%)/20% = 0.5, Fund B Sharpe = (10%-2%)/8% = 1.0",
+          "Realization: Fund B delivers twice the return per unit of risk—this is why rational investors choose consistency over excitement",
+          "Now imagine Fund A loses 40% in a bad year while Fund B loses 15%—which recovery requires more time and emotional fortitude?"
+        ]
+      }
+    ],
+    "risk_notes": "These measures fail spectacularly during black swan events when correlations break down and 'risk' becomes something these formulas never anticipated. They create psychological traps: fund managers can game Sharpe ratios by taking hidden tail risks (like selling insurance on rare events), and investors become overconfident in backtested ratios that may not predict future risk-return relationships. Most dangerously, the mathematics creates an illusion of precision—a beautiful 1.5 Sharpe ratio feels 'safe,' but it might be hiding exposure to a 2008-style collapse. Always remember: No mathematical formula can capture every form of risk, especially the risks we haven't experienced yet.",
+    "sources": [
+      {
+        "title": "Morningstar's explanation of risk-adjusted measures with real fund examples",
+        "url": "https://www.morningstar.com/invglossary/risk_adjusted_return.aspx"
+      }
+    ],
+    "meta": {
+      "id": "Risk-adjusted performance measures",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Sharpe ratio",
+        "Sortino ratio"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "4ce9950d-6df2-4f4b-b660-75367806da8c",
     "date": "2026-02-02",
     "topic": "Investment Psychology Biases",
