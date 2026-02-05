@@ -1,5 +1,66 @@
 [
   {
+    "id": "81ffc5b6-4d6e-41fd-b8fd-be0b4eaa3c28",
+    "date": "2026-02-05",
+    "topic": "The Hidden Architecture of Financial Ethics: Why Your Advisor's Incentives Matter More Than Their Advice",
+    "teaser": "What if the most dangerous threat to your wealth isn't market crashes or inflation, but the perfectly legal incentives embedded in every financial relationship?",
+    "summary": "The 1929 crash revealed a brutal truth: brokers sold worthless securities while preaching 'hold for the long term.' That era's explicit fraud has evolved into today's more insidious architecture. Modern conflicts aren't illegal acts but system-embedded misalignments—fee structures that reward complexity over performance, product shelves where placement determines recommendation, and compensation models that prioritize firm revenue over client outcomes. These are the 'legalized' asymmetries that create what economists call agency costs: the gap between what you pay for and what you receive. **Professional standards** aren't compliance rituals; they're the structural engineering that prevents natural information imbalances from becoming systematic exploitation. At the atomic level, all financial relationships suffer from knowledge asymmetry—advisors, firms, and institutions always know more than you. Ethics serve as the circuit breakers in this system, the engineered safeguards that transform predatory asymmetry into productive partnership. **Disclosure** isn't bureaucratic paperwork; it's transparency engineering that makes invisible incentives visible. **Conflicts of interest** aren't moral failings but structural flaws in the incentive architecture—like building with materials guaranteed to fail under stress. The 'ethics tax' you pay today—estimated at 1-2% annually through obscured fees and biased recommendations—isn't theft but the natural outcome of unexamined system design. Compounded over decades, this leak represents the difference between retiring at 55 versus 65. As Morgan Housel observes in *The Psychology of Money*, uncertainty creates room for error—and ethical failures thrive in that gap. Understanding these first principles moves you from passive investor to informed architect of your financial future.",
+    "key_points": [
+      "The Agency Theory Foundation: At the molecular level, every financial relationship is an agency problem—you (the principal) delegate decisions to someone (the agent) with different incentives. The 'Chinese Wall' isn't just a metaphor; it's the structural solution to this fundamental tension. When firms prioritize sales culture over fiduciary duty, that wall becomes permeable, allowing conflicts to flow through what should be impermeable barriers.",
+      "The Menu Economics of Financial Products: Like restaurants featuring profitable dishes over nutritious ones, financial firms design product shelves based on firm economics, not client outcomes. This isn't conspiracy but simple incentive alignment—what gets measured gets managed, and what gets compensated gets sold. Ethical advisors don't just show you the menu; they reveal the kitchen's profit margins and ingredient sourcing.",
+      "The Three-Body Problem as Structural Tension: Your interests, your advisor's interests, and the firm's interests form an unstable gravitational system. This isn't a metaphor but a mathematical reality—three bodies in motion create chaotic, unpredictable outcomes. True alignment requires deliberate engineering: fee structures tied to outcomes, transparency in compensation, and governance that penalizes misalignment. Without this engineering, the system naturally drifts toward the firm's gravity well."
+    ],
+    "practice": [
+      {
+        "title": "Conduct a Structural Conflict Audit",
+        "steps": [
+          "Map your entire portfolio—every holding, account, and relationship.",
+          "For each element, identify: (1) Who profits from growth? (2) Who profits from transactions? (3) Who profits from complexity?",
+          "Note where these interests diverge—these are your agency cost hotspots.",
+          "Based on your audit, draft one specific question to ask your advisor at your next review (e.g., 'How does your compensation change if I implement this recommendation?')."
+        ]
+      },
+      {
+        "title": "Run the Fiduciary Stress Test",
+        "steps": [
+          "When receiving advice, pause and apply this filter: 'If my advisor were legally required to act as a fiduciary in this moment, would the recommendation change?'",
+          "Imagine the advisor had to invest their personal retirement savings using the same strategy they're recommending to you.",
+          "If either test reveals misalignment, demand to see the incentive architecture behind the recommendation."
+        ]
+      },
+      {
+        "title": "Calculate and Monitor Your Ethics Tax",
+        "steps": [
+          "Take 1.5% of your portfolio value as a conservative estimate of annual agency costs.",
+          "Use a compound calculator: project 30-year growth with and without this leak.",
+          "Convert the difference into retirement years lost—this makes the abstract cost concrete.",
+          "Recalculate annually and track progress as you implement structural changes."
+        ]
+      }
+    ],
+    "risk_notes": "The greatest danger isn't illegal acts but **structural capture**—when 'standard industry practices' become so normalized that no one questions their ethical foundations. Compliance theater creates the illusion of safety while preserving profitable misalignments. Psychological traps include 'expertise deference' (assuming credentials guarantee ethics) and 'brand trust' (confusing marketing with integrity). The most pernicious conflicts are those everyone has tacitly agreed not to notice—embedded in compensation grids, product placement fees, and revenue-sharing agreements. Stay vigilant by focusing on incentive architecture, not assurances.",
+    "sources": [
+      {
+        "title": "Misbehaving: The Making of Behavioral Economics by Richard Thaler",
+        "url": "https://www.richardhthaler.com/books/misbehaving/"
+      }
+    ],
+    "meta": {
+      "id": "Ethics & professional standards",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Disclosure",
+        "Conflicts of interest"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "345b1a7e-0635-4153-858d-0354c03f7acf",
     "date": "2026-02-04",
     "topic": "The Hidden Cost of Trying to Beat the Market: Why Passive Investing Wins",
