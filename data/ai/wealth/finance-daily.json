@@ -1,5 +1,84 @@
 [
   {
+    "id": "f48d4e4e-ff1b-4298-b20d-5246ea609293",
+    "date": "2026-02-06",
+    "topic": "Fixed Income: Ancient Psychology in Modern Finance",
+    "teaser": "Your 'safe' cash is being confiscated at 5-8% annually. Discover the 4,400-year-old debt instrument that reveals why humans keep making the same financial mistakes—and how to stop.",
+    "summary": "**In 2400 BC, the city of Ur issued the first recorded bond to fund a temple construction—making debt financing older than money itself.** This isn't just financial archaeology; it's a window into three timeless human behaviors that still drive bond markets today: **1) Our innate preference for present consumption over future promises** (time preference), **2) Our need for institutional trust to bridge that gap** (Ur's temple priests as the original credit rating agency), and **3) Our tendency to underestimate tail risks when promises feel certain** (the psychological comfort of fixed payments).\n\n**Fixed income products are contracts where you lend money today in exchange for predetermined future payments—ancient psychology codified into modern instruments.** They operate on three first principles unchanged since Ur: **1) Time has value** (we demand compensation for deferring consumption), **2) Risk requires compensation** (default, inflation, and interest rate risks), and **3) Contracts create enforceable obligations** (the temple bond was carved in stone—literally). Bonds are **time machines for capital with risk-adjusted tolls**, transporting money through time while charging fees for the journey's uncertainties.\n\n**Why does this ancient psychology matter now?** Because we're living through a **monetary regime change** that tests these timeless behaviors. After 40 years of falling interest rates (1982-2021), central banks have shifted to a rising rate environment—a change that occurs only once per generation. Your cash savings are being systematically devalued at 5-8% annually through inflation, yet the psychological comfort of 'safe' nominal returns blinds investors to this silent confiscation. The 2022 collapse of the traditional 60/40 portfolio wasn't an anomaly; it was a warning that 'risk-free' is a **time-bound illusion**. When monetary regimes shift, the ancient human tendency to reach for yield in low-rate environments (like drinking saltwater when thirsty) becomes catastrophic. Understanding fixed income today isn't about chasing returns—it's about **preventing the erosion of your purchasing power** while the financial system resets.",
+    "key_points": [
+      "The yield curve is the market's collective prediction of future economic pain or pleasure, distilled into a single shape. An inverted curve doesn't just predict recession—it causes it by making long-term investment uneconomical. **Historical evidence**: The yield curve inverted before every U.S. recession since 1955, including 18 months before the 2008 crisis and 12 months before the 2020 pandemic downturn. When short-term rates exceed long-term rates, banks stop lending for productive investment, creating a self-fulfilling prophecy.",
+      "Bond duration measures more than interest rate sensitivity; it quantifies how long you must wait to recover your principal in a changing rate environment. Think of it as the 'breakup cost' of a financial relationship—the pain of exiting when rates rise. **A 10-year Treasury with 7-year duration means you need 7 years of reinvested coupons to offset a 1% rate increase.** This mathematical reality explains why 'safe' bonds lost 15% in 2022 when rates rose 4%.",
+      "Credit ratings aren't safety guarantees—they're probability distributions of default. A BBB rating means approximately 0.5% annual default risk, which compounds to nearly 10% probability of loss over 20 years. **Concrete example**: During the 2008 crisis, AAA-rated corporate bonds had 0.1% default rates while B-rated bonds saw 10% defaults—a 100x difference masked by the comfort of letter grades. This distribution mindset reveals that 'investment grade' is a continuum of risk, not a binary safe/unsafe classification.",
+      "Fixed income fails catastrophically during monetary regime changes because investors forget that 'risk-free' is a time-bound illusion. The psychological trap is 'reach for yield'—taking more risk for less compensation when rates are low. **This behavior mirrors Ur's temple bonds**: ancient investors accepted lower yields from temple-backed debt (perceived as safe) while ignoring inflation's erosion, just as modern investors chased high-yield bonds in 2021 while ignoring duration risk. The pattern repeats because the psychology is ancient."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Real Yield",
+        "steps": [
+          "Take any cash or bond yield you're currently earning (e.g., 4% on a Treasury)",
+          "Subtract **expected future inflation** (use 10-year breakeven rates from TIPS, not lagging CPI—find at FRED)",
+          "The result is your forward-looking real yield (e.g., 4% yield minus 2.5% expected inflation = 1.5% real)",
+          "Most discover they're earning negative real yields—paying for the illusion of safety",
+          "Track quarterly: if real yield turns negative, you're losing purchasing power guaranteed"
+        ]
+      },
+      {
+        "title": "Map Your Personal Duration Gap",
+        "steps": [
+          "List all assets with their durations: cash (duration=0), bonds (use fund duration or maturity), stocks (duration≈20 years for long-term equity)",
+          "List all liabilities with their time horizons: mortgage (duration=remaining term), loans, future needs",
+          "Calculate weighted average duration: Σ(Asset value × Duration) / Total assets",
+          "Calculate liability duration similarly",
+          "**Gap = Asset duration - Liability duration**. Negative gap means you're funding long-term goals with short-term instruments—guaranteeing reinvestment risk when rates fall"
+        ]
+      },
+      {
+        "title": "Conduct a Mental Default Experiment",
+        "steps": [
+          "Pick one bond fund you own or are considering (e.g., corporate bond ETF)",
+          "Imagine the largest issuer defaults tomorrow (check top 10 holdings)",
+          "Walk through exactly what happens: price drops 30-50%, fund rebalances, recovery process begins",
+          "Research who gets paid first: secured debt > senior unsecured > subordinated > equity",
+          "Estimate recovery time—historical average is 3-5 years for corporate defaults",
+          "Most investors never do this until it's too late, relying on credit ratings as cognitive shortcuts"
+        ]
+      }
+    ],
+    "risk_notes": "Fixed income creates the illusion of certainty while hiding inflation risk—a guaranteed 3% return means guaranteed loss when inflation is 5%. The 'reach for yield' phenomenon in low-rate environments causes investors to systematically take more risk for less compensation, like drinking saltwater when thirsty. Bonds fail catastrophically during monetary regime changes (as seen in 2022), not because they're inherently risky, but because investors forget that 'risk-free' is a time-bound illusion. The psychological comfort of fixed payments can blind you to the silent confiscation of purchasing power through inflation—a pattern unchanged since Ur's temple bonds.",
+    "sources": [
+      {
+        "title": "The Bond Book by Annette Thau",
+        "url": "https://www.amazon.com/Bond-Book-Third-Everything-Need/dp/007166470X"
+      },
+      {
+        "title": "FRED Economic Data - Yield Curve Analysis",
+        "url": "https://fred.stlouisfed.org/categories/32255"
+      },
+      {
+        "title": "NBER Paper: Yield Curve as Predictor of U.S. Recessions",
+        "url": "https://www.nber.org/papers/w14095"
+      },
+      {
+        "title": "Moody's Default and Recovery Rates 2008-2023",
+        "url": "https://www.moodys.com/researchdocumentcontentpage.aspx?docid=PBC_1354105"
+      }
+    ],
+    "meta": {
+      "id": "Fixed income & interest-rate products",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Bond valuation",
+        "Yield curve"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "81ffc5b6-4d6e-41fd-b8fd-be0b4eaa3c28",
     "date": "2026-02-05",
     "topic": "The Hidden Architecture of Financial Ethics: Why Your Advisor's Incentives Matter More Than Their Advice",
