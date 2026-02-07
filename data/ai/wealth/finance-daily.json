@@ -1,5 +1,76 @@
 [
   {
+    "id": "264c1534-bfe0-435e-9d53-ebf5c0d5d185",
+    "date": "2026-02-07",
+    "topic": "Equity Ownership: The First Principles of Stock Investing",
+    "teaser": "What if the secret to surviving market crashes isn't timing—but something Coca-Cola shareholders discovered a century ago?",
+    "summary": "**In 1919, a bottle of Coca-Cola cost 5 cents. Today, that same nickel buys you nothing—but one share purchased then would have survived two world wars, the Great Depression, and multiple recessions to become worth over $10 million.** This isn't magic; it's the mathematical reality of business ownership. Most investors make a critical mistake from day one: they think they're buying ticker symbols on a screen. They watch green and red numbers dance, place bets on momentum, and treat the market like a casino. But here's the fundamental reality you're missing: when you buy a stock, you're purchasing a fractional ownership stake in a **real business**—one that employs people, pays taxes, solves customer problems, and competes in the marketplace every single day.\n\nLet's break this down to first principles. **Equity represents ownership in a corporation**, which means three things: 1) Businesses create value by addressing human needs (think Apple solving communication, Amazon solving convenience), 2) As an owner, you're entitled to a share of future profits through dividends or retained earnings that grow the business, and 3) Stock prices are simply the market's collective estimate of those future profits, discounted to present value. This isn't speculation—it's **capital allocation to productive enterprises** that drive economic growth.\n\nWhy does this distinction matter right now? **Inflation is the silent thief** eroding your cash savings at 2-3% annually. Over 30 years, that's a 50% loss of purchasing power—your future self will be significantly poorer. Historically, equities have returned 7-10% annually after inflation, making them the only reliable vehicle for **long-term wealth preservation and growth**. Your retirement security, your children's education, your financial independence—they all depend on understanding this mathematical reality. The market may fluctuate wildly in the short term (it's a voting machine), but over decades it becomes a weighing machine that rewards business fundamentals.\n\nWhen you internalize that you're a business owner rather than a gambler, everything changes. You stop checking prices daily and start analyzing financial statements. You worry less about volatility and more about permanent capital loss. You recognize that equity returns come from only three sources: dividend yield, earnings growth, and valuation multiple changes. This mindset shift transforms investing from a stressful game of chance into a disciplined process of **building ownership in the world's most productive enterprises**.",
+    "key_points": [
+      "The market can stay irrational longer than you can stay solvent—but business fundamentals eventually determine price. Focus on what the scale will measure, not the daily voting.",
+      "Your biggest risk isn't price volatility but permanent capital loss from overpaying for growth. Every bubble in history began with a compelling narrative and ended with broken math.",
+      "All equity returns decompose into three components only: dividend yield, earnings growth, and changes in valuation multiples. Most investors chase the third while the first two do the real work.",
+      "Inflation compounds silently but relentlessly—equities aren't just growth vehicles but essential preservation tools. Cash is a melting ice cube; ownership is a furnace."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Owner's Earnings for One Holding",
+        "steps": [
+          "Select one stock you own or are considering",
+          "Find its net income, depreciation, and maintenance capital expenditures (capex) from the latest annual report",
+          "Calculate: (Net Income + Depreciation - Maintenance Capex) / Shares Outstanding",
+          "Compare this 'owner's earnings per share' to the reported EPS—which better reflects true economic profitability?"
+        ]
+      },
+      {
+        "title": "Assess Your Portfolio's Valuation Temperature",
+        "steps": [
+          "List all equity holdings with their current price-to-earnings (P/E) ratios",
+          "Calculate the weighted average P/E across your portfolio",
+          "Compare to the S&P 500's historical average (~16x) and current level (~20x)",
+          "Ask: 'Am I paying premium prices for average businesses?'"
+        ]
+      },
+      {
+        "title": "Conduct a Pre-Mortem Before Investing",
+        "steps": [
+          "Before buying any stock, write down three specific ways this investment could fail completely",
+          "Detail what business fundamentals would deteriorate (e.g., losing competitive moat, management mistakes)",
+          "Visualize holding through a 50% decline—what would you tell yourself about the business, not the price?",
+          "Keep this document and review it quarterly to confront your own blind spots"
+        ]
+      }
+    ],
+    "risk_notes": "Equities face two distinct dangers: economic and psychological. During liquidity crises, even excellent businesses can become untradeable—correlation spikes when panic hits, making diversification feel illusory. Psychologically, investors commonly: 1) Mistake a rising market for personal genius, 2) Anchor to their purchase price rather than current intrinsic value, and 3) Underestimate mean reversion in valuations (what goes up too far usually comes down). The hidden risk isn't volatility but the combination of overvaluation and leverage during systemic stress.",
+    "sources": [
+      {
+        "title": "The Intelligent Investor by Benjamin Graham",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "A Random Walk Down Wall Street by Burton Malkiel",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      },
+      {
+        "title": "The Psychology of Money by Morgan Housel",
+        "url": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
+      }
+    ],
+    "meta": {
+      "id": "Equity investments (stocks)",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Stock markets & trading mechanics",
+        "Equity valuation"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "f48d4e4e-ff1b-4298-b20d-5246ea609293",
     "date": "2026-02-06",
     "topic": "Fixed Income: Ancient Psychology in Modern Finance",
