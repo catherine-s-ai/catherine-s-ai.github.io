@@ -1,5 +1,68 @@
 [
   {
+    "id": "b7087821-06ed-4bf0-8843-e4c06266ed9b",
+    "date": "2026-02-13",
+    "topic": "Mutual Funds and ETFs: The Collective Ownership Revolution",
+    "teaser": "How a 250-year-old Dutch invention quietly consumes 25% of your retirement gains—and the simple fix Wall Street hopes you'll ignore.",
+    "summary": "**In 1774, a Dutch merchant named Adriaan van Ketwich did something revolutionary**: he pooled money from multiple investors to buy shares in risky colonial voyages. This first 'mutual fund' wasn't about beating the market—it was about **surviving it**. By spreading risk across multiple ships, investors could withstand individual failures while capturing the upside of successful voyages. Fast forward to 1924, when the first U.S. mutual fund launched with a similar promise of diversification. Yet it failed to outperform the broader market—a pattern that has haunted **active management** for a century.\n\n**At their core, mutual funds and ETFs are pooled investment vehicles** that hold baskets of assets like stocks or bonds. They allow individuals to buy fractional ownership in hundreds of companies with a single transaction, turning capital into a tool for **collective ownership** rather than speculation. The first principles are simple: they leverage **economies of scale** to lower transaction costs and provide instant diversification. Instead of betting on individual companies, you're buying a slice of entire markets or sectors.\n\n**Why does this matter today?** In our current low-interest-rate environment, cash in savings accounts consistently loses purchasing power to inflation. Meanwhile, the global economy continues growing—and mutual funds and ETFs offer a practical bridge between these realities. They democratize access to markets that were once reserved for institutions and the wealthy. **Ignoring these vehicles means missing decades of compounding returns** that could secure financial independence. Consider this: $10,000 invested in a low-cost S&P 500 index fund in 1990 would be worth over $200,000 today, while the same amount in a savings account would struggle to keep pace with inflation.\n\n**The psychological shift is crucial**: these aren't gambling instruments but ownership tools. When you buy a total market fund, you're not speculating on which company will win—you're betting that human innovation and productivity will continue creating value over time. This transforms investing from a game of stock-picking into a **systematic participation in economic growth**.",
+    "key_points": [
+      "ETFs are the public market's version of mutual funds' private party—tradable intraday, they introduce liquidity but tempt short-term gambling over long-term ownership.",
+      "The expense ratio is a silent tax: a 1% annual fee can consume over 25% of your potential gains over 30 years through compounding erosion.",
+      "Index funds exploit market efficiency by admitting most active managers fail to outperform after fees, turning passivity into strategic advantage.",
+      "True diversification means owning different assets with uncorrelated returns—not just multiple funds holding the same underlying securities."
+    ],
+    "practice": [
+      {
+        "title": "Calculate the Fee Impact",
+        "steps": [
+          "Use a compound interest calculator (like Investor.gov's)",
+          "Input $10,000 initial investment, 7% annual return, 20-year period",
+          "Compare results with 0.1% vs. 1% expense ratios",
+          "Note the difference in final amounts—typically $10,000+"
+        ]
+      },
+      {
+        "title": "Audit Your Portfolio Overlap",
+        "steps": [
+          "List all mutual funds and ETFs you own",
+          "Look up their top 10 holdings (available on fund websites)",
+          "Identify duplicate positions across funds",
+          "Eliminate redundant funds to reduce fees and complexity"
+        ]
+      },
+      {
+        "title": "Stress-Test Your Risk Tolerance",
+        "steps": [
+          "Research how VTI (total market ETF) performed during March 2020",
+          "Compare with ARKK (innovation-focused ETF) during same period",
+          "Calculate the maximum drawdown difference",
+          "Ask: 'Could I hold through this volatility without selling?'"
+        ]
+      }
+    ],
+    "risk_notes": "These funds create an illusion of safety that can lead to overallocation without understanding underlying risks. During liquidity crunches (like March 2020), some ETFs traded at significant discounts to their net asset value. Sector concentration—particularly in technology—means many 'diversified' funds actually carry hidden single-sector risk. Performance chasing remains a persistent danger: investors frequently buy funds after strong runs, ignoring mean reversion. The psychological comfort of professional management can obscure the reality that no fund manager can consistently time markets or avoid systemic risks.",
+    "sources": [
+      {
+        "title": "Investopedia - Mutual Funds vs. ETFs",
+        "url": "https://www.investopedia.com/articles/exchangetradedfunds/08/etf-mutual-fund-difference.asp"
+      }
+    ],
+    "meta": {
+      "id": "Mutual funds & ETFs",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Index funds",
+        "Active funds"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "a86c759e-4994-4cb3-b338-4ce1c7fd9c98",
     "date": "2026-02-12",
     "topic": "Real Estate Investing Through REITs: From Physical Space to Financial Instrument",
