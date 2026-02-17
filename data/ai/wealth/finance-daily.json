@@ -1,5 +1,67 @@
 [
   {
+    "id": "b0922c27-5827-4f42-a383-a4a986ee849d",
+    "date": "2026-02-17",
+    "topic": "Retirement Accounts: The Accidental Engine of American Wealth",
+    "teaser": "What if your retirement plan was built on a tax loophole that nobody intended? Discover how this historical accident created a suboptimal system—and the counterintuitive strategies to make it work for you anyway.",
+    "summary": "**The 401(k) is a suboptimal solution that became the standard—a historical accident with profound modern consequences.** In 1978, a benefits consultant stumbled upon section 401(k) of the tax code and repurposed a technical footnote into America's primary retirement vehicle. This wasn't designed by financial experts studying optimal savings structures; it was a tax loophole that grew into a $7 trillion system. The tension between its accidental origins and current necessity defines every retirement decision you'll make.\n\n**Retirement accounts are tax-optimized containers, not investments—a first principle that changes everything.** These structures (401(k)s, IRAs, Roth accounts) acknowledge three fundamental realities: 1) Money compounds faster when taxes are deferred or eliminated (the mathematical advantage), 2) Human psychology favors immediate consumption over future security (the behavioral constraint), and 3) Governments incentivize long-term savings to reduce future welfare burdens (the societal alignment). The container matters more than what's inside because it creates the environment where time can work its mathematical magic.\n\n**Every year of delayed contributions costs you more than money—it costs you time, the only truly non-renewable resource in finance.** Consider this: A 25-year-old contributing $500 monthly until 65 at 7% returns accumulates approximately $1.2 million. Wait until 35, and that drops to $567,000. The $633,000 difference represents years of freedom and security that compound growth provides. This isn't just about investment returns—it's about creating structural advantages that protect your money from taxes and your future self from behavioral mistakes.\n\n**The practical implications of this accidental system demand sophisticated navigation.** Because the 401(k) evolved rather than was designed, it contains hidden flaws: fee structures that transfer wealth to intermediaries, withdrawal rules that create decumulation blind spots, and employer plans often optimized for corporate convenience rather than employee benefit. Understanding this history isn't academic—it's the key to recognizing that you're playing a game with accidental rules, requiring you to develop strategies that work within a suboptimal system rather than pretending it's optimal.",
+    "key_points": [
+      "Tax decisions are about seed versus harvest, not prediction games: Choosing between Roth (prepay taxes on the seed) and Traditional (pay taxes on the harvest) accounts isn't about guessing future tax rates—it's about whether you want certainty now or flexibility later. Most people optimize for the wrong variable, trying to predict the unpredictable instead of aligning with their psychological and financial reality.",
+      "Withdrawal penalties are behavioral features, not bugs: The 10% early withdrawal penalty and required minimum distributions aren't design flaws—they're psychological moats that protect your future self from impulsivity during midlife crises or market panics. These constraints acknowledge that we're different people at 25, 45, and 65, with different risk tolerances and judgment capabilities.",
+      "Asset location generates hidden returns through tax efficiency: Holding bonds in tax-deferred accounts and stocks in Roth accounts can create 0.5-1% additional annual returns—not through better investments, but through smarter placement. This 'tax alpha' compounds to decades of extra retirement income, making location as important as allocation in portfolio construction."
+    ],
+    "practice": [
+      {
+        "title": "Run the 'Backdoor Test'",
+        "steps": [
+          "Calculate what percentage of your income you're currently saving for retirement",
+          "Ask: 'If I lost my job tomorrow, could I maintain this savings rate while unemployed?'",
+          "If the answer is no, your retirement plan is fragile to income shocks and needs adjustment"
+        ]
+      },
+      {
+        "title": "Conduct a 'Fee Autopsy'",
+        "steps": [
+          "Log into your 401(k) and find the plan's fee disclosure (usually in the annual notice)",
+          "Multiply the total expense ratio by your current balance—that's what you're paying annually",
+          "Calculate what that fee costs you in 30 years at 7% compound growth",
+          "Example: A 1% fee on a $100,000 balance costs $1,000 annually, but compounds to over $100,000 in lost growth over 30 years"
+        ]
+      },
+      {
+        "title": "Simulate Sequence of Returns Risk",
+        "steps": [
+          "Take your current retirement balance and apply three different 10-year return sequences (all averaging 7% annually)",
+          "Scenario 1: Terrible returns early (-20%, -10%, then strong recovery)",
+          "Scenario 2: Terrible returns late (strong growth, then -20%, -10% at the end)",
+          "Scenario 3: Steady 7% returns each year",
+          "Notice how the early bad sequence devastates outcomes—this is why target-date funds use glide paths"
+        ]
+      }
+    ],
+    "risk_notes": "**The 'Magic Number' Fallacy**: Retirement calculators that spit out a target number create the illusion of precision. They ignore longevity risk (you might live to 100), healthcare inflation (rising at twice general inflation), and the fact that 'safe' withdrawal rates aren't actually safe—they're just historically not catastrophic.\n\n**Institutional Capture**: Many 401(k) plans are stuffed with high-fee funds because employers receive 'revenue sharing' payments. The average American pays 1% in 401(k) fees—a 'wealth tax' that transfers approximately 30% of their potential retirement balance to financial intermediaries over a career.\n\n**The Decumulation Blind Spot**: Everyone focuses on accumulating retirement savings, but few have a plan for decumulation. Withdrawing 4% annually sounds simple until you face a 50% market drop in year one of retirement—now that 4% represents 8% of your remaining portfolio, virtually guaranteeing depletion. The transition from saving to spending requires different strategies than accumulation.",
+    "sources": [
+      {
+        "title": "The Retirement Gamble (PBS Frontline documentary exposing 401(k) fee structures)",
+        "url": "https://www.pbs.org/wgbh/frontline/documentary/retirement-gamble/"
+      }
+    ],
+    "meta": {
+      "id": "Retirement plans",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "401(k)",
+        "IRA"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "14d38c15-70be-4529-848d-1301b84f7748",
     "date": "2026-02-16",
     "topic": "Insurance & Annuities: Risk Transfer and Longevity Protection",
