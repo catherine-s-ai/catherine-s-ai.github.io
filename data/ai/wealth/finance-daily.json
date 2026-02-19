@@ -1,5 +1,87 @@
 [
   {
+    "id": "35c9a7de-fd84-49c1-b3f1-7f74b5c7c47e",
+    "date": "2026-02-19",
+    "topic": "Primary vs. Secondary Markets: The Critical Distinction Between Funding Innovation and Trading Popularity",
+    "teaser": "What if everything you know about 'investing in companies' is wrong? The $100 you pay for Microsoft stock today doesn't go to Microsoft—it goes to another gambler. Here's how this invisible line between funding dreams and trading nightmares costs investors billions.",
+    "summary": "**Picture a farmer auctioning off next year's harvest before planting a single seed. That's the primary market—where companies sell dreams to strangers.** Now imagine those auction tickets being frantically traded in a marketplace where prices swing based on rumors about rainfall. That's the secondary market—where investors trade nightmares.\n\n**This isn't academic theory; it's the fundamental architecture of capitalism that most investors get catastrophically wrong.** When you confuse the harvest auction with the grain exchange, you end up paying for empty silos while real crops rot in the field. The dot-com bubble wasn't about funding innovation—it was about secondary market traders paying $100 for $1 of primary market value, then discovering the companies had no harvest to deliver. SPAC mania repeated this: investors treated secondary market speculation as primary market creation, buying shell companies at 10x their fundamental worth.\n\n**First Principles:** All markets transfer assets, but only primary markets create them. The **primary market** is where securities are born—companies sell ownership to fund actual operations. The **secondary market** is where those securities live—investors trade ownership based on collective psychology. This separation is capitalism's genius: it lets companies raise capital once while allowing continuous price discovery. But it's also capitalism's trap: we mistake secondary market popularity (liquidity, media hype) for primary market soundness (actual business fundamentals).\n\n**The Human Cost:** In 1999, investors poured $100 billion into dot-com IPOs (primary market), then lost $5 trillion in secondary market trading when they discovered the 'harvests' were imaginary. They weren't funding innovation—they were funding hype. Today, when you buy Tesla stock, you're not funding Elon Musk's vision; you're betting against other investors' opinions about that vision. The company got its capital years ago.\n\n**The Bottom Line:** If you want to fund innovation, participate in primary markets through IPOs or direct offerings—but know you're buying unproven dreams. If you want to trade existing assets, participate in secondary markets—but know you're gambling on other people's opinions. Most portfolios mix both, but few understand they're playing two completely different games with different rules, risks, and rewards.",
+    "key_points": [
+      "Primary markets are where companies sell dreams; secondary markets are where investors trade nightmares. One creates value, the other redistributes it.",
+      "Secondary market trading is essentially betting on other people's opinions, not business fundamentals. The price of Apple stock today reflects what investors think other investors will pay tomorrow.",
+      "The gap between primary issuance price and secondary market price measures market psychology, not intrinsic value. A 50% premium doesn't mean the company improved—it means collective delusion expanded.",
+      "Your investment strategy should differ fundamentally: primary markets require assessing execution risk (will they deliver the harvest?), secondary markets require assessing sentiment risk (will others keep believing?).",
+      "High secondary market liquidity creates the illusion of safety—until it evaporates. Primary market illiquidity creates the reality of commitment."
+    ],
+    "practice": [
+      {
+        "title": "IPO Psychology vs. Fundamentals Analysis",
+        "steps": [
+          "Select one recent IPO (e.g., Rivian, Airbnb, or Snowflake)",
+          "Record its initial offering price—this is the 'dream price' investors paid for potential",
+          "Track its first month's trading range—this is the 'nightmare/greed spectrum' of market sentiment",
+          "Calculate the volatility gap: (highest price - lowest price) / offering price",
+          "Now the crucial part: Track media coverage during this period. Note when price swings correlate with narrative shifts rather than fundamental news. When did the story overtake the substance?",
+          "Conclusion: Was this primary market capital formation or secondary market speculation masquerading as investment?"
+        ]
+      },
+      {
+        "title": "Allocation Simulation with Ray Dalio's Decision Framework",
+        "steps": [
+          "Scenario: You have $10,000 to allocate in today's market (high volatility, rising rates)",
+          "Option A: Invest in a new corporate bond issue (primary market)",
+          "Option B: Buy an existing corporate bond on the secondary market",
+          "Apply Dalio's principles: Which option provides better diversification? Which has more predictable cash flows? Which is less correlated with market sentiment?",
+          "Decision: Based on current conditions, would Dalio choose A or B? Why? (Hint: In volatile times, primary markets offer pricing advantages; in stable times, secondary markets offer liquidity advantages.)",
+          "List three reasons for your choice that go beyond textbook answers"
+        ]
+      },
+      {
+        "title": "Portfolio Exposure Assessment with Emotional Stakes",
+        "steps": [
+          "Review your current investment portfolio",
+          "Identify which assets were acquired in primary markets (IPOs, new bond purchases) vs. secondary markets (stock exchange purchases)",
+          "Calculate the percentage allocation to each category",
+          "Now assess the emotional exposure: Primary market holdings should make you nervous about company execution. Secondary market holdings should make you nervous about crowd psychology. Which keeps you up at night?",
+          "Adjust allocation based on which type of risk you're better equipped to handle"
+        ]
+      },
+      {
+        "title": "The 50% Divergence Hunt: Market Inefficiency or Changing Reality?",
+        "steps": [
+          "Find one company whose secondary market price has diverged >50% from its primary issuance price within 12 months",
+          "Analyze the gap: Was it driven by fundamental changes (revenue growth, profit margins) or market inefficiencies (hype, short squeezes, media narrative)?",
+          "Look for the telltale signs: If fundamentals improved 20% but price rose 80%, you've found market psychology at work",
+          "Conclusion: Does this gap represent a buying opportunity (if fundamentals are solid) or a warning sign (if it's pure speculation)?"
+        ]
+      }
+    ],
+    "risk_notes": "This framework fails spectacularly during crises when secondary market liquidity evaporates—trapping investors in 'efficiently priced' assets they can't sell. Hidden risks include: in primary markets, companies often sell harvests they can't grow (over-optimistic projections); in secondary markets, prices can detach from fundamentals for years before crashing (see: Japanese bubble, 1980s). The psychological trap is lethal: we confuse secondary market popularity with primary market soundness, leading to FOMO-driven losses. Remember: secondary market liquidity is a fair-weather friend—it abandons you when storms hit. Primary market illiquidity forces discipline but offers no escape if the dream turns to dust.",
+    "sources": [
+      {
+        "title": "Principles by Ray Dalio",
+        "url": "https://www.principles.com"
+      },
+      {
+        "title": "Devil Take the Hindmost: A History of Financial Speculation by Edward Chancellor",
+        "url": "https://www.edwardchancellor.com/books"
+      }
+    ],
+    "meta": {
+      "id": "Primary & secondary markets",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "IPOs",
+        "Secondary trading"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "82e308ad-f138-4d6e-8360-221d7ec363c2",
     "date": "2026-02-18",
     "topic": "Tax-Advantaged Accounts: The Time Machines of Wealth",
