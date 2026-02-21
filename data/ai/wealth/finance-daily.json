@@ -1,5 +1,68 @@
 [
   {
+    "id": "d22894ac-0e26-402b-a949-1f0fd076f72f",
+    "date": "2026-02-21",
+    "topic": "Dividends and Buybacks: The Owner's Cash Return Decision",
+    "teaser": "What if every dividend check is actually management confessing they can't beat your opportunity cost? The hidden psychology behind cash returns reveals more about a company's future than any earnings report.",
+    "summary": "**For centuries, the tension between stewardship and ownership has defined capitalism—dividends and buybacks are merely the latest battlefield in this ancient war.**\n\nAt first principles, cash is oxygen for a business. When a company generates excess cash, management faces a profound psychological test: Do they believe they can deploy that capital better than you could elsewhere? This isn't about generosity—it's about competitive confidence. The dividend illusion, where investors irrationally prefer predictable cash flows over total returns, has roots in 17th-century Dutch trading companies that established the psychological template we still follow today.\n\nWhy does this distinction matter intensely now? We're witnessing the greatest capital reallocation in modern history. With inflation actively eroding purchasing power and interest rate environments shifting capital costs, understanding these cash return mechanisms becomes crucial for portfolio survival. Companies that consistently return cash often demonstrate mature profitability—their management teams acknowledge that investors might deploy capital more effectively elsewhere. However, this can signal **growth stagnation**, where leadership sees fewer compelling internal investments than what's available in the broader market. Your portfolio's actual cash flow, tax implications, and long-term compounding potential depend directly on how the companies you own navigate this choice.\n\nThis isn't just accounting—it's a window into managerial psychology and capital allocation discipline. The best executives treat shareholder capital with the reverence of a **steward**, recognizing that every dollar retained must compete with alternative uses in the market. When you receive a dividend or benefit from a buyback, you're witnessing management's market timing bet on their own stock—and most executives are terrible market timers. The real question isn't whether cash returns are good or bad, but what they reveal about management's true beliefs about their competitive advantages.",
+    "key_points": [
+      "Dividends as management's confession: Every dividend payment represents management's admission that they can't beat your opportunity cost—it's their way of saying 'we have no better ideas for this cash than you do.'",
+      "Buybacks as executive market timing: Share repurchases are management's bet on their own stock price timing—and historical data shows most executives buy high and sell low, destroying value through poor market intuition.",
+      "The stewardship paradox: True capital allocators return cash when they have no competitive advantages to exploit, but most managers return cash to manipulate earnings per share and stock prices—learning to spot the difference separates investors from speculators.",
+      "Capital structure as truth serum: Companies that borrow to fund buybacks or dividends aren't returning cash—they're transferring risk from corporate balance sheets to shareholder portfolios, often at the worst possible moment in the economic cycle."
+    ],
+    "practice": [
+      {
+        "title": "The Emotional Audit: Track Your Psychological Response to Cash Returns",
+        "steps": [
+          "For one month, record your immediate emotional reaction to every dividend announcement and buyback announcement in your portfolio.",
+          "Note: Do you feel more secure with dividends? More excited by buybacks? Be brutally honest about your biases.",
+          "Compare these emotional responses to the actual financial outcomes 6 months later—does your psychology align with reality?",
+          "Identify one company where your emotional response was strongest and analyze whether that feeling was justified by the capital allocation decision."
+        ]
+      },
+      {
+        "title": "Historical Stress Test: Find a Company That Cut Its Dividend",
+        "steps": [
+          "Identify a company that cut or suspended its dividend during the 2008 financial crisis or COVID-19 pandemic.",
+          "Analyze the 5 years before and after the cut: Did management use the preserved cash to strengthen the business?",
+          "Compare total shareholder returns of the dividend-cutter versus a peer that maintained dividends but took on debt.",
+          "Answer the fundamental question: Was the dividend cut an admission of failure or an act of strategic wisdom?"
+        ]
+      },
+      {
+        "title": "The Opportunity Cost Calculation Most Investors Avoid",
+        "steps": [
+          "Take a company with consistent dividend payments and calculate the total cash returned over the past decade.",
+          "Now research: What strategic investments could that company have made with that cash? What acquisitions were possible? What R&D was foregone?",
+          "Compare the actual shareholder returns from dividends versus hypothetical returns if that cash had been reinvested in the business's highest-conviction opportunities.",
+          "This isn't about finding right answers—it's about confronting the uncomfortable reality of trade-offs in capital allocation."
+        ]
+      }
+    ],
+    "risk_notes": "Psychological trap: The dividend illusion creates false security—investors anchor to yield percentages while ignoring deteriorating fundamentals, like sailors clinging to sinking ships because the deck chairs are comfortable. Structural risk: Buyback programs often become corporate heroin—addictive short-term EPS boosts that mask operational weakness until the next earnings call requires another fix. Hidden failure: The most dangerous capital allocators are those who believe their own buyback timing genius, repurchasing shares at 30x earnings while cutting R&D—they're not returning cash to shareholders but transferring future growth to present-day optics. The ultimate risk isn't in the mechanism but in the mindset behind it.",
+    "sources": [
+      {
+        "title": "Yardeni Research Buyback Reports",
+        "url": "https://www.yardeni.com/pub/buybackdiv.pdf"
+      }
+    ],
+    "meta": {
+      "id": "Dividends & buybacks",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Corporate actions",
+        "Dividend policy"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "2af68a6b-8c5b-4004-a4b2-37beb5683341",
     "date": "2026-02-20",
     "topic": "Stock Exchanges vs. Trading Platforms: The Hidden Architecture of Modern Investing",
