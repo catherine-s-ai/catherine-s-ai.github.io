@@ -1,5 +1,78 @@
 [
   {
+    "id": "6fd5f409-028d-4b7c-b6fb-ff3828ccea26",
+    "date": "2026-02-22",
+    "topic": "Order Types: The Hidden Levers That Control Your Trading Outcomes",
+    "teaser": "What if your retirement date is determined not by your savings rate, but by the three letters you click when placing a trade? The market's most expensive tax isn't on capital gains—it's on certainty.",
+    "summary": "History doesn't repeat, but it rhymes—and the melody is always about who controls the execution. In 1637, Dutch tulip traders didn't have stop-loss orders, but they had the same human impulse: to automate panic. In 1929, margin calls served the same psychological function as modern stop orders—creating cascade effects when fear became systemic. The 2010 Flash Crash was merely the latest verse in this centuries-old song: **when humans try to eliminate uncertainty through mechanical rules, markets evolve to exploit those predictable behaviors.**\n\nOrder types aren't technical settings—they're philosophical choices about how you engage with uncertainty. Every trade represents a negotiation between two fundamental human desires: the need for control (limit orders) and the fear of missing out (market orders). The first principle here is that **all financial systems are complex adaptive systems where individual optimization leads to collective fragility.** Your 'smart' stop-loss order doesn't exist in isolation—it joins thousands of others at that price level, creating what complexity theorists call an 'attractor state' that algorithms can detect and exploit.\n\nConsider this through the lens of Ray Dalio's machine metaphor: markets are like biological ecosystems where every participant's behavior creates feedback loops. Your market order during volatility isn't just paying a spread—it's feeding the predator-prey dynamics between liquidity providers and takers. Over 30 years, the difference between thoughtful and default order usage compounds to something more profound than extra working years: **it determines whether you're building wealth or paying what I call the 'certainty premium'—the systematic transfer of value from those who demand predictability to those who embrace ambiguity.**\n\nThe most dangerous misconception isn't about which button to click—it's believing any order type gives you control. True mastery comes from understanding that **you're not placing orders in a vacuum; you're participating in a psychological battlefield where your desire for certainty becomes your adversary's edge.** The Flash Crash wasn't an anomaly—it was the system working exactly as designed, revealing that our attempts to tame uncertainty often amplify it.",
+    "key_points": [
+      "The Certainty Premium: Every order type represents a payment—either in explicit costs (spreads) or opportunity costs (missed executions). The market's fundamental law: certainty has a price, and uncertainty has a reward. Your choice isn't between order types but between which form of uncertainty you're willing to bear.",
+      "Ecosystem Dynamics: Orders create predictable patterns in complex systems. Stop-loss clusters aren't protection—they're what ecologists call 'trophic cascades' waiting to trigger. Market orders during volatility don't just get you filled—they signal desperation to algorithms that adjust prices accordingly. You're not trading securities; you're trading in an adaptive landscape where your behavior changes the terrain.",
+      "The Control-Adaptability Spectrum: Limit orders maximize control but minimize adaptability (you might miss the trade entirely). Market orders maximize adaptability but surrender control (you accept whatever price exists). This isn't a technical choice—it's the fundamental trade-off in all complex systems, from evolution to engineering. Wisdom lies in knowing which side of the spectrum your current situation demands.",
+      "Temporal Arbitrage: Most investors optimize for single transactions when they should optimize for sequences. The real cost isn't in any one trade but in the pattern—consistently paying spreads or missing opportunities compounds exponentially. This is why order strategy matters more than stock picking: over decades, execution efficiency creates more wealth than security selection.",
+      "Psychological Signatures: Your order choices reveal your relationship with uncertainty. Market orders during calm periods suggest complacency; limit orders during panic suggest discipline. Stop orders often mask a deeper truth: you want the illusion of risk management without the discomfort of actual decision-making. The market doesn't just price securities—it prices psychological states."
+    ],
+    "practice": [
+      {
+        "title": "The Lifetime Cost Audit",
+        "steps": [
+          "Calculate your average annual trading volume (dollars traded, not invested)",
+          "For each trade in your history, determine: Did you pay the spread (market order) or risk non-execution (limit order)?",
+          "Estimate your lifetime 'certainty premium': Multiply your annual volume by 0.3% (typical spread cost for retail investors), then compound at 7% for your remaining investing years",
+          "Confront the result: This number represents retirement years lost or gained. A $100,000 annual trader paying unnecessary spreads sacrifices approximately 2.5 years of retirement wealth over 30 years"
+        ]
+      },
+      {
+        "title": "Ecosystem Simulation",
+        "steps": [
+          "During the next market volatility event (VIX > 30), track three securities simultaneously",
+          "For each, place both a market order and a limit order (5% away from current price) for the same dollar amount",
+          "Record not just the price difference, but the behavioral difference: How did waiting for the limit order affect your attention? How did the immediate fill of the market order affect your emotional state?",
+          "Map the results to the control-adaptability spectrum: Which felt more aligned with your long-term goals versus short-term emotions?"
+        ]
+      },
+      {
+        "title": "Pattern Recognition Challenge",
+        "steps": [
+          "For one month, document every trading impulse before acting",
+          "Ask: 'Am I optimizing for this transaction or my 30-year sequence?'",
+          "Implement a 15-minute rule: Between impulse and action, you must write down which uncertainty you're trying to avoid",
+          "After 30 days, review: How many 'emergency' trades were actually necessary? How often did patience create better outcomes than immediacy?"
+        ]
+      }
+    ],
+    "risk_notes": "The greatest risk isn't using the wrong order type—it's believing any mechanical rule can substitute for judgment. Limit orders create what psychologists call 'the illusion of the stopped clock'—eventually you'll be right, but meanwhile opportunities compound elsewhere. Stop orders are financial placebo effects: they feel like protection while systematically transferring value to those who understand cluster dynamics. Remember: in complex systems, local optimization (getting the perfect price on this trade) often undermines global optimization (building wealth over decades). Sometimes the most sophisticated order is recognizing that no order should be placed.",
+    "sources": [
+      {
+        "title": "'Flash Boys' by Michael Lewis",
+        "url": "https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599"
+      },
+      {
+        "title": "'Principles' by Ray Dalio - Complex Systems Chapter",
+        "url": "https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021"
+      },
+      {
+        "title": "Tulip Mania and Behavioral Finance Parallels",
+        "url": "https://www.investopedia.com/terms/t/tulipmania.asp"
+      }
+    ],
+    "meta": {
+      "id": "Order types",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Market order",
+        "Limit order",
+        "Stop order"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "d22894ac-0e26-402b-a949-1f0fd076f72f",
     "date": "2026-02-21",
     "topic": "Dividends and Buybacks: The Owner's Cash Return Decision",
