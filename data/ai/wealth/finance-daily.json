@@ -1,5 +1,74 @@
 [
   {
+    "id": "8a0f04c2-2500-4d86-adfe-b91f704a18a2",
+    "date": "2026-02-24",
+    "topic": "Regulation and Trading Rules: The Invisible Architecture of Markets",
+    "teaser": "What if the 1929 crash wasn't about greed, but about a predictable pattern of regulatory failure that repeats every generation—and how understanding this cycle can give you an unfair advantage in today's markets?",
+    "summary": "The 1929 crash is often misremembered as a morality tale about greed. That's a comforting fiction. The reality is more structural: it was a **regulatory failure** that turned a market correction into a depression. But this wasn't unique—it was part of a predictable cycle. In 1929, the absence of margin rules allowed leverage to spiral. In 2008, the lack of derivatives oversight created hidden systemic risk. Today, crypto markets operate with similar regulatory gaps. This pattern reveals a first-principles truth: **regulation is an evolutionary arms race between innovation and stability.**\n\nAt its core, regulation isn't about bureaucracy—it's about creating the conditions for trust. Without rules, markets don't just become chaotic; they become **anti-markets** where information asymmetry destroys price discovery and fraud becomes the dominant strategy. The digital age has democratized access but also amplified this tension: apps and crypto platforms operate at speeds that traditional regulation struggles to match. Understanding this arms race transforms regulation from a compliance burden into a **map of market vulnerabilities and opportunities**—showing where the next failure might occur and where disciplined investors can find edges.\n\nConsider this: regulation creates **predictable inefficiencies**. Disclosure requirements create information lags. Compliance costs create barriers to entry. Trading halts create artificial pauses. These aren't bugs in the system—they're features that become exploitable for those who understand the rulebook better than the crowd. The most dangerous regulations aren't the restrictive ones, but those that create **false confidence** (like deposit insurance encouraging reckless bank behavior). Viewing regulation through this lens—as a living system of constraints that shape market behavior—allows you to navigate with strategic foresight, turning what others see as red tape into your competitive advantage.",
+    "key_points": [
+      "Regulation creates predictable inefficiencies—like disclosure lags or compliance costs—that become exploitable edges for disciplined investors who understand the rulebook better than the crowd.",
+      "The most dangerous regulations are those that create false confidence, like deposit insurance encouraging reckless bank behavior, because they mask systemic risk while appearing protective.",
+      "Regulatory failures follow a predictable cycle: 1929's lack of margin rules → 2008's lack of derivatives oversight → today's crypto gaps. Each iteration is an evolutionary arms race between innovation and stability.",
+      "Trading rules like circuit breakers don't just prevent panic—they create artificial decision points that reveal market psychology. Savvy investors use these halts as signals, not obstacles.",
+      "Transparency enforced by regulation reduces information asymmetry, but it also creates temporary information advantages for those who can process disclosures faster than the market."
+    ],
+    "practice": [
+      {
+        "title": "Trace a Regulatory Failure Chain: The FTX Case Study",
+        "steps": [
+          "Select a failed crypto exchange (e.g., FTX). Map which specific regulations were missing: no segregation of customer funds, no independent audits, no derivatives oversight.",
+          "Calculate the hypothetical losses with and without those rules: estimate how much investor capital would have been protected if standard brokerage regulations had applied.",
+          "Compare this to historical parallels: how similar were the missing rules to those absent in 1929 (margin controls) or 2008 (derivatives transparency)? What pattern emerges?"
+        ]
+      },
+      {
+        "title": "Quantify the 'Price of Rules': Compare Regulated vs. Unregulated Hours",
+        "steps": [
+          "Pick an asset that trades in both regulated and unregulated hours (e.g., S&P 500 futures during market hours vs. overnight sessions).",
+          "Calculate volatility metrics (standard deviation, maximum drawdown) for each period over the last year. Is volatility higher when rules are suspended?",
+          "Estimate the economic value of regulation: if you had to pay an 'insurance premium' for the stability of regulated hours, what would it be worth based on reduced volatility?"
+        ]
+      },
+      {
+        "title": "Discover How Disclosure Rules Create Temporary Market Inefficiencies",
+        "steps": [
+          "Take three companies that recently filed 10-K reports. Track their stock prices in the 24 hours after filing.",
+          "Measure how long it takes for the market to fully incorporate the information: when does the price stabilize after the initial reaction?",
+          "Hypothesize why this lag exists: is it processing complexity, investor attention, or something else? Test your hypothesis with another set of filings."
+        ]
+      }
+    ],
+    "risk_notes": "Regulation fails most dangerously when it creates the illusion of safety without the substance—leading to complacency and concentrated risk. Psychological traps include: over-relying on regulatory approval as a substitute for due diligence, mistaking complexity for effectiveness, and failing to recognize that regulations always lag innovation, creating temporary blind spots. The greatest risk isn't breaking rules, but misunderstanding how they shape behavior—both others' and your own.",
+    "sources": [
+      {
+        "title": "SEC Investor.gov website",
+        "url": "https://www.investor.gov"
+      },
+      {
+        "title": "The Misbehavior of Markets by Benoit Mandelbrot",
+        "url": "https://www.basicbooks.com/titles/benoit-b-mandelbrot/the-misbehavior-of-markets/9780465043576/"
+      },
+      {
+        "title": "Principles for Navigating Big Debt Crises by Ray Dalio",
+        "url": "https://www.principles.com/big-debt-crises/"
+      }
+    ],
+    "meta": {
+      "id": "Regulation & trading rules",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Securities law",
+        "Disclosure"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "6338befd-de19-4bf9-be94-1a42c535eb27",
     "date": "2026-02-23",
     "topic": "The Invisible Architecture of Finance: How Settlement and Custody Actually Work",
