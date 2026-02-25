@@ -1,5 +1,68 @@
 [
   {
+    "id": "e63b71e8-18af-46b2-af54-a4d167925a55",
+    "date": "2026-02-25",
+    "topic": "Market Efficiency: The Blindfolded Auction",
+    "teaser": "What if the market's greatest strength—its collective intelligence—is also its most predictable weakness? The paradox that explains why your 'edge' is probably an illusion.",
+    "summary": "Picture October 19, 1987—Black Monday. The Dow Jones dropped 22.6% in a single day. No major news broke. No economic data justified the collapse. Yet millions of investors, algorithms, and institutions simultaneously decided to sell. This wasn't random noise; it was emergent irrationality—the exact moment when Eugene Fama's 'all available information' premise shattered against human psychology. The market isn't a casino; it's a complex adaptive system where blindfolded participants somehow produce prices that are usually right, but wrong in ways that matter profoundly.\n\nFirst principles reveal the brutal truth: 'all available information' is a convenient fiction. Insider information exists. Information asymmetry is real. Regulatory delays create temporary advantages. The market doesn't reflect truth—it reflects consensus, and consensus is often wrong. Yet here's the paradox: markets are wrong constantly, but in unpredictable ways that make them appear right in aggregate. This isn't academic theory; it's the reality that separates retirees from gamblers.\n\nRight now, you're being sold the lie that you can beat the market consistently. Understanding market efficiency means recognizing that your neighbor, your financial advisor, and the hedge fund manager all see different pieces of the same puzzle. The market's collective intelligence emerges from this fragmentation—not from perfect information, but from relentless competition. When everyone believes 'this time is different' (as in the 1990s tech bubble), they create the very inefficiencies that disciplined investors exploit. Your survival depends on seeing markets as a spectrum of efficiency—sometimes rational, sometimes temporarily insane—and building wealth through evidence-based discipline rather than chasing mirages.",
+    "key_points": [
+      "Market efficiency is a spectrum where prices reflect consensus, not truth—demonstrated by events like the 1987 crash where collective panic revealed emergent irrationality despite no fundamental news.",
+      "The small-cap value premium isn't free money; it's payment for enduring volatility and tracking error regret—compensation for behavioral pain most investors refuse to tolerate.",
+      "Market efficiency creates its own inefficiencies through reflexive feedback loops: when everyone believes markets are perfectly efficient (as in late-1990s tech euphoria), they stop looking for mispricings, creating opportunities for the skeptical few who understand this meta-cognitive trap."
+    ],
+    "practice": [
+      {
+        "title": "Track 'Obvious' Tips vs. Reality",
+        "steps": [
+          "Select three 'can't-miss' investment tips from financial media that trigger your excitement.",
+          "Record entry prices and track performance against the S&P 500 for 90 days.",
+          "Calculate the difference in returns, including trading costs, taxes, and the emotional cost of monitoring daily fluctuations.",
+          "Document your psychological state each week—when did doubt creep in? When did confirmation bias strengthen your conviction?"
+        ]
+      },
+      {
+        "title": "Measure Your Action Bias Tax",
+        "steps": [
+          "Review your investment statements from the past year.",
+          "Calculate total trades (buys and sells) divided by average portfolio value to get turnover rate.",
+          "Benchmark against a low-turnover strategy (<10% annually).",
+          "Estimate the annual cost of your emotional need for action: trading fees + taxes + spread costs + time spent researching.",
+          "Project this cost over 20 years compounded at 7%—this is your 'action bias tax' on future wealth."
+        ]
+      },
+      {
+        "title": "Practice Being Wrong Gracefully",
+        "steps": [
+          "When you feel strong conviction about an investment, pause and document: 'I believe X will happen because Y.'",
+          "Develop an opposing thesis with equal rigor: 'What if Z happens instead?' Cite historical precedents where similar theses failed.",
+          "Assign probabilities to both outcomes based on evidence, not emotion.",
+          "Review after 30 days. If wrong, write: 'I was wrong because...' and identify the cognitive bias (overconfidence, anchoring, narrative fallacy) that misled you."
+        ]
+      }
+    ],
+    "risk_notes": "Efficient market theory becomes dangerous dogma during bubbles when collective delusion overrides historical patterns—as with Japanese real estate in 1989 or dot-com stocks in 1999. The psychological trap is believing you're the exception who can consistently beat millions of other investors. This overconfidence manifests as excessive trading, concentration in speculative assets, or abandoning diversification. Always balance efficiency insights with humility: markets can stay irrational longer than you can stay solvent. Anchor decisions in long-term fundamentals, not short-term consensus, and remember that the greatest risk isn't market volatility—it's the story you tell yourself about your own exceptionalism.",
+    "sources": [
+      {
+        "title": "Search: Market Efficiency: The Blindfolded Auction",
+        "url": "https://www.google.com/search?q=Market%20Efficiency%3A%20The%20Blindfolded%20Auction"
+      }
+    ],
+    "meta": {
+      "id": "Market efficiency & anomalies",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Efficient market",
+        "Anomalies"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "8a0f04c2-2500-4d86-adfe-b91f704a18a2",
     "date": "2026-02-24",
     "topic": "Regulation and Trading Rules: The Invisible Architecture of Markets",
