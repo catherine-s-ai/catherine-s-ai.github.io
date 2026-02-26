@@ -1,5 +1,74 @@
 [
   {
+    "id": "d6f44be4-4e82-41f6-9f8e-d1e2fb2c5e92",
+    "date": "2026-02-26",
+    "topic": "The Double-Edged Sword of Leverage: Short Selling and Margin Trading",
+    "teaser": "How Jesse Livermore's borrowed billions vanished in hours—and why your portfolio could be next. The hidden physics that makes leverage both irresistible and catastrophic.",
+    "summary": "**Short selling isn't betting against a company—it's renting someone else's property and hoping it loses value before you have to return it.** Jesse Livermore's $1.5 billion journey reveals the fundamental physics of leverage: it doesn't just amplify returns—it multiplies the standard deviation of returns. Think of it as **amplifying the noise in a system where the signal-to-noise ratio is already poor.**\n\nAt its core, leverage operates on first principles: **You're trading in a probability space where volatility is the dominant variable.** The Kelly Criterion provides the mathematical reality: optimal leverage = (expected return) / (volatility²). Most investors use 2-3x this sustainable ratio, creating inevitable fragility. When you short a stock or trade on margin, you're making a wager that the market will move in your direction *within a specific timeframe*—before interest costs, margin calls, or psychological pressure force you out.\n\nWhy does this matter now? **Market volatility is at historic highs, and margin debt is near record levels.** Every major crash—1929, 1987, 2008, 2020—follows the same pattern: individual rational decisions (using margin) create collective irrational outcomes through forced selling feedback loops. The mathematics work against you with brutal elegance: a 50% loss requires a 100% gain just to break even. This isn't just risk management—it's understanding that **leverage creates the conditions for its own destruction.**",
+    "key_points": [
+      "Margin isn't extra buying power—it's a time bomb with a volatility fuse. The market can stay irrational longer than you can stay solvent when you're using borrowed money.",
+      "Short selling reveals market truth through price discovery, but it's psychologically inverted: You profit from others' pain and must fight the natural human tendency to root for success.",
+      "The central paradox: Leverage feels most comfortable when it's most dangerous. During bull markets, margin feels like 'free money'—exactly when leverage ratios become unsustainable. The real insight isn't that leverage is risky during crashes; it's that leverage creates systemic fragility through forced selling feedback loops.",
+      "The greatest risk in leveraged trading isn't being wrong—it's being right at the wrong time. Perfect analysis means nothing if your timing is off by days or your broker issues a margin call during a temporary dip."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Maximum Sustainable Leverage",
+        "steps": [
+          "Determine your portfolio's expected annual return (be conservative—use 5-8% for equities) and historical annual volatility (standard deviation).",
+          "Apply the Kelly Criterion: Optimal leverage = (expected return) / (volatility²). Example: 8% return with 15% volatility = 0.08 / (0.15²) = 3.56x maximum sustainable leverage.",
+          "Compare this to your current leverage ratio. Most investors use 2-3x what's mathematically sustainable—document this gap and review quarterly."
+        ]
+      },
+      {
+        "title": "Paper Trade a Short Position",
+        "steps": [
+          "Identify a stock you believe is overvalued (use fundamental metrics like P/E ratios or technical indicators).",
+          "Simulate shorting it for one month without real money—track entry price, borrowing costs, and daily P&L.",
+          "Journal your emotional responses when the trade moves against you (which it will), noting any psychological biases like confirmation bias or loss aversion."
+        ]
+      },
+      {
+        "title": "Stress-Test Your Portfolio Across Multiple Crash Scenarios",
+        "steps": [
+          "Test against 1987 (one-day 22% crash): How would overnight margin calls affect your positions?",
+          "Test against 2008 (50% decline over 18 months): Calculate daily losses and simulate progressive margin calls.",
+          "Test against 2020 (34% pandemic drop in 33 days): Assess liquidity risks and broker policy changes.",
+          "Determine how many days of declining prices would wipe you out in each scenario—historical data shows most leveraged investors survive less than 3 days in severe downturns."
+        ]
+      }
+    ],
+    "risk_notes": "These tools fail spectacularly during black swan events or coordinated short squeezes (see GameStop 2021). The psychological trap: Leverage feels like skill when you're winning and like bad luck when you're losing. Hidden risk: Counterparty risk—your broker can change margin requirements instantly during volatility, forcing liquidation at the worst possible time. Most devastating: The mathematics work against you—a 50% loss requires a 100% gain just to break even. Always remember: Leverage amplifies volatility, not just returns, and creates systemic fragility through feedback loops.",
+    "sources": [
+      {
+        "title": "Reminiscences of a Stock Operator by Edwin Lefèvre (the definitive book on Jesse Livermore's career)",
+        "url": "https://www.amazon.com/Reminiscences-Stock-Operator-Edwin-Lef%C3%A8vre/dp/0471770884"
+      },
+      {
+        "title": "When Genius Failed by Roger Lowenstein (chronicles the collapse of Long-Term Capital Management, the ultimate margin trading disaster)",
+        "url": "https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259"
+      },
+      {
+        "title": "FINRA Margin Statistics (real-time data on margin debt levels)",
+        "url": "https://www.finra.org/investors/learn-to-invest/advanced-investing/margin-statistics"
+      }
+    ],
+    "meta": {
+      "id": "Short selling & margin trading",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Leverage",
+        "Risk management"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "e63b71e8-18af-46b2-af54-a4d167925a55",
     "date": "2026-02-25",
     "topic": "Market Efficiency: The Blindfolded Auction",
