@@ -1,5 +1,78 @@
 [
   {
+    "id": "a83c9894-b216-44fc-a554-482d4d777801",
+    "date": "2026-02-28",
+    "topic": "Global Market Hours: The Relentless Relay Race of Capital",
+    "teaser": "Your portfolio doesn't sleep—it's constantly being repriced by traders on the other side of the world. Here's what happens in the dark.",
+    "summary": "**The global market isn't a 24-hour casino—it's a complex adaptive system where liquidity gets passed like a baton between continents, creating predictable patterns of efficiency and irrationality that most investors completely miss.**\n\nMost investors treat market hours as mere schedules, but this misses the evolutionary truth: **markets emerged as local phenomena, then connected through time zones not by design but by necessity—the same way rivers carve canyons, not the other way around.** The 1987 Black Monday crash offers a perfect historical case study: it began in Hong Kong, cascaded through Europe, then hit New York at opening—a liquidity relay gone wrong that demonstrated how overnight risk isn't an exception but the system's fundamental architecture.\n\n**First principles reveal the brutal simplicity:** markets need awake traders, Earth rotates, therefore trading follows the sun. But the implications are profound. During market overlaps (like London-New York), you get maximum liquidity and relative efficiency—the 'wisdom of crowds' actually works. During solo sessions (like Tokyo trading alone), you get maximum behavioral bias—markets become echo chambers where sentiment amplifies. This isn't theoretical: if you hold international assets, **price gaps at market opens aren't random noise—they're the market pricing in information without the noise of intraday trading.** A 2% overnight move in Asia while you sleep represents the cleanest signal you'll get all day, before your local market adds its own distortions.\n\nWhy does this matter now more than ever? **Your 'diversified' portfolio might be concentrated in a single time zone**, exposing you to synchronized overnight shocks. The S&P 500 closes at 4 PM ET, but Nikkei futures are already repricing your holdings based on news you haven't seen. This creates what physicists would call a 'non-equilibrium system'—prices are always catching up to information flowing across time zones. The solution isn't becoming a 24-hour trader (that's the path to ruin), but understanding that **markets tell a cascading narrative**: Asia sets the tone, Europe adds nuance, America provides resolution. Most investors miss this by focusing locally, like studying a single frame of a film. By mapping these rhythms, you transform from passive observer to informed participant who recognizes when risk is accumulating (during isolated sessions) and when opportunities are forming (during overlaps).",
+    "key_points": [
+      "The sun dictates market efficiency: During overlaps (e.g., London-New York), markets are most rational and liquid; during solo sessions, they're most prone to behavioral biases and sentiment cascades—this rhythm creates predictable windows of opportunity and danger.",
+      "Overnight risk isn't a bug but a feature: It's where markets price in information without the noise of intraday trading—those 'gaps' at market opens represent the cleanest signals you'll get, making time-zone diversification as critical as asset diversification.",
+      "Markets evolved, they weren't designed: Like biological systems, global trading hours emerged from simple constraints (traders need sleep, Earth rotates) creating complex behavior—the 1987 crash showed how this structure can amplify shocks across time zones.",
+      "Liquidity follows the sun, but rationality doesn't: Trading volume peaks during overlaps, but during isolated sessions, markets become echo chambers where limited participation magnifies behavioral errors—understanding this asymmetry is key to avoiding overnight traps."
+    ],
+    "practice": [
+      {
+        "title": "Map Your Holdings' Trading Windows",
+        "steps": [
+          "List all your investments (stocks, ETFs, funds) and identify their primary trading exchanges.",
+          "Note the standard trading hours for each exchange (e.g., NYSE: 9:30 AM–4 PM ET; Tokyo Stock Exchange: 9 AM–3 PM JST).",
+          "Use a tool like WorldTimeBuddy to visualize when these hours overlap—this shows when liquidity and volatility are highest for your portfolio."
+        ]
+      },
+      {
+        "title": "Simulate Overnight Gap Risk with Real-World Constraints",
+        "steps": [
+          "Select one international ETF you own (e.g., one tracking European or Asian markets).",
+          "Record its closing price in your local market today, then check its opening price tomorrow.",
+          "Calculate the percentage change, then add realistic transaction costs (0.1-0.5%) and slippage estimates (0.2-1% during volatile overlaps) to see the true cost of overnight moves.",
+          "Multiply this adjusted gap by your position size to quantify real dollar impact—this reveals why 'gap risk' matters more than most models assume."
+        ]
+      },
+      {
+        "title": "Establish a Global Sentiment Scan Ritual",
+        "steps": [
+          "Once a week, check pre-market futures (e.g., Nikkei, DAX, FTSE) 30 minutes before your local market opens.",
+          "Note any significant moves (+/-1% or more) and the cited reasons, but critically: track whether these moves reverse during the first hour of trading—pre-market often overreacts.",
+          "Observe without trading—this builds intuition for distinguishing signal from noise in overnight flows."
+        ]
+      },
+      {
+        "title": "Calculate Your Portfolio's Time-Zone Concentration",
+        "steps": [
+          "For each holding, determine which trading session dominates its volume (Asian, European, or US hours).",
+          "Weight by portfolio percentage to calculate: what % of your portfolio trades primarily during Asian vs. European vs. US hours?",
+          "This single metric quantifies your overnight exposure—if >70% is in one time zone, you're vulnerable to synchronized shocks while you sleep."
+        ]
+      }
+    ],
+    "risk_notes": "This framework has critical limitations. During black swan events (e.g., flash crashes, pandemics), after-hours trading can break down, making continuous markets an illusion—the 1987 crash showed how liquidity relays can fail catastrophically. In illiquid markets or for small-cap stocks, extended hours mean nothing—you're stuck until the primary session. The psychological trap is 'chasing the sun'—overtrading across time zones out of FOMO, ignoring that most long-term returns come from patience and compounding, not perpetual motion. Remember: understanding global hours helps manage risk, but attempting to trade them all is a recipe for burnout and underperformance. The market's time-zone structure exists not for your convenience, but despite it.",
+    "sources": [
+      {
+        "title": "Book: 'The Hour Between Dog and Wolf' by John Coates (explores trader biology and market rhythms)",
+        "url": "https://www.penguinrandomhouse.com/books/300277/the-hour-between-dog-and-wolf-by-john-coates/"
+      },
+      {
+        "title": "Research: 'The 1987 Stock Market Crash: A 30-Year Retrospective' (Federal Reserve)",
+        "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987"
+      }
+    ],
+    "meta": {
+      "id": "Global market hours",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Time zones",
+        "Overnight risk"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "35fb192e-8206-4c9f-a967-a28e4d579898",
     "date": "2026-02-27",
     "topic": "Market Microstructure: The Hidden Plumbing of Financial Markets",
