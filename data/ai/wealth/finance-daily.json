@@ -1,5 +1,80 @@
 [
   {
+    "id": "030536d7-c85f-4844-aab0-3bc06ee78634",
+    "date": "2026-03-01",
+    "topic": "Supply and Demand: The Invisible Hand That Shapes Your Financial Reality",
+    "teaser": "Why a $450 million painting and a 17th-century tulip bulb share the same brutal truth about every price you'll ever pay—and how to profit from the gap between what changes fast and what changes slow.",
+    "summary": "In 1637, a single tulip bulb sold for ten times a skilled craftsman's annual salary. In 2017, Leonardo da Vinci's *Salvator Mundi* fetched $450.3 million. These aren't isolated anomalies—they're data points in a 400-year pattern where **supply and demand** creates and destroys fortunes. This framework isn't just economics; it's the **operating system of capitalism** that has evolved through three distinct eras: the Mercantile Age (where physical scarcity ruled), the Industrial Age (where production capacity became king), and today's Information Age (where attention and digital goods create new scarcity patterns).\n\nAt its core, supply and demand is a dynamic system with built-in feedback loops: price changes alter behavior, which then reshapes future supply and demand. The 1970s oil shocks showed how supply constraints can reshape global economies overnight. Today's semiconductor shortages reveal how concentrated production creates systemic vulnerability. The Dutch Tulip Mania demonstrated how scarcity alone—without intrinsic value—can create irrational prices. What connects these episodes is the fundamental tension between **speed of adjustment**: demand can pivot instantly (a viral trend, a panic sell-off), while supply often adjusts slowly (factories take years to build, skills take decades to master).\n\nThis speed differential creates the market's most predictable patterns. When COVID-19 hit, demand for home office equipment spiked instantly while supply chains groaned under decades of optimization for just-in-time delivery. The resulting price surges weren't random—they were the inevitable outcome of fast demand meeting slow supply. Right now, you're navigating this system with every financial decision. Your grocery bill reflects Brazilian frosts (supply shocks) colliding with keto diet trends (demand shifts). Your salary represents the scarcity of your skills (supply with momentum) against what the market urgently needs (demand with urgency). Your investments succeed or fail based on whether you're positioned where scarcity is permanent and desire is growing.\n\nMastering this lens lets you see what others miss: not just that prices move, but **why they move when they do**, and how to position yourself in the gap between what changes fast and what changes slow.",
+    "key_points": [
+      "Price as signal of imbalance, not measure of value: Prices reveal where supply and demand are out of sync—explaining why successful investors systematically buy what's hated (low demand creating bargain prices) and sell what's loved (high demand creating overvaluation). The $450 million painting wasn't 'worth' that amount; it was the market's real-time signal that one buyer's desire exceeded all other potential buyers' willingness to pay.",
+      "The fundamental attribution error of demand: People consistently underestimate how much their spending reveals their true priorities versus their stated values. The $5 billion pet industry isn't about what people say they value; it's about what they prove with money. This behavioral reality creates predictable gaps between perceived and actual demand that sophisticated market participants exploit.",
+      "The tyranny of time differentials: Supply and demand operate at radically different speeds—demand can change in minutes (panic buying, viral trends), while supply often adjusts over years (building factories, developing expertise). This creates the market's most reliable patterns: temporary shortages become prolonged crises, and early movers in developing scarce skills or assets capture disproportionate rewards.",
+      "Scarcity's evolving nature across economic eras: Physical scarcity (tulips, oil) dominated the Mercantile Age, production capacity scarcity (steel, automobiles) defined the Industrial Age, and today we face attention scarcity (digital goods, skilled labor) and network scarcity (platforms, data). Understanding which type of scarcity you're dealing with determines whether a price move is temporary or structural."
+    ],
+    "practice": [
+      {
+        "title": "Price Detective: Decode the Supply-Demand Imbalance",
+        "steps": [
+          "Select three price changes you've observed (coffee, gasoline, streaming services). For each, ask: 'Is this driven by supply factors (Brazilian frost, refinery shutdowns, content licensing costs) or demand factors (health trends, summer travel, exclusive shows)?'",
+          "Apply the time differential test: 'Which changed faster—demand or supply? How long will the imbalance likely persist based on adjustment speeds?'",
+          "Use the substitution test: 'At what price point would alternatives become attractive? This reveals the true elasticity of demand.'",
+          "Document one counterintuitive insight: 'The coffee price surge I blamed on trends was actually a supply shock from frost damage—and will persist until next harvest.'"
+        ]
+      },
+      {
+        "title": "Personal Market Analysis: Quantify Your Scarcity Value",
+        "steps": [
+          "List your professional skills, then categorize: 'Common' (Excel, basic coding), 'Rare' (specific technical expertise), 'Unique' (combination of skills no one else has).",
+          "Quantify scarcity using LinkedIn's Skills Gap analysis (which skills have 3x more jobs than candidates) and Bureau of Labor Statistics data (occupation growth rates vs. supply pipeline).",
+          "Apply the time test: 'Which of my skills take years to develop? These have supply momentum that protects against instant obsolescence.'",
+          "Create an action plan targeting skills where: (1) scarcity is quantifiably high, (2) demand is growing faster than supply, and (3) development time creates barriers to entry."
+        ]
+      },
+      {
+        "title": "Market Shock Simulation: Learn from Historical Precedents",
+        "steps": [
+          "Select one asset (oil, semiconductors, real estate) and study two historical shocks: one supply-driven (1973 oil embargo), one demand-driven (2020 pandemic demand collapse).",
+          "Analyze the speed differential: 'How quickly did demand react vs. supply adjustment? What created the prolonged imbalance?'",
+          "Map the feedback loops: 'How did initial price changes alter behavior (conservation efforts, alternative energy investment), which then affected future supply and demand?'",
+          "Estimate current vulnerability: 'If a similar shock hit today, which side would adjust faster? Where would the prolonged imbalance create opportunity?'"
+        ]
+      }
+    ],
+    "risk_notes": "The classical model assumes rational actors with perfect information—conditions that never exist. Critical limitations include: psychological biases (anchoring to irrelevant reference prices, scarcity-driven panic overpayment), market failures (monopolies controlling supply, life-saving drugs where demand becomes effectively infinite), and systemic breakdowns during panics when fear overrides price signals. The framework also underestimates substitution effects—people's ability to switch to alternatives creates demand elasticity that isn't captured in static models—and non-economic values (sentimental, ethical, or survival considerations that transcend pure economics). Most dangerously, the model assumes equilibrium will eventually restore balance, but in reality, some imbalances become permanent when supply sources are exhausted or demand patterns fundamentally shift. Use this as a powerful diagnostic lens, not an infallible predictive law.",
+    "sources": [
+      {
+        "title": "Basic Economics by Thomas Sowell",
+        "url": "https://www.basicbooks.com/titles/thomas-sowell/basic-economics/9780465060733/"
+      },
+      {
+        "title": "The Use of Knowledge in Society by Friedrich Hayek",
+        "url": "https://www.econlib.org/library/Essays/hykKnw1.html"
+      },
+      {
+        "title": "FRED Economic Data - Supply/Demand Indicators",
+        "url": "https://fred.stlouisfed.org"
+      },
+      {
+        "title": "Bureau of Labor Statistics - Occupational Outlook",
+        "url": "https://www.bls.gov/ooh/"
+      }
+    ],
+    "meta": {
+      "id": "Supply & demand analysis",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Equilibrium",
+        "Elasticity"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "a83c9894-b216-44fc-a554-482d4d777801",
     "date": "2026-02-28",
     "topic": "Global Market Hours: The Relentless Relay Race of Capital",
