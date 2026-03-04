@@ -1,5 +1,68 @@
 [
   {
+    "id": "3a905d1d-5e98-466e-96f7-a7043af4d150",
+    "date": "2026-03-04",
+    "topic": "Market Structures: The Hidden Power Dynamics That Shape Your Wealth",
+    "teaser": "Forget supply and demand—your wealth is determined by who controls the gates, not the goods. Medieval guilds understood this; do you?",
+    "summary": "**Market structures are not economic models—they are power architectures.** Strip away the elegant curves of supply and demand, and you find something more primal: organized human systems that allocate wealth through control, not competition. Medieval guilds didn't respond to markets; they created them by restricting entry, standardizing products, and fixing prices. This isn't history—it's the operating system of every industry you invest in or work in.\n\nAt the atomic level, market structures reduce to three variables: **number of firms (concentration), product differentiation (uniqueness), and barriers to entry (gatekeeping)**. These aren't academic categories—they're levers that determine cash flow distribution. Perfect competition, where many firms sell identical goods with no barriers, exists only in textbooks as a theoretical limit. In reality, all markets are imperfect to some degree, creating predictable patterns of wealth transfer from consumers and new entrants to incumbents.\n\n**The mathematical truth:** Market concentration × pricing power = wealth extraction efficiency. When few firms control an industry (high concentration), they can raise prices above competitive levels—what economists call 'economic rent.' When products are undifferentiated, competition becomes a brutal price war that destroys margins. When barriers are high, innovation slows because incumbents face no existential threat. Your investment returns and career earnings are largely determined by which side of these equations you're on.\n\n**Why this framework matters:** It reveals why monopolies can be terrible investments despite their apparent safety (they systematically underinvest in innovation relative to cash flow). It explains why competitive industries offer growth but rarely sustainable wealth (margins approach zero in equilibrium). Most importantly, it provides a lens to see through quarterly earnings and identify **structural advantages** that persist across business cycles. The medieval guilds protected their members for centuries through structural control—your financial security depends on recognizing these same patterns in modern markets.",
+    "key_points": [
+      "Monopolies mathematically underinvest in R&D relative to cash flows—their structure creates a certainty of innovation decay. AT&T's Bell Labs produced Nobel prizes but missed digital switching because their monopoly made incremental improvements more profitable than disruptive bets.",
+      "Perfect competition is a theoretical asymptote—all real markets have imperfections that create arbitrage opportunities. The soybean futures market approaches perfect competition, yet even there, storage costs and transportation create temporary monopolies for those with physical infrastructure.",
+      "Oligopolies engage in tacit collusion through price signaling—a game theory equilibrium where firms maximize joint profits without illegal coordination. The 1990s airline industry demonstrated this perfectly: when American Airlines introduced 'value pricing' in 1992, every major carrier matched within 72 hours, preserving industry profitability while appearing competitive.",
+      "Market structure determines wealth distribution, not just prices. In concentrated markets, economic rent flows to shareholders and management; in competitive markets, it flows to consumers through lower prices. Your position in this flow—as investor, employee, or consumer—determines your financial outcome."
+    ],
+    "practice": [
+      {
+        "title": "Portfolio Structure Analysis",
+        "steps": [
+          "Select one stock from your portfolio",
+          "Calculate its industry's Herfindahl-Hirschman Index (HHI) using market share data (HHI = sum of squared market shares × 10,000)",
+          "Classify: competitive (HHI < 1500), moderately concentrated (1500-2500), or highly concentrated (>2500)",
+          "Estimate the company's pricing power premium: compare its operating margin to industry average, then multiply by the HHI concentration premium (typically 1-3% per 1000 HHI points above 1500)"
+        ]
+      },
+      {
+        "title": "Price War Simulation",
+        "steps": [
+          "Choose two rival companies in an oligopoly (e.g., Coca-Cola and PepsiCo)",
+          "Track their stock prices and any public price changes over one month",
+          "Calculate the economic impact: when Company A changes prices, measure Company B's stock reaction and estimate the margin impact using their gross margin percentage",
+          "Document evidence of price signaling or matching behavior and calculate the implied coordination benefit (typically 2-5% of revenue in stable oligopolies)"
+        ]
+      },
+      {
+        "title": "Career Market Power Assessment",
+        "steps": [
+          "Identify the top 3 players in your industry or desired field",
+          "Estimate their combined market share percentage",
+          "Analyze barriers to entry: quantify capital requirements, regulatory hurdles, and network effects on a 1-10 scale",
+          "Determine your position: are you inside a protected guild (high barriers, high concentration) or competing in an open bazaar (low barriers, many players)? Calculate your career's structural advantage/disadvantage"
+        ]
+      }
+    ],
+    "risk_notes": "**Market structure analysis fails when you mistake the map for the territory.** Blockbuster understood video rental market structure perfectly—they dominated physical locations and studio relationships. What they missed was that technology could collapse barriers overnight, turning their real estate advantage into a liability. The psychological trap is assuming structural advantages are permanent when they're actually temporary licenses granted by technology, regulation, and consumer behavior. This framework is most dangerous in tech sectors where platform shifts can dismantle moats in months (see Nokia's collapse post-iPhone). Market structures provide context about current power distributions, but they cannot predict black swans that rewrite the rules. The greatest risk is becoming so focused on existing structures that you miss the architects building new ones.",
+    "sources": [
+      {
+        "title": "Principles for Navigating Big Debt Crises",
+        "url": "https://www.principles.com/big-debt-crises/"
+      }
+    ],
+    "meta": {
+      "id": "Market structures",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Competition",
+        "Monopoly"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "aaa30bf4-93ed-4565-97ce-9d5d93159292",
     "date": "2026-03-03",
     "topic": "Producer Theory: The Hidden Architecture of Business Survival",
