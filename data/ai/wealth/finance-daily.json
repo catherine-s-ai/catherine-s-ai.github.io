@@ -1,5 +1,79 @@
 [
   {
+    "id": "a01f45bc-e2f0-4a39-943d-6b59f730496e",
+    "date": "2026-03-05",
+    "topic": "Game Theory for Financial Decision-Making",
+    "teaser": "The mathematical reason why smart investors keep making the same catastrophic mistakes—and how to see the invisible game before you're forced to play it.",
+    "summary": "**In 1998, a room full of Nobel laureates lost $4.6 billion because they forgot one thing: other people.** Long-Term Capital Management wasn't destroyed by bad math—their models were flawless. They were destroyed by failing to anticipate that every other hedge fund would make the same 'optimal' trade simultaneously. This wasn't a calculation error; it was a strategic blindness that echoes through financial history.\n\n**Game theory** is the study of interdependent decision-making—the mathematics of 'what happens when my outcome depends on what you do, and your outcome depends on what I do.' The first principle is brutally simple: In strategic environments, the best individual move often leads to collective disaster. You cannot optimize your portfolio by thinking only about fundamentals; you must think about how other investors will react to those same fundamentals.\n\nConsider the 2008 housing collapse: Every bank knew subprime mortgages were risky individually. But they all assumed someone else would be the first to stop buying. This wasn't ignorance—it was a perfect Prisoner's Dilemma playing out across Wall Street. Each bank's rational self-interest (keep originating mortgages) led to collective ruin when everyone made the same 'rational' choice.\n\nWhy does this matter today? Because every financial decision exists in this strategic space. When you buy Tesla stock, you're not just betting on electric vehicles—you're betting against thousands of other investors analyzing the same data. When you negotiate salary, you're not just stating your worth—you're signaling how you'll respond when they counteroffer. **The difference between average and exceptional financial outcomes isn't better analysis—it's better anticipation of how others will analyze the same situation.**\n\nMost investors treat markets as physics problems: 'If earnings grow at X%, the stock should be worth Y.' Game theory reveals markets as psychology problems: 'If everyone believes earnings will grow at X%, what price have they already set, and what will they do when earnings actually come in at X±10%?' This shift from isolated calculation to strategic anticipation is what separates those who understand markets from those who merely participate in them.",
+    "key_points": [
+      "The Nash Equilibrium in efficient markets isn't about finding alpha—it's about recognizing that when everyone has the same information and acts rationally, the equilibrium is 'no alpha.' You cannot beat the market by doing what everyone else is doing with the same information. This explains why most active managers fail: they're playing a game where the stable outcome is mediocrity.",
+      "The Prisoner's Dilemma manifests in finance as the tragedy of the commons: When every investor chases momentum (individually rational), they create bubbles (collectively irrational). When every trader uses stop-losses (individually protective), they create flash crashes (collectively destructive). The dilemma isn't theoretical—it's why rational actors create irrational markets.",
+      "In repeated games, reputation becomes compound interest for trust. Warren Buffett's 'reputation is everything' isn't sentiment—it's game theory. One-time transactions incentivize exploitation; ongoing relationships incentivize cooperation. This explains why the best negotiators leave value on the table today to harvest trust tomorrow."
+    ],
+    "practice": [
+      {
+        "title": "Map Your Next Financial Negotiation as a Game Matrix",
+        "steps": [
+          "List your possible moves (e.g., initial offer: $120K, first concession: $115K, final walk-away: $105K)",
+          "List the other party's likely responses (e.g., counter with $100K, accept immediately, delay decision)",
+          "Assign outcome values using a 2x2 matrix. Example: You offer $120K, they counter $100K → You get 3 (moderate), They get 4 (good). You offer $115K, they accept → You get 5 (excellent), They get 3 (moderate).",
+          "Identify the Nash Equilibrium—where neither side can improve by changing strategy alone. Often this isn't the 'best' outcome but the most stable one given mutual anticipation."
+        ]
+      },
+      {
+        "title": "Analyze an Investment Through the Lens of Common vs. Private Knowledge",
+        "steps": [
+          "Choose one investment you're considering (e.g., buying Amazon stock)",
+          "Separate your information into two columns: Common Knowledge (earnings reports, analyst ratings, news everyone sees) vs. Private Knowledge (your unique insight about supply chain changes, customer behavior patterns you've observed)",
+          "Ask: 'If I act only on common knowledge, what would every other rational investor do?' (Usually: the price already reflects it)",
+          "Determine if your private knowledge is truly an edge or just a different interpretation of public data. Only act when private knowledge creates asymmetric understanding."
+        ]
+      },
+      {
+        "title": "Track Strategic Interactions for One Week",
+        "steps": [
+          "Document every financial interaction where someone's decision affected yours (vendor negotiation, investment club discussion, salary review)",
+          "Categorize each as either a one-shot game (one-time purchase) or repeated interaction (ongoing service contract)",
+          "Notice patterns: Are you building reputation capital or treating each interaction as isolated?",
+          "Identify one relationship where shifting from one-shot to repeated-game thinking would change your approach (e.g., with a recurring client: cooperate today to build trust for bigger deals tomorrow)"
+        ]
+      }
+    ],
+    "risk_notes": "Game theory assumes rational actors—markets have panic, greed, and algorithms gone rogue. The biggest trap is modeling irrational opponents as rational. Also, focusing too much on 'winning' individual games can destroy long-term relationships that compound value. Sometimes the optimal strategy is refusing to play certain games entirely—knowing when not to play is as important as knowing how to play. Remember: LTCM's models were mathematically perfect for a world that doesn't exist.",
+    "sources": [
+      {
+        "title": "The Evolution of Cooperation by Robert Axelrod",
+        "url": "https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation"
+      },
+      {
+        "title": "Thinking Strategically by Avinash Dixit and Barry Nalebuff",
+        "url": "https://www.amazon.com/Thinking-Strategically-Competitive-Business-Paperback/dp/0393310353"
+      },
+      {
+        "title": "When Genius Failed: The Rise and Fall of Long-Term Capital Management by Roger Lowenstein",
+        "url": "https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259"
+      },
+      {
+        "title": "Stanford Encyclopedia of Philosophy: Game Theory",
+        "url": "https://plato.stanford.edu/entries/game-theory/"
+      }
+    ],
+    "meta": {
+      "id": "Game theory & strategic behavior",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Nash equilibrium",
+        "Prisoner's dilemma"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "3a905d1d-5e98-466e-96f7-a7043af4d150",
     "date": "2026-03-04",
     "topic": "Market Structures: The Hidden Power Dynamics That Shape Your Wealth",
