@@ -1,5 +1,68 @@
 [
   {
+    "id": "3bd22feb-cb0d-472a-9182-376f47856e4f",
+    "date": "2026-03-06",
+    "topic": "The Invisible Architecture of Wealth: Public Goods and Externalities",
+    "teaser": "What if your best-performing stock was actually a government-built highway? The uncomfortable truth about where investment returns really come from—and why your portfolio is floating on borrowed infrastructure.",
+    "summary": "**In 1956, President Eisenhower signed the Federal-Aid Highway Act, creating the Interstate System.** This wasn't just about roads—it was about creating a lattice of public infrastructure that would enable private wealth on an unprecedented scale. Within a decade, trucking replaced railroads as America's dominant freight system, suburban real estate values exploded, and companies like McDonald's and Walmart built national empires on this government-funded mobility. Your portfolio today still floats on that same invisible architecture.\n\n**Public goods** are the non-excludable, non-rivalrous foundations that markets cannot produce alone: the legal system that protects your property rights, the clean air that keeps your workforce healthy, the basic research that becomes tomorrow's technology. They're the ocean your investment ship sails on—ignore its currents at your peril. **Externalities** are the hidden costs and benefits that spill over from every transaction. For decades, leaded gasoline was a profitable innovation—until the societal costs of neurological damage in children became impossible to ignore, reshaping entire industries and portfolios.\n\n**Why does this matter now?** Consider carbon emissions: for years, they were an unpriced externality, allowing fossil fuel companies to show profits while passing climate costs to society. Today, that bill is coming due through carbon taxes, stranded assets, and regulatory shifts. Your portfolio's alpha is often just beta on public goods—outperforming the market is impossible when the underlying infrastructure fails. The 2008 financial crisis wasn't just about subprime mortgages; it was about the externality of deregulation, where private gains were privatized but systemic risks were socialized. Your wealth depends on recognizing these invisible forces before they become visible crises.",
+    "key_points": [
+      "Your portfolio's alpha is often just beta on public goods—outperforming the market is impossible if the legal, educational, or physical infrastructure beneath it fails",
+      "Externalities create a hidden balance sheet where today's private profits become tomorrow's public costs—what you don't pay for now, you'll pay for later in taxes, health impacts, or crisis losses",
+      "Government intervention isn't inherently good or bad—it's a tool to correct market failures, but like any tool, it creates its own externalities (bureaucracy, unintended consequences, moral hazard)",
+      "We suffer from hyperbolic discounting of distant externalities—the same bias that led Easter Island's society to deforest itself into collapse now makes us favor short-term gains over long-term stability"
+    ],
+    "practice": [
+      {
+        "title": "Stress-Test Your Portfolio Against Infrastructure Failure",
+        "steps": [
+          "Choose one critical public good your investments rely on (e.g., public education funding, transportation networks, cybersecurity infrastructure)",
+          "Simulate a 20% degradation scenario over 10 years (e.g., 'What if public education quality declines by 20%—how does that affect tech stocks reliant on skilled labor?')",
+          "Backtest against historical analogues (e.g., 2008 crisis showed what happens when regulatory infrastructure fails; COVID showed healthcare infrastructure stress)",
+          "Quantify the impact: calculate potential portfolio drawdown and identify which holdings are most exposed to this invisible risk"
+        ]
+      },
+      {
+        "title": "Calculate Your True Cost of Consumption",
+        "steps": [
+          "Identify a negative externality in your lifestyle or investments (e.g., carbon footprint from air travel, plastic waste from e-commerce, data privacy externalities from tech holdings)",
+          "Research the actual societal cost using credible sources (EPA's social cost of carbon: $190/ton; WHO's health cost of air pollution: $5 trillion annually)",
+          "Calculate your personal 'externality tax'—what you'd owe if these hidden costs were priced in",
+          "Validate your assumptions: compare against historical cases where externalities were finally priced (e.g., tobacco litigation, leaded gasoline phase-out) and adjust accordingly"
+        ]
+      },
+      {
+        "title": "Map the Policy Shock Contagion",
+        "steps": [
+          "Choose one major externality that's likely to be regulated (carbon emissions, data privacy, plastic waste, algorithmic bias)",
+          "Trace the second- and third-order effects through your portfolio (e.g., carbon tax → energy costs → manufacturing margins → consumer prices → retail earnings)",
+          "Create a decision matrix: what signals would trigger action? What would you sell first? What hedges would work?",
+          "Pressure-test your plan: what if the regulation is twice as strict as expected? What if it's delayed by 5 years? How does your portfolio behave in each scenario?"
+        ]
+      }
+    ],
+    "risk_notes": "**The Three Traps:** 1) **Complacency Trap**—assuming public goods will always be maintained (remember the Roman aqueducts eventually crumbled). 2) **Mispricing Trap**—profiting from unpriced externalities until the system breaks (see: 2008 mortgage derivatives). 3) **Intervention Trap**—every policy solution creates its own externalities (carbon taxes might spur innovation but could also trigger inflation or geopolitical friction). The greatest risk isn't government action or inaction, but failing to distinguish between market failures that need correction and interventions that create new distortions. Remember: Easter Island's society didn't collapse because they lacked economic theory—they collapsed because they discounted future consequences until it was too late.",
+    "sources": [
+      {
+        "title": "'The Economics of Welfare' by Arthur Pigou (1920) - foundational text on externalities and taxation",
+        "url": "https://www.econlib.org/library/NPDBooks/Pigou/pgEW.html"
+      }
+    ],
+    "meta": {
+      "id": "Externalities & public goods",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Market failure",
+        "Government intervention"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "a01f45bc-e2f0-4a39-943d-6b59f730496e",
     "date": "2026-03-05",
     "topic": "Game Theory for Financial Decision-Making",
