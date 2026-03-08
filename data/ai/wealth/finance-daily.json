@@ -1,5 +1,72 @@
 [
   {
+    "id": "3fbbb6e2-48d4-40c4-8b5e-13a4a721d291",
+    "date": "2026-03-08",
+    "topic": "Information Economics: The Hidden Architecture of Financial Markets",
+    "teaser": "What if the greatest financial disasters—and fortunes—weren't about money at all, but about who knew what when? Discover why the most valuable information isn't what you know, but what others don't know they don't know.",
+    "summary": "In 1815, Nathan Rothschild didn't wait for official news of Waterloo's outcome. His carrier pigeons arrived hours before the British government's messengers, allowing him to buy British bonds at panic prices before their inevitable surge. This wasn't insider trading—it was **information velocity**, a principle as old as commerce itself. Fast forward to 2008: banks didn't just lack capital; they couldn't distinguish toxic assets from sound ones. The system didn't collapse—it **suffocated** from information blockages.\n\n**Information economics** reveals that markets aren't about money exchanging hands, but about **knowledge asymmetries** resolving through price discovery. Two first principles govern this hidden architecture: 1) Information has **real costs** (time, money, attention), and 2) It's distributed **unevenly** across participants. This unevenness creates structural advantages that persist across centuries—from medieval merchants developing reputation systems to overcome information gaps, to modern hedge funds paying millions for milliseconds of trading advantage.\n\nWhy does this ancient framework matter today? You're drowning in financial noise—24/7 news, conflicting expert opinions, algorithmic predictions. Information economics provides the mental models to navigate this chaos. It explains why your financial advisor might recommend high-fee products (their incentives reward complexity, not your returns), why used car markets favor sellers (the 'lemons problem' Akerlof described), and why sometimes **less information**—properly weighted—beats more data.\n\nThis isn't academic abstraction. Every financial decision you make—negotiating salary, choosing investments, buying insurance—is a **knowledge contest**. The party with superior information holds structural advantage, turning what appears as fair exchange into something closer to Venetian merchants trading with distant colonies: the better-informed consistently profit. Your ability to recognize these dynamics determines whether you're playing chess while others play checkers.\n\nHistory's most successful financial operators—from Medici bankers to Warren Buffett—weren't necessarily the best informed, but those who best understood **information's true nature**: its costs, its distribution, and its diminishing returns. They structure deals to align incentives (reducing moral hazard), recognize when additional research yields minimal benefit (applying the 80/20 rule), and approach markets not as efficient machines but as complex systems where information flows—and blockages—create both disasters and fortunes.",
+    "key_points": [
+      "The most valuable information isn't what you know, but what you know that others don't realize they don't know—this 'unknown unknown' gap creates the most durable advantages.",
+      "When you pay for financial advice by the hour, you get more hours; when you pay for performance, you get better performance—incentive structures determine outcomes more than expertise.",
+      "Information overload isn't a modern problem; it's the default human condition. The critical skill isn't gathering more data but applying the 80/20 rule: identifying which 20% of research yields 80% of decision value.",
+      "The cost of perfect information approaches infinity while its marginal benefit approaches zero—successful operators recognize the inflection point where additional research becomes self-defeating."
+    ],
+    "practice": [
+      {
+        "title": "Red Team/Blue Team Negotiation Analysis",
+        "steps": [
+          "Before your next major negotiation (salary, purchase, or contract), apply the 'Red Team/Blue Team' mental model: create two personas—one arguing for your position, one deliberately against it.",
+          "Identify at least three information asymmetries the other party likely holds (historical data, internal metrics, future plans).",
+          "Research these specific gaps using independent sources, third-party inspections, or competitive intelligence.",
+          "Use this analysis to either adjust your position, create information-forcing mechanisms (warranties, audits), or recognize when the disadvantage is insurmountable."
+        ]
+      },
+      {
+        "title": "Skin in the Game Investment Audit",
+        "steps": [
+          "Select one financial relationship (advisor, fund manager, or insurance provider).",
+          "Apply the 'Skin in the Game' principle: investigate not just fee structures but whether the provider's personal wealth is invested alongside yours.",
+          "Analyze incentive alignment—do they profit from your success (performance fees, co-investment) or from activity (transaction fees, asset-based charges)?",
+          "Based on this analysis, decide whether to maintain, renegotiate, or terminate based on moral hazard exposure."
+        ]
+      },
+      {
+        "title": "80/20 Information Cost-Benefit Analysis",
+        "steps": [
+          "Choose an upcoming financial decision with significant stakes (career move, major investment, or business partnership).",
+          "Apply the 80/20 Rule: identify the 20% of information sources likely to provide 80% of decision value.",
+          "Estimate total research cost (time converted to hourly rate plus direct expenses), then calculate the marginal cost of pursuing perfect information.",
+          "Compare these costs to expected benefits, recognizing the inflection point where additional research yields diminishing returns."
+        ]
+      }
+    ],
+    "risk_notes": "While understanding information economics is powerful, misapplication carries significant risks. **Analysis paralysis** can occur when you constantly seek perfect information without acting—sometimes 70% certainty with decisive action beats 95% certainty with delay. The **curse of knowledge**—assuming others share your information—can sabotage negotiations and relationships. Psychological traps like **confirmation bias** may cause you to overweight supporting information while dismissing contradictory signals. Most dangerously, this framework can rationalize unethical behavior if misconstrued as merely 'exploiting information advantages.' Effective application requires balancing information gathering with decisive action, maintaining ethical boundaries (information advantage ≠ deception), and recognizing when the pursuit of knowledge becomes its own reward rather than a means to better decisions.",
+    "sources": [
+      {
+        "title": "Nobel Prize Lecture: The Market for 'Lemons' by George Akerlof",
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2001/akerlof/lecture/"
+      },
+      {
+        "title": "Book: 'Skin in the Game' by Nassim Nicholas Taleb (Hidden Asymmetries in Daily Life)",
+        "url": "https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X"
+      }
+    ],
+    "meta": {
+      "id": "Information economics",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Asymmetric information",
+        "Moral hazard"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "2b86d5d0-ed59-44f6-8075-43450dfe3093",
     "date": "2026-03-07",
     "topic": "Labor Markets and Income Distribution",
