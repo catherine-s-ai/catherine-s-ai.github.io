@@ -1,5 +1,75 @@
 [
   {
+    "id": "c6fb13ff-ddca-4dd7-be7b-1b239650e078",
+    "date": "2026-03-09",
+    "topic": "Decision Analysis Under Uncertainty",
+    "teaser": "How a handful of traders in 2008 made fortunes not by predicting the future, but by preparing for multiple futures simultaneously—and why that distinction separates wealth-builders from wealth-destroyers.",
+    "summary": "Picture the autumn of 2008: markets are collapsing, banks are failing, and most investors are paralyzed by uncertainty. Yet a handful of traders—not necessarily smarter or better informed—are quietly making fortunes. What separated them wasn't prediction, but preparation. They understood something fundamental: **in uncertainty, the goal isn't to be right, but to be resilient.**\n\nThis is decision analysis under uncertainty—not a mathematical trick, but a way of thinking that separates those who survive from those who thrive. It begins with recognizing that **uncertainty isn't risk**. Risk is what you can model—insurance premiums, volatility metrics, probability distributions. Uncertainty is what you can't—the unknown unknowns, the black swans, the things that haven't happened yet. Confusing the two is perhaps the most expensive mistake in finance, as Long-Term Capital Management discovered in 1998 when their Nobel-winning models failed to account for what they didn't know.\n\nAt its core, decision analysis involves four first principles: 1) Identify all possible outcomes (not just the likely ones), 2) Estimate probabilities as degrees of belief, not certainties, 3) Calculate expected values, and 4) Adjust for your personal risk tolerance. But here's the crucial insight: **the map is not the territory**. Your probability estimates are mental models—simplifications of reality that will inevitably be wrong. The most valuable skill isn't creating perfect models, but updating them relentlessly as new information arrives.\n\nWhy does this matter today? Every financial decision you make—from career changes to investments to business pivots—involves uncertainty. The difference between wealth-building and wealth-destruction isn't avoiding uncertainty (that's impossible), but learning to navigate it systematically. Your retirement, your business decisions, even your life trajectory depend on this skill. **Expected value is mathematical, but expected utility is psychological**—your personal risk tolerance transforms cold numbers into actual decisions.\n\nThis framework transforms uncertainty from a paralyzing force into a manageable variable. By systematically analyzing decisions, you move from reactive guessing to proactive strategy. The 2008 traders didn't know what would happen; they knew how to think about what might happen. That distinction—between prediction and preparation—is what separates those who merely survive uncertainty from those who build lasting wealth within it.",
+    "key_points": [
+      "Uncertainty ≠ Risk: Risk is what you can model, uncertainty is what you can't—and confusing the two is the most expensive mistake in finance. (As LTCM discovered in 1998 when their Nobel-winning models failed spectacularly.)",
+      "Expected Value vs. Expected Utility: Expected value is mathematical (probability × outcome), but expected utility is psychological—your personal risk tolerance transforms numbers into actual decisions. This is why two rational people can make opposite choices with the same expected value.",
+      "The Map Is Not the Territory: Your probability estimates are mental models, not reality. The most valuable skill is Bayesian updating—continuously revising your estimates as new information arrives, rather than clinging to initial assumptions.",
+      "Multiple Futures Thinking: Instead of trying to predict one outcome (a fool's errand), prepare for several possible futures simultaneously. This creates optionality—the ability to adapt as reality unfolds, which is how 2008's successful traders operated."
+    ],
+    "practice": [
+      {
+        "title": "Apply the 'Regret Minimization' Framework to Your Next Career Decision",
+        "steps": [
+          "Identify your decision (e.g., 'Should I take this job offer?' or 'Should I start this business?')",
+          "Project yourself to age 80 and ask: 'Looking back, which decision would I regret more?'",
+          "Work backward: What specific uncertainties make you fear regret? List them explicitly",
+          "For each uncertainty, create a contingency plan (not a prediction)",
+          "Make the decision that minimizes future regret, not just maximizes expected value"
+        ]
+      },
+      {
+        "title": "Calculate Your Portfolio's Expected Value with Optionality Analysis",
+        "steps": [
+          "List all your current investments with their current values",
+          "For each investment, estimate its probability-weighted return over your time horizon",
+          "Now assess each investment's optionality: Does it create future choices or lock you in?",
+          "Calculate the total expected value, then adjust for optionality value",
+          "Ask: 'Would I make these same decisions knowing both the expected value AND the optionality?'"
+        ]
+      },
+      {
+        "title": "Conduct a 'Premortem' on Your Next Major Financial Decision",
+        "steps": [
+          "Assume your upcoming decision will fail spectacularly in 2 years",
+          "Work backward: What would have caused this failure? List at least 5 specific reasons",
+          "For each failure reason, identify which uncertainties you're currently underestimating",
+          "Create contingency plans for the top 3 most likely failure scenarios",
+          "Update your original decision analysis with these new probability estimates"
+        ]
+      }
+    ],
+    "risk_notes": "This framework has critical limitations: 1) It fails when probabilities are truly unknowable (true 'black swan' events), 2) Decision-makers often confuse their models with reality, leading to overconfidence in probability estimates, 3) There's a tendency to neglect tail risks (low-probability, high-impact events), and 4) The illusion that more analysis always leads to better decisions—sometimes, simple heuristics outperform complex analysis. Psychological traps include confirmation bias in probability estimation and the sunk cost fallacy in decision trees. Remember: no model captures all of reality.",
+    "sources": [
+      {
+        "title": "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts",
+        "url": "https://www.annieduke.com/thinking-in-bets"
+      },
+      {
+        "title": "The Black Swan: The Impact of the Highly Improbable",
+        "url": "https://www.penguinrandomhouse.com/books/176462/the-black-swan-by-nassim-nicholas-taleb/"
+      }
+    ],
+    "meta": {
+      "id": "Decision analysis under uncertainty",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Expected utility",
+        "Risk aversion"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "3fbbb6e2-48d4-40c4-8b5e-13a4a721d291",
     "date": "2026-03-08",
     "topic": "Information Economics: The Hidden Architecture of Financial Markets",
