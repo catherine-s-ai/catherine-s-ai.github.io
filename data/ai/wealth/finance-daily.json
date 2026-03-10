@@ -1,5 +1,68 @@
 [
   {
+    "id": "812d0c69-fc87-4696-a8e6-ac306f9358d5",
+    "date": "2026-03-10",
+    "topic": "Behavioral Economics: The Hidden Forces Shaping Your Financial Decisions",
+    "teaser": "Your brain's ancient survival code is silently sabotaging your wealth—learn to hack the biological algorithms that turn rational plans into emotional mistakes.",
+    "summary": "**Behavioral economics reveals that 'rational' economic man is a fiction—we're biological creatures making financial decisions with Stone Age brains in a digital world.**\n\nTraditional economics assumed humans were perfect calculators, but anyone who's ever panic-sold stocks or bought an overpriced house knows better. Behavioral economics emerged as the antidote, showing how psychological, social, and emotional factors—not cold logic—drive our money choices.\n\nAt its core, the field recognizes we're not computers but biological systems running on **mental shortcuts (heuristics)** developed for survival. These aren't random errors but **systematic biases** that cause predictable financial mistakes. Pioneers like Kahneman and Tversky mapped this cognitive terrain where our financial lives actually unfold.\n\n**Why this matters now:** Every financial decision—from your daily coffee to retirement planning—is influenced by these biological algorithms. **Loss aversion** (where losses hurt twice as much as equivalent gains feel good) isn't just psychology—it's evolutionary programming that can trap you in overly conservative investments. **Anchoring** (where first numbers warp judgment) and **mental accounting** (where we treat identical money differently) similarly distort value perception.\n\nMastering these forces isn't about becoming emotionless but understanding your mind's machinery to drive it more skillfully—transforming savings rates, avoiding catastrophic mistakes, and aligning investments with genuine long-term goals rather than fleeting market emotions.",
+    "key_points": [
+      "**Loss Aversion: The 2:1 Pain Ratio Hardwired in Your DNA**: The psychological pain of losing $100 is approximately twice as intense as the pleasure of gaining $100—a quantifiable asymmetry rooted in evolutionary survival. This biological imperative explains why investors hold losing positions 50% longer than winners (the disposition effect) and why market corrections trigger panic selling despite long-term recovery evidence. It's not irrationality but ancient threat-detection software misfiring in modern markets.",
+      "**Anchoring: How Your Brain's First Impression Becomes a Financial Prison**: The initial number you encounter—whether a stock's IPO price, a car's MSRP, or a salary offer—creates a cognitive anchor that skews all subsequent value judgments by up to 45%. This explains why investors fixate on purchase prices (\"I'll sell when it gets back to what I paid\") and why retailers use artificially high \"original\" prices to make discounts seem generous. The anchor isn't just a reference point—it's a gravitational force pulling decisions toward arbitrary starting values.",
+      "**Mental Accounting: The Cognitive Fiction That Fractures Your Wealth**: We instinctively categorize money by source rather than value—treating a $1,000 tax refund as \"free money\" for spending while guarding the same $1,000 from salary as sacred savings. This creates artificial mental buckets that violate the fundamental economic principle of fungibility, leading to simultaneous high-interest debt and low-yield savings, and causing windfalls to evaporate while essential expenses feel painfully constrained."
+    ],
+    "practice": [
+      {
+        "title": "Stress-Test Your Loss Aversion",
+        "steps": [
+          "**Simulate a Crisis**: Look at your investment portfolio. Write down, in detail, what your emotional reaction would be if its total value dropped by 20% tomorrow.",
+          "**Plan Your Action**: Next to your emotional reaction, write down the specific action you would feel compelled to take (e.g., 'Sell everything,' 'Do nothing,' 'Buy more').",
+          "**Confront the Data**: Research the historical frequency and duration of such drawdowns in your asset class. Compare your planned action to the evidence. Ask: 'Am I planning to act on a survival instinct or on long-term historical reality?'"
+        ]
+      },
+      {
+        "title": "Break the Anchor Before You Buy",
+        "steps": [
+          "**Identify the Anchor**: Before any significant purchase or investment decision, explicitly write down the first price or value number you encountered (e.g., the asking price, the analyst's target).",
+          "**Gather Disparate Data**: Find three alternative price points or valuation metrics from completely unrelated, credible sources. For a stock, this could be its price-to-sales ratio, the price of a competitor, and its historical average price over 10 years.",
+          "**Make a Fresh Decision**: Basing your decision only on these three new data points, reassess the value. This forces your brain to establish a new, more evidence-based benchmark."
+        ]
+      },
+      {
+        "title": "The One-Ledger Audit",
+        "steps": [
+          "**Eliminate Buckets for One Month**: For the next 30 days, record all incoming money—salary, bonuses, cash gifts, tax refunds, side hustle income—in a single, unified ledger. Do not label them by source.",
+          "**Track Spending Without Prejudice**: Record all expenses from this unified pool. At the end of the month, categorize your spending (essentials, savings/investment, discretionary).",
+          "**Analyze the Pattern**: Review your spending. Did you spend more frivolously in weeks where 'windfall' money came in? The goal is to prove to yourself that a dollar is a dollar, training your brain toward integrated financial discipline."
+        ]
+      }
+    ],
+    "risk_notes": "Applying behavioral economics requires careful navigation of three critical risks—each directly connected to the practical exercises above. First, **overcorrection**: The Stress-Test exercise might lead you to eliminate all emotional responses, but certain biases (like the optimism that fuels entrepreneurship) drive innovation. Second, **the paternalism trap**: While the Anchor-Breaking exercise empowers independent thinking, poorly designed 'nudges' can manipulate rather than educate—undermining the autonomy these exercises aim to build. Third, **false confidence**: The One-Ledger Audit demonstrates that debiasing requires continuous practice; in high-stress situations, these cognitive shortcuts reassert themselves. These exercises work best when combined with robust systems (like automatic savings) that operate when willpower fails.",
+    "sources": [
+      {
+        "title": "Thinking, Fast and Slow by Daniel Kahneman",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      },
+      {
+        "title": "Nudge: Improving Decisions About Health, Wealth, and Happiness by Richard Thaler and Cass Sunstein",
+        "url": "https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X"
+      }
+    ],
+    "meta": {
+      "id": "Behavioral economics",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Cognitive bias",
+        "Prospect theory"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "c6fb13ff-ddca-4dd7-be7b-1b239650e078",
     "date": "2026-03-09",
     "topic": "Decision Analysis Under Uncertainty",
