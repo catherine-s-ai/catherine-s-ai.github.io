@@ -1,5 +1,68 @@
 [
   {
+    "id": "b21a3a24-de45-4d1a-8506-de8e947db54d",
+    "date": "2026-03-15",
+    "topic": "Credit Scores: The Algorithmic Passport to Modern Financial Life",
+    "teaser": "Your credit score isn't measuring your morality—it's a prediction machine that determines whether you'll pay $100,000 extra on your mortgage.",
+    "summary": "**Your credit score isn't a report card on your financial morality; it's a prediction algorithm that banks use to guess how likely you are to make them money.** This system emerged from a 4,000-year-old problem: how do strangers trust each other with money? Babylonian clay tablets recorded debts, medieval merchants used reputation networks, and 1950s bankers judged loan applications by whether applicants 'looked trustworthy.'\n\nAt its core, **consumer credit is simply borrowing money you don't have yet, with a promise to repay it later**. The fundamental problem is trust between financial strangers—something that works in small communities but fails at scale. Credit scoring emerged as the only solution: mathematical predictions of repayment likelihood based on past behavior. The first principles are brutal: 1) Lenders maximize profitable loans while minimizing defaults, 2) Your borrowing history creates patterns that predict future behavior, and 3) The system exists because direct human judgment doesn't scale in a global economy.\n\n**Why does this matter right now?** Your credit score determines whether you'll pay 3% or 8% on a mortgage—that's a **$100,000+ difference over 30 years**. It affects your insurance premiums, rental applications, and even some job opportunities. In our current economy where everything from cars to homes to education is financed, **your credit score is your financial passport**—without it, you're effectively stuck at home while others travel the world of financial opportunity. This isn't just about getting approved for loans; it's about the cost of participating in modern economic life.\n\nThe system works because human behavior patterns repeat. Your payment history, credit utilization, and account diversity create a behavioral fingerprint that algorithms use to predict your future actions. But this prediction isn't perfect—it's based on historical data that assumes tomorrow will look like yesterday. When systemic crises hit (like 2008), these patterns break down, and the algorithms fail spectacularly. Yet despite these flaws, the system persists because we haven't found a better way to scale trust in a world of financial strangers. The irony is profound: we've replaced human judgment with mathematical models, only to discover those models are just as fragile when the unexpected occurs.",
+    "key_points": [
+      "Credit scores measure your predictability to systems, not your financial health to yourself. The algorithm rewards consistent mediocrity over occasional excellence—one perfect payment history with high utilization scores worse than occasional late payments with perfect utilization.",
+      "Payment history isn't about punctuality; it's about predictability. One late payment doesn't just show you were late—it shows your financial life is unpredictable, which scares algorithms more than occasional tardiness. The system prefers boring reliability over sporadic brilliance.",
+      "Credit diversity matters because it shows you can handle different types of debt obligations simultaneously—it's not about having more credit, but demonstrating you can juggle multiple financial responsibilities without dropping any. This is the financial equivalent of proving you can walk and chew gum at the same time.",
+      "The scoring system creates perverse incentives: avoiding all debt looks suspicious to algorithms, but taking on manageable debt improves your score—creating a 'Goldilocks zone' of indebtedness that's neither too hot nor too cold. Historically, this sweet spot has shifted with economic cycles, creating systemic risk when too many people optimize for the same narrow band of behavior."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Credit Elasticity",
+        "steps": [
+          "Track your credit score changes over the past 12 months",
+          "Document every credit event (new accounts, balance changes, inquiries)",
+          "Calculate how much your score changes per $1,000 of debt taken on or paid off",
+          "Map this elasticity against your income changes to see if you're becoming more or less sensitive to debt"
+        ]
+      },
+      {
+        "title": "Map Your Credit History Against Economic Cycles",
+        "steps": [
+          "Plot your credit score timeline from your first credit account",
+          "Overlay major economic events (2008 crisis, 2020 pandemic, interest rate changes)",
+          "Identify patterns: does your score improve during booms and suffer during busts?",
+          "Analyze how systemic events affect your personal scoring algorithm versus the broader population"
+        ]
+      },
+      {
+        "title": "Stress-Test Your Credit Against Historical Crises",
+        "steps": [
+          "Research how credit markets behaved during 2008 and 2020",
+          "Calculate what would happen to your credit access if similar conditions occurred today",
+          "Identify three non-traditional assets you could leverage if traditional credit disappeared",
+          "Create a 90-day emergency plan that incorporates lessons from past systemic failures"
+        ]
+      }
+    ],
+    "risk_notes": "Credit scores fail catastrophically during systemic crises when historical patterns break down (2008 demonstrated this). They create perverse incentives where financially responsible behavior (avoiding debt) can actually lower your score, while taking on manageable debt improves it. The psychological trap is 'score optimization'—people make financially irrational decisions to game a number rather than using credit as the tool it's meant to be. Remember: Your score predicts your behavior to lenders; it shouldn't dictate your behavior to you.",
+    "sources": [
+      {
+        "title": "Consumer Financial Protection Bureau credit reporting guide",
+        "url": "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/"
+      }
+    ],
+    "meta": {
+      "id": "Consumer credit & credit scores",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Debt management",
+        "Credit cards and loans"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "d61637a0-4b03-4004-95e7-5169e2b9a4a0",
     "date": "2026-03-14",
     "topic": "Emergency Funds: The Psychological Airbag That Creates Financial Optionality",
@@ -4060,89 +4123,6 @@
       "related": [
         "Power of compounding",
         "Discounting"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "d669bdd3-64eb-468a-be79-b74e4ee58b5e",
-    "date": "2026-01-11",
-    "topic": "Inflation: The Silent Wealth Transfer You're Probably Ignoring",
-    "teaser": "What if the greatest financial threat isn't market crashes or recessions, but a force that has toppled empires while you slept? Discover how inflation quietly picks your pocket—and what the smartest investors know that you don't.",
-    "summary": "**Inflation isn't an economic statistic—it's history's most powerful political weapon.** For 2,000 years, from Roman emperors debasing denarii to Weimar Germany printing marks into oblivion, rulers have discovered the same brutal truth: inflation is the path of least resistance. When empires face collapse, they don't raise taxes or cut spending—they quietly dilute their currency, transferring wealth from savers to the state while citizens sleepwalk through the theft.\n\nThis isn't about prices rising; it's about **power dynamics**. Inflation occurs when governments choose currency devaluation over fiscal responsibility because it's politically easier than austerity. The Roman Empire didn't fall to barbarians—it collapsed when its silver coins became copper-washed tokens, destroying trust in the very foundation of commerce. The pattern repeats: revolutionary France with assignats, post-war Hungary with pengős, modern Venezuela with bolívars. The mechanism changes, but the human psychology remains constant.\n\n**The real danger isn't inflation—it's unexpected inflation.** When your expectations diverge from reality, that's when wealth transfers accelerate exponentially. If you expect 2% inflation but get 8%, your carefully planned retirement evaporates. This expectation gap creates what economist Milton Friedman called 'the cruelest tax'—one that disproportionately harms those who trust the system most: pensioners holding cash, workers on fixed wages, anyone who plays by yesterday's rules.\n\nYour personal experience with inflation likely differs dramatically from official statistics because **CPI is a political compromise**, not a scientific truth. Governments underreport healthcare and education inflation by 3-4x because admitting the true cost would expose systemic failures. If you're young, educated, and urban, your money might be decaying at 8-10% annually while official CPI claims 3%. This isn't measurement error—it's measurement convenience.\n\n**The psychological trap is profound.** We suffer from 'money illusion,' celebrating a 5% raise while ignoring 7% inflation. We hoard cash 'for safety' as it loses purchasing power at emergency-room-visit speed. We judge investments in nominal terms while real returns turn negative. This cognitive failure isn't accidental—it's why inflation persists. As John Maynard Keynes observed, 'There is no subtler, no surer means of overturning the existing basis of society than to debauch the currency.' The revolution happens not in streets, but in bank accounts, one devalued dollar at a time.",
-    "key_points": [
-      "Inflation is fundamentally a political choice, not an economic inevitability—governments consistently choose currency debasement over austerity because it's less immediately painful, creating a stealth wealth transfer from citizens to the state.",
-      "The true danger is unexpected inflation (the gap between expected and actual inflation), which destroys carefully laid financial plans and creates exponential wealth transfers to those positioned to benefit from the surprise.",
-      "Official inflation metrics systematically understate true cost increases for politically sensitive categories (healthcare, education, housing), meaning your personal inflation rate could be 2-3x higher than reported—a hidden tax on specific demographics.",
-      "High inflation environments create perverse incentives: they punish virtue (saving, planning, patience) while rewarding recklessness (leveraged speculation, debt accumulation), fundamentally distorting societal values over generations.",
-      "Deflation is more psychologically dangerous than inflation because it triggers primal hoarding instincts, but moderate, predictable inflation (2-3%) is the 'goldilocks zone' that encourages productive investment while maintaining currency trust."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Personal Inflation Rate and Adjust Your Portfolio",
-        "steps": [
-          "Track your monthly spending for 3 months across 5 key categories: food, housing, transportation, healthcare, and education.",
-          "Compare your spending percentages to the Bureau of Labor Statistics' CPI component weights to identify where you diverge from the 'average' consumer.",
-          "Calculate your weighted personal inflation rate using current CPI data for each category, then stress-test with alternative inflation measures (PCE, Billion Prices Project, ShadowStats).",
-          "Multiply this rate against your cash savings to see your annual purchasing power loss in dollar terms.",
-          "**Portfolio Adjustment:** If your personal inflation rate exceeds 5%, allocate 15-25% to inflation-protected securities (TIPS, I-Bonds) and 10-15% to real assets (commodities, REITs, infrastructure). If below 3%, maintain but monitor."
-        ]
-      },
-      {
-        "title": "Conduct a Purchasing Power Autopsy with Historical Context",
-        "steps": [
-          "Select 3-5 specific purchases from 10 years ago (e.g., movie ticket: $8, gallon of gas: $2.50, average restaurant meal: $15).",
-          "Use the BLS Inflation Calculator to determine what each would cost today, then research what they cost during high-inflation periods (1970s, Weimar Germany, modern Venezuela).",
-          "Calculate the annual decay rate for each item using the compound annual growth formula, then compare to wage growth over the same period.",
-          "Apply the average decay rate to your current savings to project real value loss over the next decade under three scenarios: baseline (2-3%), stress (5-7%), and crisis (10%+).",
-          "**Portfolio Adjustment:** If your projections show >30% real loss over a decade, increase equity allocation to companies with pricing power (luxury brands, software, healthcare) and reduce long-duration bonds."
-        ]
-      },
-      {
-        "title": "Run a Debt-Inflation Stress Test with Actionable Thresholds",
-        "steps": [
-          "List all fixed-rate debts (mortgage, student loans, car payments) with their interest rates and remaining balances.",
-          "Simulate three scenarios: inflation at 3%, 6%, and 9% annually while your income grows at only 2% (the typical wage-price lag).",
-          "Calculate the real (inflation-adjusted) repayment burden for each year of remaining debt, identifying when inflation turns your debt into 'free money' (real interest rates turn negative).",
-          "Determine your personal inflation breakeven point: at what inflation rate does your debt become an asset rather than a liability?",
-          "**Portfolio Adjustment:** If you have substantial fixed-rate debt below 4%, reduce cash holdings (inflation erodes their value) and consider modest leverage in real assets. If debt rates exceed 6%, prioritize repayment over speculative investments."
-        ]
-      }
-    ],
-    "risk_notes": "Inflation expectations become self-fulfilling prophecies—once people expect higher inflation, they demand compensating wages and prices, creating the very inflation they feared. This psychological feedback loop is why central banks target 2% inflation: not because it's optimal, but because it's the highest rate that doesn't trigger expectation spirals. The greater systemic risk is that inflation metrics have become political tools: CPI methodology changes in the 1990s and 2000s systematically reduced reported inflation by 1-2% annually, creating a 'stealth default' on inflation-indexed obligations. Remember that during hyperinflation episodes, all traditional investments fail except tangible assets, foreign currency, and mobility—the ultimate hedge isn't financial, but geographical.",
-    "sources": [
-      {
-        "title": "'The Ascent of Money' by Niall Ferguson (historical perspective on currency erosion)",
-        "url": "https://www.niallferguson.com/the-ascent-of-money"
-      },
-      {
-        "title": "'The Great Inflation' by Federal Reserve History",
-        "url": "https://www.federalreservehistory.org/essays/great-inflation"
-      },
-      {
-        "title": "U.S. Bureau of Labor Statistics Inflation Calculator (interactive tool)",
-        "url": "https://www.bls.gov/data/inflation_calculator.htm"
-      },
-      {
-        "title": "'The Monetary History of the United States' by Milton Friedman and Anna Schwartz",
-        "url": "https://www.amazon.com/Monetary-History-United-States-1867-1960/dp/0691003548"
-      },
-      {
-        "title": "Billion Prices Project (alternative inflation measurement)",
-        "url": "https://www.thebillionpricesproject.com/"
-      }
-    ],
-    "meta": {
-      "id": "Inflation & purchasing power",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Time value of money",
-        "Interest rates"
       ],
       "tags": [
         "Personal Finance Foundations",
