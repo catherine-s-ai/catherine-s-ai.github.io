@@ -1,5 +1,70 @@
 [
   {
+    "id": "d2afc6f5-67e5-45c9-8f94-578736ec8108",
+    "date": "2026-03-16",
+    "topic": "Inflation: The Silent Thief of Your Wealth",
+    "teaser": "Your cash is rotting at 1% a year—here’s how to stop the bleed before it’s too late.",
+    "summary": "Inflation isn't just rising prices—it's a silent thief that stole 96% of the U.S. dollar's purchasing power since 1913, turning what cost $1 then into $30 today. The real shock? Most people don't notice because it happens slowly, like a frog in gradually heating water. We get lulled by nominal gains while our real wealth evaporates.\n\nAt its **first principles**, inflation is currency dilution. Imagine a company issuing more shares: each existing share becomes less valuable. When governments print money beyond economic growth, they're diluting your currency shares. This isn't physics—it's policy choice. For centuries, gold maintained purchasing power while fiat currencies came and went. The U.S. dollar's 96% loss since 1913 mirrors Rome's denarius devaluation and Weimar Germany's collapse—not inevitable, but chosen paths of fiscal convenience.\n\nWhy does this matter **right now**? With inflation rates fluctuating globally, your cash savings are actively decaying in value. If you're earning 2% interest but inflation is 3%, you're effectively losing 1% annually. This erosion compounds silently, threatening retirement plans, emergency funds, and long-term goals unless you actively defend against it. In 2021-2023, many experienced this firsthand as prices for essentials like food and housing surged, yet savings accounts paid near-zero returns. The lesson is stark: inflation isn't a distant economic theory—it's a daily tax on your financial security, and ignoring it means surrendering to gradual impoverishment. To build real wealth, you must move beyond passive saving and into strategic action.",
+    "key_points": [
+      "Inflation is asymmetric: It punishes savers who hold cash but rewards borrowers with fixed-rate debt, as they repay with cheaper future dollars. This makes a 30-year fixed mortgage one of the few 'good' inflation hedges available to individuals—effectively a negative real interest rate loan when inflation exceeds your mortgage rate.",
+      "The 'Money Illusion' trap: Behavioral studies show people focus on nominal values rather than real purchasing power. During high inflation, workers celebrate 5% raises while losing 2% in real terms—a cognitive error that devastates retirement planning when compounded over decades.",
+      "Inflation acts as a regressive tax: Low-income households spend disproportionately on essentials (food, energy, housing), which inflate faster than luxury goods. While the wealthy hedge with assets, the poor experience effective inflation rates 2-3x higher than official CPI, widening inequality silently.",
+      "Historical context reveals patterns: Since the Federal Reserve's founding in 1913, the U.S. dollar has lost over 96% of its value, showing that inflation is a persistent force, not a temporary blip. Every fiat currency in history has eventually failed—the only question is timing and rate of decline.",
+      "Inflation is a hidden wealth transfer: When governments print money to fund spending, they dilute currency value, transferring wealth from citizens to the state without legislation. This 'fiscal inflation' represents the largest unlegislated tax in modern economies, eroding savings while reducing real debt burdens for sovereign borrowers."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Inflation Rate",
+        "steps": [
+          "Track your monthly spending on essentials (e.g., food, housing, utilities) for the past three months.",
+          "Compare these costs to the same period a year ago to calculate the percentage increase.",
+          "Contrast your personal rate with official CPI numbers and the S&P 500's historical 10% annual returns. If your inflation is 5% and you're earning 2% in cash, you're losing 3% annually while missing 8% in potential market gains—a double-compounding opportunity cost."
+        ]
+      },
+      {
+        "title": "Check Your Cash Allocation",
+        "steps": [
+          "List all cash or low-yield savings accounts (e.g., checking, savings under 2% interest).",
+          "Calculate what percentage of your net worth is in these assets.",
+          "Aim to keep only 3-6 months of expenses in cash for emergencies. Warning: Over-optimizing cash allocation during volatility can be costly—maintain enough liquidity to avoid selling investments at market lows while investing the rest in inflation-resistant assets like stocks, real estate, or TIPS."
+        ]
+      },
+      {
+        "title": "Simulate a 5% Annual Inflation Scenario",
+        "steps": [
+          "Use a compound calculator (e.g., online tool or spreadsheet) with your current annual expenses as the base.",
+          "Project how much money you'll need in 10, 20, and 30 years to maintain today's lifestyle at 5% inflation.",
+          "Review the results to adjust savings and investment plans, ensuring they outpace inflation over time. At 5% inflation, $100,000 today becomes just $61,391 in 10 years in real terms—requiring aggressive investment action, not passive saving."
+        ]
+      }
+    ],
+    "risk_notes": "Inflation fails as a measure during deflationary shocks (like 2008) or when CPI baskets don't reflect real consumption patterns (e.g., excluding housing costs). Psychological traps include 'inflation denial' (ignoring it due to complexity) and 'chasing yields' into risky investments out of fear, which can lead to greater losses. Always diversify and base decisions on long-term fundamentals, not short-term panic.",
+    "sources": [
+      {
+        "title": "Book: 'The Ascent of Money' by Niall Ferguson (historical perspective on currency devaluation)",
+        "url": "https://www.niallferguson.com/the-ascent-of-money"
+      },
+      {
+        "title": "Paper: 'The Measurement of Inflation' by the Bureau of Labor Statistics (methodology behind CPI)",
+        "url": "https://www.bls.gov/cpi/"
+      }
+    ],
+    "meta": {
+      "id": "Inflation & purchasing power",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Time value of money",
+        "Interest rates"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "b21a3a24-de45-4d1a-8506-de8e947db54d",
     "date": "2026-03-15",
     "topic": "Credit Scores: The Algorithmic Passport to Modern Financial Life",
@@ -4064,65 +4129,6 @@
       "related": [
         "Time value of money",
         "Annualized & compound returns"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "647e25bb-8f54-4b2a-ae2b-aca4e7b411d5",
-    "date": "2026-01-12",
-    "topic": "The Time Value of Money: Why a Dollar Today is Worth More Than a Dollar Tomorrow",
-    "teaser": "Queen Isabella's $30,000 mistake cost Spain $7 trillion. Your daily financial choices are making the same error—here's how to stop it.",
-    "summary": "In 1492, Queen Isabella of Spain funded Christopher Columbus's voyage with approximately $30,000. Had she instead invested that sum at a modest 4% annual return, compounded over 532 years, it would be worth over $7 trillion today—enough to buy modern Spain fifty times over. This isn't just historical trivia; it's the most expensive lesson in financial history, demonstrating that **the most expensive thing you'll ever buy is the thing you don't buy today**.\n\nAt its core, the time value of money rests on three irreducible first principles: **opportunity cost** (what else you could do with the money), **inflation's erosion** (money loses purchasing power over time), and **risk** (future money isn't guaranteed). These forces create two mirror concepts: **compounding** grows money forward through reinvestment, while **discounting** shrinks future money back to today's terms. Think of compounding as planting an oak tree—small actions today create massive shade decades later—and discounting as translating future promises into present reality.\n\nWhy does this matter for your daily life? Every financial decision you make is a time-value calculation. Consider the 25-year-old who invests $500 monthly at a 7% return versus waiting until age 35. By retirement at 65, the early starter accumulates $1.2 million, while the latecomer has just $520,000—a 2.3x difference that represents not just numbers, but life trajectories. This principle applies whether you're delaying retirement savings by one year, choosing between a cash discount or 0% financing, or even deciding to spend on experiences versus investments. **Time doesn't just heal wounds; it creates fortunes** when harnessed correctly.",
-    "key_points": [
-      "The 'Rule of 72' is actually the 'Rule of Continuity'—money compounds in continuous moments, not annual jumps. At 7%, money doubles every 10.2 years (using e^(rt)) rather than 10.3 years (using (1+r)^t), revealing exponential growth's true power.",
-      "Discounting exposes hidden costs: A 'free' $10,000 car loan over 5 years at 0% interest actually costs $8,900 in today's money with 2.5% inflation—nothing is ever truly free when time value is accounted for.",
-      "Your most valuable asset isn't money—it's youth. A dollar invested at age 20 has 45 years to compound; at 50, only 15 years. Time arbitrage consistently outperforms market timing."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your 'Time Tax'",
-        "steps": [
-          "Identify your next planned luxury purchase (e.g., a $2,000 vacation).",
-          "Discount this amount by 7% annually for 10 years using the formula: Present Value = Future Value / (1 + 0.07)^10.",
-          "The result ($2,000 / 1.967 ≈ $1,017) represents what you're really spending in future opportunity cost—the money you won't have compounding for a decade."
-        ]
-      },
-      {
-        "title": "Run a 'Compounding Autopsy'",
-        "steps": [
-          "Locate an old savings account statement from 5+ years ago with a specific balance (e.g., $5,000).",
-          "Calculate what that balance would be worth today at a 7% annual return using: Future Value = $5,000 × (1 + 0.07)^years.",
-          "Compare this projected value to your actual current balance—the difference is your 'laziness tax' from suboptimal investing."
-        ]
-      },
-      {
-        "title": "Simulate the 'Benjamin Franklin Test'",
-        "steps": [
-          "When offered a choice (e.g., $10,000 today vs. $11,000 in one year), calculate the implied interest rate: Rate = (Future Value / Present Value) - 1 = ($11,000 / $10,000) - 1 = 10%.",
-          "Check if you can beat this 10% rate elsewhere (e.g., through investments or debt repayment).",
-          "Most people take the cash without this 60-second calculation, often missing better opportunities."
-        ]
-      }
-    ],
-    "risk_notes": "The time value of money assumes rational actors, predictable returns, and stable currencies—conditions that rarely exist in reality. Hyperinflation (e.g., Weimar Germany or Zimbabwe) can destroy compounding's benefits entirely. Behavioral traps include 'exponential growth blindness' (where humans linearize curves and underestimate compounding) and 'hyperbolic discounting' (preferring $100 today over $200 tomorrow, but $200 in 365 days over $100 in 364 days). Additionally, over-discounting future costs can paralyze all spending—sometimes, experiences today are worth more than money tomorrow, and not all decisions should be purely financial.",
-    "sources": [
-      {
-        "title": "Search: The Time Value of Money: Why a Dollar Today is Worth More Than a Dollar Tomorrow",
-        "url": "https://www.google.com/search?q=The%20Time%20Value%20of%20Money%3A%20Why%20a%20Dollar%20Today%20is%20Worth%20More%20Than%20a%20Dollar%20Tomorrow"
-      }
-    ],
-    "meta": {
-      "id": "Time value of money",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Power of compounding",
-        "Discounting"
       ],
       "tags": [
         "Personal Finance Foundations",
