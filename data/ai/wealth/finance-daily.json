@@ -1,5 +1,69 @@
 [
   {
+    "id": "c542bc97-62c7-4846-afb2-53a5c1c5038f",
+    "date": "2026-03-24",
+    "topic": "Banking Fundamentals: How Checking and Savings Accounts Really Work",
+    "teaser": "What if your bank's greatest innovation wasn't safeguarding your money, but quietly convincing you to leave it where it slowly disappears? The 700-year-old trick hiding in plain sight.",
+    "summary": "**In 14th-century Florence, goldsmiths made a discovery that would shape modern civilization: they could lend out the gold entrusted to them for safekeeping, creating new money while promising depositors their gold was still there.** This wasn't just financial innovation—it was psychological alchemy, transforming physical metal into abstract trust. Today's banking system operates on the same fundamental insight: **money exists not as physical objects but as psychological agreements about future promises.**\n\nThis historical reality reveals banking's core tension: banks profit by lending your money while you sleep, yet your interest lies in preserving purchasing power against inflation's silent erosion. The fractional reserve system—where banks keep only a fraction of deposits available—creates a structural misalignment: **banks maximize lending while customers need preserved purchasing power.** This isn't a bug but the system's fundamental feature, perfected over centuries.\n\n**Why this matters now more than ever:** We're living through the greatest monetary experiment in history, with central banks creating trillions electronically. Yet most people still treat banking like medieval peasants treated goldsmiths—with blind trust in institutions that profit from their inertia. The psychological reality is stark: **FDIC insurance protects against bank failure but creates false security against inflation, the true wealth destroyer.** Your cash isn't just sitting there—it's being systematically transferred from your future self to bank shareholders through the mechanics of negative real returns.\n\nUnderstanding this changes everything. The goldsmiths' insight wasn't about storage but about **velocity**—putting idle resources to work. Your parallel insight must be about **intentionality**—recognizing that every dollar has a purpose along the liquidity spectrum. Checking accounts serve immediate transactions; savings accounts serve near-term needs; everything else belongs elsewhere. The system counts on you confusing these functions, just as medieval merchants trusted goldsmiths with more than storage.\n\nThis knowledge transforms banking from passive acceptance to active strategy. The same system that financed Renaissance trade now quietly erodes modern wealth through designed complacency. Your defense begins with recognizing that **banking isn't a service but a relationship of competing interests**, where your vigilance is the price of preserved purchasing power.",
+    "key_points": [
+      "The Velocity Deception: Medieval goldsmiths discovered that money's value comes not from storage but from movement—today's banks monetize your belief that money should sit still. Optimal cash management means matching each dollar's velocity to its purpose, not letting institutional convenience dictate its speed.",
+      "The Inertia Tax: Banks generate billions from customer cognitive laziness—the tendency to accept default options as permanent solutions. Every day you leave excess funds in checking accounts, you pay a hidden tax measured in lost compounding and surrendered purchasing power.",
+      "The Safety Illusion: FDIC insurance creates psychological safety that masks financial danger—it protects against bank failure while distracting from inflation's guaranteed erosion. Treating insured accounts as 'safe' often means accepting returns that guarantee purchasing power decline.",
+      "The Convenience Trap: Behavioral economics reveals we overvalue immediate convenience and undervalue future consequences. Leaving money in checking for 'easy access' is like paying a 2-3% annual convenience fee—a cognitive error that compounds into six-figure lifetime wealth transfers.",
+      "The Structural Misalignment: Fractional reserve banking creates inherent conflict—banks profit by maximizing lending while customers need preserved purchasing power. Recognizing this misalignment transforms banking from trusted service to negotiated relationship."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Cognitive Convenience Tax",
+        "steps": [
+          "Track every emotional resistance to moving money between accounts for 30 days—note each 'too complicated' or 'later' thought",
+          "Calculate the exact dollar amount of convenience you're paying: (excess checking balance) × (HYSA rate - your checking rate)",
+          "Project this annual cost over 20 years at 5% compound growth to see your lifetime convenience tax",
+          "Compare this amount to what you'd pay for actual convenience services (food delivery, premium subscriptions) to calibrate your true priorities"
+        ]
+      },
+      {
+        "title": "Audit Your Psychological Safety Premium",
+        "steps": [
+          "List every reason you keep money in low-yield accounts ('FDIC insured,' 'always been there,' 'easy access')",
+          "Quantify each reason: How much extra are you paying for FDIC insurance beyond what high-yield accounts offer?",
+          "Calculate the opportunity cost of time spent managing multiple accounts versus single-account simplicity",
+          "Simulate three scenarios: current setup, optimized HYSA, and laddered approach—include both financial and psychological costs"
+        ]
+      },
+      {
+        "title": "Map Your Liquidity Spectrum with Behavioral Guardrails",
+        "steps": [
+          "Analyze 90 days of transactions to identify true cash flow patterns, not perceived needs",
+          "Establish behavioral rules: 'If checking exceeds [X] for 3 days, auto-transfer to savings'",
+          "Calculate your personal inflation buffer: minimum emergency fund needed to maintain purchasing power during price surges",
+          "Create a tiered system with psychological triggers: checking (immediate needs), savings (true emergencies), and growth vehicles (everything else)"
+        ]
+      }
+    ],
+    "risk_notes": "Traditional banking products represent a sophisticated wealth transfer mechanism disguised as financial services. The greatest risk isn't bank failure but systematic purchasing power erosion through negative real returns—a guaranteed outcome when yields trail inflation. Psychological traps include 'availability bias' (overweighting FDIC protection while ignoring inflation) and 'present bias' (valuing today's convenience over tomorrow's wealth). During economic stress, the system's fragility appears: banks restrict access precisely when liquidity matters most, revealing that 'safety' and 'accessibility' often conflict. These products work as transaction utilities but fail as wealth preservers—confusing these functions represents one of history's most persistent and expensive financial errors.",
+    "sources": [
+      {
+        "title": "Principles for Navigating Big Debt Crises",
+        "url": "https://www.principles.com/big-debt-crises/"
+      }
+    ],
+    "meta": {
+      "id": "Common banking products",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Savings account",
+        "Checking account"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "a34cfddf-7b91-4307-a497-c999be03b587",
     "date": "2026-03-23",
     "topic": "Balance Sheets vs. Cash Flow Statements: The Snapshot vs. The Movie",
@@ -4072,73 +4136,6 @@
       "related": [
         "Stocks",
         "Bonds"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "c181500c-0290-4321-9e4c-1f16623c9112",
-    "date": "2026-01-20",
-    "topic": "The Ancient Price of Time: Why Your Bank Account Is Losing Money",
-    "teaser": "Your savings account is a 4,000-year-old financial instrument that's silently taxing your future self—here's how to stop the bleeding.",
-    "summary": "**The first recorded interest rate wasn't for money—it was for grain.** In ancient Mesopotamia around 2000 BCE, temples charged 20% interest on grain deposits. This wasn't a loan; it was storage with a time premium. Your modern bank account descends directly from this system, but with a critical difference: today's deposit rates are losing the battle against inflation, making you pay for the privilege of saving.\n\n**Interest rates are fundamentally the price of time.** When you deposit money, you're renting your purchasing power to the bank. The bank then lends it out at higher rates, pocketing the difference. This rate is determined by three first principles: (1) **inflation's erosion of value**—money loses purchasing power over time, (2) **the opportunity cost of your capital**—what you could earn elsewhere, and (3) **the bank's risk in lending it out**—the chance borrowers won't repay.\n\n**Why this matters today:** With inflation running at 3-5% in many economies and standard savings accounts paying 0.5-2%, your deposits are losing 1-3% annually in real terms. Every $10,000 in a typical account silently loses $100-300 in purchasing power each year. This isn't just poor returns—it's a **hidden tax on your future self**, compounded over decades. The psychological trap is what I call the **'parking fallacy'**: treating temporary parking spots (like checking accounts) as permanent storage, when they're actually leaky containers.\n\n**The real interest rate—nominal rate minus inflation—is what actually matters.** When this number turns negative (as it has for much of the past decade), you're effectively paying the bank to hold your money. Banks use your deposits as raw material for their profit machine—you're the supplier getting wholesale prices while they sell retail loans at 4-20% interest. Understanding this dynamic is the first step toward reclaiming your financial sovereignty.",
-    "key_points": [
-      "Deposit rates are the floor of your financial universe—any investment must beat this minimum to be worthwhile.",
-      "The 'real' interest rate (nominal minus inflation) determines whether you're growing or losing purchasing power.",
-      "Banks profit from the spread between what they pay you (deposit rates) and what they charge borrowers (loan rates).",
-      "Negative real rates mean you're paying for the privilege of saving—a modern inversion of ancient grain storage."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Real Deposit Return",
-        "steps": [
-          "Find your account's current interest rate (check your bank statement or website).",
-          "Look up the current inflation rate (use FRED or your country's central bank data).",
-          "Subtract inflation from your interest rate: Real Rate = Nominal Rate - Inflation Rate.",
-          "Interpret: Positive = growing purchasing power, Negative = losing purchasing power."
-        ]
-      },
-      {
-        "title": "Map Your Cash Holdings",
-        "steps": [
-          "List every deposit account (checking, savings, money market) with current balances.",
-          "Record each account's interest rate and any fees.",
-          "Calculate the total weighted average return across all accounts.",
-          "Identify gaps where cash is earning below the best available high-yield options."
-        ]
-      },
-      {
-        "title": "Run a 5-Year Simulation",
-        "steps": [
-          "Take a sample amount (e.g., $10,000) currently in your lowest-yielding account.",
-          "Project its value in 5 years using: Future Value = Principal × (1 + Current Rate)^5.",
-          "Repeat using the best available high-yield savings or money market rate.",
-          "Compare the difference in purchasing power after adjusting for 3% annual inflation."
-        ]
-      }
-    ],
-    "risk_notes": "Deposits create the illusion of safety while guaranteeing loss against inflation over time. During periods of hyperinflation (like Weimar Germany or modern Venezuela) or bank failures, deposits can become worthless or inaccessible overnight. The psychological comfort of FDIC/NCUA insurance masks the certainty of purchasing power erosion. Never treat deposit accounts as long-term storage—they're temporary parking for emergency funds and short-term needs.",
-    "sources": [
-      {
-        "title": "The Ascent of Money by Niall Ferguson",
-        "url": "https://www.penguinrandomhouse.com/books/176274/the-ascent-of-money-by-niall-ferguson/"
-      },
-      {
-        "title": "Federal Reserve Economic Data (FRED) - Deposit Rates",
-        "url": "https://fred.stlouisfed.org/categories/32245"
-      }
-    ],
-    "meta": {
-      "id": "Interest rates & deposits",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Inflation & purchasing power",
-        "Fixed income"
       ],
       "tags": [
         "Basic Financial Knowledge",
