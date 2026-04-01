@@ -1,5 +1,69 @@
 [
   {
+    "id": "730ee999-a087-42cc-9567-6b3d42992b84",
+    "date": "2026-04-01",
+    "topic": "The Risk-Return Trade-Off: A Psychological Bargain with Your Future Self",
+    "teaser": "Isaac Newton lost his life savings in 1720—discover why even geniuses can't outsmart risk's fundamental asymmetry.",
+    "summary": "In 1720, Isaac Newton—the man who decoded gravity—lost his life savings in the South Sea Bubble. His famous lament, \"I can calculate the motions of heavenly bodies, but not the madness of people,\" reveals a profound truth: **the risk-return trade-off isn't a financial law, but a psychological bargain with your future self.** Even geniuses can't outsmart risk's fundamental asymmetry.\n\nLet's strip this down to **first principles**. All investments are claims on future cash flows. **Risk measures the uncertainty of those cash flows.** Return is the compensation for bearing that uncertainty. The trade-off emerges because rational markets price assets based on expected cash flows—higher uncertainty demands higher potential compensation to attract capital. This isn't abstract theory; it's the engine driving every price in financial markets.\n\nWhy does this matter **right now**? You're making this trade-off whether you realize it or not. Your cash savings are losing purchasing power to inflation (negative real return with near-zero risk). Your retirement accounts hold implicit risk positions. **Understanding this framework lets you consciously choose your risk exposure rather than having it chosen for you by default or fear.** Most people operate on autopilot—chasing returns without quantifying risks, or avoiding risk entirely while their wealth erodes. The market doesn't care about your comfort level; it simply prices uncertainty. Your job isn't to beat the market, but to understand where you sit on this spectrum and why.\n\nThis isn't about finding some optimal mathematical point. It's about aligning your investments with your **psychological durability**. The greatest portfolio in theory is worthless if you abandon it during a downturn. Newton's failure wasn't mathematical—it was emotional. He bought at the peak because everyone else was, then sold in panic when the bubble burst. **The risk-return trade-off only works if you can live with the risk.** Otherwise, you'll become your own worst enemy, buying high and selling low in a cycle of regret. Your future self is counting on you to get this right.",
+    "key_points": [
+      "Risk isn't volatility—it's the permanent loss of capital. Volatility is just the price of admission to the market.",
+      "The efficient frontier isn't a line to maximize—it's a personal comfort zone to inhabit. Your optimal portfolio is psychologically sustainable, not mathematically perfect.",
+      "High returns don't compensate for inappropriate risk. Earning 15% annually while losing sleep over 30% drawdowns is a net negative to life satisfaction.",
+      "The greatest hidden risk is mismatching time horizon with risk exposure—taking long-term risks with short-term money guarantees failure."
+    ],
+    "practice": [
+      {
+        "title": "Portfolio Risk Mapping",
+        "steps": [
+          "List all your investments (cash, bonds, stocks, alternatives) and their current values.",
+          "Place each asset class on a simple grid: low-risk/low-return (cash), medium-risk/medium-return (bonds), high-risk/high-return (stocks).",
+          "Calculate the percentage drop you could withstand before panicking—that's your true risk tolerance, not what you tell yourself in calm markets."
+        ]
+      },
+      {
+        "title": "The Sleep Test",
+        "steps": [
+          "Imagine your portfolio drops 25% tomorrow morning.",
+          "Write down your exact emotional response (e.g., 'I'd check prices every hour,' 'I'd feel sick').",
+          "Document your planned action. If it involves selling anything, your current risk exposure is too high for your psychology."
+        ]
+      },
+      {
+        "title": "30-Year Scenario Simulation",
+        "steps": [
+          "Scenario A: 6% average annual returns with low volatility (max drawdown 15%).",
+          "Scenario B: 8% average annual returns but with three 40% crashes along the way.",
+          "Which path would you actually stick with for three decades? Be brutally honest—this reveals your real risk capacity."
+        ]
+      }
+    ],
+    "risk_notes": "This framework has critical limitations. During systemic crises like 2008, correlations converge toward 1.0—supposedly 'low-risk' assets (corporate bonds, real estate) plummet alongside stocks. Psychological traps abound: chasing past returns (recency bias), underestimating tail risks (black swan blindness), and confusing familiarity with safety (home bias). The market's pricing of risk is imperfect and can disconnect from fundamentals during manias or panics. Newton's mistake wasn't mispricing the South Sea Company—it was failing to account for crowd psychology. Your biggest enemy isn't market risk, but your own behavioral responses to it.",
+    "sources": [
+      {
+        "title": "\"Against the Gods: The Remarkable Story of Risk\" by Peter L. Bernstein",
+        "url": "https://www.amazon.com/Against-Gods-Remarkable-Peter-Bernstein/dp/0471295639"
+      },
+      {
+        "title": "\"The Most Important Thing\" by Howard Marks",
+        "url": "https://www.amazon.com/Most-Important-Thing-Illuminated/dp/0231162847"
+      }
+    ],
+    "meta": {
+      "id": "Risk–return trade-off",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Portfolio diversification",
+        "Risk management"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "487b96cb-5f66-497e-a445-26bfc37ef292",
     "date": "2026-03-31",
     "topic": "Financial Goal Setting: Designing Your Compass, Not Your Destination",
@@ -4072,73 +4136,6 @@
       "related": [
         "Compound interest",
         "Return metrics"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "b0769365-f5d3-4655-8816-3dd3e8d23647",
-    "date": "2026-01-28",
-    "topic": "Portfolio Diversification: The Free Lunch That Isn't Free",
-    "teaser": "The 17th-century merchant who owned 200 ships and still lost everything in the tulip bubble—why your 'diversified' portfolio might be just as fragile.",
-    "summary": "In 1637, a Dutch merchant who owned shares in 200 different ships—what seemed like the ultimate diversified portfolio—lost everything when the tulip bubble burst. His mistake wasn't lack of diversification, but a failure to identify independent return drivers. He owned ships, but they were all sailing in the same economic waters, all exposed to the same speculative fever that gripped the Netherlands. This historical lesson reveals the fundamental truth about diversification: **it's not about spreading bets; it's about understanding what you're actually betting on.**\n\nAt its core, portfolio diversification is the systematic reduction of uncompensated risk by holding assets whose returns don't move in perfect sync. The first principle here is that all investments contain two types of risk: **systematic risk** (market-wide, unavoidable) and **idiosyncratic risk** (specific to that asset, diversifiable). Diversification eliminates idiosyncratic risk while preserving expected returns—what economists call the 'free lunch' in finance. But like most free lunches, this one comes with hidden costs and conditions.\n\nWhy does this matter right now? Because your portfolio likely contains hidden concentrations you can't see. That 'safe' S&P 500 index fund might be 25% technology stocks. That 'diversified' retirement account might have just five companies representing 40% of its value. Without proper diversification, you're taking risks the market won't pay you for—essentially working for free while exposing yourself to unnecessary volatility. The problem isn't that you're not diversified; it's that you're probably diversified across the wrong dimensions, creating the illusion of safety while missing the actual risks.\n\nThe mathematics behind this is elegant: by combining assets with imperfect correlations, you can create portfolios that offer the same expected return with lower volatility, or higher returns with the same risk. But the practical implementation is where most investors fail. They add more assets thinking they're reducing risk, when in reality they're often just adding complexity without addressing the fundamental question: what are the independent return drivers in this portfolio? The Dutch merchant had 200 ships, but they were all sailing in the same storm.",
-    "key_points": [
-      "Diversification works because correlation coefficients are unstable—what moves together today might diverge tomorrow. The 2008 financial crisis proved this when supposedly uncorrelated assets all crashed simultaneously.",
-      "The optimal diversification point isn't 'more assets' but 'enough uncorrelated return streams.' Research shows 20-30 stocks capture most diversification benefits; beyond that, you're just collecting paperwork.",
-      "True diversification requires thinking in multiple dimensions: not just asset classes, but also geography, currency, duration, and liquidity. Most investors only diversify across the first dimension."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Effective Number of Bets",
-        "steps": [
-          "List every holding in your portfolio (stocks, bonds, funds, etc.)",
-          "Group them by independent return drivers (e.g., US large-cap growth, emerging markets value, short-term bonds)",
-          "Count how many truly independent return streams you have (hint: most S&P 500 stocks aren't independent)",
-          "If your number is below 5-7, you're likely overconcentrated; if above 30, you might be over-diversified"
-        ]
-      },
-      {
-        "title": "Run a Historical Stress Test",
-        "steps": [
-          "Take your current portfolio allocation",
-          "Check what happened to similar allocations during March 2020 (COVID crash)",
-          "Check what happened during October 2008 (financial crisis)",
-          "Check what happened during March 2000 (dot-com bubble burst)",
-          "Note: Did everything move together? Did your 'diversifiers' actually diversify?"
-        ]
-      },
-      {
-        "title": "Identify Your Three Largest Hidden Concentrations",
-        "steps": [
-          "Analyze your portfolio by sector exposure (what percentage is technology, healthcare, etc.)",
-          "Analyze by geographic tilt (what percentage is US vs. international)",
-          "Analyze by factor exposure (are all your stocks 'growth' or 'quality' stocks?)",
-          "List the three largest concentrations you weren't previously aware of"
-        ]
-      }
-    ],
-    "risk_notes": "Diversification creates the illusion of safety while exposing you to 'diworsification'—adding assets that dilute returns without reducing risk. The psychological trap is believing you're protected when you've merely created complexity. During systemic crises, correlations converge toward 1.0, making diversified portfolios feel undiversified just when you need protection most. Also, over-diversification can lead to 'closet indexing'—paying active management fees for passive-like returns. Remember: diversification protects against ignorance, not against being wrong about the market's direction.",
-    "sources": [
-      {
-        "title": "\"A Random Walk Down Wall Street\" by Burton Malkiel",
-        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
-      },
-      {
-        "title": "Portfolio Charts - Tools for visualizing diversification",
-        "url": "https://portfoliocharts.com/"
-      }
-    ],
-    "meta": {
-      "id": "Portfolio diversification",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Asset allocation",
-        "Risk reduction"
       ],
       "tags": [
         "Investment Concepts & Principles",
