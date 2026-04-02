@@ -1,5 +1,76 @@
 [
   {
+    "id": "59129850-95b8-4c0d-845f-88e38737c1ec",
+    "date": "2026-04-02",
+    "topic": "Portfolio Diversification: Beyond Spreading Your Bets",
+    "teaser": "The Dutch merchant who owned 40 ships but lost everything in the tulip bubble—your diversification is probably a comforting lie.",
+    "summary": "In 1637, a Dutch merchant watched his fortune evaporate. He owned shares in 40 different ships—what seemed like the ultimate diversified portfolio. Yet when the tulip bubble collapsed, it didn't matter. **Everything failed together.**\n\nThis isn't just history—it's your portfolio today. Most investors make the same mistake: they count assets instead of counting storms. True diversification isn't about how many ships you own; it's about whether they all sink in the same hurricane.\n\n**Here's what the textbooks won't tell you:**\n\n1. **Diversification works precisely when you don't need it**—during calm markets when assets behave predictably. The moment you actually need it (during a crisis), correlations converge toward 1. Everything moves together. Your 'diversified' portfolio becomes a single bet.\n\n2. **The market charges a brutal tax for false diversification**—you pay fees, suffer complexity, and endure psychological strain for protection that often evaporates when most needed. Owning 30 tech stocks feels safe until the entire sector collapses.\n\n3. **True diversification feels wrong**—it means holding assets that perform poorly when your winners soar. It means watching part of your portfolio bleed while the rest thrives. This psychological friction causes most investors to abandon diversification at the worst possible moment.\n\n**The ruthless truth:** Most portfolios are dangerously concentrated in a single bet—'everything goes up.' When that bet fails (and history shows it always does), the consequences are catastrophic. The 2008 financial crisis wasn't a failure of diversification—it was a failure to understand what true diversification requires: assets that thrive when your core holdings collapse.\n\n**Your financial life depends on answering one question:** What assets in your portfolio would soar if your largest holding dropped 50% tomorrow? If you can't name at least three, you're not diversified—you're just spread thin.",
+    "key_points": [
+      "Diversification is a hedge against your own ignorance—but only if you're honest about what you don't know. Most investors diversify against the wrong risks.",
+      "The 'efficient frontier' is a mathematical fiction—in reality, markets have fat tails and black swans that make optimal diversification impossible. True diversification prepares for the impossible.",
+      "Correlation is a fair-weather friend—it works until it doesn't. During crises, all assets become correlated. True diversification requires assets that are fundamentally different, not just statistically uncorrelated.",
+      "Diversification's greatest enemy is success—when concentrated bets pay off, diversification feels like a tax on genius. This psychological trap destroys more wealth than market crashes."
+    ],
+    "practice": [
+      {
+        "title": "The 'One Storm' Test: Discover Your True Number of Bets",
+        "steps": [
+          "List your 5 largest holdings (by value or emotional attachment)",
+          "For each holding, ask: 'What economic storm would destroy this?' (e.g., rising rates kill bonds, regulation kills tech, deflation kills gold)",
+          "Now identify: Do all your holdings fear the same storm? If yes, you have one bet, not many",
+          "Find one asset that thrives in each storm you identified—these are your true diversifiers"
+        ]
+      },
+      {
+        "title": "The 'Painful Holding' Audit: Build Psychological Resilience",
+        "steps": [
+          "Identify the asset in your portfolio that has performed worst recently",
+          "Ask: 'Do I understand why I own this?' If the answer is 'for diversification,' dig deeper",
+          "Research what conditions would make this asset soar while your winners collapse",
+          "If you can't stomach holding it through another bad year, you don't truly believe in diversification"
+        ]
+      },
+      {
+        "title": "The 'History Repeats' Scenario: Stress Test Without Math",
+        "steps": [
+          "Pick three historical crises: 2008 (financial collapse), 2020 (pandemic), 1970s (stagflation)",
+          "For each crisis, identify which of your assets would have been destroyed",
+          "More importantly, identify which would have thrived",
+          "If you don't have assets that would thrive in each scenario, you're not prepared for history's next chapter"
+        ]
+      }
+    ],
+    "risk_notes": "Diversification has three fatal flaws: 1) **The correlation trap**—during true crises, everything becomes correlated (2008 showed this brutally), 2) **The complexity tax**—more assets mean more fees, more monitoring, more behavioral errors, 3) **The mediocrity guarantee**—true diversification means you'll never have a top-performing portfolio, only one that survives. The hidden truth: diversification isn't about maximizing returns—it's about surviving long enough to compound. Most investors fail because they want both outperformance and safety, which is mathematically impossible. True diversification requires accepting that you'll look foolish during bull markets to avoid being destroyed during bear markets.",
+    "sources": [
+      {
+        "title": "Kenneth French's Data Library (Fama-French factors showing diversification benefits)",
+        "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html"
+      },
+      {
+        "title": "Ray Dalio's \"Principles for Navigating Big Debt Crises\" (Chapter on diversification across uncorrelated return streams)",
+        "url": "https://www.principles.com/big-debt-crises/"
+      },
+      {
+        "title": "Nassim Taleb's \"The Black Swan\" (Chapter on why correlation breaks down when you need it most)",
+        "url": "https://www.fooledbyrandomness.com/"
+      }
+    ],
+    "meta": {
+      "id": "Portfolio diversification",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Asset allocation",
+        "Risk reduction"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "730ee999-a087-42cc-9567-6b3d42992b84",
     "date": "2026-04-01",
     "topic": "The Risk-Return Trade-Off: A Psychological Bargain with Your Future Self",
@@ -4062,80 +4133,6 @@
       "related": [
         "Long-term investing",
         "Trading"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "cb134c3f-c232-4f50-8117-94ab531ef444",
-    "date": "2026-01-29",
-    "topic": "The Geometry of Wealth: Why Annualized Returns Lie and Compounding Is Everything",
-    "teaser": "What if your 8% annual return isn't actually 8%? The market's dirtiest secret isn't volatility—it's how that volatility silently confiscates your wealth through mathematical deception.",
-    "summary": "Albert Einstein called compound interest the eighth wonder of the world, yet most investors treat it like simple addition. Here's the mathematical truth they're missing: **Annualized returns are backward-looking illusions that smooth volatility into tidy percentages, while compounding is the forward-moving reality that determines actual wealth.**\n\n**The Deception:** When you see \"8% annualized return,\" your brain interprets it as \"8% each year.\" But markets don't deliver neat annual percentages—they deliver chaotic daily movements that only appear orderly in hindsight. The geometric mean (annualized return) converts this chaos into a standardized rate, creating false confidence about future performance.\n\n**The Reality:** Money grows multiplicatively, not additively. A 50% gain followed by a 50% loss doesn't bring you back to zero—it leaves you 25% poorer. This asymmetry means protecting capital isn't conservative; it's mathematically essential for long-term compounding. Losing 50% requires a 100% gain just to break even.\n\n**The Consequence:** Two investments with identical average returns can produce wildly different outcomes due to sequence risk. A portfolio that swings -30%/+40% annually compounds to less than one with steady +5% returns, even though both average +5%. This \"volatility tax\" is invisible but devastating—it's why chasing high averages often destroys wealth while protecting capital through volatility allows compounding to work its magic over time.\n\nYour financial decisions today—from choosing investments to evaluating performance—require understanding this geometric reality. Misunderstanding means consistently overestimating future wealth and underestimating risk. The market doesn't care about your annualized expectations; it compounds geometrically whether you understand it or not.",
-    "key_points": [
-      "The 'volatility tax' exploits behavioral overconfidence: Investors see smoothed annualized returns and assume future performance will be equally stable, ignoring that sequence risk can turn identical averages into dramatically different outcomes. This isn't just math—it's why people chase past performance, believing high averages predict future results when they actually signal heightened risk of mean reversion.",
-      "Annualized returns create the illusion of control: By converting chaotic market movements into neat percentages, they feed the narrative fallacy—our tendency to create coherent stories from random events. This makes investors feel they understand market behavior when they're merely observing smoothed historical artifacts, leading to dangerous extrapolation of recent conditions.",
-      "Compounding's asymmetry reveals why capital preservation isn't conservative—it's mathematically aggressive: The geometric reality that losing 50% requires 100% recovery creates a fundamental asymmetry in wealth building. This isn't just about avoiding losses; it's about recognizing that the compounding engine works exponentially in both directions, making early drawdowns disproportionately destructive to long-term outcomes.",
-      "The 'sequence of returns' risk transforms retirement from arithmetic to geometry: Withdrawals during downturns don't just reduce portfolio value—they permanently destroy future compounding potential. This is why historical average returns become meaningless for retirees: the order of returns matters more than the average when you're taking money out, creating a hidden risk that traditional planning ignores."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Personal 'Volatility Tax'",
-        "steps": [
-          "Gather your actual investment returns over the last 3-5 years (monthly or annual data)",
-          "Calculate the simple average: (R1 + R2 + R3) ÷ 3",
-          "Calculate the geometric mean: [(1+R1)×(1+R2)×(1+R3)]^(1/3) - 1",
-          "The difference represents what volatility has cost you—often 1-3% annually for volatile portfolios",
-          "**Tool tip:** Use Excel's =GEOMEAN(1+range)-1 or Google Sheets' =GEOMEAN(1+range)-1 function"
-        ]
-      },
-      {
-        "title": "Run a 'Sequence of Returns' Simulation",
-        "steps": [
-          "Create a spreadsheet with $10,000 starting value",
-          "Test Sequence A: +20%, +20%, -20%, -20% over 4 years",
-          "Test Sequence B: -20%, -20%, +20%, +20% over 4 years",
-          "Notice how identical average returns (+0%) produce different final values ($9,216 vs $9,216—wait, they're the same? Actually calculate: Sequence A: $10,000→$12,000→$14,400→$11,520→$9,216; Sequence B: $10,000→$8,000→$6,400→$7,680→$9,216. They ARE the same! The real insight comes when adding withdrawals or contributions.)",
-          "**For beginners:** Try this simplified version: Start with $100. Gain 50% ($150), then lose 50% ($75). You're down 25% despite \"averaging\" 0%."
-        ]
-      },
-      {
-        "title": "Conduct a 'Withdrawal Stress Test'",
-        "steps": [
-          "Start with a $100,000 portfolio withdrawing 4% annually ($4,000 adjusted for inflation)",
-          "Simulate the 1973-1974 bear market: -14.7%, -26.5%",
-          "Simulate the 2000-2002 dot-com crash: -9.1%, -11.9%, -22.1%",
-          "Compare how long the portfolio lasts in each scenario",
-          "**Key insight:** Early negative sequences are catastrophic for retirees—the 1973-74 retiree would exhaust their portfolio years earlier than the 2000-02 retiree, despite similar average returns"
-        ]
-      }
-    ],
-    "risk_notes": "Annualized returns become dangerously misleading during regime changes—past compounding rates don't predict future ones when economic conditions shift. The psychological trap: investors chase high annualized returns from bull markets, ignoring that those returns emerged from specific conditions unlikely to repeat. Also, compounding assumes continuous reinvestment, but taxes, fees, and emotional withdrawals constantly leak from the compounding engine. Most dangerously, people extrapolate recent high returns linearly into the future, guaranteeing disappointment when geometric reality reasserts itself through mean reversion. This isn't just academic—it's why entire generations experience financial disappointment after extrapolating bubble-era returns.",
-    "sources": [
-      {
-        "title": "Stocks for the Long Run by Jeremy Siegel (Data on long-term compounding)",
-        "url": "https://www.jeremysiegel.com/"
-      },
-      {
-        "title": "Dalio's Principles for Navigating Big Debt Crises (Understanding return regimes)",
-        "url": "https://www.principles.com/big-debt-crises/"
-      },
-      {
-        "title": "Kahneman's Thinking, Fast and Slow (Behavioral biases in financial decisions)",
-        "url": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow"
-      }
-    ],
-    "meta": {
-      "id": "Annualized & compound returns",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Compound interest",
-        "Return metrics"
       ],
       "tags": [
         "Investment Concepts & Principles",
