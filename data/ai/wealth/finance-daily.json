@@ -1,5 +1,67 @@
 [
   {
+    "id": "93b2d2fa-282a-4764-ac76-c3888953790e",
+    "date": "2026-04-07",
+    "topic": "Investment Psychology Biases: The Invisible Tax on Your Portfolio",
+    "teaser": "Isaac Newton lost millions in the South Sea Bubble despite inventing calculus. Are your emotions silently draining your wealth right now?",
+    "summary": "**The stock market is a giant mood ring for humanity.** In 1720, Isaac Newton—the man who decoded gravity—watched his £20,000 fortune evaporate in the South Sea Bubble. After initially selling for a profit, he was lured back in by the frenzy, famously lamenting, 'I can calculate the motions of heavenly bodies, but not the madness of people.' This isn't just a historical anecdote; it's the fundamental operating system of markets. Newton's genius couldn't override his amygdala's response to social proof and greed.\n\n**First principle: Investing is prediction under uncertainty, but your brain thinks it's hunting on the savannah.** When you see a stock chart, your ancient neural circuitry interprets it as a potential threat or reward. The same fight-or-flight response that kept your ancestors alive now triggers **loss aversion**—making the pain of a 10% loss feel twice as intense as the pleasure of a 10% gain. This isn't a bug; it's evolutionary hardware running financial software.\n\n**Consider your portfolio as a psychological crime scene.** Every trade leaves behavioral fingerprints. That time you sold Amazon in 2018 after a bad earnings report? That was **recency bias**—your brain overweighting recent information while ignoring Amazon's 20-year compounding machine. The 'safe' blue-chip stocks you've held for decades while avoiding international markets? That's **home bias** and the **certainty illusion**—you're overpaying for the comfort of familiarity.\n\n**The invisible tax compounds silently.** While you're analyzing P/E ratios and Fed statements, these biases are quietly siphoning 1-3% annually from your returns—not through commissions or fees, but through suboptimal decisions. A 2% annual drag over 30 years reduces a potential $1 million portfolio to $550,000. You don't feel this tax being collected, just as Newton didn't feel his rationality dissolving in the bubble's euphoria.\n\n**The solution isn't becoming Spock.** Perfect rationality is impossible for humans. The goal is building **psychological airbags**—systems that deploy when your emotions crash. This means recognizing that your most dangerous investment bias isn't in your portfolio spreadsheet; it's in the three-pound universe between your ears.",
+    "key_points": [
+      "**The Certainty Illusion Premium:** Markets systematically overprice 'feels-safe' assets (utilities, consumer staples) by 15-30% relative to their actual risk profile. This explains the 'low-volatility anomaly'—why seemingly boring stocks often outperform during crises. The premium isn't for safety; it's for emotional comfort. Index funds win because they're emotionally neutral—they don't care if Tesla 'feels' risky or Coca-Cola 'feels' safe.",
+      "**Time Arbitrage as Psychological Warfare:** During the 2008 financial crisis, Warren Buffett wrote in the New York Times: 'Be fearful when others are greedy, and greedy when others are fearful.' This wasn't just clever phrasing—it was time arbitrage in action. While most investors operated on a 3-month emotional horizon (driven by quarterly earnings and media cycles), Buffett exploited their panic by extending his horizon to 10+ years. The 'arbitrage' isn't between prices, but between emotional timeframes. Your edge isn't better information; it's a longer psychological runway.",
+      "**The Monitoring Paradox:** A 2017 study found investors who checked portfolios daily earned 40% lower returns than quarterly checkers. This isn't correlation—it's causation. Each glance triggers micro-doses of cortisol (stress hormone) and dopamine (reward chemical), creating an addictive feedback loop that feels like control but is actually surrender to emotional noise. The most powerful portfolio management tool might be deleting your trading app's notifications."
+    ],
+    "practice": [
+      {
+        "title": "Bias Forensics: Quantify Your Psychological Tax",
+        "steps": [
+          "Select your 3 largest holdings. For each, calculate: (Current Price ÷ Purchase Price) - (S&P 500 return over same period)",
+          "Identify the behavioral driver: Was this purchase driven by (a) Social proof? (b) Recency bias? (c) Overconfidence in 'special knowledge'?",
+          "Calculate the opportunity cost: If you'd invested the same amount in VTI (total market ETF) instead, what's the dollar difference? This is your measurable psychological tax.",
+          "Benchmark: Top investors like Mohnish Pabri document their 'sins' in public letters. Create your own bias ledger."
+        ]
+      },
+      {
+        "title": "Pre-Mortem: Stress-Test Your Conviction",
+        "steps": [
+          "Before any investment >5% of portfolio, write: 'This will fail because...' (Complete with 3 specific, testable reasons)",
+          "For each failure scenario, identify the early warning signal (e.g., 'If management stops reporting unit economics, that's my exit sign')",
+          "Set a calendar reminder 90 days out to review: 'Was I right for the right reasons, or just lucky?'",
+          "Historical precedent: Howard Marks' memos are essentially public pre-mortems on market cycles."
+        ]
+      },
+      {
+        "title": "Emotional Distancing: The 48-Hour Stress Test",
+        "steps": [
+          "During next 5%+ market drop: (1) Calculate portfolio loss in dollars, (2) Write your emotional state on scale 1-10, (3) Set timer for 48 hours",
+          "After 48 hours: (1) Recalculate loss, (2) Re-rate emotional state, (3) Note the decay rate between feeling and reality",
+          "Decision protocol: If emotional state improved ≥3 points but fundamentals unchanged, that was panic—not analysis. Document this gap for future reference.",
+          "Historical context: During 1987's Black Monday (22% drop), investors who waited 48 hours avoided selling at the bottom and captured the 30% rebound over next two months."
+        ]
+      }
+    ],
+    "risk_notes": "**The meta-bias:** Believing you're immune to biases is the ultimate blind spot. Studies show 85% of people rate themselves as 'less biased than average'—a statistical impossibility. **The overcorrection trap:** Using behavioral finance as an excuse for indecision ('analysis paralysis') is just as damaging as ignoring biases. Ray Dalio's 'believability-weighted decisions' model shows the sweet spot: acknowledge biases, then build processes around them. **Worst-case scenario:** Mistaking psychological awareness for investment skill. No amount of emotional discipline compensates for poor fundamental analysis—the 2000 dot-com bubble was understood behaviorally but still bankrupted those without valuation frameworks.",
+    "sources": [
+      {
+        "title": "Search: Investment Psychology Biases: The Invisible Tax on Your Portfolio",
+        "url": "https://www.google.com/search?q=Investment%20Psychology%20Biases%3A%20The%20Invisible%20Tax%20on%20Your%20Portfolio"
+      }
+    ],
+    "meta": {
+      "id": "Investment psychology biases",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Fear & greed",
+        "Overconfidence"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "575fc5b2-b8c0-4008-bfb7-0e4017027e0b",
     "date": "2026-04-06",
     "topic": "Behavioral Finance: How Your Brain Sabotages Your Wealth",
@@ -4051,73 +4113,6 @@
       "related": [
         "Index investing",
         "Active management"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "462a63f9-8207-40fd-b8a5-982f87b77c2a",
-    "date": "2026-02-03",
-    "topic": "Risk-Adjusted Returns: The Math That Separates Skill From Luck",
-    "teaser": "Wall Street rejected the Nobel-winning formula that exposed their 'star fund managers' as glorified gamblers—here's how to use it to protect your wealth.",
-    "summary": "In 1960, William Sharpe couldn't get a Wall Street job because he was 'too academic.' The real reason was more damning: his emerging mathematics threatened to expose the industry's core business model as intellectual bankruptcy. While teaching at UC Irvine, he developed a simple formula that would eventually win him a Nobel Prize—while Wall Street was still measuring performance with crude return percentages that hid dangerous gambling behind the veneer of 'investment strategy.' His creation, the **Sharpe ratio**, answered a question nobody on Wall Street wanted asked: *How much return are you actually earning per unit of risk you're taking?*\n\nAt first principles, all investing involves trading potential return for potential loss. You can't get higher returns without accepting higher risk—but the critical insight Sharpe provided was that we can **quantify this trade-off**. Risk-adjusted measures like the Sharpe and Sortino ratios work by dividing your excess returns (above a risk-free rate like Treasury bills) by your volatility or downside deviation. This reveals whether those impressive returns came from genuine skill or simply from taking dangerous, potentially catastrophic risks that clients didn't understand. Sharpe's formula showed that most 'star fund managers' were just taking hidden risks while collecting performance fees for what was essentially glorified gambling.\n\nWhy does this matter right now? With markets at all-time highs and volatility creeping back in, you're probably looking at your portfolio returns with satisfaction. But are those returns worth the sleepless nights? Without risk adjustment, you might be celebrating returns that actually came from taking foolish risks—like a gambler celebrating a big win while ignoring how much they could have lost. This is precisely how investors get wiped out during corrections. The 2008 financial crisis wasn't caused by people earning low returns; it was caused by people taking risks they didn't understand, masked by what looked like 'great performance' on the surface. Risk-adjusted measures strip away that illusion, showing you what you're really buying: Are you paying for skill, or just for danger?",
-    "key_points": [
-      "The Sharpe ratio assumes all volatility is bad, but the Sortino ratio recognizes that only downside volatility matters—this is the difference between fearing turbulence on a flight versus fearing the plane might crash.",
-      "Compounding works best with smooth returns—volatility destroys geometric returns through the mathematics of sequence of returns risk. This is why the tortoise consistently beats the hare in wealth creation.",
-      "These ratios work best when comparing similar strategies—comparing Sharpe ratios across asset classes is like comparing a submarine's speed to an airplane's: different environments require different risk frameworks.",
-      "The most dangerous psychological trap is mistaking mathematical sophistication for actual safety. Long-Term Capital Management's beautiful risk models ignored regime changes and collapsed spectacularly in 1998—a perfect example of how a high Sharpe ratio can hide catastrophic tail risks that only appear during black swan events."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Portfolio's Sharpe Ratio",
-        "steps": [
-          "Gather your portfolio's monthly returns for the last 3 years (36 data points)",
-          "Calculate the average monthly return using Excel's AVERAGE function",
-          "Subtract the current 3-month Treasury bill rate (annualized, divided by 12 for monthly) to get excess returns",
-          "Calculate the standard deviation of your monthly returns using Excel's STDEV function",
-          "Divide your average excess return by the standard deviation, then multiply by √12 to annualize",
-          "Warning: These calculations give you historical risk-adjusted returns, which are backward-looking. The future may have different risk characteristics—this is why Warren Buffett says past performance is for the birds."
-        ]
-      },
-      {
-        "title": "Compare Two Funds Using Real Data",
-        "steps": [
-          "Choose two funds you own or are considering—preferably in the same category (e.g., two large-cap growth funds)",
-          "Look up their 5-year Sharpe and Sortino ratios on Morningstar or Yahoo Finance",
-          "Notice which fund has higher risk-adjusted returns—not just higher raw returns",
-          "Ask: 'Would I prefer the fund with 15% returns and 25% volatility, or 12% returns with 10% volatility?'"
-        ]
-      },
-      {
-        "title": "The Mental Model Exercise",
-        "steps": [
-          "Consider: Fund A returns 12% with 20% annual volatility",
-          "Consider: Fund B returns 10% with 8% annual volatility",
-          "Assume a 2% risk-free rate (Treasury bills)",
-          "Calculate: Fund A Sharpe = (12%-2%)/20% = 0.5, Fund B Sharpe = (10%-2%)/8% = 1.0",
-          "Realization: Fund B delivers twice the return per unit of risk—this is why rational investors choose consistency over excitement",
-          "Now imagine Fund A loses 40% in a bad year while Fund B loses 15%—which recovery requires more time and emotional fortitude?"
-        ]
-      }
-    ],
-    "risk_notes": "These measures fail spectacularly during black swan events when correlations break down and 'risk' becomes something these formulas never anticipated. They create psychological traps: fund managers can game Sharpe ratios by taking hidden tail risks (like selling insurance on rare events), and investors become overconfident in backtested ratios that may not predict future risk-return relationships. Most dangerously, the mathematics creates an illusion of precision—a beautiful 1.5 Sharpe ratio feels 'safe,' but it might be hiding exposure to a 2008-style collapse. Always remember: No mathematical formula can capture every form of risk, especially the risks we haven't experienced yet.",
-    "sources": [
-      {
-        "title": "Morningstar's explanation of risk-adjusted measures with real fund examples",
-        "url": "https://www.morningstar.com/invglossary/risk_adjusted_return.aspx"
-      }
-    ],
-    "meta": {
-      "id": "Risk-adjusted performance measures",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Sharpe ratio",
-        "Sortino ratio"
       ],
       "tags": [
         "Investment Concepts & Principles",
