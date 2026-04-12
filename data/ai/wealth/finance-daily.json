@@ -1,5 +1,83 @@
 [
   {
+    "id": "17ea7ce5-bfdd-4e24-93ed-ae120c7fca15",
+    "date": "2026-04-12",
+    "topic": "Risk-Adjusted Performance Measures: The Math That Separates Skill From Luck",
+    "teaser": "The Nobel-winning formula Wall Street tried to bury—and why today's algorithmic traders are repeating the same dangerous mistake your portfolio might be making.",
+    "summary": "In 1966, William Sharpe—a Berkeley professor dismissed by Wall Street as 'too academic'—published a paper that would ignite a 50-year battle between mathematical rigor and financial profit motives. While investment firms peddled high-return funds with hidden risks, Sharpe created a simple ratio that answered finance's most fundamental question: **How much return am I getting for each unit of risk I'm taking?** His formula exposed an inconvenient truth: many 'star' managers were simply taking dangerous bets, not demonstrating skill. Wall Street initially rejected it—the Sharpe ratio threatened their lucrative opacity.\n\n**This tension between academic insight and industry profit persists today in fintech and algorithmic trading.** Robo-advisors tout 'optimized' portfolios using Sharpe-like metrics while ignoring tail risks, and quant funds chase high ratios through leverage and derivatives—echoing the same dangerous patterns Sharpe identified decades ago. The 2008 crisis wasn't an anomaly; it was the logical endpoint of systematically underestimating risk while chasing returns.\n\n**First principles reveal that all investments have just two dimensions: return (what you gain) and risk (what you could lose).** Risk-adjusted measures mathematically compare these dimensions, transforming vague notions of 'risk' into precise metrics. They reveal whether that impressive 15% annual return came from brilliant stock selection or simply from loading up on volatile assets that could collapse in the next downturn.\n\n**The psychological insight here is profound: humans naturally focus on returns while underestimating risk.** We remember the gains but forget the sleepless nights. Risk-adjusted measures force us to confront the full picture—the volatility, the drawdowns, the probability of permanent loss. They're the financial equivalent of checking both speed and fuel efficiency when buying a car, rather than just admiring the horsepower. In a world where everyone talks about returns, understanding risk-adjusted performance is what separates the serious investor from the speculator.\n\n**Mental Model: Sharpe vs. Kahneman**\nSharpe's framework assumes rational actors measuring volatility mathematically, while Kahneman's prospect theory shows humans experience risk emotionally—we fear losses twice as much as we enjoy equivalent gains. This explains why investors chase high-Sharpe investments during calm markets (underestimating tail risks) then panic-sell during crises (overestimating immediate dangers). The Sharpe ratio measures what risk *should* be; prospect theory explains why we consistently misjudge it.",
+    "key_points": [
+      "**The Normal Distribution Fallacy:** Sharpe-type ratios assume returns follow a bell curve, but markets have 'fat tails' where extreme events occur far more frequently. This 'black swan' blindness doomed Long-Term Capital Management in 1998 (their models predicted a 1-in-10^24-year event that happened in their first year) and fueled the 2008 crisis (AAA-rated mortgage securities behaving like junk bonds).",
+      "**The Volatility Paradox:** Periods of low volatility and high Sharpe ratios often precede crashes—not because risk disappears, but because it becomes hidden. Pre-2008, mortgage-backed securities showed excellent risk-adjusted returns until correlations converged to 1 and everything collapsed together. Low volatility seduces investors into taking more leverage, creating systemic fragility.",
+      "**High Ratios as Danger Signals:** A soaring Sharpe ratio can indicate undetected risks like liquidity constraints (WeWork's private valuation vs. public collapse), excessive leverage (Archegos' hidden swaps), or return smoothing (Madoff's impossibly consistent returns). The best-performing funds sometimes take the most dangerous bets that only reveal themselves in crises.",
+      "**Correlation Breakdowns:** During market crises when 'everything falls together,' diversification fails and Sharpe-type models break down precisely when needed most. This isn't a model flaw—it's a feature of complex systems where risk metrics work until they don't, reminding us that all models are simplifications of reality."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Portfolio's Sharpe Ratio with Real-World Tools",
+        "steps": [
+          "Gather your portfolio's monthly returns for at least 3 years (36+ data points). **For new investors with limited history, use PortfolioVisualizer's backtest tool with similar ETFs as proxies**",
+          "Calculate average monthly return, subtract the risk-free rate (use 3-month Treasury bill returns from FRED)",
+          "Calculate standard deviation of monthly returns",
+          "Divide excess return by standard deviation for your Sharpe ratio",
+          "**Interpretation with behavioral guardrails:** Below 0.5 means poor risk compensation; 0.5-1.0 is acceptable; above 1.0 indicates strong performance. **But beware recency bias**—a high ratio during a bull market may collapse in a downturn. **Free tool:** PortfolioVisualizer automatically calculates this"
+        ]
+      },
+      {
+        "title": "Compare Funds Using Sortino Ratio with Practical Constraints",
+        "steps": [
+          "Select two investment funds you own or are considering",
+          "**For missing data on newer funds, use category averages or similar vintage funds as proxies**—acknowledge this limitation in your analysis",
+          "Calculate each fund's downside deviation (standard deviation of only negative returns)",
+          "Divide each fund's excess return by its downside deviation",
+          "Compare Sortino ratios. **Key insight:** Often the 'lower returning' fund provides better risk-adjusted performance by protecting against losses. This reveals which manager truly adds value versus merely taking more risk"
+        ]
+      },
+      {
+        "title": "Stress-Test Your Portfolio for Black Swan Events",
+        "steps": [
+          "Identify the worst 3-month period in your portfolio's history. **Behavioral pitfall alert:** We naturally select recent crises (2020 COVID crash) while ignoring older ones (2008)—use both to avoid recency bias",
+          "Calculate what your annualized returns would be if that period became the new normal",
+          "Recalculate Sharpe ratio using these stressed returns",
+          "Observe how dramatically risk-adjusted performance deteriorates—most portfolios show negative ratios in crisis scenarios",
+          "**This reveals your portfolio's vulnerability to tail events that models underestimate.** Add a margin of safety: if your stressed Sharpe ratio falls below 0, consider reducing leverage or increasing cash"
+        ]
+      }
+    ],
+    "risk_notes": "**Critical Limitations:** Risk-adjusted measures fail spectacularly during market crises when correlations converge to 1 and volatility explodes—the mathematics breaks down just when investors need guidance most. The psychological trap is 'ratio worship'—blindly chasing high Sharpe ratios without understanding they're backward-looking and easily manipulated through options strategies, illiquid assets, or leverage. These ratios also assume normal return distributions, ignoring the 'fat tails' where extreme losses occur 5-10 times more frequently than predicted. Most dangerously, they can't capture liquidity risk (what happens when everyone sells at once), counterparty risk (Lehman Brothers' collapse), or regulatory changes—the hidden risks that often cause catastrophic failures. **Mental model reminder:** Sharpe gives us the map; Kahneman reminds us why we keep getting lost. Use these measures as one tool among many, never as the sole arbiter of investment decisions.",
+    "sources": [
+      {
+        "title": "Frank Sortino's 'Managing Downside Risk in Financial Markets'",
+        "url": "https://www.amazon.com/Managing-Downside-Risk-Financial-Markets/dp/0750648630"
+      },
+      {
+        "title": "AQR's Cliff Asness on 'The Volatility Paradox'",
+        "url": "https://www.aqr.com/Insights/Research/Journal-Article/The-Volatility-Paradox"
+      },
+      {
+        "title": "Nassim Taleb's 'Black Swan' on fat tail risks",
+        "url": "https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X"
+      },
+      {
+        "title": "PortfolioVisualizer (free backtesting tool)",
+        "url": "https://www.portfoliovisualizer.com"
+      }
+    ],
+    "meta": {
+      "id": "Risk-adjusted performance measures",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Sharpe ratio",
+        "Sortino ratio"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "93b2d2fa-282a-4764-ac76-c3888953790e",
     "date": "2026-04-07",
     "topic": "Investment Psychology Biases: The Invisible Tax on Your Portfolio",
@@ -4036,83 +4114,6 @@
       "related": [
         "Disclosure",
         "Conflicts of interest"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "345b1a7e-0635-4153-858d-0354c03f7acf",
-    "date": "2026-02-04",
-    "topic": "The Hidden Cost of Trying to Beat the Market: Why Passive Investing Wins",
-    "teaser": "What if the most expensive bet in finance isn't at the casino, but the $1.4 trillion annual fee investors pay to play a game where the rules guarantee they'll lose?",
-    "summary": "**The $1.4 trillion annual fee investors pay to beat the market isn't just an expense—it's the price of ignoring three centuries of financial history and the fundamental mathematics of competitive markets.**\n\nLet's start with first principles: **markets are prediction machines that aggregate all available information.** This isn't theory—it's observable reality. When you buy an active fund, you're not just paying for stock picks; you're paying for predictions about what millions of other investors will do tomorrow. The historical context is brutal: since the first stock exchange opened in Amsterdam in 1602, every generation has believed they could outsmart the collective wisdom. The tulip mania, the South Sea Bubble, the 1929 crash—each was fueled by the same behavioral flaw: the belief that this time is different.\n\n**Why do smart people keep playing this losing game?** Because our brains are wired for narrative, not statistics. We see Warren Buffett's success and think 'I could be next,' ignoring that for every Buffett, there are thousands of funds that underperform. This isn't about intelligence—it's about psychology. The financial industry has perfected the art of selling hope: glossy brochures, confident fund managers, and the seductive promise of beating the system. They're selling weather forecasts in a climate-controlled world.\n\nHere's the visceral truth: **Active investing is a wealth transfer mechanism.** Before costs, it's a negative-sum game (someone must lose for you to win). After costs, it's zero-sum—but with a twist. The 'sum' being transferred isn't just between investors; it's from investors to financial intermediaries. That $1.4 trillion doesn't disappear—it pays for skyscrapers, bonuses, and marketing budgets. Your retirement is subsidizing their luxury.\n\nThink of it like this: **The market is an ocean, and active managers are surfers trying to predict waves.** Some catch great rides occasionally, but over decades, the ocean's currents (market returns) determine where everyone ends up. Passive investing is building a boat that floats with the currents—you accept you can't predict waves, but you ensure you don't drown paying for wave predictions.\n\n**Costs compound against you with mathematical certainty.** Every 1% in extra fees doesn't just cost 1%—it compounds to consume approximately 30% of your potential returns over 30 years. This isn't a minor expense; it's the difference between retiring at 60 or 67. Between sending your kids to college or taking loans. Between financial freedom and financial anxiety.\n\nThe evidence isn't just overwhelming—it's unanimous. Study after study, across every market and time period, shows the same pattern: after costs, 80-90% of active funds underperform their benchmarks over 10+ years. This isn't a temporary phenomenon; it's the logical outcome of competitive markets. When everyone has access to the same information and tools, consistent outperformance becomes mathematically impossible at scale.\n\n**Passive investing isn't about settling for average—it's about refusing to play a rigged game.** It's recognizing that the single variable you control completely is costs, while returns are distributed by the market's collective intelligence. You're not giving up on beating the market; you're choosing to beat the system that profits from your attempt to beat the market.",
-    "key_points": [
-      "Markets aren't efficient because they're perfect—they're efficient because they're competitive. Like evolution, they're messy and unpredictable in the short term but optimize outcomes over time through relentless competition.",
-      "The $1.4 trillion active management fee isn't an investment expense—it's a wealth transfer tax. For every dollar that might beat the market, more dollars flow from investors' pockets to financial intermediaries' balance sheets.",
-      "You control costs with certainty; you only influence returns with probability. Passive investing flips the script: instead of trying to control the uncontrollable (returns), you master the controllable (costs)—which compounds to determine your actual wealth.",
-      "Active management's structural flaw: it's a negative-sum prediction game in a zero-sum outcome world. Before costs, someone must lose for you to win. After costs, the losers outnumber winners by design—the system's mathematics guarantee it.",
-      "Behavioral gravity always wins. Our brains seek patterns in randomness, remember wins and forget losses, and overweight recent events—all perfect flaws for an industry selling the dream of beating statistically inevitable outcomes."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Portfolio's 'Fee Drag'",
-        "steps": [
-          "List all your investment funds with their current balances",
-          "Multiply each fund's expense ratio by its balance (e.g., $10,000 × 0.0125 = $125 annual cost)",
-          "Sum all these annual costs to see your total fee drag",
-          "Project this cost over 20 years at 7% annual growth to see what compounding is costing you"
-        ]
-      },
-      {
-        "title": "Run a 'What-If' Simulation",
-        "steps": [
-          "Document your current portfolio allocation by asset class and fund",
-          "Create an equivalent low-cost index portfolio using similar asset classes",
-          "Use Portfolio Visualizer or similar tool to backtest both portfolios over 10+ years",
-          "Compare the net returns after accounting for all fees and expenses"
-        ]
-      },
-      {
-        "title": "Conduct a Behavioral Audit",
-        "steps": [
-          "Review your last 5-10 investment trades or decisions",
-          "For each trade, ask: Was this based on research or emotion?",
-          "Identify patterns: Are you chasing performance, market-timing, or reacting to news?",
-          "Document how much these decisions cost in fees and potential tax consequences"
-        ]
-      },
-      {
-        "title": "Calculate Your 'Life-Year Cost' of Active Management",
-        "steps": [
-          "Take your current portfolio value and target retirement number",
-          "Calculate how many years earlier you'd reach that target with 1% lower fees (using a compound interest calculator)",
-          "Translate those years into life experiences: 'This fee costs me 3 years of retirement travel' or '2 years with grandkids'",
-          "Compare this to what you're actually getting for those fees: access to research? Peace of mind? Or just the hope of beating the market?"
-        ]
-      }
-    ],
-    "risk_notes": "Passive investing has limitations: it may fail to protect during extreme market bubbles where active managers could theoretically exit overvalued sectors (though evidence shows few actually do). There's also a psychological trap—mistaking 'passive' for 'inactive,' which can lead to panic selling during downturns. As passive investing grows, it may potentially reduce price discovery efficiency, creating new systemic risks that aren't yet fully understood. Passive strategies also mean accepting market returns—you'll never dramatically outperform, but you'll also avoid dramatic underperformance.",
-    "sources": [
-      {
-        "title": "The Little Book of Common Sense Investing by John C. Bogle",
-        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
-      },
-      {
-        "title": "The Arithmetic of Active Management by William F. Sharpe - Foundational paper on the math",
-        "url": "https://web.stanford.edu/~wfsharpe/art/active/active.htm"
-      }
-    ],
-    "meta": {
-      "id": "Active vs. passive investing",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Index investing",
-        "Active management"
       ],
       "tags": [
         "Investment Concepts & Principles",
