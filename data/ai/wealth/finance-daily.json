@@ -1,5 +1,75 @@
 [
   {
+    "id": "5d0361c5-c38c-44be-a5b0-38955f350e0d",
+    "date": "2026-04-15",
+    "topic": "Fixed Income: The Ancient Contract That Prices Time",
+    "teaser": "Your cash is melting at 3-5% annually while an asset class older than money itself offers contractual certainty in an uncertain world. But what if your personal inflation rate is double the official number?",
+    "summary": "**The first recorded bond was issued in 2400 BC by a Mesopotamian temple that promised to repay grain loans with interest**—making fixed income older than money itself. This wasn't just ancient finance; it was humanity's first recognition that time has value. While coins and currency would come later, the fundamental contract—lend today, receive more tomorrow—was already being etched into clay tablets.\n\n**Medieval Italian city-states perfected this ancient contract** during the 12th century, issuing the first government bonds to finance wars and trade. Venice's prestiti bonds created a secondary market where contracts could be traded, establishing the crucial insight that bond prices move inversely to interest rates—a relationship that would define fixed income markets for centuries.\n\n**The 18th century British consols revealed the psychological dimension of bonds.** These perpetual bonds with no maturity date demonstrated that investors would accept lower yields for perceived safety during times of crisis. The consol market's collapse during the Napoleonic Wars taught the painful lesson that 'risk-free' is a relative term when governments face existential threats.\n\n**The 1970s bond market collapse completed the historical arc.** When Paul Volcker raised rates to crush inflation, bondholders suffered the worst losses in modern history. This wasn't just about economics—it was about the fundamental tension between contractual promises and monetary reality. The bond vigilantes were born, understanding that no contract is safe from a determined central bank.\n\n**Fixed income products are contracts where you lend money today in exchange for predictable future payments.** At their core, they operate on three first principles: 1) **Time has value** (money today > money tomorrow), 2) **Risk requires compensation**, and 3) **Contracts create obligations**. Interest rates aren't mysterious financial constructs—they're simply **the price of time**. When you buy a bond, you're essentially renting out your money, and the interest rate is the rental fee.\n\n**Why does this matter right now?** With inflation at generational highs, your cash is melting at 3-5% annually. Fixed income isn't just for retirees—it's the only asset class that gives you **contractual certainty about future cash flows in an uncertain world**. Every dollar you own is either earning interest or paying it. While stocks represent ownership and speculation, bonds represent lending and certainty. In a world of economic uncertainty, that contractual promise—backed by governments, corporations, or other entities—provides a foundation that no other asset class can match. Understanding fixed income isn't about becoming a bond trader; it's about recognizing that **time is your most valuable financial asset**, and bonds are how the market prices it.",
+    "key_points": [
+      "The yield curve isn't a line—it's the market's collective prediction of future economic pain. An inverted curve means traders expect more suffering ahead than today.",
+      "Bond duration measures sensitivity to interest rates, but psychologically it's your 'patience meter.' The longer the duration, the more you're betting you won't need the money soon.",
+      "Credit risk isn't about defaults—it's about the market's changing perception of defaults. A bond's price can collapse long before any payment is missed.",
+      "Bond convexity is the professional's secret: duration changes as rates move, creating asymmetric outcomes. When rates fall, bond prices rise faster than they fall when rates rise—this positive convexity separates amateurs from professionals who understand the optionality embedded in every bond contract."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Inflation Rate",
+        "steps": [
+          "Gather 3 months of bank/credit card statements and categorize your spending.",
+          "Compare your actual spending categories to the CPI basket weights (available from BLS.gov).",
+          "Calculate: (Your weighted spending increase) / (Your total spending) = Personal inflation rate.",
+          "This number—often 1.5-2x the official CPI—is the real rate at which your cash is melting."
+        ]
+      },
+      {
+        "title": "Calculate Your Personal Risk-Free Rate",
+        "steps": [
+          "Ask yourself: What annual return would make me completely indifferent between spending $100 today versus spending $100 in one year?",
+          "Consider your current financial situation, inflation expectations, and personal needs.",
+          "Compare your number to current Treasury yields—the gap represents your personal risk premium."
+        ]
+      },
+      {
+        "title": "Stress Test Your Bond Exposure",
+        "steps": [
+          "Select one bond ETF from your portfolio (or a hypothetical one like BND or AGG).",
+          "Find its duration (available in fund factsheets or financial websites).",
+          "Calculate: If interest rates rise by 1%, you would lose approximately [duration]% in value.",
+          "Ask: Is that level of potential loss tolerable given my investment horizon and risk tolerance?"
+        ]
+      },
+      {
+        "title": "Simulate a Bond Ladder",
+        "steps": [
+          "Take $10,000 (real or hypothetical) and allocate it equally across 1-year, 3-year, 5-year, 7-year, and 10-year Treasury notes.",
+          "Track how this portfolio behaves versus putting all $10,000 into a single 5-year bond.",
+          "Observe what happens when interest rates rise 1% and fall 1%—notice how the ladder provides natural rebalancing through maturing bonds."
+        ]
+      }
+    ],
+    "risk_notes": "Fixed income fails when governments print money (inflation risk), when everyone wants safety simultaneously (liquidity traps), and when investors mistake 'safe' for 'risk-free.' The psychological trap: reaching for yield during low-rate environments often means taking hidden risks you don't understand. Remember that bond prices move inversely to interest rates—when everyone celebrates rising yields, existing bondholders are suffering capital losses. The safest-looking bonds can become dangerous when inflation unexpectedly accelerates, as we've seen recently.",
+    "sources": [
+      {
+        "title": "The Bond Book by Annette Thau",
+        "url": "https://www.amazon.com/Bond-Book-Third-Everything-Needed/dp/007166486X"
+      }
+    ],
+    "meta": {
+      "id": "Fixed income & interest-rate products",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Bond valuation",
+        "Yield curve"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "1f5fb28b-02be-48c6-a123-53093ef4718b",
     "date": "2026-04-14",
     "topic": "The Hidden Cost of Ethical Compromise in Finance",
@@ -4035,77 +4105,6 @@
       "related": [
         "Currency risk",
         "Commodity futures"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "264c1534-bfe0-435e-9d53-ebf5c0d5d185",
-    "date": "2026-02-07",
-    "topic": "Equity Ownership: The First Principles of Stock Investing",
-    "teaser": "What if the secret to surviving market crashes isn't timing—but something Coca-Cola shareholders discovered a century ago?",
-    "summary": "**In 1919, a bottle of Coca-Cola cost 5 cents. Today, that same nickel buys you nothing—but one share purchased then would have survived two world wars, the Great Depression, and multiple recessions to become worth over $10 million.** This isn't magic; it's the mathematical reality of business ownership. Most investors make a critical mistake from day one: they think they're buying ticker symbols on a screen. They watch green and red numbers dance, place bets on momentum, and treat the market like a casino. But here's the fundamental reality you're missing: when you buy a stock, you're purchasing a fractional ownership stake in a **real business**—one that employs people, pays taxes, solves customer problems, and competes in the marketplace every single day.\n\nLet's break this down to first principles. **Equity represents ownership in a corporation**, which means three things: 1) Businesses create value by addressing human needs (think Apple solving communication, Amazon solving convenience), 2) As an owner, you're entitled to a share of future profits through dividends or retained earnings that grow the business, and 3) Stock prices are simply the market's collective estimate of those future profits, discounted to present value. This isn't speculation—it's **capital allocation to productive enterprises** that drive economic growth.\n\nWhy does this distinction matter right now? **Inflation is the silent thief** eroding your cash savings at 2-3% annually. Over 30 years, that's a 50% loss of purchasing power—your future self will be significantly poorer. Historically, equities have returned 7-10% annually after inflation, making them the only reliable vehicle for **long-term wealth preservation and growth**. Your retirement security, your children's education, your financial independence—they all depend on understanding this mathematical reality. The market may fluctuate wildly in the short term (it's a voting machine), but over decades it becomes a weighing machine that rewards business fundamentals.\n\nWhen you internalize that you're a business owner rather than a gambler, everything changes. You stop checking prices daily and start analyzing financial statements. You worry less about volatility and more about permanent capital loss. You recognize that equity returns come from only three sources: dividend yield, earnings growth, and valuation multiple changes. This mindset shift transforms investing from a stressful game of chance into a disciplined process of **building ownership in the world's most productive enterprises**.",
-    "key_points": [
-      "The market can stay irrational longer than you can stay solvent—but business fundamentals eventually determine price. Focus on what the scale will measure, not the daily voting.",
-      "Your biggest risk isn't price volatility but permanent capital loss from overpaying for growth. Every bubble in history began with a compelling narrative and ended with broken math.",
-      "All equity returns decompose into three components only: dividend yield, earnings growth, and changes in valuation multiples. Most investors chase the third while the first two do the real work.",
-      "Inflation compounds silently but relentlessly—equities aren't just growth vehicles but essential preservation tools. Cash is a melting ice cube; ownership is a furnace."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Owner's Earnings for One Holding",
-        "steps": [
-          "Select one stock you own or are considering",
-          "Find its net income, depreciation, and maintenance capital expenditures (capex) from the latest annual report",
-          "Calculate: (Net Income + Depreciation - Maintenance Capex) / Shares Outstanding",
-          "Compare this 'owner's earnings per share' to the reported EPS—which better reflects true economic profitability?"
-        ]
-      },
-      {
-        "title": "Assess Your Portfolio's Valuation Temperature",
-        "steps": [
-          "List all equity holdings with their current price-to-earnings (P/E) ratios",
-          "Calculate the weighted average P/E across your portfolio",
-          "Compare to the S&P 500's historical average (~16x) and current level (~20x)",
-          "Ask: 'Am I paying premium prices for average businesses?'"
-        ]
-      },
-      {
-        "title": "Conduct a Pre-Mortem Before Investing",
-        "steps": [
-          "Before buying any stock, write down three specific ways this investment could fail completely",
-          "Detail what business fundamentals would deteriorate (e.g., losing competitive moat, management mistakes)",
-          "Visualize holding through a 50% decline—what would you tell yourself about the business, not the price?",
-          "Keep this document and review it quarterly to confront your own blind spots"
-        ]
-      }
-    ],
-    "risk_notes": "Equities face two distinct dangers: economic and psychological. During liquidity crises, even excellent businesses can become untradeable—correlation spikes when panic hits, making diversification feel illusory. Psychologically, investors commonly: 1) Mistake a rising market for personal genius, 2) Anchor to their purchase price rather than current intrinsic value, and 3) Underestimate mean reversion in valuations (what goes up too far usually comes down). The hidden risk isn't volatility but the combination of overvaluation and leverage during systemic stress.",
-    "sources": [
-      {
-        "title": "The Intelligent Investor by Benjamin Graham",
-        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
-      },
-      {
-        "title": "A Random Walk Down Wall Street by Burton Malkiel",
-        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
-      },
-      {
-        "title": "The Psychology of Money by Morgan Housel",
-        "url": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
-      }
-    ],
-    "meta": {
-      "id": "Equity investments (stocks)",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Stock markets & trading mechanics",
-        "Equity valuation"
       ],
       "tags": [
         "Asset Classes & Products",
