@@ -1,5 +1,69 @@
 [
   {
+    "id": "5fac8084-a11a-4c73-a080-51f3779c16da",
+    "date": "2026-04-22",
+    "topic": "Insurance and Annuities: Hedging Tail Risks for a Secure Financial Future",
+    "teaser": "Insurance isn't a bet against disaster—it's a bet you'll panic. Annuities? A bet you'll live too long.",
+    "summary": "**Insurance is not a bet against disaster; it's a bet that you'll be too emotional to make rational decisions when disaster strikes.** This provocative idea reframes insurance as a tool to manage your own behavioral biases, not just a financial product. At its core, insurance is a **risk-pooling mechanism**: many pay small premiums to cover the few who suffer losses, transferring risk from individuals to a collective. Annuities are the inverse: you pay a lump sum to an insurer who guarantees you a stream of income for life, transferring **longevity risk** (outliving your savings) to the insurer.\n\n**Why does this matter?** With lifespans increasing and traditional pensions disappearing, the risk of outliving your savings is real. Meanwhile, unexpected expenses—medical emergencies, property damage—can wipe out years of gains. Understanding insurance and annuities helps you hedge against **tail risks** that destroy wealth, allowing your investments to compound undisturbed.\n\nThink of insurance as protecting your **balance sheet**, not your income. Insure what you can't afford to replace: your house, your ability to earn. Skip insuring what you can: your phone. Annuities are a form of **'longevity insurance'**: they convert a lump sum into a paycheck for life. The mental model is 'buying a personal pension' to hedge against the risk of living too long.\n\n**The best insurance policy is the one you never use.** If you file a claim, you've already lost—deductibles, premium hikes. Treat insurance as a necessary cost of risk transfer, not an investment. Similarly, annuities are not growth vehicles; they are **income guarantees**. By understanding these tools, you can build a financial fortress that withstands life's shocks and ensures your savings last as long as you do.",
+    "key_points": [
+      "**Insurance is a volatility-reducing tool, not an investment.** It's about smoothing consumption, not maximizing returns. The expected value of insurance is always negative—you pay premiums that exceed average payouts—but the utility gain from avoiding a catastrophic loss is immense. Think of it as buying certainty, not profit.",
+      "**Annuities are a behavioral hedge against spending too little.** The biggest risk in retirement isn't running out of money—it's underspending due to fear of the unknown. A guaranteed income stream from an annuity lets you splurge guilt-free, knowing your essentials are covered. It's a commitment device to enjoy your wealth.",
+      "**Self-insure the small stuff, transfer the tail.** The optimal strategy is to have high deductibles on everything except catastrophic coverage. Use your emergency fund for minor repairs; save insurance for the rare events that would bankrupt you. This aligns incentives and lowers premiums.",
+      "**The best time to buy an annuity is at age 70, not 65.** Delaying increases the payout significantly due to mortality credits and higher interest rates. If you need income earlier, ladder bonds or use a systematic withdrawal plan. Annuities are for late retirement, when longevity risk is highest."
+    ],
+    "practice": [
+      {
+        "title": "Optimize Your Insurance Coverage",
+        "steps": [
+          "List all your insurance policies and note deductibles and coverage limits.",
+          "For each asset, ask: 'Could I afford to replace this out of pocket?' If yes, consider raising deductibles to lower premiums.",
+          "Ensure you have adequate liability coverage (umbrella policy) to protect your assets from lawsuits."
+        ]
+      },
+      {
+        "title": "Assess Your Longevity Risk",
+        "steps": [
+          "Use a life expectancy calculator (e.g., from the Social Security Administration) to estimate your lifespan.",
+          "Price a simple immediate annuity for your age and see what monthly income you'd get for a given lump sum.",
+          "Compare that income to your projected essential expenses in retirement. If there's a gap, consider allocating a portion of savings to an annuity."
+        ]
+      },
+      {
+        "title": "Simulate a Financial Shock",
+        "steps": [
+          "Imagine a worst-case scenario: job loss plus a medical emergency. Estimate the total cost.",
+          "Check your emergency fund (ideally 6-12 months of expenses) and insurance coverage (health, disability, life).",
+          "Identify gaps and adjust: increase emergency savings, add disability insurance, or lower deductibles if needed."
+        ]
+      }
+    ],
+    "risk_notes": "Insurance can create **moral hazard**: you may take more risks because you're covered. Annuities can be **illiquid and expensive**; once you buy one, you can't get the lump sum back. Also, insurance companies can fail (though state guaranty funds offer some protection). The biggest trap is buying products you don't understand (e.g., indexed annuities with complex caps and fees). Always read the fine print and consider working with a fiduciary advisor.",
+    "sources": [
+      {
+        "title": "The Black Swan by Nassim Taleb",
+        "url": "https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)"
+      },
+      {
+        "title": "Life Insurance: A Consumer's Guide by the NAIC",
+        "url": "https://www.naic.org/documents/prod_serv_consumer_life_li.pdf"
+      }
+    ],
+    "meta": {
+      "id": "Insurance & annuities",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Insurance basics",
+        "Retirement planning"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "b0bf3278-d83f-40ed-b07c-8b6d11b5990d",
     "date": "2026-04-21",
     "topic": "Alternative Assets: Beyond Stocks and Bonds",
@@ -4020,68 +4084,6 @@
       "related": [
         "Tax planning",
         "Tax basics"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "b0922c27-5827-4f42-a383-a4a986ee849d",
-    "date": "2026-02-17",
-    "topic": "Retirement Accounts: The Accidental Engine of American Wealth",
-    "teaser": "What if your retirement plan was built on a tax loophole that nobody intended? Discover how this historical accident created a suboptimal system—and the counterintuitive strategies to make it work for you anyway.",
-    "summary": "**The 401(k) is a suboptimal solution that became the standard—a historical accident with profound modern consequences.** In 1978, a benefits consultant stumbled upon section 401(k) of the tax code and repurposed a technical footnote into America's primary retirement vehicle. This wasn't designed by financial experts studying optimal savings structures; it was a tax loophole that grew into a $7 trillion system. The tension between its accidental origins and current necessity defines every retirement decision you'll make.\n\n**Retirement accounts are tax-optimized containers, not investments—a first principle that changes everything.** These structures (401(k)s, IRAs, Roth accounts) acknowledge three fundamental realities: 1) Money compounds faster when taxes are deferred or eliminated (the mathematical advantage), 2) Human psychology favors immediate consumption over future security (the behavioral constraint), and 3) Governments incentivize long-term savings to reduce future welfare burdens (the societal alignment). The container matters more than what's inside because it creates the environment where time can work its mathematical magic.\n\n**Every year of delayed contributions costs you more than money—it costs you time, the only truly non-renewable resource in finance.** Consider this: A 25-year-old contributing $500 monthly until 65 at 7% returns accumulates approximately $1.2 million. Wait until 35, and that drops to $567,000. The $633,000 difference represents years of freedom and security that compound growth provides. This isn't just about investment returns—it's about creating structural advantages that protect your money from taxes and your future self from behavioral mistakes.\n\n**The practical implications of this accidental system demand sophisticated navigation.** Because the 401(k) evolved rather than was designed, it contains hidden flaws: fee structures that transfer wealth to intermediaries, withdrawal rules that create decumulation blind spots, and employer plans often optimized for corporate convenience rather than employee benefit. Understanding this history isn't academic—it's the key to recognizing that you're playing a game with accidental rules, requiring you to develop strategies that work within a suboptimal system rather than pretending it's optimal.",
-    "key_points": [
-      "Tax decisions are about seed versus harvest, not prediction games: Choosing between Roth (prepay taxes on the seed) and Traditional (pay taxes on the harvest) accounts isn't about guessing future tax rates—it's about whether you want certainty now or flexibility later. Most people optimize for the wrong variable, trying to predict the unpredictable instead of aligning with their psychological and financial reality.",
-      "Withdrawal penalties are behavioral features, not bugs: The 10% early withdrawal penalty and required minimum distributions aren't design flaws—they're psychological moats that protect your future self from impulsivity during midlife crises or market panics. These constraints acknowledge that we're different people at 25, 45, and 65, with different risk tolerances and judgment capabilities.",
-      "Asset location generates hidden returns through tax efficiency: Holding bonds in tax-deferred accounts and stocks in Roth accounts can create 0.5-1% additional annual returns—not through better investments, but through smarter placement. This 'tax alpha' compounds to decades of extra retirement income, making location as important as allocation in portfolio construction."
-    ],
-    "practice": [
-      {
-        "title": "Run the 'Backdoor Test'",
-        "steps": [
-          "Calculate what percentage of your income you're currently saving for retirement",
-          "Ask: 'If I lost my job tomorrow, could I maintain this savings rate while unemployed?'",
-          "If the answer is no, your retirement plan is fragile to income shocks and needs adjustment"
-        ]
-      },
-      {
-        "title": "Conduct a 'Fee Autopsy'",
-        "steps": [
-          "Log into your 401(k) and find the plan's fee disclosure (usually in the annual notice)",
-          "Multiply the total expense ratio by your current balance—that's what you're paying annually",
-          "Calculate what that fee costs you in 30 years at 7% compound growth",
-          "Example: A 1% fee on a $100,000 balance costs $1,000 annually, but compounds to over $100,000 in lost growth over 30 years"
-        ]
-      },
-      {
-        "title": "Simulate Sequence of Returns Risk",
-        "steps": [
-          "Take your current retirement balance and apply three different 10-year return sequences (all averaging 7% annually)",
-          "Scenario 1: Terrible returns early (-20%, -10%, then strong recovery)",
-          "Scenario 2: Terrible returns late (strong growth, then -20%, -10% at the end)",
-          "Scenario 3: Steady 7% returns each year",
-          "Notice how the early bad sequence devastates outcomes—this is why target-date funds use glide paths"
-        ]
-      }
-    ],
-    "risk_notes": "**The 'Magic Number' Fallacy**: Retirement calculators that spit out a target number create the illusion of precision. They ignore longevity risk (you might live to 100), healthcare inflation (rising at twice general inflation), and the fact that 'safe' withdrawal rates aren't actually safe—they're just historically not catastrophic.\n\n**Institutional Capture**: Many 401(k) plans are stuffed with high-fee funds because employers receive 'revenue sharing' payments. The average American pays 1% in 401(k) fees—a 'wealth tax' that transfers approximately 30% of their potential retirement balance to financial intermediaries over a career.\n\n**The Decumulation Blind Spot**: Everyone focuses on accumulating retirement savings, but few have a plan for decumulation. Withdrawing 4% annually sounds simple until you face a 50% market drop in year one of retirement—now that 4% represents 8% of your remaining portfolio, virtually guaranteeing depletion. The transition from saving to spending requires different strategies than accumulation.",
-    "sources": [
-      {
-        "title": "The Retirement Gamble (PBS Frontline documentary exposing 401(k) fee structures)",
-        "url": "https://www.pbs.org/wgbh/frontline/documentary/retirement-gamble/"
-      }
-    ],
-    "meta": {
-      "id": "Retirement plans",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "401(k)",
-        "IRA"
       ],
       "tags": [
         "Asset Classes & Products",
