@@ -1,5 +1,72 @@
 [
   {
+    "id": "1b656414-ee4b-4841-b72a-99358815ef58",
+    "date": "2026-04-28",
+    "topic": "Order Types: Market, Limit, and Stop Orders",
+    "teaser": "The order type you choose reveals your time horizon—and most traders pick the wrong one for their strategy.",
+    "summary": "Market orders are for liquidity: you pay the spread for speed. Limit orders are for patience: you save the spread but risk non-execution. Stop orders are a double-edged sword: they protect against losses but also against gains if used as trailing stops. The core insight: your time horizon should dictate your order type. A day trader using limit orders might miss the move; a swing trader using market orders might overpay. In a 2020 study, traders who used limit orders on high-volatility days outperformed market-order users by 0.3% per trade—not huge, but compounded over a year, it's significant. The GameStop frenzy saw market orders executed at $400 while limit orders at $200 were never filled—a cautionary tale of using the wrong tool for your goal.",
+    "key_points": [
+      "**Market orders are for liquidity, limit orders for patience—most traders use them wrong because they don't understand their own time horizon.** If you need to get in or out now, market order is correct. If you can wait, limit order saves you the spread. The mistake: impatient traders use limit orders and miss the move; patient traders use market orders and overpay.",
+      "**Stop orders are a double-edged sword: they protect against losses but also against gains if used as trailing stops.** A trailing stop locks in profits but can be triggered by a normal pullback, causing you to exit a trend too early. The key is to set stops based on volatility, not arbitrary percentages.",
+      "**The 'stop hunt' is real, but it's not a trap—it's market mechanics.** Stops at obvious levels (round numbers, recent highs/lows) are visible to algorithms. Placing stops at less obvious levels (e.g., $49.85 instead of $50) reduces the chance of being triggered by noise, but doesn't eliminate it. The real insight: use stop-limit orders to control slippage, but accept that no order type guarantees a perfect exit."
+    ],
+    "practice": [
+      {
+        "title": "Compute the Spread Cost on a High-Volume Stock",
+        "steps": [
+          "Take AAPL on a high-volume day (e.g., earnings day).",
+          "Look at the bid-ask spread at market open (e.g., $150.00 bid, $150.05 ask).",
+          "A market order to buy pays the ask ($150.05), while a limit order at the bid ($150.00) may not fill. Compute the spread cost: $0.05 per share.",
+          "Now check if the limit order would have filled within 5 minutes. If yes, you saved $0.05 per share; if no, you missed the move."
+        ]
+      },
+      {
+        "title": "Optimize Your Stop-Loss Placement",
+        "steps": [
+          "Review a past trade where your stop-loss was triggered.",
+          "Calculate the Average True Range (ATR) of the stock over the last 14 days.",
+          "Place your stop at 1.5x ATR below your entry (or above for shorts) instead of a round number.",
+          "Compare the fill price of your original stop vs. the ATR-based stop using historical data. Did the ATR stop avoid a false trigger?"
+        ]
+      },
+      {
+        "title": "Test a Stop-Limit Order vs. a Stop Market Order",
+        "steps": [
+          "For a volatile stock like TSLA, set a stop-limit order: stop at $700, limit at $699.50.",
+          "Simultaneously, set a stop market order at $700 in a paper account.",
+          "During a fast drop, note the fill price of the market order (likely $698 or worse) vs. the stop-limit (which may not fill if price gaps below $699.50).",
+          "Evaluate: which outcome is better for your risk tolerance? The stop-limit controls slippage but risks non-execution."
+        ]
+      }
+    ],
+    "risk_notes": "No order type guarantees a perfect outcome. Market orders expose you to slippage in fast markets. Limit orders can cause you to miss the trade entirely. Stop orders can be triggered by noise or gaps. The psychological trap is believing you can control the market with the right order type—you can't. You can only control your execution strategy. Accept the trade-offs and choose based on your time horizon.",
+    "sources": [
+      {
+        "title": "Harris, L. (2003). Trading and Exchanges: Market Microstructure for Practitioners. Oxford University Press.",
+        "url": "https://global.oup.com/academic/product/trading-and-exchanges-9780195144703"
+      },
+      {
+        "title": "Barber, B. M., & Odean, T. (2013). The Behavior of Individual Investors. Handbook of the Economics of Finance.",
+        "url": "https://doi.org/10.1016/B978-0-44-459406-8.00022-6"
+      }
+    ],
+    "meta": {
+      "id": "Order types",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Market order",
+        "Limit order",
+        "Stop order"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "66b779c6-eedb-4f8e-9e3b-c708c641b4ec",
     "date": "2026-04-27",
     "topic": "Dividends vs. Buybacks: The Fruit Tree Analogy",
@@ -3961,77 +4028,6 @@
       "related": [
         "Securities law",
         "Disclosure"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "6338befd-de19-4bf9-be94-1a42c535eb27",
-    "date": "2026-02-23",
-    "topic": "The Invisible Architecture of Finance: How Settlement and Custody Actually Work",
-    "teaser": "Your portfolio doesn't exist in a vault—it's a legal fiction maintained by a fragile chain of promises. The 1968 paperwork crisis proved this system can collapse overnight. Why are we still building on the same brittle foundation?",
-    "summary": "In 1968, Wall Street didn't face a market crash or economic crisis—it faced a **paperwork apocalypse**. A $4.1 billion backlog of unprocessed trades threatened to freeze the entire financial system, not because of bad investments, but because the **invisible plumbing** that makes ownership transfer possible had clogged. This wasn't an anomaly; it was a stress test of a fundamental truth: financial markets are built on trust, not assets.\n\nThat 1968 crisis wasn't historical trivia—it's a living lesson about **systemic fragility**. The same vulnerabilities resurfaced in 2022 when UK pension funds nearly collapsed during the gilt crisis, proving settlement systems remain pressure points. Meanwhile, blockchain experiments in instant settlement reveal we've chosen **deliberate inefficiency** (T+2) not because we can't settle faster, but because speed trades off against systemic risk. Faster settlement reduces credit exposure but increases operational fragility—a tradeoff the 1968 crisis made painfully clear.\n\nAt its core, **settlement** is the final exchange of securities for payment, while **custody** is the safekeeping of those securities. But here's the uncomfortable truth: you don't own shares of Apple—you own a **legal claim** against a custodian who owns a claim against DTCC, who maintains the official record. This chain of promises works perfectly until one link breaks, at which point your ownership evaporates into legal ambiguity. The 2022 Celsius bankruptcy showed how 'digital custody' can disappear overnight, while Lehman's collapse revealed that in systemic failures, brokerage statements become worthless if the custodian's records are corrupted.\n\nWhy should you care now? Because we're repeating history while pretending we've learned from it. The settlement-custody system is a **massive, hidden credit network** that creates $2.1 trillion in daily settlement exposure globally. Your portfolio's safety depends entirely on database entries maintained by intermediaries you've never met. The real risk isn't market volatility—it's that the architecture holding your wealth together might be more fragile than anyone wants to admit.",
-    "key_points": [
-      "Settlement speed trades off against systemic risk. T+2 isn't about technological limits—it's a deliberate buffer that reduces credit exposure (you're only exposed for 2 days) while creating operational breathing room. Faster settlement (like blockchain's T+0) eliminates credit risk but makes the system brittle: any error becomes catastrophic immediately. The 1968 crisis proved that when settlement fails, markets freeze.",
-      "Custody transforms physical assets into legal fictions. You don't own securities; you own a claim against a custodian who owns a claim against a depository. This abstraction enables scale but creates **single points of failure**. In normal times, this distinction doesn't matter. In crisis (Lehman, Celsius), it's everything: your ownership exists only as long as the custody chain remains intact and properly recorded.",
-      "The settlement-custody system is a hidden credit engine that enables market liquidity. When you buy stock, you get 2 days of free financing until settlement—this 'float' creates implicit leverage throughout the system. But this credit network depends entirely on trust in intermediaries. The 2022 UK gilt crisis showed how quickly that trust can evaporate when settlement pressures emerge, forcing fire sales that threaten entire pension systems."
-    ],
-    "practice": [
-      {
-        "title": "Map Your Broker's Custody Chain",
-        "steps": [
-          "Contact your brokerage and ask: 'Who is your primary custodian for my securities? Is it DTCC directly or a sub-custodian?'",
-          "Research that custodian's financial stability and location (domestic vs. international adds complexity).",
-          "Trace one link deeper: 'Who custodies for my custodian?' Most chains have 3-4 layers before reaching the actual securities.",
-          "Document this chain. In a Lehman-style collapse, knowing where your assets actually sit matters more than SIPC coverage."
-        ]
-      },
-      {
-        "title": "Calculate Settlement Exposure with Counterparty Risk",
-        "steps": [
-          "Determine your average trade size (e.g., $10,000).",
-          "Estimate price risk: multiply by historical 2-day volatility (±2% = $200).",
-          "Now add counterparty risk: research your broker's 5-year credit default swap (CDS) spread. If it's 100 basis points annually, that's ~0.0055% probability of default in 2 days.",
-          "Multiply: $10,000 × 0.000055 = $0.55. This seems trivial until you realize Lehman's CDS was 450 basis points before collapse—22× higher risk.",
-          "The insight: settlement risk isn't just price movement; it's the probability your counterparty disappears before completing the trade."
-        ]
-      },
-      {
-        "title": "Stress-Test a Custody Failure",
-        "steps": [
-          "Pull your most recent brokerage statement. Note it shows 'fully paid and settled' positions.",
-          "Now simulate failure: If your broker disappeared tomorrow, how would you prove ownership? Statements are worthless if the custodian's records are corrupted.",
-          "Research: Does your broker use the DTCC's Institutional Delivery (ID) system? If yes, there's a backup. If no, you're relying on their internal records.",
-          "Contact your broker's compliance department and ask: 'What happens to my positions if you become insolvent? Walk me through the actual transfer process.' Their answer will reveal how fragile the chain really is."
-        ]
-      }
-    ],
-    "risk_notes": "Centralized custody creates systemic single points of failure—DTCC alone custodies $2.3 quadrillion in securities annually. Settlement efficiency enables high-frequency trading that can destabilize markets during stress (2022 UK gilts). The psychological trap: investors obsess over returns while ignoring that their 'assets' are legal claims vulnerable to operational failure. In crisis, the plumbing matters more than the portfolio—as 1968, 2008, and 2022 proved. We've optimized for efficiency at the cost of resilience.",
-    "sources": [
-      {
-        "title": "The Payoff: Why Wall Street Always Wins by Jeff Connaughton",
-        "url": "https://www.amazon.com/Payoff-Wall-Street-Always-Wins/dp/161039768X"
-      },
-      {
-        "title": "The Anatomy of the Great Financial Crisis of 2008 by Gary Gorton",
-        "url": "https://www.amazon.com/Anatomy-Great-Financial-Crisis-2008/dp/0691152634"
-      },
-      {
-        "title": "Lehman Brothers Bankruptcy: Lessons for Custody and Settlement",
-        "url": "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr384.pdf"
-      }
-    ],
-    "meta": {
-      "id": "Settlement & custody",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "T+2 settlement",
-        "Custody"
       ],
       "tags": [
         "Market Operations",
