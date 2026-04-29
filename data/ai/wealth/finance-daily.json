@@ -1,5 +1,64 @@
 [
   {
+    "id": "2c63fedb-9eae-4c90-9258-e2f8b9513df5",
+    "date": "2026-04-29",
+    "topic": "Settlement and Custody: The Hidden Mechanics of Trading",
+    "teaser": "Your trade is a promise. But for two days, you're just hoping. And your assets? They're held by someone you've never met. Here's the truth behind the curtain.",
+    "summary": "Imagine shaking hands on a deal to buy a house, then waiting 48 hours to actually own it. You've paid, but the seller still holds the keys. That's settlement: the awkward handshake that takes two days to complete. In finance, this is T+2—trade date plus two business days. And custody? That's the vault where your assets sleep, but the key is held by a third party you may never see.\n\nWhy does this matter? Because between the handshake and the ownership, you're exposed. You've paid for stocks, but they're not yours yet. If the seller fails to deliver, you're out cash and left with nothing. This gap is a credit risk window—silent, invisible, and dangerous. Clearinghouses exist to plug this gap, but they're not foolproof.\n\nCustody is another trust game. Your broker may not physically hold your shares; they use a custodian. If that custodian goes bankrupt—like Lehman Brothers did—your assets could be frozen. The lesson: ownership and possession are separate. Knowing who holds your assets is as important as knowing what you own.\n\nNow, here's the counterintuitive part: T+2 isn't universal. In some markets, settlement happens in one day (T+1) or even instantly (T+0). This creates arbitrage opportunities and risks. If you trade across borders, a Friday trade in one market might not settle until Tuesday in another—leaving you with a weekend of uncertainty.\n\nThe emotional hook? Every trade you make is a leap of faith. For two days, you're not a shareholder; you're a creditor. And the only thing standing between you and a failed trade is a system you barely understand. That's the hidden mechanics of trading—and ignoring them is like driving with your eyes closed.",
+    "key_points": [
+      "The gap between trade and settlement isn't just a delay—it's a credit risk window where you're unsecured. This is why clearinghouses exist, but they concentrate risk too.",
+      "Custody separates ownership from possession. Your broker might not hold your assets; a custodian does. If the custodian fails, you're exposed—even if the broker is healthy. That's a hidden concentration risk.",
+      "T+2 is not universal. Markets vary: US stocks are T+2, but some bonds settle T+1, and ETFs can settle T+0. This mismatch creates settlement friction and arbitrage opportunities that most traders ignore."
+    ],
+    "practice": [
+      {
+        "title": "Check Settlement Schedules",
+        "steps": [
+          "Review your brokerage's settlement calendar: stocks settle T+2, options T+1, but some ETFs settle T+0. Mark your calendar for Friday trades—they won't settle until Tuesday.",
+          "Note the exact time when funds become available for withdrawal. Often it's after 4 PM on settlement day—don't assume you can use them earlier.",
+          "Set reminders to avoid accidental overdrafts: if you sell on Monday to free up cash for a Friday purchase, you might still be in the hole on Wednesday."
+        ]
+      },
+      {
+        "title": "Verify Custodian Arrangements",
+        "steps": [
+          "Check if your broker uses a separate custodian (like Apex or Pershing) or holds assets in-house. In-house custody is riskier—if the broker fails, your assets are commingled.",
+          "Look for SIPC insurance: it covers up to $500,000, but it's not a guarantee. Understand that SIPC protects against broker failure, not market loss.",
+          "Diversify custodians if possible: holding assets with multiple brokers reduces concentration risk. But beware of the complexity—more accounts mean more tracking."
+        ]
+      },
+      {
+        "title": "Simulate a Failed Trade",
+        "steps": [
+          "Learn the buy-in process: if your counterparty fails to deliver, the clearinghouse buys the securities at market price and charges the failing party. You might get your cash, but at a cost.",
+          "Understand the costs: failed trades can trigger margin calls, overdraft fees, or even account restrictions. Practice by checking your broker's policy on trade fails.",
+          "Manage cash flows: keep a buffer of cash to cover potential delays. If you're trading on margin, a settlement delay could amplify losses."
+        ]
+      }
+    ],
+    "risk_notes": "Settlement risk turns into systemic risk during crises—like 2008 when AIG's failure threatened CDS settlements. Psychological trap: investors assume trades settle instantly, leading to overleveraging or premature spending. Custody risk: trusting a single custodian creates concentration risk; diversifying custodians can mitigate but adds complexity.",
+    "sources": [
+      {
+        "title": "Search: Settlement and Custody: The Hidden Mechanics of Trading",
+        "url": "https://www.google.com/search?q=Settlement%20and%20Custody%3A%20The%20Hidden%20Mechanics%20of%20Trading"
+      }
+    ],
+    "meta": {
+      "id": "Settlement & custody",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "T+2 settlement",
+        "Custody"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "1b656414-ee4b-4841-b72a-99358815ef58",
     "date": "2026-04-28",
     "topic": "Order Types: Market, Limit, and Stop Orders",
@@ -3959,75 +4018,6 @@
       "related": [
         "Efficient market",
         "Anomalies"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "8a0f04c2-2500-4d86-adfe-b91f704a18a2",
-    "date": "2026-02-24",
-    "topic": "Regulation and Trading Rules: The Invisible Architecture of Markets",
-    "teaser": "What if the 1929 crash wasn't about greed, but about a predictable pattern of regulatory failure that repeats every generation—and how understanding this cycle can give you an unfair advantage in today's markets?",
-    "summary": "The 1929 crash is often misremembered as a morality tale about greed. That's a comforting fiction. The reality is more structural: it was a **regulatory failure** that turned a market correction into a depression. But this wasn't unique—it was part of a predictable cycle. In 1929, the absence of margin rules allowed leverage to spiral. In 2008, the lack of derivatives oversight created hidden systemic risk. Today, crypto markets operate with similar regulatory gaps. This pattern reveals a first-principles truth: **regulation is an evolutionary arms race between innovation and stability.**\n\nAt its core, regulation isn't about bureaucracy—it's about creating the conditions for trust. Without rules, markets don't just become chaotic; they become **anti-markets** where information asymmetry destroys price discovery and fraud becomes the dominant strategy. The digital age has democratized access but also amplified this tension: apps and crypto platforms operate at speeds that traditional regulation struggles to match. Understanding this arms race transforms regulation from a compliance burden into a **map of market vulnerabilities and opportunities**—showing where the next failure might occur and where disciplined investors can find edges.\n\nConsider this: regulation creates **predictable inefficiencies**. Disclosure requirements create information lags. Compliance costs create barriers to entry. Trading halts create artificial pauses. These aren't bugs in the system—they're features that become exploitable for those who understand the rulebook better than the crowd. The most dangerous regulations aren't the restrictive ones, but those that create **false confidence** (like deposit insurance encouraging reckless bank behavior). Viewing regulation through this lens—as a living system of constraints that shape market behavior—allows you to navigate with strategic foresight, turning what others see as red tape into your competitive advantage.",
-    "key_points": [
-      "Regulation creates predictable inefficiencies—like disclosure lags or compliance costs—that become exploitable edges for disciplined investors who understand the rulebook better than the crowd.",
-      "The most dangerous regulations are those that create false confidence, like deposit insurance encouraging reckless bank behavior, because they mask systemic risk while appearing protective.",
-      "Regulatory failures follow a predictable cycle: 1929's lack of margin rules → 2008's lack of derivatives oversight → today's crypto gaps. Each iteration is an evolutionary arms race between innovation and stability.",
-      "Trading rules like circuit breakers don't just prevent panic—they create artificial decision points that reveal market psychology. Savvy investors use these halts as signals, not obstacles.",
-      "Transparency enforced by regulation reduces information asymmetry, but it also creates temporary information advantages for those who can process disclosures faster than the market."
-    ],
-    "practice": [
-      {
-        "title": "Trace a Regulatory Failure Chain: The FTX Case Study",
-        "steps": [
-          "Select a failed crypto exchange (e.g., FTX). Map which specific regulations were missing: no segregation of customer funds, no independent audits, no derivatives oversight.",
-          "Calculate the hypothetical losses with and without those rules: estimate how much investor capital would have been protected if standard brokerage regulations had applied.",
-          "Compare this to historical parallels: how similar were the missing rules to those absent in 1929 (margin controls) or 2008 (derivatives transparency)? What pattern emerges?"
-        ]
-      },
-      {
-        "title": "Quantify the 'Price of Rules': Compare Regulated vs. Unregulated Hours",
-        "steps": [
-          "Pick an asset that trades in both regulated and unregulated hours (e.g., S&P 500 futures during market hours vs. overnight sessions).",
-          "Calculate volatility metrics (standard deviation, maximum drawdown) for each period over the last year. Is volatility higher when rules are suspended?",
-          "Estimate the economic value of regulation: if you had to pay an 'insurance premium' for the stability of regulated hours, what would it be worth based on reduced volatility?"
-        ]
-      },
-      {
-        "title": "Discover How Disclosure Rules Create Temporary Market Inefficiencies",
-        "steps": [
-          "Take three companies that recently filed 10-K reports. Track their stock prices in the 24 hours after filing.",
-          "Measure how long it takes for the market to fully incorporate the information: when does the price stabilize after the initial reaction?",
-          "Hypothesize why this lag exists: is it processing complexity, investor attention, or something else? Test your hypothesis with another set of filings."
-        ]
-      }
-    ],
-    "risk_notes": "Regulation fails most dangerously when it creates the illusion of safety without the substance—leading to complacency and concentrated risk. Psychological traps include: over-relying on regulatory approval as a substitute for due diligence, mistaking complexity for effectiveness, and failing to recognize that regulations always lag innovation, creating temporary blind spots. The greatest risk isn't breaking rules, but misunderstanding how they shape behavior—both others' and your own.",
-    "sources": [
-      {
-        "title": "SEC Investor.gov website",
-        "url": "https://www.investor.gov"
-      },
-      {
-        "title": "The Misbehavior of Markets by Benoit Mandelbrot",
-        "url": "https://www.basicbooks.com/titles/benoit-b-mandelbrot/the-misbehavior-of-markets/9780465043576/"
-      },
-      {
-        "title": "Principles for Navigating Big Debt Crises by Ray Dalio",
-        "url": "https://www.principles.com/big-debt-crises/"
-      }
-    ],
-    "meta": {
-      "id": "Regulation & trading rules",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Securities law",
-        "Disclosure"
       ],
       "tags": [
         "Market Operations",
