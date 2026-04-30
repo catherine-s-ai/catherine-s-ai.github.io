@@ -1,5 +1,69 @@
 [
   {
+    "id": "014cd289-876f-4c59-819f-129b5894fef5",
+    "date": "2026-04-30",
+    "topic": "Market Regulation: The Invisible Architecture Protecting Your Trades",
+    "teaser": "Newton predicted the crash, then lost his shirt. Your brain is just as broken—here's why regulation is your only shield.",
+    "summary": "In 1720, Isaac Newton correctly identified the South Sea Bubble, sold his shares, and made a tidy profit. Then he watched others get richer, jumped back in, and lost 20,000 pounds (over $3 million today). The smartest man in history fell for the oldest trick in the book: the inability to sit still while others seem to win. That's not a failure of intelligence—it's a failure of biology. Our brains are wired for envy, greed, and panic, not for rational markets.\n\nRegulation is the artificial scaffold that props up our broken biology. It doesn't make markets perfect; it makes them survivable. At first principles, every rule—from insider trading bans to circuit breakers—exists because our natural instincts would otherwise turn exchanges into chaos. Without them, information asymmetry would let insiders fleece everyone else, and panic would trigger self-reinforcing crashes. Think of regulation as the market's prefrontal cortex: the part that overrides your lizard brain when it wants to buy the top or sell the bottom.\n\nToday, as retail traders pile into meme stocks and options strategies that would make a casino blush, understanding this architecture isn't optional. It's the difference between being a player who knows the odds and a mark who thinks the game is fair. The rules aren't just bureaucratic red tape—they're the only thing standing between you and your own worst impulses.",
+    "key_points": [
+      "Insider trading laws don't just punish cheaters; they prevent a 'lemons market' where all information is suspect. Without them, every trade would be a gamble on whether the other party knows more. The result: markets would freeze, because no one would trade at all. Regulation creates the trust that makes liquidity possible.",
+      "Circuit breakers are often criticized for interrupting price discovery, but that criticism misses the point. Price discovery is useless if it happens in a panic. The real function of a circuit breaker is to break the feedback loop between falling prices and forced selling. It's not a pause button; it's a defibrillator for the market's heart rhythm.",
+      "Disclosure requirements force companies to reveal their dirty laundry, but the real insight is that they also force companies to think about what they'd rather hide. The act of having to disclose a risk factor makes executives more aware of it. In other words, regulation doesn't just inform investors—it changes corporate behavior before the information is even released."
+    ],
+    "practice": [
+      {
+        "title": "Read SEC Filings Like a Pro",
+        "steps": [
+          "Before your next trade, pull the company's 10-K from sec.gov.",
+          "Skip the financials; go straight to 'Risk Factors' and 'Management's Discussion and Analysis'.",
+          "Highlight any risk that could cut the stock price in half. Then decide: would you still buy if that risk came true? If not, don't buy now."
+        ]
+      },
+      {
+        "title": "Implement Your Own Circuit Breaker",
+        "steps": [
+          "Set a hard rule: if a stock drops 10% in a day, you cannot sell for 24 hours. No exceptions.",
+          "During that 24 hours, write down why you bought it in the first place. Re-read it before deciding.",
+          "This mimics the market's cooling-off period and forces you to separate panic from reason."
+        ]
+      },
+      {
+        "title": "Simulate a Short Squeeze",
+        "steps": [
+          "Find a stock with short interest > 20% of float (use finviz.com or ycharts.com).",
+          "Calculate days to cover = short interest / average daily volume. If > 5, a squeeze is possible.",
+          "Estimate the maximum squeeze price: multiply current price by (total shares short / average daily volume). This is crude but gives you a sense of the explosive potential.",
+          "Now ask: if I buy, am I betting on fundamentals or on forcing shorts to cover? The latter is gambling, not investing."
+        ]
+      }
+    ],
+    "risk_notes": "Regulation is a lagging indicator—it fights the last war. The SEC didn't stop Bernie Madoff; it caught him after 17 years. Over-reliance on rules can breed complacency: just because something is legal doesn't mean it's safe. The real trap is believing that regulation makes markets fair. It doesn't—it just makes them fairer than they would be otherwise. Always assume there are risks the rules don't cover.",
+    "sources": [
+      {
+        "title": "SEC.gov - Investor.gov: The Role of the SEC",
+        "url": "https://www.investor.gov/introduction-investing/investing-basics/role-sec"
+      },
+      {
+        "title": "Book: 'The Misbehavior of Markets' by Benoit Mandelbrot",
+        "url": "https://www.goodreads.com/book/show/112335.The_Misbehavior_of_Markets"
+      }
+    ],
+    "meta": {
+      "id": "Regulation & trading rules",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Securities law",
+        "Disclosure"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "2c63fedb-9eae-4c90-9258-e2f8b9513df5",
     "date": "2026-04-29",
     "topic": "Settlement and Custody: The Hidden Mechanics of Trading",
@@ -3955,69 +4019,6 @@
       "related": [
         "Leverage",
         "Risk management"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "e63b71e8-18af-46b2-af54-a4d167925a55",
-    "date": "2026-02-25",
-    "topic": "Market Efficiency: The Blindfolded Auction",
-    "teaser": "What if the market's greatest strength—its collective intelligence—is also its most predictable weakness? The paradox that explains why your 'edge' is probably an illusion.",
-    "summary": "Picture October 19, 1987—Black Monday. The Dow Jones dropped 22.6% in a single day. No major news broke. No economic data justified the collapse. Yet millions of investors, algorithms, and institutions simultaneously decided to sell. This wasn't random noise; it was emergent irrationality—the exact moment when Eugene Fama's 'all available information' premise shattered against human psychology. The market isn't a casino; it's a complex adaptive system where blindfolded participants somehow produce prices that are usually right, but wrong in ways that matter profoundly.\n\nFirst principles reveal the brutal truth: 'all available information' is a convenient fiction. Insider information exists. Information asymmetry is real. Regulatory delays create temporary advantages. The market doesn't reflect truth—it reflects consensus, and consensus is often wrong. Yet here's the paradox: markets are wrong constantly, but in unpredictable ways that make them appear right in aggregate. This isn't academic theory; it's the reality that separates retirees from gamblers.\n\nRight now, you're being sold the lie that you can beat the market consistently. Understanding market efficiency means recognizing that your neighbor, your financial advisor, and the hedge fund manager all see different pieces of the same puzzle. The market's collective intelligence emerges from this fragmentation—not from perfect information, but from relentless competition. When everyone believes 'this time is different' (as in the 1990s tech bubble), they create the very inefficiencies that disciplined investors exploit. Your survival depends on seeing markets as a spectrum of efficiency—sometimes rational, sometimes temporarily insane—and building wealth through evidence-based discipline rather than chasing mirages.",
-    "key_points": [
-      "Market efficiency is a spectrum where prices reflect consensus, not truth—demonstrated by events like the 1987 crash where collective panic revealed emergent irrationality despite no fundamental news.",
-      "The small-cap value premium isn't free money; it's payment for enduring volatility and tracking error regret—compensation for behavioral pain most investors refuse to tolerate.",
-      "Market efficiency creates its own inefficiencies through reflexive feedback loops: when everyone believes markets are perfectly efficient (as in late-1990s tech euphoria), they stop looking for mispricings, creating opportunities for the skeptical few who understand this meta-cognitive trap."
-    ],
-    "practice": [
-      {
-        "title": "Track 'Obvious' Tips vs. Reality",
-        "steps": [
-          "Select three 'can't-miss' investment tips from financial media that trigger your excitement.",
-          "Record entry prices and track performance against the S&P 500 for 90 days.",
-          "Calculate the difference in returns, including trading costs, taxes, and the emotional cost of monitoring daily fluctuations.",
-          "Document your psychological state each week—when did doubt creep in? When did confirmation bias strengthen your conviction?"
-        ]
-      },
-      {
-        "title": "Measure Your Action Bias Tax",
-        "steps": [
-          "Review your investment statements from the past year.",
-          "Calculate total trades (buys and sells) divided by average portfolio value to get turnover rate.",
-          "Benchmark against a low-turnover strategy (<10% annually).",
-          "Estimate the annual cost of your emotional need for action: trading fees + taxes + spread costs + time spent researching.",
-          "Project this cost over 20 years compounded at 7%—this is your 'action bias tax' on future wealth."
-        ]
-      },
-      {
-        "title": "Practice Being Wrong Gracefully",
-        "steps": [
-          "When you feel strong conviction about an investment, pause and document: 'I believe X will happen because Y.'",
-          "Develop an opposing thesis with equal rigor: 'What if Z happens instead?' Cite historical precedents where similar theses failed.",
-          "Assign probabilities to both outcomes based on evidence, not emotion.",
-          "Review after 30 days. If wrong, write: 'I was wrong because...' and identify the cognitive bias (overconfidence, anchoring, narrative fallacy) that misled you."
-        ]
-      }
-    ],
-    "risk_notes": "Efficient market theory becomes dangerous dogma during bubbles when collective delusion overrides historical patterns—as with Japanese real estate in 1989 or dot-com stocks in 1999. The psychological trap is believing you're the exception who can consistently beat millions of other investors. This overconfidence manifests as excessive trading, concentration in speculative assets, or abandoning diversification. Always balance efficiency insights with humility: markets can stay irrational longer than you can stay solvent. Anchor decisions in long-term fundamentals, not short-term consensus, and remember that the greatest risk isn't market volatility—it's the story you tell yourself about your own exceptionalism.",
-    "sources": [
-      {
-        "title": "Search: Market Efficiency: The Blindfolded Auction",
-        "url": "https://www.google.com/search?q=Market%20Efficiency%3A%20The%20Blindfolded%20Auction"
-      }
-    ],
-    "meta": {
-      "id": "Market efficiency & anomalies",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Efficient market",
-        "Anomalies"
       ],
       "tags": [
         "Market Operations",
