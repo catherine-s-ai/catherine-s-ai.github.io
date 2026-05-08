@@ -1,5 +1,64 @@
 [
   {
+    "id": "8ef6d624-4402-48fd-86a4-b7cec2a80fc1",
+    "date": "2026-05-08",
+    "topic": "Producer Theory: The Hidden Math Behind Business Scalability",
+    "teaser": "Why your lemonade stand's first pitcher is pure gold, but the hundredth might cost you more than it earns—and how the world's most valuable companies cheat this rule.",
+    "summary": "Picture your lemonade stand on a scorching summer day. The first pitcher sells out instantly—pure profit. You add more lemons, sugar, and a second pitcher. Still sells. By the fifth pitcher, your stand is cramped, you're sweating, and each new batch requires more effort for less return. That's the law of diminishing returns. But here's the twist: some businesses—like software platforms—seem to defy this law. They get more efficient as they grow. Producer theory is the hidden math that separates the lemonade stands from the Facebooks. It reveals why your boss hires more people but doesn't raise your pay, why automation isn't always about saving money, and why some industries inevitably become monopolies. This isn't just academic; it's the playbook for spotting the next trillion-dollar company before anyone else.",
+    "key_points": [
+      "1. The Marginal Product of Labor (MPL) isn't just why you're underpaid—it's a leading indicator of industry disruption. When MPL falls, firms have two choices: accept lower profits or replace you with capital. But here's the non-obvious insight: in knowledge work, MPL can actually *increase* with the right team dynamics (e.g., network effects among employees). The real skill is identifying when MPL is about to tip from increasing to decreasing—that's when you should sell the stock or switch careers.",
+      "2. The isoquant-isocost framework reveals a counterintuitive truth: the cheapest way to produce isn't always the most efficient. In fact, using more capital (automation) can be cheaper even if capital is expensive, because it avoids the hidden costs of managing people. But the deeper insight? The optimal mix depends on the elasticity of substitution. In industries where capital and labor are easily substitutable (like manufacturing), automation wins quickly. In creative fields (where substitution is low), labor retains power. This explains why AI threatens coders more than artists—for now.",
+      "3. Returns to scale aren't just a predictor of monopoly—they're a self-fulfilling prophecy. Increasing returns (like in tech platforms) create winner-take-all markets, but the non-obvious twist: these returns are often driven by *demand-side* economies of scale (network effects) rather than supply-side. That's why Uber's scale didn't protect it from rivals—it lacked true network effects. The real moat is when both supply and demand sides have increasing returns, like in AWS or Microsoft Office."
+    ],
+    "practice": [
+      {
+        "title": "Marginal Product Self-Audit (with a Twist)",
+        "steps": [
+          "Track one specific output metric (e.g., code commits, sales calls, articles written) for each hour over a week. But don't just measure—also note the *quality* or *impact* of each hour's output.",
+          "Calculate your marginal product for the last hour. If it's lower than your average, ask: 'Is this task scalable? Can I automate it, delegate it, or eliminate it?'",
+          "Then, do the inverse: identify tasks where your marginal product is *increasing*. Double down on those. The goal isn't just to avoid diminishing returns—it's to find your increasing returns zone."
+        ]
+      },
+      {
+        "title": "Revenue per Employee Analysis (with Action Guide)",
+        "steps": [
+          "Pick a company and compute revenue per employee. But now, compare it to the industry median. If the company's ratio is significantly higher, it suggests a capital-intensive or highly scalable model (good for investors). If it's lower, it may be labor-intensive with diminishing returns.",
+          "Now, look at the trend over 5 years. Is revenue per employee rising? If yes, the company is likely benefiting from economies of scale. If falling, they may be hiring too fast without productivity gains—a red flag.",
+          "Action: If you're an investor, buy companies with rising revenue per employee in industries with increasing returns. If you're a manager, benchmark your team's ratio against competitors to spot inefficiencies."
+        ]
+      },
+      {
+        "title": "Isoquant Thought Experiment (Made Concrete)",
+        "steps": [
+          "Pick a real business process you're familiar with—say, preparing a monthly report. Estimate the time it takes with current labor (e.g., 10 hours of analyst time).",
+          "Now, consider a capital-intensive alternative: buying a software tool that automates data collection. Estimate the cost (e.g., $500/month) and the remaining labor (e.g., 2 hours for analysis).",
+          "Calculate the total cost of each option over a year. Include not just direct costs but also training, maintenance, and error rates. Which is cheaper? Now, sketch a simple isoquant: on a graph with labor on one axis and capital on the other, plot the points (10 hours, $0 capital) and (2 hours, $500/month). The curve connecting them shows all combinations that produce the same output. The cheapest point is where the slope of the isoquant equals the ratio of input prices. This reveals whether you should invest in more automation or more people."
+        ]
+      }
+    ],
+    "risk_notes": "Producer theory is a powerful lens, but it's a simplification. It assumes firms are rational profit-maximizers with perfect information—which they rarely are. Managers suffer from status quo bias, overconfidence, and short-termism. Also, the theory ignores externalities: a firm that minimizes private costs might maximize social costs (e.g., pollution). And in the real world, production functions aren't always smooth—they can have discontinuities (e.g., a factory needs a minimum scale to be viable). Beware of applying these models blindly without considering market power, regulation, and human psychology. The best use of producer theory is as a diagnostic tool, not a prescription.",
+    "sources": [
+      {
+        "title": "Varian, H. R. (2014). Intermediate Microeconomics: A Modern Approach. W.W. Norton.",
+        "url": "https://www.wwnorton.com/books/9780393919677"
+      }
+    ],
+    "meta": {
+      "id": "Producer theory",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Cost structure",
+        "Production functions"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "10b29a59-b6b3-4ee8-b4c0-9a575cf8b1f5",
     "date": "2026-05-07",
     "topic": "Consumer Theory: Maximizing Happiness Within Your Budget",
@@ -3893,69 +3952,6 @@
       "related": [
         "Nash equilibrium",
         "Prisoner's dilemma"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "3a905d1d-5e98-466e-96f7-a7043af4d150",
-    "date": "2026-03-04",
-    "topic": "Market Structures: The Hidden Power Dynamics That Shape Your Wealth",
-    "teaser": "Forget supply and demand—your wealth is determined by who controls the gates, not the goods. Medieval guilds understood this; do you?",
-    "summary": "**Market structures are not economic models—they are power architectures.** Strip away the elegant curves of supply and demand, and you find something more primal: organized human systems that allocate wealth through control, not competition. Medieval guilds didn't respond to markets; they created them by restricting entry, standardizing products, and fixing prices. This isn't history—it's the operating system of every industry you invest in or work in.\n\nAt the atomic level, market structures reduce to three variables: **number of firms (concentration), product differentiation (uniqueness), and barriers to entry (gatekeeping)**. These aren't academic categories—they're levers that determine cash flow distribution. Perfect competition, where many firms sell identical goods with no barriers, exists only in textbooks as a theoretical limit. In reality, all markets are imperfect to some degree, creating predictable patterns of wealth transfer from consumers and new entrants to incumbents.\n\n**The mathematical truth:** Market concentration × pricing power = wealth extraction efficiency. When few firms control an industry (high concentration), they can raise prices above competitive levels—what economists call 'economic rent.' When products are undifferentiated, competition becomes a brutal price war that destroys margins. When barriers are high, innovation slows because incumbents face no existential threat. Your investment returns and career earnings are largely determined by which side of these equations you're on.\n\n**Why this framework matters:** It reveals why monopolies can be terrible investments despite their apparent safety (they systematically underinvest in innovation relative to cash flow). It explains why competitive industries offer growth but rarely sustainable wealth (margins approach zero in equilibrium). Most importantly, it provides a lens to see through quarterly earnings and identify **structural advantages** that persist across business cycles. The medieval guilds protected their members for centuries through structural control—your financial security depends on recognizing these same patterns in modern markets.",
-    "key_points": [
-      "Monopolies mathematically underinvest in R&D relative to cash flows—their structure creates a certainty of innovation decay. AT&T's Bell Labs produced Nobel prizes but missed digital switching because their monopoly made incremental improvements more profitable than disruptive bets.",
-      "Perfect competition is a theoretical asymptote—all real markets have imperfections that create arbitrage opportunities. The soybean futures market approaches perfect competition, yet even there, storage costs and transportation create temporary monopolies for those with physical infrastructure.",
-      "Oligopolies engage in tacit collusion through price signaling—a game theory equilibrium where firms maximize joint profits without illegal coordination. The 1990s airline industry demonstrated this perfectly: when American Airlines introduced 'value pricing' in 1992, every major carrier matched within 72 hours, preserving industry profitability while appearing competitive.",
-      "Market structure determines wealth distribution, not just prices. In concentrated markets, economic rent flows to shareholders and management; in competitive markets, it flows to consumers through lower prices. Your position in this flow—as investor, employee, or consumer—determines your financial outcome."
-    ],
-    "practice": [
-      {
-        "title": "Portfolio Structure Analysis",
-        "steps": [
-          "Select one stock from your portfolio",
-          "Calculate its industry's Herfindahl-Hirschman Index (HHI) using market share data (HHI = sum of squared market shares × 10,000)",
-          "Classify: competitive (HHI < 1500), moderately concentrated (1500-2500), or highly concentrated (>2500)",
-          "Estimate the company's pricing power premium: compare its operating margin to industry average, then multiply by the HHI concentration premium (typically 1-3% per 1000 HHI points above 1500)"
-        ]
-      },
-      {
-        "title": "Price War Simulation",
-        "steps": [
-          "Choose two rival companies in an oligopoly (e.g., Coca-Cola and PepsiCo)",
-          "Track their stock prices and any public price changes over one month",
-          "Calculate the economic impact: when Company A changes prices, measure Company B's stock reaction and estimate the margin impact using their gross margin percentage",
-          "Document evidence of price signaling or matching behavior and calculate the implied coordination benefit (typically 2-5% of revenue in stable oligopolies)"
-        ]
-      },
-      {
-        "title": "Career Market Power Assessment",
-        "steps": [
-          "Identify the top 3 players in your industry or desired field",
-          "Estimate their combined market share percentage",
-          "Analyze barriers to entry: quantify capital requirements, regulatory hurdles, and network effects on a 1-10 scale",
-          "Determine your position: are you inside a protected guild (high barriers, high concentration) or competing in an open bazaar (low barriers, many players)? Calculate your career's structural advantage/disadvantage"
-        ]
-      }
-    ],
-    "risk_notes": "**Market structure analysis fails when you mistake the map for the territory.** Blockbuster understood video rental market structure perfectly—they dominated physical locations and studio relationships. What they missed was that technology could collapse barriers overnight, turning their real estate advantage into a liability. The psychological trap is assuming structural advantages are permanent when they're actually temporary licenses granted by technology, regulation, and consumer behavior. This framework is most dangerous in tech sectors where platform shifts can dismantle moats in months (see Nokia's collapse post-iPhone). Market structures provide context about current power distributions, but they cannot predict black swans that rewrite the rules. The greatest risk is becoming so focused on existing structures that you miss the architects building new ones.",
-    "sources": [
-      {
-        "title": "Principles for Navigating Big Debt Crises",
-        "url": "https://www.principles.com/big-debt-crises/"
-      }
-    ],
-    "meta": {
-      "id": "Market structures",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Competition",
-        "Monopoly"
       ],
       "tags": [
         "Microeconomics Fundamentals",
