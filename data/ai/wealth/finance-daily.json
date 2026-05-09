@@ -1,5 +1,65 @@
 [
   {
+    "id": "21f378aa-7c5a-4e7e-bb61-d12aa36d9822",
+    "date": "2026-05-09",
+    "topic": "Market Structures: From Monopoly to Perfect Competition",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "In 301 AD, Emperor Diocletian faced a problem: prices were soaring. His solution? A price control edict—death for selling above the cap. It failed spectacularly. Markets, he learned, have a mind of their own. Today, we still fight the same battle, but now it's about market structure: the invisible architecture that determines who holds the power.\n\nImagine a single company controlling your city's water. That's not a monopoly—it's a utility. But what if that company also owned the pipes, the treatment plants, and the regulations? That's market power. Now imagine that company is your broker, your bank, and your pension fund. That's the modern financial system.\n\nMarket structures are the DNA of competition. At one extreme: **perfect competition**—a bazaar of tiny stalls selling identical wares, where no one has power. At the other: **monopoly**—a fortress with a single gatekeeper. In between lie **monopolistic competition** (many sellers, each with a unique twist) and **oligopoly** (a handful of titans playing chess).\n\nWhy should you care? Because this DNA dictates your returns and your bills. Monopolies mint money—until regulators or disruptors strike. Oligopolies wage silent wars through advertising and hidden collusion, costing you more. Tech giants today face antitrust battles that could reshape your portfolio. Understanding market structure isn't academic; it's survival. It tells you which companies have real moats and which are castles built on sand.",
+    "key_points": [
+      "Monopoly is a gradient, not a binary: Even near-monopolies face threats from substitutes, tech shifts, or regulation. Google's search dominance isn't eternal—AI chatbots are the new barbarians at the gate. The real question isn't 'Is it a monopoly?' but 'How durable is its power?'",
+      "Oligopolies prefer non-price competition because price wars are mutually assured destruction. Instead, they compete on branding, features, and ecosystems. Think Apple vs. Samsung: they'd rather sell you a story than a discount.",
+      "Perfect competition is a theoretical mirage. Real markets have information gaps, switching costs, and loyalty. Even commodity markets like oil have OPEC. The stock market is close, but insider information and behavioral biases create edges.",
+      "Market structure is dynamic, not static. Disruption can topple titans: Netflix buried Blockbuster, Zoom crashed the boardroom party. Regulatory risk is the wildcard. Always ask: 'What could break this structure in 5 years?'"
+    ],
+    "practice": [
+      {
+        "title": "Analyze Your Portfolio",
+        "steps": [
+          "Pick one stock you own and identify its market structure (monopoly, oligopoly, etc.).",
+          "Look at its market share, number of competitors, and barriers to entry.",
+          "Assess whether the company has pricing power and how sustainable it is."
+        ]
+      },
+      {
+        "title": "Check Your Monthly Bills",
+        "steps": [
+          "Identify which industries are oligopolies (e.g., internet, cell phone, airlines).",
+          "Research if there's a smaller competitor offering better value.",
+          "Consider switching or negotiating your current plan."
+        ]
+      },
+      {
+        "title": "Simulate an Antitrust Breakup",
+        "steps": [
+          "Choose a dominant tech company (e.g., Amazon, Meta).",
+          "Imagine it's forced to split into separate businesses (e.g., marketplace vs cloud).",
+          "Analyze how that would affect each part's valuation and whether you'd buy the pieces."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest trap is assuming market structure is static. Disruptive innovation can topple monopolies (e.g., Netflix vs Blockbuster). Also, regulatory risk is hard to predict—a monopoly today might be broken up tomorrow. Psychological trap: investors often overpay for 'moats' that turn out to be shallow (e.g., Kodak's film monopoly). Finally, in oligopolies, collusion can be illegal but hard to detect, leading to hidden price fixing that hurts consumers.",
+    "sources": [
+      {
+        "title": "Competition Demystified",
+        "url": "https://www.penguinrandomhouse.com/books/291643/competition-demystified-by-bruce-greenwald-and-judd-kahn/"
+      }
+    ],
+    "meta": {
+      "id": "Market structures",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Competition",
+        "Monopoly"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "8ef6d624-4402-48fd-86a4-b7cec2a80fc1",
     "date": "2026-05-08",
     "topic": "Producer Theory: The Hidden Math Behind Business Scalability",
@@ -3878,80 +3938,6 @@
       "related": [
         "Market failure",
         "Government intervention"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "a01f45bc-e2f0-4a39-943d-6b59f730496e",
-    "date": "2026-03-05",
-    "topic": "Game Theory for Financial Decision-Making",
-    "teaser": "The mathematical reason why smart investors keep making the same catastrophic mistakes—and how to see the invisible game before you're forced to play it.",
-    "summary": "**In 1998, a room full of Nobel laureates lost $4.6 billion because they forgot one thing: other people.** Long-Term Capital Management wasn't destroyed by bad math—their models were flawless. They were destroyed by failing to anticipate that every other hedge fund would make the same 'optimal' trade simultaneously. This wasn't a calculation error; it was a strategic blindness that echoes through financial history.\n\n**Game theory** is the study of interdependent decision-making—the mathematics of 'what happens when my outcome depends on what you do, and your outcome depends on what I do.' The first principle is brutally simple: In strategic environments, the best individual move often leads to collective disaster. You cannot optimize your portfolio by thinking only about fundamentals; you must think about how other investors will react to those same fundamentals.\n\nConsider the 2008 housing collapse: Every bank knew subprime mortgages were risky individually. But they all assumed someone else would be the first to stop buying. This wasn't ignorance—it was a perfect Prisoner's Dilemma playing out across Wall Street. Each bank's rational self-interest (keep originating mortgages) led to collective ruin when everyone made the same 'rational' choice.\n\nWhy does this matter today? Because every financial decision exists in this strategic space. When you buy Tesla stock, you're not just betting on electric vehicles—you're betting against thousands of other investors analyzing the same data. When you negotiate salary, you're not just stating your worth—you're signaling how you'll respond when they counteroffer. **The difference between average and exceptional financial outcomes isn't better analysis—it's better anticipation of how others will analyze the same situation.**\n\nMost investors treat markets as physics problems: 'If earnings grow at X%, the stock should be worth Y.' Game theory reveals markets as psychology problems: 'If everyone believes earnings will grow at X%, what price have they already set, and what will they do when earnings actually come in at X±10%?' This shift from isolated calculation to strategic anticipation is what separates those who understand markets from those who merely participate in them.",
-    "key_points": [
-      "The Nash Equilibrium in efficient markets isn't about finding alpha—it's about recognizing that when everyone has the same information and acts rationally, the equilibrium is 'no alpha.' You cannot beat the market by doing what everyone else is doing with the same information. This explains why most active managers fail: they're playing a game where the stable outcome is mediocrity.",
-      "The Prisoner's Dilemma manifests in finance as the tragedy of the commons: When every investor chases momentum (individually rational), they create bubbles (collectively irrational). When every trader uses stop-losses (individually protective), they create flash crashes (collectively destructive). The dilemma isn't theoretical—it's why rational actors create irrational markets.",
-      "In repeated games, reputation becomes compound interest for trust. Warren Buffett's 'reputation is everything' isn't sentiment—it's game theory. One-time transactions incentivize exploitation; ongoing relationships incentivize cooperation. This explains why the best negotiators leave value on the table today to harvest trust tomorrow."
-    ],
-    "practice": [
-      {
-        "title": "Map Your Next Financial Negotiation as a Game Matrix",
-        "steps": [
-          "List your possible moves (e.g., initial offer: $120K, first concession: $115K, final walk-away: $105K)",
-          "List the other party's likely responses (e.g., counter with $100K, accept immediately, delay decision)",
-          "Assign outcome values using a 2x2 matrix. Example: You offer $120K, they counter $100K → You get 3 (moderate), They get 4 (good). You offer $115K, they accept → You get 5 (excellent), They get 3 (moderate).",
-          "Identify the Nash Equilibrium—where neither side can improve by changing strategy alone. Often this isn't the 'best' outcome but the most stable one given mutual anticipation."
-        ]
-      },
-      {
-        "title": "Analyze an Investment Through the Lens of Common vs. Private Knowledge",
-        "steps": [
-          "Choose one investment you're considering (e.g., buying Amazon stock)",
-          "Separate your information into two columns: Common Knowledge (earnings reports, analyst ratings, news everyone sees) vs. Private Knowledge (your unique insight about supply chain changes, customer behavior patterns you've observed)",
-          "Ask: 'If I act only on common knowledge, what would every other rational investor do?' (Usually: the price already reflects it)",
-          "Determine if your private knowledge is truly an edge or just a different interpretation of public data. Only act when private knowledge creates asymmetric understanding."
-        ]
-      },
-      {
-        "title": "Track Strategic Interactions for One Week",
-        "steps": [
-          "Document every financial interaction where someone's decision affected yours (vendor negotiation, investment club discussion, salary review)",
-          "Categorize each as either a one-shot game (one-time purchase) or repeated interaction (ongoing service contract)",
-          "Notice patterns: Are you building reputation capital or treating each interaction as isolated?",
-          "Identify one relationship where shifting from one-shot to repeated-game thinking would change your approach (e.g., with a recurring client: cooperate today to build trust for bigger deals tomorrow)"
-        ]
-      }
-    ],
-    "risk_notes": "Game theory assumes rational actors—markets have panic, greed, and algorithms gone rogue. The biggest trap is modeling irrational opponents as rational. Also, focusing too much on 'winning' individual games can destroy long-term relationships that compound value. Sometimes the optimal strategy is refusing to play certain games entirely—knowing when not to play is as important as knowing how to play. Remember: LTCM's models were mathematically perfect for a world that doesn't exist.",
-    "sources": [
-      {
-        "title": "The Evolution of Cooperation by Robert Axelrod",
-        "url": "https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation"
-      },
-      {
-        "title": "Thinking Strategically by Avinash Dixit and Barry Nalebuff",
-        "url": "https://www.amazon.com/Thinking-Strategically-Competitive-Business-Paperback/dp/0393310353"
-      },
-      {
-        "title": "When Genius Failed: The Rise and Fall of Long-Term Capital Management by Roger Lowenstein",
-        "url": "https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259"
-      },
-      {
-        "title": "Stanford Encyclopedia of Philosophy: Game Theory",
-        "url": "https://plato.stanford.edu/entries/game-theory/"
-      }
-    ],
-    "meta": {
-      "id": "Game theory & strategic behavior",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Nash equilibrium",
-        "Prisoner's dilemma"
       ],
       "tags": [
         "Microeconomics Fundamentals",
