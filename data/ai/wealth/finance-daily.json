@@ -1,5 +1,76 @@
 [
   {
+    "id": "2b787737-5e77-4d2d-9faf-3343066502cf",
+    "date": "2026-05-10",
+    "topic": "Game Theory in Personal Finance",
+    "teaser": "Why your boss's 'final offer' is a trap—and how to flip the game in your favor.",
+    "summary": "Imagine you're in a salary negotiation. You've done your research, you know your worth. You ask for $100,000. Your boss counters at $90,000 and says, 'That's my final offer.' You have two choices: accept $90,000 or walk away. If you walk, you lose the job. If you stay, you leave money on the table. But here's the twist: your boss's 'final offer' is a bluff—a move in a game you didn't realize you were playing.\n\nThis is the Prisoner's Dilemma in action. In 1994, John Nash won a Nobel Prize for showing that in many strategic situations, what's rational for each individual leads to a worse outcome for everyone. Your salary isn't just about your performance; it's a Nash equilibrium—a balance of power, information, and alternatives. Your boss knows you might accept $90,000 because you fear losing the job. But if you both knew the full game, you'd see that cooperation (a fair salary) yields better long-term results.\n\nGame theory isn't just academic. It explains bank runs: each depositor rationally withdraws money, but collectively they cause the bank to fail. It explains why companies keep prices low even when they'd profit more by colluding: they can't trust each other. And it explains why you're underpaid: your employer has more information and bargaining power, and you're playing a one-shot game when you should be playing a repeated one.\n\nThe key is to change the game. In repeated interactions, cooperation becomes rational because of the 'shadow of the future'—the threat of retaliation enforces trust. The best strategy is tit-for-tat: start cooperative, then mirror your opponent's last move. In a negotiation, this means never accepting a first offer, always signaling your willingness to walk away, and building a reputation for being tough but fair.\n\nBy understanding game theory, you stop being a pawn and start being a player. You'll see the hidden structure behind every financial decision—from buying a car to investing in stocks. You'll learn to shift the Nash equilibrium in your favor by altering payoffs, introducing new options, or changing the game from one-shot to repeated.\n\nThis isn't about manipulation; it's about clarity. When you see the game, you can play it wisely. And the first step is realizing that your boss's 'final offer' is just one move in a much bigger game—a game you can win.",
+    "key_points": [
+      "Your salary is a Nash equilibrium: it's not about your worth, but about the balance of power and information. To raise it, you must change the game—by improving your alternatives (BATNA) or altering your boss's payoffs.",
+      "In repeated interactions, cooperation becomes rational, but most people default to one-shot thinking. To make cooperation your competitive advantage, commit to tit-for-tat and communicate your strategy.",
+      "Bank runs and market crashes are Nash equilibria: individually rational actions lead to collective disaster. Recognize when you're in such a game and coordinate with others or exit early.",
+      "The 'shadow of the future' is more powerful than any contract. In negotiations, create the expectation of future interactions to enforce trust and unlock better deals."
+    ],
+    "practice": [
+      {
+        "title": "Negotiation Prep: The BATNA Matrix",
+        "steps": [
+          "Identify your Best Alternative To a Negotiated Agreement (BATNA). For salary, that's another job offer or freelancing income.",
+          "Identify the other party's BATNA. For your boss, it's hiring someone else or leaving the position unfilled.",
+          "Estimate payoffs: if you walk away, you get your BATNA; if you accept, you get the offer. The Nash equilibrium is where both prefer the deal over their BATNA.",
+          "To shift equilibrium, improve your BATNA (get another offer) or worsen theirs (signal you're indispensable). Use specific numbers: 'I have an offer for $105,000 from Company X.'"
+        ]
+      },
+      {
+        "title": "Repeated Interaction Strategy: The Tit-for-Tat Script",
+        "steps": [
+          "In a recurring relationship (vendor, colleague), start with a cooperative move: 'I'd like to work with you on this project. Let's both commit to full transparency.'",
+          "If they cooperate, continue. If they defect (e.g., withhold info), respond immediately: 'I noticed you didn't share the data. In the future, I'll match your level of openness.'",
+          "Communicate your strategy explicitly: 'I believe in tit-for-tat. If you cooperate, I will too. If not, I'll protect my interests.'",
+          "To rebuild trust after a defection, make a small cooperative gesture and see if they reciprocate."
+        ]
+      },
+      {
+        "title": "Prisoner's Dilemma Simulation: Real-World Application",
+        "steps": [
+          "Identify a real situation where you face a Prisoner's Dilemma (e.g., team project where both can slack or work hard).",
+          "Map out the payoffs: if both work hard, great outcome; if both slack, poor outcome; if one slacks and other works, slacker benefits, worker loses.",
+          "Propose a binding agreement: 'Let's both commit to working 10 hours this week. If either fails, they owe the other $50.' This changes the payoffs and enables cooperation.",
+          "Reflect: How did the agreement change your behavior? What other real situations could benefit from such binding commitments?"
+        ]
+      }
+    ],
+    "risk_notes": "Game theory assumes rational actors, but humans are emotional and irrational. Over-reliance on Nash equilibrium can lead to paralysis by analysis. Also, in one-shot interactions, cooperation is rarely optimal, so applying tit-for-tat blindly can be exploited. Real-world complexities like incomplete information and bounded rationality can undermine theoretical predictions. Use game theory as a framework, not a rulebook. Always consider the human element—trust, reputation, and empathy matter beyond the math.",
+    "sources": [
+      {
+        "title": "Prisoner's Dilemma by William Poundstone",
+        "url": "https://www.amazon.com/Prisoners-Dilemma-William-Poundstone/dp/038541580X"
+      },
+      {
+        "title": "The Art of Strategy by Avinash Dixit and Barry Nalebuff",
+        "url": "https://www.amazon.com/Art-Strategy-Theorists-Succeed-Business/dp/0393337170"
+      },
+      {
+        "title": "Thinking, Fast and Slow by Daniel Kahneman",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      }
+    ],
+    "meta": {
+      "id": "Game theory & strategic behavior",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Nash equilibrium",
+        "Prisoner's dilemma"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "21f378aa-7c5a-4e7e-bb61-d12aa36d9822",
     "date": "2026-05-09",
     "topic": "Market Structures: From Monopoly to Perfect Competition",
@@ -3875,69 +3946,6 @@
       "related": [
         "Wage determination",
         "Unemployment"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "3bd22feb-cb0d-472a-9182-376f47856e4f",
-    "date": "2026-03-06",
-    "topic": "The Invisible Architecture of Wealth: Public Goods and Externalities",
-    "teaser": "What if your best-performing stock was actually a government-built highway? The uncomfortable truth about where investment returns really come from—and why your portfolio is floating on borrowed infrastructure.",
-    "summary": "**In 1956, President Eisenhower signed the Federal-Aid Highway Act, creating the Interstate System.** This wasn't just about roads—it was about creating a lattice of public infrastructure that would enable private wealth on an unprecedented scale. Within a decade, trucking replaced railroads as America's dominant freight system, suburban real estate values exploded, and companies like McDonald's and Walmart built national empires on this government-funded mobility. Your portfolio today still floats on that same invisible architecture.\n\n**Public goods** are the non-excludable, non-rivalrous foundations that markets cannot produce alone: the legal system that protects your property rights, the clean air that keeps your workforce healthy, the basic research that becomes tomorrow's technology. They're the ocean your investment ship sails on—ignore its currents at your peril. **Externalities** are the hidden costs and benefits that spill over from every transaction. For decades, leaded gasoline was a profitable innovation—until the societal costs of neurological damage in children became impossible to ignore, reshaping entire industries and portfolios.\n\n**Why does this matter now?** Consider carbon emissions: for years, they were an unpriced externality, allowing fossil fuel companies to show profits while passing climate costs to society. Today, that bill is coming due through carbon taxes, stranded assets, and regulatory shifts. Your portfolio's alpha is often just beta on public goods—outperforming the market is impossible when the underlying infrastructure fails. The 2008 financial crisis wasn't just about subprime mortgages; it was about the externality of deregulation, where private gains were privatized but systemic risks were socialized. Your wealth depends on recognizing these invisible forces before they become visible crises.",
-    "key_points": [
-      "Your portfolio's alpha is often just beta on public goods—outperforming the market is impossible if the legal, educational, or physical infrastructure beneath it fails",
-      "Externalities create a hidden balance sheet where today's private profits become tomorrow's public costs—what you don't pay for now, you'll pay for later in taxes, health impacts, or crisis losses",
-      "Government intervention isn't inherently good or bad—it's a tool to correct market failures, but like any tool, it creates its own externalities (bureaucracy, unintended consequences, moral hazard)",
-      "We suffer from hyperbolic discounting of distant externalities—the same bias that led Easter Island's society to deforest itself into collapse now makes us favor short-term gains over long-term stability"
-    ],
-    "practice": [
-      {
-        "title": "Stress-Test Your Portfolio Against Infrastructure Failure",
-        "steps": [
-          "Choose one critical public good your investments rely on (e.g., public education funding, transportation networks, cybersecurity infrastructure)",
-          "Simulate a 20% degradation scenario over 10 years (e.g., 'What if public education quality declines by 20%—how does that affect tech stocks reliant on skilled labor?')",
-          "Backtest against historical analogues (e.g., 2008 crisis showed what happens when regulatory infrastructure fails; COVID showed healthcare infrastructure stress)",
-          "Quantify the impact: calculate potential portfolio drawdown and identify which holdings are most exposed to this invisible risk"
-        ]
-      },
-      {
-        "title": "Calculate Your True Cost of Consumption",
-        "steps": [
-          "Identify a negative externality in your lifestyle or investments (e.g., carbon footprint from air travel, plastic waste from e-commerce, data privacy externalities from tech holdings)",
-          "Research the actual societal cost using credible sources (EPA's social cost of carbon: $190/ton; WHO's health cost of air pollution: $5 trillion annually)",
-          "Calculate your personal 'externality tax'—what you'd owe if these hidden costs were priced in",
-          "Validate your assumptions: compare against historical cases where externalities were finally priced (e.g., tobacco litigation, leaded gasoline phase-out) and adjust accordingly"
-        ]
-      },
-      {
-        "title": "Map the Policy Shock Contagion",
-        "steps": [
-          "Choose one major externality that's likely to be regulated (carbon emissions, data privacy, plastic waste, algorithmic bias)",
-          "Trace the second- and third-order effects through your portfolio (e.g., carbon tax → energy costs → manufacturing margins → consumer prices → retail earnings)",
-          "Create a decision matrix: what signals would trigger action? What would you sell first? What hedges would work?",
-          "Pressure-test your plan: what if the regulation is twice as strict as expected? What if it's delayed by 5 years? How does your portfolio behave in each scenario?"
-        ]
-      }
-    ],
-    "risk_notes": "**The Three Traps:** 1) **Complacency Trap**—assuming public goods will always be maintained (remember the Roman aqueducts eventually crumbled). 2) **Mispricing Trap**—profiting from unpriced externalities until the system breaks (see: 2008 mortgage derivatives). 3) **Intervention Trap**—every policy solution creates its own externalities (carbon taxes might spur innovation but could also trigger inflation or geopolitical friction). The greatest risk isn't government action or inaction, but failing to distinguish between market failures that need correction and interventions that create new distortions. Remember: Easter Island's society didn't collapse because they lacked economic theory—they collapsed because they discounted future consequences until it was too late.",
-    "sources": [
-      {
-        "title": "'The Economics of Welfare' by Arthur Pigou (1920) - foundational text on externalities and taxation",
-        "url": "https://www.econlib.org/library/NPDBooks/Pigou/pgEW.html"
-      }
-    ],
-    "meta": {
-      "id": "Externalities & public goods",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Market failure",
-        "Government intervention"
       ],
       "tags": [
         "Microeconomics Fundamentals",
