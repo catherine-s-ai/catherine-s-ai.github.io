@@ -1,5 +1,61 @@
 [
   {
+    "id": "70890ec8-e59d-4aa0-8018-22128715d427",
+    "date": "2026-05-13",
+    "topic": "Information Economics: How Hidden Information Shapes Your Financial World",
+    "teaser": "The used car trick that's costing you thousands—and how to flip the game.",
+    "summary": "You walk onto a used car lot. The seller knows which car is a lemon. You don't. That gap—information asymmetry—is silently draining your wallet in every financial move you make. Buying a house? The seller knows the foundation cracks. Investing in a stock? Insiders know the quarterly miss. Choosing a credit card? The fine print hides fees. This isn't just unfair—it's a market breakdown. Nobel laureate George Akerlof showed that when buyers can't tell quality, bad products drive out good. The market for lemons isn't just about cars; it's about stocks, insurance, even dating. But here's the flip: you can master this game. Use signaling (costly actions that reveal truth) and screening (mechanisms to extract hidden info). A college degree signals ability, not knowledge. Insider buying signals confidence. Warranties signal quality. Once you see information flows, you stop being the sucker. You become the one who structures deals, sends credible signals, and spots lemons from a mile away. This is your superpower: turning hidden information into wealth.",
+    "key_points": [
+      "The Market for Lemons: When quality is hidden, bad drives out good. This principle explains why used cars are cheap, why some stocks tank, and why insurance markets need regulation. It's not just a theory—it's the reason you overpay for everything from mortgages to mechanic services.",
+      "Signaling vs. Screening: Two weapons against asymmetry. Signaling: you take a costly action to reveal your quality (e.g., getting a degree, offering a warranty). Screening: you design a test to extract truth (e.g., credit checks, probation periods). Master these, and you can flip any negotiation.",
+      "Moral Hazard: The hidden action after the deal. Once insured, people take more risks. This is why contracts have deductibles, why CEOs get performance bonuses, and why you should never fully trust a seller's promises. Structure incentives to align interests."
+    ],
+    "practice": [
+      {
+        "title": "Close the Information Gap Before Buying",
+        "steps": [
+          "Identify one specific unknown the seller knows (e.g., car accident history, property flood risk).",
+          "Get an independent inspection or third-party report. For stocks, check insider trading filings."
+        ]
+      },
+      {
+        "title": "Use Insider Trading Data as a Signal",
+        "steps": [
+          "Check SEC Form 4 filings for company insiders buying or selling.",
+          "Insider buying is a strong signal of undervaluation; selling may be for diversification, but heavy selling is a red flag."
+        ]
+      },
+      {
+        "title": "Apply Signaling to Your Own Life",
+        "steps": [
+          "Imagine you're selling a used phone. How would you prove it's high quality? (e.g., offer a warranty, show repair history).",
+          "Apply that logic to your resume: list measurable achievements, get certifications, offer a money-back guarantee on your service."
+        ]
+      }
+    ],
+    "risk_notes": "Over-reliance on signaling can lead to wasteful arms races (e.g., unnecessary degrees). Also, assuming all information is hidden paralyzes action. Balance skepticism with Bayesian updating—update your beliefs as new info arrives, but act on probabilities, not paranoia.",
+    "sources": [
+      {
+        "title": "Search: Information Economics: How Hidden Information Shapes Your Financial World",
+        "url": "https://www.google.com/search?q=Information%20Economics%3A%20How%20Hidden%20Information%20Shapes%20Your%20Financial%20World"
+      }
+    ],
+    "meta": {
+      "id": "Information economics",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Asymmetric information",
+        "Moral hazard"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "27c0884d-b57a-4744-a3ec-57230fbf7bd9",
     "date": "2026-05-12",
     "topic": "Understanding Labor Markets: How Your Salary Is Really Determined",
@@ -3861,76 +3917,6 @@
       "related": [
         "Cognitive bias",
         "Prospect theory"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "c6fb13ff-ddca-4dd7-be7b-1b239650e078",
-    "date": "2026-03-09",
-    "topic": "Decision Analysis Under Uncertainty",
-    "teaser": "How a handful of traders in 2008 made fortunes not by predicting the future, but by preparing for multiple futures simultaneously—and why that distinction separates wealth-builders from wealth-destroyers.",
-    "summary": "Picture the autumn of 2008: markets are collapsing, banks are failing, and most investors are paralyzed by uncertainty. Yet a handful of traders—not necessarily smarter or better informed—are quietly making fortunes. What separated them wasn't prediction, but preparation. They understood something fundamental: **in uncertainty, the goal isn't to be right, but to be resilient.**\n\nThis is decision analysis under uncertainty—not a mathematical trick, but a way of thinking that separates those who survive from those who thrive. It begins with recognizing that **uncertainty isn't risk**. Risk is what you can model—insurance premiums, volatility metrics, probability distributions. Uncertainty is what you can't—the unknown unknowns, the black swans, the things that haven't happened yet. Confusing the two is perhaps the most expensive mistake in finance, as Long-Term Capital Management discovered in 1998 when their Nobel-winning models failed to account for what they didn't know.\n\nAt its core, decision analysis involves four first principles: 1) Identify all possible outcomes (not just the likely ones), 2) Estimate probabilities as degrees of belief, not certainties, 3) Calculate expected values, and 4) Adjust for your personal risk tolerance. But here's the crucial insight: **the map is not the territory**. Your probability estimates are mental models—simplifications of reality that will inevitably be wrong. The most valuable skill isn't creating perfect models, but updating them relentlessly as new information arrives.\n\nWhy does this matter today? Every financial decision you make—from career changes to investments to business pivots—involves uncertainty. The difference between wealth-building and wealth-destruction isn't avoiding uncertainty (that's impossible), but learning to navigate it systematically. Your retirement, your business decisions, even your life trajectory depend on this skill. **Expected value is mathematical, but expected utility is psychological**—your personal risk tolerance transforms cold numbers into actual decisions.\n\nThis framework transforms uncertainty from a paralyzing force into a manageable variable. By systematically analyzing decisions, you move from reactive guessing to proactive strategy. The 2008 traders didn't know what would happen; they knew how to think about what might happen. That distinction—between prediction and preparation—is what separates those who merely survive uncertainty from those who build lasting wealth within it.",
-    "key_points": [
-      "Uncertainty ≠ Risk: Risk is what you can model, uncertainty is what you can't—and confusing the two is the most expensive mistake in finance. (As LTCM discovered in 1998 when their Nobel-winning models failed spectacularly.)",
-      "Expected Value vs. Expected Utility: Expected value is mathematical (probability × outcome), but expected utility is psychological—your personal risk tolerance transforms numbers into actual decisions. This is why two rational people can make opposite choices with the same expected value.",
-      "The Map Is Not the Territory: Your probability estimates are mental models, not reality. The most valuable skill is Bayesian updating—continuously revising your estimates as new information arrives, rather than clinging to initial assumptions.",
-      "Multiple Futures Thinking: Instead of trying to predict one outcome (a fool's errand), prepare for several possible futures simultaneously. This creates optionality—the ability to adapt as reality unfolds, which is how 2008's successful traders operated."
-    ],
-    "practice": [
-      {
-        "title": "Apply the 'Regret Minimization' Framework to Your Next Career Decision",
-        "steps": [
-          "Identify your decision (e.g., 'Should I take this job offer?' or 'Should I start this business?')",
-          "Project yourself to age 80 and ask: 'Looking back, which decision would I regret more?'",
-          "Work backward: What specific uncertainties make you fear regret? List them explicitly",
-          "For each uncertainty, create a contingency plan (not a prediction)",
-          "Make the decision that minimizes future regret, not just maximizes expected value"
-        ]
-      },
-      {
-        "title": "Calculate Your Portfolio's Expected Value with Optionality Analysis",
-        "steps": [
-          "List all your current investments with their current values",
-          "For each investment, estimate its probability-weighted return over your time horizon",
-          "Now assess each investment's optionality: Does it create future choices or lock you in?",
-          "Calculate the total expected value, then adjust for optionality value",
-          "Ask: 'Would I make these same decisions knowing both the expected value AND the optionality?'"
-        ]
-      },
-      {
-        "title": "Conduct a 'Premortem' on Your Next Major Financial Decision",
-        "steps": [
-          "Assume your upcoming decision will fail spectacularly in 2 years",
-          "Work backward: What would have caused this failure? List at least 5 specific reasons",
-          "For each failure reason, identify which uncertainties you're currently underestimating",
-          "Create contingency plans for the top 3 most likely failure scenarios",
-          "Update your original decision analysis with these new probability estimates"
-        ]
-      }
-    ],
-    "risk_notes": "This framework has critical limitations: 1) It fails when probabilities are truly unknowable (true 'black swan' events), 2) Decision-makers often confuse their models with reality, leading to overconfidence in probability estimates, 3) There's a tendency to neglect tail risks (low-probability, high-impact events), and 4) The illusion that more analysis always leads to better decisions—sometimes, simple heuristics outperform complex analysis. Psychological traps include confirmation bias in probability estimation and the sunk cost fallacy in decision trees. Remember: no model captures all of reality.",
-    "sources": [
-      {
-        "title": "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts",
-        "url": "https://www.annieduke.com/thinking-in-bets"
-      },
-      {
-        "title": "The Black Swan: The Impact of the Highly Improbable",
-        "url": "https://www.penguinrandomhouse.com/books/176462/the-black-swan-by-nassim-nicholas-taleb/"
-      }
-    ],
-    "meta": {
-      "id": "Decision analysis under uncertainty",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Expected utility",
-        "Risk aversion"
       ],
       "tags": [
         "Microeconomics Fundamentals",
