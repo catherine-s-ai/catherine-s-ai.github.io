@@ -693,5 +693,66 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "602fa30b-4c8f-4e57-a918-304a100121df",
+    "date": "2026-03-11",
+    "topic": "National Income Accounting: The Flawed Heartbeat of Our Economy",
+    "teaser": "What if the economic numbers we trust are measuring destruction as progress—and your investments are betting on a mirage?",
+    "summary": "**In 1934, Simon Kuznets created GDP to measure Depression-era production. He warned Congress: 'The welfare of a nation can scarcely be inferred from a measurement of national income.' We ignored him. For 90 years, we've optimized for what we measure rather than what matters.**\n\n**National income accounting isn't about counting money—it's about measuring a nation's heartbeat with a broken stethoscope.** Just as doctors track pulse and blood pressure to diagnose health, economists track GDP and GNP to diagnose economic vitality. But here's the shocking truth: we've been measuring the wrong things since the 1930s—counting housework as zero while counting environmental destruction as positive.\n\n**At its foundation, national income accounting answers three fundamental questions:** 1) What goods and services are produced? 2) Who receives the income from production? 3) How is that income spent? The three approaches (production, income, expenditure) must mathematically equal each other—this is the **fundamental identity** that reveals whether we're measuring reality correctly. This systematic measurement of total economic activity forms the bedrock of how we understand economic health.\n\n**Why does this matter to you right now?** Your investment returns, job security, and purchasing power depend on whether national income accounting accurately captures reality. If GDP growth looks strong but ignores environmental degradation or unpaid care work, you're investing in a mirage. The gap between reported GDP and actual economic welfare determines whether your retirement savings will be worth anything in 20 years. When a hurricane destroys homes and reconstruction spending boosts GDP while making people poorer, the measurement system has failed us. When we exclude natural capital depreciation from our accounts, we're liquidating our planet while calling it 'growth.'\n\n**The circular flow model reveals the deeper truth:** every dollar spent is someone else's income. Your spending cuts become someone else's income loss. This interconnectedness means flawed measurements don't just mislead policymakers—they distort every financial decision in the economy. We've confused what's measured with what matters, turning GDP into a proxy for national success and creating perverse incentives to maximize measured activity regardless of actual welfare.",
+    "key_points": [
+      "GDP counts what we produce, not what we value—it treats cancer treatment and piano lessons as equivalent economic contributions, measuring activity rather than welfare",
+      "The circular flow model shows every transaction has dual nature: your spending is someone else's income, creating fundamental economic interdependence. This means when GDP overstates welfare, your portfolio becomes overweight in 'bad growth' companies that profit from destruction",
+      "National accounts treat oil extraction as pure income, ignoring that we're liquidating a finite asset—like a CEO who reports record profits while selling the company's factories. We're consuming our planetary assets while calling it economic progress",
+      "The three approaches (production, income, expenditure) must mathematically equal—this identity reveals whether we're measuring reality correctly, exposing the gap between economic activity and actual welfare"
+    ],
+    "practice": [
+      {
+        "title": "Track Your Personal Welfare Transactions",
+        "steps": [
+          "Track all your spending for one week across all categories",
+          "Categorize each expense: 1) Transactions that increase your welfare (education, healthcare), 2) Transactions that maintain your welfare (housing, food), 3) Transactions that repair damage (medical bills from pollution, car repairs from bad roads)",
+          "Notice how national accounts treat all three equally, then calculate what percentage of your spending actually enhances your life versus just maintaining or repairing it"
+        ]
+      },
+      {
+        "title": "Check the Growth Distribution Gap",
+        "steps": [
+          "Find your country's GDP growth rate over the last decade",
+          "Find median household income growth over the same period",
+          "Calculate the divergence—this reveals who's actually benefiting from economic growth and exposes the gap between aggregate numbers and personal experience"
+        ]
+      },
+      {
+        "title": "Simulate Alternative Economic Measures",
+        "steps": [
+          "Take your country's latest GDP report",
+          "Estimate value of unpaid household work using average wage rates (use OECD's 'How's Life?' dashboard or your country's satellite accounts for household production)",
+          "Estimate environmental damage costs from available data (check World Bank's 'The Changing Wealth of Nations' reports)",
+          "Calculate adjusted GDP including household work minus environmental damage to see what real economic progress looks like"
+        ]
+      }
+    ],
+    "risk_notes": "The psychological trap: We confuse what's measured with what matters. GDP became a proxy for national success, creating perverse incentives to maximize measured activity regardless of actual welfare. The hidden risk: Financial decisions based on flawed national accounts lead to malinvestment—pouring capital into activities that boost GDP while destroying real wealth. Your retirement portfolio, business decisions, and career choices may all be misaligned with true economic health.",
+    "sources": [
+      {
+        "title": "Book: 'The Growth Delusion' by David Pilling",
+        "url": "https://www.penguinrandomhouse.com/books/555974/the-growth-delusion-by-david-pilling/"
+      }
+    ],
+    "meta": {
+      "id": "National income accounting",
+      "category": "Macroeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "GDP",
+        "GNP"
+      ],
+      "tags": [
+        "Macroeconomics Fundamentals",
+        "基础"
+      ]
+    }
   }
 ]

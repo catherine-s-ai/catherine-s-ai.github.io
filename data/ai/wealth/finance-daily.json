@@ -1,5 +1,69 @@
 [
   {
+    "id": "a636fd40-06b6-400d-8d20-7c6fe4044cc9",
+    "date": "2026-05-15",
+    "topic": "Behavioral Economics: Why Your Brain is Your Worst Financial Enemy",
+    "teaser": "You'd drive across town to save $10 on a $20 item, but not on a $200 one. That irrationality costs you thousands—and it's just the tip of the iceberg.",
+    "summary": "Imagine this: you need a new lamp. Store A sells it for $20, Store B for $10, a 10-minute drive away. You go to B. Now imagine a $200 TV: Store A $200, Store B $190. You stay put. Same $10 savings, different decision. Why? Because your brain thinks in percentages, not absolute value. This relative thinking is a cognitive bug that leaks money from your wallet daily.\n\nBehavioral economics isn't just a fancy term—it's the study of why you are not the rational investor you think you are. First principles: your brain evolved for survival on the savanna, not for navigating 401(k)s and IPOs. It uses mental shortcuts (heuristics) that worked for avoiding predators but fail spectacularly in modern finance. The result? Systematic errors like selling winners too early, holding losers too long, and treating a tax refund as 'free money' to blow on frivolities.\n\nIn a world of zero-commission trading and 24/7 news cycles, your biggest threat isn't market volatility—it's your own psychology. Understanding these biases isn't academic; it's a survival skill. Ignore them, and you leave thousands on the table. Master them, and you turn your brain from enemy to ally.",
+    "key_points": [
+      "**Loss Aversion and the Disposition Effect**: Losses hurt about 2.5x more than equivalent gains feel good (Kahneman & Tversky). This asymmetry directly causes the disposition effect: you sell winning stocks too early to 'lock in gains' (avoid the pain of a potential loss) and hold losing stocks too long hoping to break even (avoid realizing a loss). In a bull market, this means you miss out on further gains; in a bear market, you ride stocks to zero. The counterintuitive fix: set automatic stop-losses and take profits gradually, not emotionally.",
+      "**Mental Accounting and the House Money Effect**: You mentally segregate money into buckets (e.g., salary is 'serious,' bonus is 'fun money'). This leads to the 'house money effect'—you take more risks with windfalls because they feel like the casino's money, not yours. For example, you might gamble a tax refund on a penny stock you'd never buy with your paycheck. The insight: all money is fungible. Treat every dollar equally, regardless of source. A simple trick: immediately transfer any windfall to your long-term investment account.",
+      "**Anchoring and the Endowment Effect**: Your first impression of a price (anchor) skews all subsequent judgments. If a stock was $100, you anchor on that; at $80 it feels like a bargain, at $120 it feels expensive. Combine this with the endowment effect (you overvalue what you own), and you get a dangerous cocktail: you refuse to sell a stock that has dropped because you're anchored to its former high, and you overvalue it because you own it. The counterintuitive strategy: before any trade, ask 'If I didn't own this, would I buy it at today's price?' That breaks both anchors and endowment."
+    ],
+    "practice": [
+      {
+        "title": "Break the Endowment Effect",
+        "steps": [
+          "Before any investment decision, ask: 'If I didn't own this, would I buy it today?' This reframe detaches you from emotional ownership.",
+          "To overcome the emotional attachment itself, visualize the asset as cash. Imagine you sold it and now have that cash—would you repurchase the same asset? If not, sell."
+        ]
+      },
+      {
+        "title": "Reduce Overtrading",
+        "steps": [
+          "Set a rule: never check your portfolio more than once per quarter. Frequent checking triggers loss aversion and the urge to tinker.",
+          "To address the underlying need for control, create a 'trading journal' where you write down your emotional state before any trade. This builds awareness of when fear or greed drives decisions."
+        ]
+      },
+      {
+        "title": "Shift to Absolute Thinking",
+        "steps": [
+          "When considering a purchase, convert the price into hours of work. This shifts your frame from relative (percentages) to absolute (time), reducing mental accounting errors.",
+          "For larger decisions (e.g., buying a car), calculate the total cost of ownership in hours of work. This makes the true cost visceral and counteracts anchoring."
+        ]
+      }
+    ],
+    "risk_notes": "Behavioral economics is a double-edged sword. Marketers and financial firms exploit these biases daily—'limited time offer' triggers FOMO, 'free shipping' exploits mental accounting. Also, overcorrecting for biases can backfire: trying to be too rational can lead to analysis paralysis or ignoring genuine intuition. Not every irrational behavior is a mistake; sometimes gut feelings are valid (e.g., avoiding a stock because you sense fraud). The goal is not to eliminate emotion, but to understand when it helps and when it hurts.",
+    "sources": [
+      {
+        "title": "Thinking, Fast and Slow",
+        "url": "https://www.penguinrandomhouse.com/books/304477/thinking-fast-and-slow-by-daniel-kahneman/"
+      },
+      {
+        "title": "Predictably Irrational",
+        "url": "https://www.danariely.com/books/predictably-irrational/"
+      },
+      {
+        "title": "Misbehaving: The Making of Behavioral Economics",
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/facts/"
+      }
+    ],
+    "meta": {
+      "id": "Behavioral economics",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Cognitive bias",
+        "Prospect theory"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "b247ff6b-160b-428a-942a-7be839bec042",
     "date": "2026-05-14",
     "topic": "Decision Analysis Under Uncertainty",
@@ -3863,67 +3927,6 @@
       "tags": [
         "Personal Finance Foundations",
         "入门"
-      ]
-    }
-  },
-  {
-    "id": "602fa30b-4c8f-4e57-a918-304a100121df",
-    "date": "2026-03-11",
-    "topic": "National Income Accounting: The Flawed Heartbeat of Our Economy",
-    "teaser": "What if the economic numbers we trust are measuring destruction as progress—and your investments are betting on a mirage?",
-    "summary": "**In 1934, Simon Kuznets created GDP to measure Depression-era production. He warned Congress: 'The welfare of a nation can scarcely be inferred from a measurement of national income.' We ignored him. For 90 years, we've optimized for what we measure rather than what matters.**\n\n**National income accounting isn't about counting money—it's about measuring a nation's heartbeat with a broken stethoscope.** Just as doctors track pulse and blood pressure to diagnose health, economists track GDP and GNP to diagnose economic vitality. But here's the shocking truth: we've been measuring the wrong things since the 1930s—counting housework as zero while counting environmental destruction as positive.\n\n**At its foundation, national income accounting answers three fundamental questions:** 1) What goods and services are produced? 2) Who receives the income from production? 3) How is that income spent? The three approaches (production, income, expenditure) must mathematically equal each other—this is the **fundamental identity** that reveals whether we're measuring reality correctly. This systematic measurement of total economic activity forms the bedrock of how we understand economic health.\n\n**Why does this matter to you right now?** Your investment returns, job security, and purchasing power depend on whether national income accounting accurately captures reality. If GDP growth looks strong but ignores environmental degradation or unpaid care work, you're investing in a mirage. The gap between reported GDP and actual economic welfare determines whether your retirement savings will be worth anything in 20 years. When a hurricane destroys homes and reconstruction spending boosts GDP while making people poorer, the measurement system has failed us. When we exclude natural capital depreciation from our accounts, we're liquidating our planet while calling it 'growth.'\n\n**The circular flow model reveals the deeper truth:** every dollar spent is someone else's income. Your spending cuts become someone else's income loss. This interconnectedness means flawed measurements don't just mislead policymakers—they distort every financial decision in the economy. We've confused what's measured with what matters, turning GDP into a proxy for national success and creating perverse incentives to maximize measured activity regardless of actual welfare.",
-    "key_points": [
-      "GDP counts what we produce, not what we value—it treats cancer treatment and piano lessons as equivalent economic contributions, measuring activity rather than welfare",
-      "The circular flow model shows every transaction has dual nature: your spending is someone else's income, creating fundamental economic interdependence. This means when GDP overstates welfare, your portfolio becomes overweight in 'bad growth' companies that profit from destruction",
-      "National accounts treat oil extraction as pure income, ignoring that we're liquidating a finite asset—like a CEO who reports record profits while selling the company's factories. We're consuming our planetary assets while calling it economic progress",
-      "The three approaches (production, income, expenditure) must mathematically equal—this identity reveals whether we're measuring reality correctly, exposing the gap between economic activity and actual welfare"
-    ],
-    "practice": [
-      {
-        "title": "Track Your Personal Welfare Transactions",
-        "steps": [
-          "Track all your spending for one week across all categories",
-          "Categorize each expense: 1) Transactions that increase your welfare (education, healthcare), 2) Transactions that maintain your welfare (housing, food), 3) Transactions that repair damage (medical bills from pollution, car repairs from bad roads)",
-          "Notice how national accounts treat all three equally, then calculate what percentage of your spending actually enhances your life versus just maintaining or repairing it"
-        ]
-      },
-      {
-        "title": "Check the Growth Distribution Gap",
-        "steps": [
-          "Find your country's GDP growth rate over the last decade",
-          "Find median household income growth over the same period",
-          "Calculate the divergence—this reveals who's actually benefiting from economic growth and exposes the gap between aggregate numbers and personal experience"
-        ]
-      },
-      {
-        "title": "Simulate Alternative Economic Measures",
-        "steps": [
-          "Take your country's latest GDP report",
-          "Estimate value of unpaid household work using average wage rates (use OECD's 'How's Life?' dashboard or your country's satellite accounts for household production)",
-          "Estimate environmental damage costs from available data (check World Bank's 'The Changing Wealth of Nations' reports)",
-          "Calculate adjusted GDP including household work minus environmental damage to see what real economic progress looks like"
-        ]
-      }
-    ],
-    "risk_notes": "The psychological trap: We confuse what's measured with what matters. GDP became a proxy for national success, creating perverse incentives to maximize measured activity regardless of actual welfare. The hidden risk: Financial decisions based on flawed national accounts lead to malinvestment—pouring capital into activities that boost GDP while destroying real wealth. Your retirement portfolio, business decisions, and career choices may all be misaligned with true economic health.",
-    "sources": [
-      {
-        "title": "Book: 'The Growth Delusion' by David Pilling",
-        "url": "https://www.penguinrandomhouse.com/books/555974/the-growth-delusion-by-david-pilling/"
-      }
-    ],
-    "meta": {
-      "id": "National income accounting",
-      "category": "Macroeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "GDP",
-        "GNP"
-      ],
-      "tags": [
-        "Macroeconomics Fundamentals",
-        "基础"
       ]
     }
   }
