@@ -1,5 +1,69 @@
 [
   {
+    "id": "c58ee87f-4144-4a67-9856-06e0614a1e87",
+    "date": "2026-05-17",
+    "topic": "Financial Planning: Building a Machine for Uncertainty",
+    "teaser": "Most financial plans are just wishful thinking dressed up in spreadsheets. Here's how to build one that survives a nuclear winter.",
+    "summary": "Financial planning isn't about predicting the future—it's about building a machine that works regardless of what the future throws at you. Think of it as engineering a bridge that can handle earthquakes, not as crystal ball gazing. Most people treat their finances like a weather forecast: they hope for sunshine and panic when it rains. The right approach is to design a system that thrives in any climate. At its core, financial planning is the process of aligning your current resources (income, assets) with your future goals (retirement, education, etc.) by managing cash flows, risks, and investments. It's a feedback loop: **set a goal → measure current state → create a plan → execute → monitor → adjust**. The first principle: you cannot manage what you do not measure. But here's the twist: the goal isn't to maximize returns—it's to minimize regret. In a world of inflation, job instability, and market volatility, the cost of financial chaos is compounding. Without a plan, you're leaving money on the table—missed investment growth, unnecessary taxes, and avoidable debt. But the real cost is psychological: the anxiety of not knowing whether you'll be okay. A solid plan turns that anxiety into quiet confidence. By automating savings and focusing on cash flow, you transform finance from a source of stress into a silent engine that builds wealth while you sleep. The best financial plan is the one you forget about.",
+    "key_points": [
+      "**Savings Rate > Investment Return**: Your savings rate is the single most controllable factor in wealth building. A 50% savings rate beats a 15% return on a 5% savings rate every time. The market is a wild horse; your savings rate is the reins.",
+      "**Spending Optimization Beats Earning More**: Every dollar saved from spending is tax-free and permanent. To earn an extra dollar after taxes, you need to earn $1.30 (assuming 30% tax). Cutting $100 from your monthly expenses is equivalent to a $1,560 annual raise—without the extra work.",
+      "**Cash Flow Over Net Worth**: Net worth is a vanity metric; cash flow is a health metric. You can't spend unrealized gains. A positive cash flow means you're winning the game. Focus on the gap between income and expenses, not the size of your portfolio."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Runway",
+        "steps": [
+          "Divide total liquid savings by monthly essential expenses.",
+          "If less than 6 months, prioritize building an emergency fund before investing.",
+          "For extra resilience, simulate a job loss by living on 60% of your income for 2 months. Track every shortfall and adjust."
+        ]
+      },
+      {
+        "title": "Cash Flow Audit",
+        "steps": [
+          "For one week, write down every dollar spent.",
+          "Categorize into 'needs', 'wants', and 'surprises'.",
+          "Identify leaks equivalent to 5-10% of income.",
+          "Then, for the next month, eliminate all 'wants' and see if you miss them. Most people don't."
+        ]
+      },
+      {
+        "title": "Stress Test: Simulate a Job Loss",
+        "steps": [
+          "Live on 60% of your normal income for two consecutive months.",
+          "Redirect the remaining 40% to savings or debt payoff.",
+          "Document every moment of discomfort—these are your true financial weak points."
+        ]
+      }
+    ],
+    "risk_notes": "Financial planning can lull you into false security. Plans based on historical averages ignore black swan events (pandemics, hyperinflation, personal emergencies). Over-optimization leads to 'paralysis by analysis'—endless tweaking of spreadsheets without action. Rigid plans fail when life changes (divorce, job loss, health crisis). The trap: mistaking the plan for reality. The antidote: build slack into your plan—extra cash, flexible goals, and a willingness to adapt. A good plan is a living document, not a tombstone.",
+    "sources": [
+      {
+        "title": "The Simple Path to Wealth by JL Collins",
+        "url": "https://jlcollinsnh.com/"
+      },
+      {
+        "title": "The Financial Planning Association",
+        "url": "https://www.plannersearch.org/"
+      }
+    ],
+    "meta": {
+      "id": "Financial planning basics",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Budget and cash-flow planning",
+        "Financial goal setting"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "b6a948ce-2640-453c-af9c-6a03f01be6bc",
     "date": "2026-05-16",
     "topic": "National Income Accounting: The Real Recipe for an Economy",
@@ -3873,77 +3937,6 @@
       "related": [
         "Financial planning basics",
         "Power of compounding"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "98cf41cd-9b47-4b27-bf20-bc6f6e699e54",
-    "date": "2026-03-13",
-    "topic": "Income Management: The Battlefield Map of Your Financial Future",
-    "teaser": "What if your biggest financial mistake isn't what you spend, but what you fail to measure? The ancient Babylonians tracked grain on clay tablets—what are you tracking?",
-    "summary": "**Your budget isn't a spreadsheet; it's a battlefield map where your future self fights your present self for territory—a conflict as old as civilization itself.** The Babylonians carved the first budgets on clay tablets 4,000 years ago, not because they loved accounting, but because they understood a fundamental truth: **unmeasured resources become wasted resources.** This isn't about bean-counting; it's about **income management**: the systematic allocation of limited money across competing needs, wants, and future goals to maximize long-term value. The first principles are stark: 1) Money is finite (scarcity is physics, not opinion), 2) Different uses create different value (a dollar invested compounds exponentially, while a dollar wasted evaporates—this is the time value of money in action), and 3) Human psychology is your greatest enemy (hyperbolic discounting makes us value immediate gratification 3-5x more than future benefits). Budgeting, then, is simply creating a conscious plan for this allocation before it happens automatically—because if you don't, your unconscious habits will decide for you, and they're optimized for dopamine, not wealth.\n\nWhy does this matter? **Every dollar you don't consciously direct today is being spent by your unconscious habits—and those habits are almost certainly funding someone else's priorities instead of your own.** Think about it: that mindless subscription, the convenience purchase, the emotional splurge—they're not just line items; they're votes for a future you didn't choose. The gap between your income and your future wealth isn't mathematical; it's behavioral. It's the difference between letting your money work for you versus you working for your money. History shows that wealth isn't built through luck or windfalls but through **deliberate allocation**—from medieval merchants who tracked trade routes to modern investors who automate savings. Your financial destiny isn't written in spreadsheets; it's forged in the daily choices of where your money goes. This lesson isn't about restriction; it's about **clarity**. By mapping your financial battlefield with historical wisdom and psychological awareness, you turn vague anxiety into actionable strategy, ensuring each dollar advances your goals rather than someone else's.",
-    "key_points": [
-      "Your savings rate matters more than your investment returns for the first decade of wealth building—compounding needs mass before it works magic. A 20% savings rate with 5% returns builds more wealth in years 1-10 than a 5% savings rate with 20% returns.",
-      "The most dangerous budget category isn't 'dining out'—it's 'miscellaneous.' This is where financial discipline goes to die, hiding unconscious spending that averages 15-30% of most budgets. Name every dollar or watch it disappear.",
-      "Income management isn't about cutting expenses but about increasing the value-per-dollar of every expenditure. The 50/30/20 rule emerged from behavioral economics showing that optimal allocation beats minimal spending—focus on what each dollar buys in life satisfaction, not just what it costs.",
-      "Your 'margin' (income minus essentials) determines your financial stress level more than your income amount. Research shows discretionary income below 20% of total income correlates with chronic financial anxiety regardless of earnings."
-    ],
-    "practice": [
-      {
-        "title": "Conduct a Value Audit with Historical Context",
-        "steps": [
-          "Track every expense for 7 days—just as Babylonian merchants tracked grain allocations on clay tablets. Use any method, but measure everything.",
-          "Categorize each expense using a three-tier system: 'high value' (directly supports your 10-year goals or brings disproportionate joy-per-dollar), 'neutral value' (necessary but not meaningful—like utilities), or 'low value' (habitual spending that doesn't align with priorities).",
-          "Calculate your 'value efficiency ratio': Divide high-value spending by total spending. If below 40%, you're funding habits over goals. Reallocate systematically.",
-          "Set quarterly review dates—financial plans need updates like ancient trade routes needed adjustments."
-        ]
-      },
-      {
-        "title": "Calculate Your Freedom Number with Benchmarks",
-        "steps": [
-          "List your true essentials using historical minimums: housing (shelter), food (nutrition), healthcare, and basic transportation.",
-          "Sum these costs to determine your survival threshold—this is what ancient civilizations called 'subsistence level.'",
-          "Subtract this from your current income. If the remainder is less than 20% of your total income, you're in a high-stress financial position (regardless of income level). This is your financial flexibility score.",
-          "Automate transfers: Set up automatic transfers to your 'margin account' on payday—automation is what separates modern wealth from ancient accounting."
-        ]
-      },
-      {
-        "title": "Simulate Income Volatility with Real Data",
-        "steps": [
-          "Create three budgets: current, 20% reduction, and 20% increase—because volatility works both ways.",
-          "Prioritize cuts using your value audit data: Start with low-value categories, but also identify 'flexible essentials' (like premium subscriptions).",
-          "Compare these scenarios to your actual income fluctuations over the past 5 years. Most people discover their income varies 15-25% annually—does your budget reflect this reality?",
-          "Build a 90-day 'volatility buffer' in your margin account—this is the modern equivalent of ancient grain storage for lean seasons."
-        ]
-      }
-    ],
-    "risk_notes": "Budgeting can become a form of financial anxiety—constantly tracking and restricting without addressing underlying values. The hidden risk is 'budget perfectionism,' where people abandon the entire system after one 'failure' (ancient accountants didn't quit when tablets broke). Also, rigid budgets fail during life transitions (e.g., job changes, family events) when flexibility matters most. The psychological trap is believing control over small expenses matters more than optimizing large income decisions; focus on big wins, not penny-pinching. Remember: The Babylonians tracked grain to prevent starvation, not to achieve perfect spreadsheets.",
-    "sources": [
-      {
-        "title": "Your Money or Your Life by Vicki Robin and Joe Dominguez",
-        "url": "https://www.yourmoneyoryourlife.com/"
-      },
-      {
-        "title": "Mr. Money Mustache's 'The Shockingly Simple Math Behind Early Retirement'",
-        "url": "https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/"
-      },
-      {
-        "title": "Hyperbolic Discounting in Behavioral Economics (American Economic Review)",
-        "url": "https://www.aeaweb.org/articles?id=10.1257/aer.91.1.1"
-      }
-    ],
-    "meta": {
-      "id": "Managing income and budgets",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Cash-flow management",
-        "Income and expenses"
       ],
       "tags": [
         "Personal Finance Foundations",
