@@ -1,5 +1,64 @@
 [
   {
+    "id": "116d8d3c-8805-49c9-92a1-893f491b9499",
+    "date": "2026-05-19",
+    "topic": "The Emergency Fund: Your Financial Shock Absorber",
+    "teaser": "Your emergency fund is a guaranteed loser. Here’s why you still need one—and how to stop it from bleeding you dry.",
+    "summary": "**Imagine this: You lose your job tomorrow. The market crashes 40%. Your portfolio is down, but you don't sell a single share. Why? Because you have six months of cash in a savings account earning 0.5% while inflation runs at 3%. That cash is a drag on your wealth, but it's the best insurance you'll ever buy.**\n\nAn emergency fund isn't an investment; it's an insurance premium you pay to protect your future returns. It's a buffer against the randomness of life—job loss, medical bills, car repairs—that ensures you never have to sell assets at the worst possible time or take on high-interest debt. **First principles**: Your future self is an optimist. You assume you'll never get sick, never get fired, never have a fender bender. The emergency fund is the antidote to that optimism bias.\n\nRight now, with inflation eroding purchasing power and job markets volatile, the cost of safety is higher than ever. But the alternative is worse: a single emergency can trigger a 'wealth spiral'—you sell stocks at a loss, incur capital gains taxes, miss the recovery, and then take on credit card debt at 20% interest. That debt compounds against you, destroying years of progress.\n\n**Your emergency fund is an expense, not an investment.** Accept that it will lose purchasing power to inflation. The optimal size is personal: a freelancer needs 9 months; a tenured professor may need 3. Think of it as a 'liquidity shield': it allows you to take more risk in your investment portfolio because you know you won't be forced to sell during a downturn. The real wealth creation happens in your stocks and bonds, not in your savings account.",
+    "key_points": [
+      "Your emergency fund is an insurance premium, not an investment. The loss to inflation is the cost of safety—it protects you from selling assets at a loss or taking on high-interest debt during a crisis.",
+      "The optimal size is personal: base it on your income volatility, not a generic 3-6 month rule. Freelancers need 9-12 months; stable employees may need 3. Use the 'survival number' formula: essential monthly expenses × months of income volatility.",
+      "An emergency fund is a 'liquidity shield' that enables higher risk-taking in your portfolio. Without it, you're forced to sell during downturns, locking in losses and missing recoveries. It's the foundation of aggressive investing."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Survival Number",
+        "steps": [
+          "List all essential monthly expenses: rent, food, utilities, minimum debt payments, insurance premiums. Exclude discretionary spending like dining out or Netflix.",
+          "Estimate your 'income volatility' in months: for a freelancer, use 9; for a stable employee, use 3. Multiply essential expenses by this number. Example: $3,000/month × 6 = $18,000 target.",
+          "Compare to your current savings. If you have $5,000, your gap is $13,000. Set a monthly savings goal to close it within 12 months."
+        ]
+      },
+      {
+        "title": "Set Up a Separate High-Yield Savings Account",
+        "steps": [
+          "Open a high-yield savings account (e.g., Ally Bank, Marcus by Goldman Sachs) that is not linked to your checking account to avoid impulse spending.",
+          "Automate a transfer of 10% of every paycheck to this account. If you can't afford 10%, start with 5% and increase by 1% every month.",
+          "Continue until you reach your survival number. Then, redirect the 10% to your investment account."
+        ]
+      },
+      {
+        "title": "Simulate an Emergency Using a Spreadsheet",
+        "steps": [
+          "Create a spreadsheet with columns: month, income, expenses, savings balance. Assume you lose your job and have zero income starting month 1.",
+          "Input your actual essential expenses. Calculate how many months your current emergency fund would last. For example, if you have $10,000 and spend $3,000/month, you have 3.3 months.",
+          "Now add a shock: a $2,000 medical bill in month 2. See how that changes your survival time. Adjust your fund size accordingly. Review and update this simulation annually."
+        ]
+      }
+    ],
+    "risk_notes": "Hoarding too much cash (e.g., 12+ months) can be a wealth destroyer in inflationary times. Psychologically, a large cash pile can make you complacent about earning income or taking calculated risks. Also, in a severe crisis, even 'safe' savings accounts can be frozen or lose value if the banking system falters (e.g., Cyprus 2013).",
+    "sources": [
+      {
+        "title": "Search: The Emergency Fund: Your Financial Shock Absorber",
+        "url": "https://www.google.com/search?q=The%20Emergency%20Fund%3A%20Your%20Financial%20Shock%20Absorber"
+      }
+    ],
+    "meta": {
+      "id": "Saving & emergency funds",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Financial planning basics",
+        "Power of compounding"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "5dc42f53-32eb-4586-ba47-8be0feac5a4b",
     "date": "2026-05-18",
     "topic": "The Art of Budgeting: Buying Back Your Future Time",
@@ -3869,69 +3928,6 @@
       "related": [
         "Time value of money",
         "Interest rates"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "b21a3a24-de45-4d1a-8506-de8e947db54d",
-    "date": "2026-03-15",
-    "topic": "Credit Scores: The Algorithmic Passport to Modern Financial Life",
-    "teaser": "Your credit score isn't measuring your morality—it's a prediction machine that determines whether you'll pay $100,000 extra on your mortgage.",
-    "summary": "**Your credit score isn't a report card on your financial morality; it's a prediction algorithm that banks use to guess how likely you are to make them money.** This system emerged from a 4,000-year-old problem: how do strangers trust each other with money? Babylonian clay tablets recorded debts, medieval merchants used reputation networks, and 1950s bankers judged loan applications by whether applicants 'looked trustworthy.'\n\nAt its core, **consumer credit is simply borrowing money you don't have yet, with a promise to repay it later**. The fundamental problem is trust between financial strangers—something that works in small communities but fails at scale. Credit scoring emerged as the only solution: mathematical predictions of repayment likelihood based on past behavior. The first principles are brutal: 1) Lenders maximize profitable loans while minimizing defaults, 2) Your borrowing history creates patterns that predict future behavior, and 3) The system exists because direct human judgment doesn't scale in a global economy.\n\n**Why does this matter right now?** Your credit score determines whether you'll pay 3% or 8% on a mortgage—that's a **$100,000+ difference over 30 years**. It affects your insurance premiums, rental applications, and even some job opportunities. In our current economy where everything from cars to homes to education is financed, **your credit score is your financial passport**—without it, you're effectively stuck at home while others travel the world of financial opportunity. This isn't just about getting approved for loans; it's about the cost of participating in modern economic life.\n\nThe system works because human behavior patterns repeat. Your payment history, credit utilization, and account diversity create a behavioral fingerprint that algorithms use to predict your future actions. But this prediction isn't perfect—it's based on historical data that assumes tomorrow will look like yesterday. When systemic crises hit (like 2008), these patterns break down, and the algorithms fail spectacularly. Yet despite these flaws, the system persists because we haven't found a better way to scale trust in a world of financial strangers. The irony is profound: we've replaced human judgment with mathematical models, only to discover those models are just as fragile when the unexpected occurs.",
-    "key_points": [
-      "Credit scores measure your predictability to systems, not your financial health to yourself. The algorithm rewards consistent mediocrity over occasional excellence—one perfect payment history with high utilization scores worse than occasional late payments with perfect utilization.",
-      "Payment history isn't about punctuality; it's about predictability. One late payment doesn't just show you were late—it shows your financial life is unpredictable, which scares algorithms more than occasional tardiness. The system prefers boring reliability over sporadic brilliance.",
-      "Credit diversity matters because it shows you can handle different types of debt obligations simultaneously—it's not about having more credit, but demonstrating you can juggle multiple financial responsibilities without dropping any. This is the financial equivalent of proving you can walk and chew gum at the same time.",
-      "The scoring system creates perverse incentives: avoiding all debt looks suspicious to algorithms, but taking on manageable debt improves your score—creating a 'Goldilocks zone' of indebtedness that's neither too hot nor too cold. Historically, this sweet spot has shifted with economic cycles, creating systemic risk when too many people optimize for the same narrow band of behavior."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Personal Credit Elasticity",
-        "steps": [
-          "Track your credit score changes over the past 12 months",
-          "Document every credit event (new accounts, balance changes, inquiries)",
-          "Calculate how much your score changes per $1,000 of debt taken on or paid off",
-          "Map this elasticity against your income changes to see if you're becoming more or less sensitive to debt"
-        ]
-      },
-      {
-        "title": "Map Your Credit History Against Economic Cycles",
-        "steps": [
-          "Plot your credit score timeline from your first credit account",
-          "Overlay major economic events (2008 crisis, 2020 pandemic, interest rate changes)",
-          "Identify patterns: does your score improve during booms and suffer during busts?",
-          "Analyze how systemic events affect your personal scoring algorithm versus the broader population"
-        ]
-      },
-      {
-        "title": "Stress-Test Your Credit Against Historical Crises",
-        "steps": [
-          "Research how credit markets behaved during 2008 and 2020",
-          "Calculate what would happen to your credit access if similar conditions occurred today",
-          "Identify three non-traditional assets you could leverage if traditional credit disappeared",
-          "Create a 90-day emergency plan that incorporates lessons from past systemic failures"
-        ]
-      }
-    ],
-    "risk_notes": "Credit scores fail catastrophically during systemic crises when historical patterns break down (2008 demonstrated this). They create perverse incentives where financially responsible behavior (avoiding debt) can actually lower your score, while taking on manageable debt improves it. The psychological trap is 'score optimization'—people make financially irrational decisions to game a number rather than using credit as the tool it's meant to be. Remember: Your score predicts your behavior to lenders; it shouldn't dictate your behavior to you.",
-    "sources": [
-      {
-        "title": "Consumer Financial Protection Bureau credit reporting guide",
-        "url": "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/"
-      }
-    ],
-    "meta": {
-      "id": "Consumer credit & credit scores",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Debt management",
-        "Credit cards and loans"
       ],
       "tags": [
         "Personal Finance Foundations",
