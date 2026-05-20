@@ -1,5 +1,70 @@
 [
   {
+    "id": "d066c317-d96e-4013-9742-248ec65459c9",
+    "date": "2026-05-20",
+    "topic": "The Credit Score Paradox: Why Playing the Game Can Cost You",
+    "teaser": "You paid off your credit card in full. Congratulations—your score just dropped. Here’s the twisted logic behind the system and how to outsmart it.",
+    "summary": "Imagine a financial report card you never asked for, where the teacher—a bank—grades you on your ability to borrow money you don't have. That's your credit score. And here's the kicker: paying off your balance in full every month can actually lower your score. Why? Because you're not showing enough 'usage.' The system rewards borrowers, not savers. \n\nConsumer credit is a game of appearances. Your score predicts how likely you are to default in the next 24 months—not how wealthy or responsible you are. A 50-point difference can cost you tens of thousands in interest over a lifetime. Yet the rules are counterintuitive: \n- **Utilization** isn't about how much you owe, but how much you *appear* to need. Below 30% is good; 0% is suspicious. \n- **History length** is a proxy for stability. Close an old card, and you erase years of seniority. \n- **Hard inquiries** are minor, but multiple in a short span scream 'desperate,' even if you're just rate shopping. \n\nThe trap is optimizing for the score instead of your net worth. You can have a stellar score while drowning in debt, or be debt-free with a 'thin file' that tanks your score. The system penalizes prudence. \n\nBut you can beat it. Use credit strategically: keep a small balance (1-9% utilization) on one card, automate minimum payments, and never close your oldest accounts. Your credit score is a tool to access cheap capital—use it to build wealth, not as a report card on your life.",
+    "key_points": [
+      "Credit utilization is a perception game: below 30% signals stability, but 0% backfires because it shows no activity. The sweet spot is 1-9% to maximize your score while avoiding interest.",
+      "Length of credit history acts as a stability proxy; closing old accounts shortens your average age and can lower your score. Keep your oldest card open, even if you don't use it.",
+      "Hard inquiries are small, but multiple in a short period signal risk—even if you're rate shopping. For auto or mortgage loans, multiple inquiries within 14-45 days count as one, so do your shopping quickly.",
+      "A high credit score does not equal financial health; you can be debt-heavy with a high score or debt-free with a low one. The real wealth metric is net worth, not your FICO score."
+    ],
+    "practice": [
+      {
+        "title": "Optimize Your Credit Utilization",
+        "steps": [
+          "Aim to keep your credit utilization between 1% and 9% on at least one card. For example, if your limit is $10,000, let a balance of $100 to $900 report to the credit bureaus.",
+          "Pay off the rest of your balance before the due date to avoid interest. The reported balance is usually your statement balance, not the paid amount.",
+          "If you need to increase your score quickly, ask for a credit limit increase (this lowers utilization without spending more) or pay down balances before the statement date."
+        ]
+      },
+      {
+        "title": "Dispute Errors on Your Credit Report",
+        "steps": [
+          "Get your free credit reports from AnnualCreditReport.com. Stagger them: request one from Equifax in January, Experian in April, TransUnion in July.",
+          "Identify errors: incorrect personal info, accounts not yours, wrong balances, late payments that were on time.",
+          "Dispute online with each bureau. For Equifax: www.equifax.com/personal/credit-report-services/credit-dispute/. For Experian: www.experian.com/disputes/. For TransUnion: www.transunion.com/credit-disputes/dispute-your-credit.",
+          "Provide evidence: upload a copy of your ID and any supporting documents (e.g., bank statement showing payment). The bureau must investigate within 30 days."
+        ]
+      },
+      {
+        "title": "Automate Minimum Payments and Monitor",
+        "steps": [
+          "Log into each credit account and set up autopay for at least the minimum amount due, choosing a date 3-5 days before the due date to avoid processing delays.",
+          "Verify setup by checking for a confirmation email or notification. Keep a calendar reminder to review your accounts monthly.",
+          "Use a free service like Credit Karma or Experian to monitor your score and get alerts for changes. Check for new accounts or inquiries that you didn't authorize."
+        ]
+      }
+    ],
+    "risk_notes": "Credit scores reflect borrowing behavior, not financial health. A high score can coexist with high debt, while a debt-free person may have a low score due to a 'thin file.' The psychological trap is optimizing for the score instead of net worth. Late payments and high utilization are the quickest ways to damage your score, so avoid them at all costs. Also, beware of credit repair scams that promise to fix your score quickly—they often involve illegal tactics like creating a new credit identity.",
+    "sources": [
+      {
+        "title": "The Wall Street Journal Guide to Understanding Personal Finance by Kenneth M. Morris",
+        "url": "https://www.amazon.com/Wall-Street-Journal-Understanding-Personal/dp/0743501158"
+      },
+      {
+        "title": "Your Credit Score: How to Improve the 3-Digit Number That Shapes Your Financial Future by Liz Weston",
+        "url": "https://www.amazon.com/Your-Credit-Score-Improve-Financial/dp/0134439475"
+      }
+    ],
+    "meta": {
+      "id": "Consumer credit & credit scores",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Debt management",
+        "Credit cards and loans"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "116d8d3c-8805-49c9-92a1-893f491b9499",
     "date": "2026-05-19",
     "topic": "The Emergency Fund: Your Financial Shock Absorber",
@@ -3863,71 +3928,6 @@
       "related": [
         "Power of compounding",
         "Discounting"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "d2afc6f5-67e5-45c9-8f94-578736ec8108",
-    "date": "2026-03-16",
-    "topic": "Inflation: The Silent Thief of Your Wealth",
-    "teaser": "Your cash is rotting at 1% a year—here’s how to stop the bleed before it’s too late.",
-    "summary": "Inflation isn't just rising prices—it's a silent thief that stole 96% of the U.S. dollar's purchasing power since 1913, turning what cost $1 then into $30 today. The real shock? Most people don't notice because it happens slowly, like a frog in gradually heating water. We get lulled by nominal gains while our real wealth evaporates.\n\nAt its **first principles**, inflation is currency dilution. Imagine a company issuing more shares: each existing share becomes less valuable. When governments print money beyond economic growth, they're diluting your currency shares. This isn't physics—it's policy choice. For centuries, gold maintained purchasing power while fiat currencies came and went. The U.S. dollar's 96% loss since 1913 mirrors Rome's denarius devaluation and Weimar Germany's collapse—not inevitable, but chosen paths of fiscal convenience.\n\nWhy does this matter **right now**? With inflation rates fluctuating globally, your cash savings are actively decaying in value. If you're earning 2% interest but inflation is 3%, you're effectively losing 1% annually. This erosion compounds silently, threatening retirement plans, emergency funds, and long-term goals unless you actively defend against it. In 2021-2023, many experienced this firsthand as prices for essentials like food and housing surged, yet savings accounts paid near-zero returns. The lesson is stark: inflation isn't a distant economic theory—it's a daily tax on your financial security, and ignoring it means surrendering to gradual impoverishment. To build real wealth, you must move beyond passive saving and into strategic action.",
-    "key_points": [
-      "Inflation is asymmetric: It punishes savers who hold cash but rewards borrowers with fixed-rate debt, as they repay with cheaper future dollars. This makes a 30-year fixed mortgage one of the few 'good' inflation hedges available to individuals—effectively a negative real interest rate loan when inflation exceeds your mortgage rate.",
-      "The 'Money Illusion' trap: Behavioral studies show people focus on nominal values rather than real purchasing power. During high inflation, workers celebrate 5% raises while losing 2% in real terms—a cognitive error that devastates retirement planning when compounded over decades.",
-      "Inflation acts as a regressive tax: Low-income households spend disproportionately on essentials (food, energy, housing), which inflate faster than luxury goods. While the wealthy hedge with assets, the poor experience effective inflation rates 2-3x higher than official CPI, widening inequality silently.",
-      "Historical context reveals patterns: Since the Federal Reserve's founding in 1913, the U.S. dollar has lost over 96% of its value, showing that inflation is a persistent force, not a temporary blip. Every fiat currency in history has eventually failed—the only question is timing and rate of decline.",
-      "Inflation is a hidden wealth transfer: When governments print money to fund spending, they dilute currency value, transferring wealth from citizens to the state without legislation. This 'fiscal inflation' represents the largest unlegislated tax in modern economies, eroding savings while reducing real debt burdens for sovereign borrowers."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Personal Inflation Rate",
-        "steps": [
-          "Track your monthly spending on essentials (e.g., food, housing, utilities) for the past three months.",
-          "Compare these costs to the same period a year ago to calculate the percentage increase.",
-          "Contrast your personal rate with official CPI numbers and the S&P 500's historical 10% annual returns. If your inflation is 5% and you're earning 2% in cash, you're losing 3% annually while missing 8% in potential market gains—a double-compounding opportunity cost."
-        ]
-      },
-      {
-        "title": "Check Your Cash Allocation",
-        "steps": [
-          "List all cash or low-yield savings accounts (e.g., checking, savings under 2% interest).",
-          "Calculate what percentage of your net worth is in these assets.",
-          "Aim to keep only 3-6 months of expenses in cash for emergencies. Warning: Over-optimizing cash allocation during volatility can be costly—maintain enough liquidity to avoid selling investments at market lows while investing the rest in inflation-resistant assets like stocks, real estate, or TIPS."
-        ]
-      },
-      {
-        "title": "Simulate a 5% Annual Inflation Scenario",
-        "steps": [
-          "Use a compound calculator (e.g., online tool or spreadsheet) with your current annual expenses as the base.",
-          "Project how much money you'll need in 10, 20, and 30 years to maintain today's lifestyle at 5% inflation.",
-          "Review the results to adjust savings and investment plans, ensuring they outpace inflation over time. At 5% inflation, $100,000 today becomes just $61,391 in 10 years in real terms—requiring aggressive investment action, not passive saving."
-        ]
-      }
-    ],
-    "risk_notes": "Inflation fails as a measure during deflationary shocks (like 2008) or when CPI baskets don't reflect real consumption patterns (e.g., excluding housing costs). Psychological traps include 'inflation denial' (ignoring it due to complexity) and 'chasing yields' into risky investments out of fear, which can lead to greater losses. Always diversify and base decisions on long-term fundamentals, not short-term panic.",
-    "sources": [
-      {
-        "title": "Book: 'The Ascent of Money' by Niall Ferguson (historical perspective on currency devaluation)",
-        "url": "https://www.niallferguson.com/the-ascent-of-money"
-      },
-      {
-        "title": "Paper: 'The Measurement of Inflation' by the Bureau of Labor Statistics (methodology behind CPI)",
-        "url": "https://www.bls.gov/cpi/"
-      }
-    ],
-    "meta": {
-      "id": "Inflation & purchasing power",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Time value of money",
-        "Interest rates"
       ],
       "tags": [
         "Personal Finance Foundations",
