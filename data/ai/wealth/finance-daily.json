@@ -1,5 +1,73 @@
 [
   {
+    "id": "890940ec-8cc9-4685-90f7-8dc7a000b1c4",
+    "date": "2026-05-21",
+    "topic": "Inflation: The Silent Thief of Purchasing Power",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "In 301 AD, Emperor Diocletian stood before a crumbling Roman economy. Prices had tripled in a decade. His solution? A maximum price law—death to anyone who charged more. Within months, markets vanished, goods rotted in warehouses, and the black market flourished. Diocletian had discovered a painful truth: you can't decree away inflation. Fast forward 1,700 years, and we're still making his mistake. We hoard cash, thinking it's 'safe,' while the government prints money and silently taxes our savings. Inflation isn't just a number on the news; it's the thief that steals your future, one penny at a time. But unlike Diocletian, you can fight back—not with price controls, but with understanding. This isn't about memorizing CPI. It's about seeing inflation as the hidden force that determines whether your nest egg grows or rots. Let's start with a story that will change how you see money.",
+    "key_points": [
+      "Your personal inflation rate is the only one that matters. The official CPI is a national average; your spending pattern may be wildly different. If you're a renter in a hot market, your housing costs may be rising 10% while CPI says 3%. Track your own expenses to know your true enemy.",
+      "Inflation is a regressive tax on the poor and the ignorant. The wealthy own assets that rise with inflation (real estate, stocks). The poor hold cash and pay the price. Knowledge is the only antidote to this silent wealth transfer.",
+      "Inflation isn't just about prices rising; it's about the value of money falling. This distinction is crucial: if you understand that inflation is a monetary phenomenon, you stop asking 'why are prices going up?' and start asking 'why is my money worth less?' The answer: too much money chasing too few goods.",
+      "Inflation compounds losses, not just gains. A 3% inflation rate over 30 years reduces the purchasing power of a dollar to just 40 cents. That's a 60% loss without you lifting a finger. The real risk isn't market volatility; it's the slow, silent erosion of cash."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Inflation Rate",
+        "steps": [
+          "List your top 5 spending categories (e.g., housing, food, transportation, healthcare, education).",
+          "For each category, note the amount you spent last month and this month. If you don't have records, estimate based on typical receipts or bank statements.",
+          "Calculate the percentage change: (this month - last month) / last month × 100. Do this for each category.",
+          "Weight each category by its share of your total spending. For example, if housing is 30% of your spending and it increased 5%, that contributes 1.5% to your personal inflation rate (0.30 × 5%).",
+          "Sum the weighted percentages. That's your personal inflation rate. Compare it to the official CPI (usually around 2-3%). If yours is higher, you're feeling more pain than the average."
+        ]
+      },
+      {
+        "title": "Check the Real Yield of Your Savings",
+        "steps": [
+          "Find the annual percentage yield (APY) on your savings account or money market fund. (Check online or call your bank.)",
+          "Look up the latest inflation rate (e.g., from the Bureau of Labor Statistics at bls.gov).",
+          "Subtract the inflation rate from your APY. For example: APY 0.5% - Inflation 3% = -2.5% real yield. That means your money is losing 2.5% of its purchasing power each year.",
+          "If your real yield is negative, consider moving excess cash to I-bonds (currently yielding ~4.3% above inflation) or a high-yield savings account (some offer 4-5% APY). Avoid holding more than 3-6 months of expenses in a low-yield account."
+        ]
+      },
+      {
+        "title": "Simulate a Purchase Delay",
+        "steps": [
+          "Pick a non-urgent item you want, say a $200 gadget. Imagine buying it today.",
+          "Assume inflation is 3% and you can earn 7% on investments. In one year, that gadget will cost $206 (200 × 1.03).",
+          "If you invest the $200 at 7%, you'll have $214 in a year. You can buy the gadget for $206 and have $8 left over. By delaying, you effectively got the item for $192.50 (200 - 8/1.03).",
+          "This exercise shows that spending now is more expensive than investing now. The longer you delay consumption, the more your money grows relative to inflation."
+        ]
+      }
+    ],
+    "risk_notes": "The concept fails when deflation occurs (prices fall), which can devastate debtors and economies. Also, hyperinflation makes all nominal assets worthless, but cash and bonds suffer most. Psychological trap: people hoard cash thinking it's 'safe' during uncertainty, not realizing inflation is eating it. Another trap: assuming real estate or stocks always hedge inflation—they don't, especially if bought at inflated prices.",
+    "sources": [
+      {
+        "title": "The Little Book of Common Sense Investing",
+        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
+      },
+      {
+        "title": "The Intelligent Investor",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      }
+    ],
+    "meta": {
+      "id": "Inflation & purchasing power",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Time value of money",
+        "Interest rates"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "d066c317-d96e-4013-9742-248ec65459c9",
     "date": "2026-05-20",
     "topic": "The Credit Score Paradox: Why Playing the Game Can Cost You",
@@ -3862,72 +3930,6 @@
       "related": [
         "Time value of money",
         "Annualized & compound returns"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "033360d3-6d94-419f-a2f7-57e2ebeb8dca",
-    "date": "2026-03-17",
-    "topic": "Time Value of Money",
-    "teaser": "What if the most famous real estate deal in history wasn't about land or beads, but about a mathematical principle that quietly governs every financial choice you'll ever make?",
-    "summary": "Let's start by dismantling a financial myth. The story goes that in 1626, Dutch settlers bought Manhattan for $24 in beads—a tale so perfect it's taught in business schools worldwide. The reality is more nuanced: historical records suggest the actual transaction was around 60 guilders (roughly $1,000 in today's dollars) paid to the Lenape people, and it wasn't just beads but included tools, cloth, and wampum. The Dutch West India Company, a colonial enterprise with shareholders expecting returns, made this investment not as a real estate play but as a strategic foothold in the New World. This myth persists because it perfectly illustrates a deeper truth: **time**, not the currency of exchange, was the real asset.\n\nIf that $24 (or $1,000) had been invested at a modest 7% annual return, it would be worth over $5 trillion today—more than Manhattan's current real estate value. This isn't about arithmetic; it's about **time as the ultimate financial asset**. The time value of money states that a dollar today is worth more than a dollar tomorrow because it can be deployed productively. This principle rests on three immutable forces: **opportunity cost** (every dollar spent today forfeits future compounded returns), **inflation** (a silent tax that erodes purchasing power over time), and **risk** (the uncertainty premium we demand for deferring consumption).\n\nWhy does this ancient Dutch transaction matter now? Because every financial decision you face—from saving for retirement to paying off student loans—is a bet on the future value of money. Ignoring this framework means your wealth decays: idle cash loses ground to inflation, while missed investment opportunities surrender the exponential magic of **compounding**. This isn't just about interest rates; it's a mental model for evaluating all time-based trade-offs. Whether you're choosing between a career move with delayed rewards or investing in education versus immediate income, understanding the time value of money transforms you from a passive participant to a deliberate architect of your financial future.",
-    "key_points": [
-      "The time value of money is a universal valuation framework—it applies not just to dollars but to career decisions, health investments, and educational choices, forcing you to quantify the opportunity cost of every time-bound decision.",
-      "Discounting reveals a profound psychological flaw: humans suffer from hyperbolic discounting, valuing immediate rewards 300-400% more than identical future ones, which explains why we chronically under-save for retirement and over-consume today.",
-      "Inflation acts as a silent thief, but its impact is asymmetric: during deflationary periods (like the 1930s or Japan's lost decades), the time value of money reverses—holding cash gains purchasing power, upending conventional investment logic."
-    ],
-    "practice": [
-      {
-        "title": "Calculate the Present Value of a Future Goal",
-        "steps": [
-          "Define your future goal amount (e.g., $100,000 for retirement in 30 years).",
-          "Choose a discount rate that reflects reality: use 5-6% for a real (inflation-adjusted) return, not nominal rates.",
-          "Apply the present value formula: PV = FV / (1 + r)^n, where FV is future value, r is discount rate, and n is years.",
-          "Interpret the result: This is the amount you must invest today in real terms—showing how inflation silently increases the burden of future goals."
-        ]
-      },
-      {
-        "title": "Audit Your Savings Against Inflation",
-        "steps": [
-          "Check the nominal interest rate on your cash holdings (e.g., 0.5% on a savings account).",
-          "Find the current inflation rate (use core CPI for a stable measure).",
-          "Calculate the real return: nominal rate minus inflation rate. If negative, your purchasing power is declining.",
-          "Action: Move cash to assets with positive real yields—TIPS, I-bonds, or high-yield accounts—but always maintain an emergency fund for liquidity needs."
-        ]
-      },
-      {
-        "title": "Simulate Debt Payoff vs. Investment Decision",
-        "steps": [
-          "Identify a debt (e.g., a mortgage at 3.5%) and an investment option (e.g., a diversified portfolio with a 7% historical nominal return).",
-          "Model both scenarios: paying off debt early versus investing the same amount, but adjust for taxes—mortgage interest may be deductible, while investment returns face capital gains taxes.",
-          "Compare net after-tax outcomes over 10+ years, stressing that low-interest debt often loses to investing due to the equity risk premium, but only if you have the liquidity to handle emergencies without selling investments at a loss.",
-          "Insight: This exercise reveals that the 'right' choice depends on your marginal tax rate, liquidity cushion, and psychological tolerance for leverage."
-        ]
-      }
-    ],
-    "risk_notes": "The time value of money framework assumes rational markets and stable inflation—conditions that shatter during hyperinflation (Weimar Germany), deflationary spirals (Great Depression), or systemic crises (2008). Psychologically, over-reliance on discounting can breed short-termism, causing underinvestment in long-term assets like education or health. It's a powerful tool, not a crystal ball; wield it with humility toward black swans and your own cognitive biases.",
-    "sources": [
-      {
-        "title": "Principles for Navigating Big Debt Crises by Ray Dalio",
-        "url": "https://www.principles.com/big-debt-crises/"
-      },
-      {
-        "title": "Investopedia: Time Value of Money",
-        "url": "https://www.investopedia.com/terms/t/timevalueofmoney.asp"
-      }
-    ],
-    "meta": {
-      "id": "Time value of money",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Power of compounding",
-        "Discounting"
       ],
       "tags": [
         "Personal Finance Foundations",
