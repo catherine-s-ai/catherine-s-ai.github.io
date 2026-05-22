@@ -1,5 +1,71 @@
 [
   {
+    "id": "770bc795-fb70-49f0-8be3-dca2cf29d169",
+    "date": "2026-05-22",
+    "topic": "The Time Value of Money: Why a Dollar Today Is Worth More Than a Dollar Tomorrow",
+    "teaser": "Most people think investing is about picking the right stocks. They're wrong. The single most powerful lever in your entire financial life has nothing to do with returns—it's the number of years you have left. Here's why.",
+    "summary": "Imagine two friends, Alice and Bob. Alice starts investing $200 a month at age 25, earning 7% annually. Bob starts the same plan at age 35. By age 65, Alice has nearly $525,000. Bob has just $244,000. Alice invested $24,000 more than Bob? No—she invested exactly the same amount ($96,000 total). Her only advantage: 10 extra years. That's the time value of money in action. It's not about timing the market; it's about time in the market.\n\nBut here's the part that will blow your mind: your savings rate matters far more than your investment return. A 25-year-old who saves 20% of her income and earns 5% will have more wealth at 65 than a peer who saves 10% and earns 10%. Yes, you read that right. The magic of compounding is powerful, but the amount you save is the engine. Returns are just the turbocharger.\n\nAnd yet, most financial advice obsesses over the turbocharger. They sell you on the 'Rule of 72' and fancy formulas, but the real insight is this: time is the only resource you can't buy more of. A dollar today is worth more than a dollar tomorrow not just because you can invest it, but because you can't get back the years you lost. Every year you delay saving, you're not just losing potential growth—you're losing the ability to ever get that time back.\n\nSo when you hear 'time value of money,' don't just think about discount rates. Think about Alice and Bob. Think about which one you want to be.",
+    "key_points": [
+      "**Savings rate beats investment return**: A 25-year-old saving 20% of income at 5% return ends up wealthier than one saving 10% at 10% return, due to the sheer volume of capital deployed early. This is counterintuitive because we're wired to chase high returns, but the math is undeniable.",
+      "**Time horizon is the most powerful lever**: Adding just 5 years to your investment horizon can more than double your final wealth, even with the same monthly contribution. This is because compounding grows exponentially with time, not linearly. Most people underestimate this by a factor of 10.",
+      "**The 'Rule of 72' is a trap**: It's a neat parlor trick, but it ignores the most important variable—your behavior. The real rule should be: 'Divide 72 by your savings rate to estimate how many years until you achieve financial independence.' That's a metric that actually changes your life."
+    ],
+    "practice": [
+      {
+        "title": "The Debt vs. Investment Decision",
+        "steps": [
+          "List your debts (credit card, student loan, mortgage) with interest rates.",
+          "List your expected investment returns (conservative: 5%, moderate: 7%, aggressive: 9%).",
+          "Use TVM to compare: pay off debt with rate > expected return; otherwise invest. But also consider liquidity and emotional peace.",
+          "Example: Credit card at 18% vs. expected market return 7% -> pay off debt first. Mortgage at 4% vs. 7% -> invest extra cash."
+        ]
+      },
+      {
+        "title": "The 'Start Now' Calculator",
+        "steps": [
+          "Estimate your monthly savings capacity (e.g., $500).",
+          "Assume a conservative 5% annual return.",
+          "Calculate future value if you start today vs. 5 years later vs. 10 years later.",
+          "Example: $500/month for 30 years = $416,000; for 25 years = $297,000; for 20 years = $206,000. The cost of waiting 5 years is $119,000."
+        ]
+      },
+      {
+        "title": "Retirement Reality Check",
+        "steps": [
+          "Determine your desired annual retirement income (e.g., $60,000 in today's dollars).",
+          "Estimate years in retirement (e.g., 30 years).",
+          "Calculate the lump sum needed at retirement using PV of annuity formula (or use online calculator).",
+          "Then calculate how much you need to save each month from now until retirement using FV formula. Adjust spending or time until the numbers work."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest risk is not market volatility—it's your own behavior. People abandon plans during downturns, chase past returns, and underestimate their own future needs. TVM models assume constant returns, but reality is lumpy. The antidote is to focus on what you can control: savings rate, time horizon, and discipline. Also, beware of 'discounting the future' too aggressively—it can justify spending today at the expense of tomorrow. And remember, the most important number in any TVM calculation is the number of years you have left. Use them wisely.",
+    "sources": [
+      {
+        "title": "The Simple Path to Wealth by JL Collins",
+        "url": "https://www.amazon.com/Simple-Path-Wealth-financial-independence/dp/1533667926"
+      },
+      {
+        "title": "The Psychology of Money by Morgan Housel",
+        "url": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
+      }
+    ],
+    "meta": {
+      "id": "Time value of money",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Power of compounding",
+        "Discounting"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "890940ec-8cc9-4685-90f7-8dc7a000b1c4",
     "date": "2026-05-21",
     "topic": "Inflation: The Silent Thief of Purchasing Power",
@@ -3845,91 +3911,6 @@
       "related": [
         "Managing income and budgets",
         "Working capital"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "f0b08eff-246b-4ba8-9185-e9fa28ca2f93",
-    "date": "2026-03-18",
-    "topic": "Compound Interest: The Eighth Wonder of the World",
-    "teaser": "The Medici family didn't conquer Europe with armies—they used a mathematical force that turns pennies into fortunes while you sleep. Discover how this silent engine built banking dynasties and why your procrastination today costs you a palace tomorrow.",
-    "summary": "In 1464, Cosimo de' Medici didn't just fund Renaissance art—he weaponized compound interest to create Europe's first banking empire. While Leonardo painted, mathematics did the real work: florins earning florins, silently multiplying in ledgers. This isn't finance; it's physics. Compound interest operates like nuclear chain reactions—each generation of returns breeding the next, creating exponential growth from simple repetition.\n\nStrip it to first principles: 1) Capital produces returns, 2) Those returns become new capital, 3) The cycle repeats. The equation **FV = P × (1 + r)^t** looks sterile until you realize it's the same mathematics that describes population growth, epidemic spread, and technological advancement. When Benjamin Franklin left £1,000 each to Boston and Philadelphia in 1790, with instructions not to touch it for 200 years, he wasn't being eccentric—he was conducting history's longest-running experiment in compounding. Those funds grew to $6.5 million by 1990, funding scholarships and mortgages for centuries.\n\nWhy does this matter more than any investment strategy? Because compounding is time's arithmetic. Every year you delay isn't just lost growth—it's forfeiting geometric expansion. At 7% returns, money doubles every decade. Start at 25 versus 35, and with identical contributions, you'll retire with 2-3× more wealth. But here's the profound insight: compounding's real power isn't in the returns—it's in the recursion. Like a snowball rolling downhill, each layer of gains provides more surface area for future growth. The Dutch East India Company paid dividends for 198 consecutive years not because of brilliant management, but because compounding turned their initial capital into an unstoppable financial glacier. Your task isn't to outsmart markets; it's to position capital where time can perform its silent alchemy.",
-    "key_points": [
-      "Compounding isn't about returns—it's about recursion: Warren Buffett's genius wasn't 20% annual returns; it was avoiding permanent loss for 60 years so compounding could work uninterrupted. One 50% loss requires 100% gain just to recover—the asymmetry destroys the geometric engine. Buffett's real edge: letting winners compound while minimizing catastrophic failures.",
-      "Logarithmic growth changes everything: The Rule of 72 (72/rate = doubling time) reveals why small differences magnify over decades. But the deeper insight is logarithmic scaling—each doubling requires the same percentage gain, but vastly more absolute growth. Going from $1,000 to $2,000 feels trivial; going from $1 million to $2 million feels impossible, yet both require identical 100% returns. This explains why wealth accumulation accelerates over time.",
-      "Debt compounds with mathematical cruelty: 20% credit card interest isn't just expensive—it's geometrically destructive. $10,000 at 20% becomes $38,338 in 7 years (doubling twice), while the same amount invested at 7% becomes just $16,058. The gap isn't linear—it's exponential. Paying high-interest debt offers risk-free returns that outperform most investments.",
-      "Hidden fees create compounding tyranny: A 1% annual fee seems trivial until you calculate its geometric toll. Over 40 years at 7% returns, that 1% fee consumes 30% of your final wealth. Like termites in the foundation, small percentages compound into devastating losses. The arithmetic is merciless: fees compound against you just as returns compound for you.",
-      "Sequence risk matters more than average returns: Two investors both average 7% annually, but one suffers losses early while another suffers them late. The early loser may never recover due to compounding's timing sensitivity. Near retirement, volatility isn't noise—it's permanent capital destruction. This explains why 2008 devastated those about to retire more than young investors."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Procrastination Penalty in Today's Dollars",
-        "steps": [
-          "Take your target retirement amount (e.g., $1,000,000).",
-          "Calculate how much you'd need to invest today at 7% to reach it by age 65.",
-          "Now calculate how much more you'd need if you delay starting by 5 years.",
-          "Discount that extra amount back to present value using a 3-4% rate—this is your actual 'procrastination tax' in today's purchasing power.",
-          "Example: Delaying 5 years might require $300/month more, which discounted is $15,000 extra you need today—a tangible penalty for inaction."
-        ]
-      },
-      {
-        "title": "Audit One Investment Statement for Fee Compounding",
-        "steps": [
-          "Take your most recent 401(k) or brokerage statement.",
-          "Identify all fees: expense ratios, advisory fees, transaction costs.",
-          "Use a compound fee calculator to project what those fees will cost over 30 years.",
-          "Compare to a low-cost index fund (0.03% expense ratio).",
-          "Calculate the annual contribution increase needed to overcome the fee drag—this makes the abstract percentage concrete."
-        ]
-      },
-      {
-        "title": "Create a Compounding Calendar with Milestone Dates",
-        "steps": [
-          "Take your current investment balance and expected contribution rate.",
-          "At your expected return rate, calculate doubling dates (using Rule of 72).",
-          "Mark these dates on a calendar with specific amounts: 'On June 15, 2035, my $50,000 becomes $100,000.'",
-          "Add life events: 'When my child starts college, this account will have doubled twice.'",
-          "This transforms abstract growth into tangible future moments you can visualize."
-        ]
-      },
-      {
-        "title": "Set Up Automatic Investment Triggers",
-        "steps": [
-          "Identify three predictable cash inflows: tax refunds, bonuses, salary increases.",
-          "Create automatic rules: 'When my salary increases by $100/month, $80 goes to investment account.'",
-          "Set calendar reminders for annual rebalancing to maintain compounding efficiency.",
-          "Program one 'do not touch' rule: dividends and capital gains automatically reinvest without exception.",
-          "This builds behavioral scaffolding around the mathematical engine."
-        ]
-      }
-    ],
-    "risk_notes": "Compounding assumes continuous positive returns—but reality delivers volatility. The 2000-2002 and 2008 crashes show that sequence matters: losses early in compounding destroy more future value than later losses. Psychological barriers include: 1) Present bias (prioritizing today's consumption over tomorrow's geometric growth), 2) Round-number bias (withdrawing at $100,000 instead of letting it compound to $110,000), 3) Fee blindness (ignoring how 1% annually becomes 30%+ over decades). Inflation compounds too—at 3% annually, prices double every 24 years, silently eroding purchasing power. The antidote: 1) Diversify to survive downturns, 2) Minimize fees religiously, 3) Never interrupt compounding (withdrawals reset the clock), 4) Remember that compounding works in both directions—for wealth and for mistakes.",
-    "sources": [
-      {
-        "title": "'The Medici: Power, Money, and Ambition in the Italian Renaissance' by Paul Strathern (historical compounding examples)",
-        "url": "https://www.penguinrandomhouse.com/books/534305/the-medici-by-paul-strathern/"
-      },
-      {
-        "title": "'The Algebra of Wealth' by Scott Galloway (behavioral aspects of compounding)",
-        "url": "https://www.penguinrandomhouse.com/books/741421/the-algebra-of-wealth-by-scott-galloway/"
-      },
-      {
-        "title": "Dalio's 'Principles for Navigating Big Debt Crises' (compounding in macroeconomic cycles)",
-        "url": "https://www.principles.com/big-debt-crises/"
-      }
-    ],
-    "meta": {
-      "id": "Power of compounding",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Time value of money",
-        "Annualized & compound returns"
       ],
       "tags": [
         "Personal Finance Foundations",
