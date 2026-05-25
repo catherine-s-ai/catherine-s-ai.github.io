@@ -1,5 +1,67 @@
 [
   {
+    "id": "cc0dbe1c-0d07-4725-ab3c-dfec6393afde",
+    "date": "2026-05-25",
+    "topic": "The Psychology of Spending: How Every Dollar Shapes Your Future Self",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "**Spending isn't about buying things; it's about buying versions of yourself. Every dollar is a vote for the person you want to become.**\n\nDiocletian, a Roman emperor, tried to fix inflation by capping prices. Smart, right? Nope. Black markets exploded, goods vanished, and the economy tanked. He treated the symptom (rising prices) instead of the cause (debased currency). Sound familiar? We obsess over the 'latte factor' while ignoring the real budget killers: your car, your housing, your subscriptions. These are the silent, creeping expenses—the Boiling Frog effect. You don't notice the water heating until you're cooked.\n\nThen there's hedonic adaptation. You buy a new phone, feel great for a week, then back to baseline. That's the Experience Treadmill—running hard, going nowhere. The fix? Spend on experiences, not stuff. But the deepest lever is identity. If you see yourself as 'frugal,' you'll naturally avoid waste. If you see yourself as 'deserving,' you'll justify splurges. Change your self-image, and your spending follows.\n\nThe bottom line: Money is a tool, not a goal. Every purchase is a choice about who you want to be. Make those choices consciously.",
+    "key_points": [
+      "The 'Latte Factor' is a distraction. The real drain is 'big, invisible expenses'—your car, your housing, your subscriptions. These are the silent budget killers, not your daily latte. Mental model: The Boiling Frog—small, repeated costs escalate unnoticed until they consume your budget.",
+      "Hedonic adaptation makes every purchase a temporary happiness boost. Mental model: The Experience Treadmill—buying stuff to feel better is like running on a treadmill; you stay in the same place emotionally while spending money. Spend on experiences instead.",
+      "Your spending mirrors your identity. If you see yourself as 'frugal,' you'll naturally avoid waste. If you see yourself as 'deserving,' you'll justify splurges. Mental model: Identity-Based Spending—change your self-image, and your habits follow."
+    ],
+    "practice": [
+      {
+        "title": "The 24-Hour Rule",
+        "steps": [
+          "For any non-essential purchase over $100, wait 24 hours before buying.",
+          "Write down why you want it and how it aligns with your values.",
+          "Most impulse buys dissolve overnight."
+        ]
+      },
+      {
+        "title": "The Subscription Audit",
+        "steps": [
+          "List every subscription (streaming, apps, gym, etc.).",
+          "Ask: 'Would I re-subscribe at full price today?'",
+          "Cancel at least one immediately."
+        ]
+      },
+      {
+        "title": "The 'Cost Per Use' Calculation",
+        "steps": [
+          "For any planned purchase, use the 50-Use Rule: If you can't confidently estimate 50 uses, don't buy it.",
+          "For example, a $200 jacket you'll wear 100 times costs $2 per use—great. A $50 kitchen gadget you'll use twice costs $25 per use—skip it."
+        ]
+      }
+    ],
+    "risk_notes": "Mindset shifts can backfire when taken to extremes. Over-optimization leads to deprivation, which triggers binge spending. The 'frugal mindset' can become a scarcity mentality that prevents necessary investments (e.g., health, education). Also, focusing too much on small wins may blind you to large structural issues (e.g., career income growth). The trap: using mindset as a band-aid for systemic income problems.",
+    "sources": [
+      {
+        "title": "Your Money or Your Life by Vicki Robin",
+        "url": "https://www.yourmoneyoryourlife.com/"
+      },
+      {
+        "title": "I Will Teach You to Be Rich by Ramit Sethi",
+        "url": "https://www.iwillteachyoutoberich.com/"
+      }
+    ],
+    "meta": {
+      "id": "Mindset & spending habits",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Behavioral finance basics",
+        "Financial wellness"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "f0530729-4070-4e0c-8e56-59bfbfcd80ab",
     "date": "2026-05-24",
     "topic": "Cash Flow: The Circulatory System of Your Finances",
@@ -3837,70 +3899,6 @@
       ],
       "tags": [
         "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "8f764ba7-6bec-4e22-ac2f-9b1d40ea7209",
-    "date": "2026-03-21",
-    "topic": "Financial Fraud & Security: The Ancient Art of Deception in Modern Finance",
-    "teaser": "What if the greatest threat to your wealth isn't market crashes or inflation, but your own brain's evolutionary wiring? Discover why financial security is a myth we pay for with cognitive vulnerability.",
-    "summary": "**Financial fraud isn't a crime—it's a tax on civilization's greatest invention: trust.** When ancient Romans clipped gold coins, they weren't just stealing metal; they were exploiting the fundamental vulnerability that makes all economic exchange possible. Trust is the operating system of human cooperation, and fraud is the inevitable malware that runs on it.\n\nAt the atomic level, fraud operates on three irreducible components: **necessary vulnerability** (trust as the price of efficiency), **information gradients** (asymmetry as the energy source for deception), and **cognitive exploitation** (our evolved heuristics turned against us). Security isn't about eliminating risk—that's impossible—but about engineering resilience through verification, transparency, and redundancy, recognizing that every system has failure modes waiting to be discovered.\n\n**Why this matters now with surgical precision:** Digital finance has compressed time and space, turning what were once local confidence games into global-scale attacks that propagate at network speed. AI doesn't just automate fraud; it weaponizes our psychological vulnerabilities at industrial scale. The stakes aren't just financial—they're civilizational. When trust in financial systems erodes, the entire architecture of modern commerce begins to crumble. We're not facing isolated scams but systemic fragility where a single compromised credential can cascade through interconnected systems.\n\nThis understanding transforms security from a technical checklist to a **philosophical stance**: recognizing that fraud isn't an aberration but an emergent property of complex systems. From Ponzi schemes that hijack our tribal instincts to phishing attacks that exploit our urgency bias, the surface tactics evolve while the underlying physics remain constant. True protection comes not from chasing every new threat, but from building antifragile systems that strengthen under attack—turning security from a cost center into a competitive advantage in wealth preservation.",
-    "key_points": [
-      "The Trust Tax: Every economic transaction requires vulnerability—fraud is the inevitable leakage in this system, making security not about prevention but about optimizing the cost of this necessary risk.",
-      "Cognitive Mismatch: Our brains evolved for continuity in stable environments, making us systematically underestimate tail risks in complex financial systems—what we dismiss as 'normalcy bias' is actually an evolutionary mismatch with modern finance.",
-      "The Efficiency-Resilience Tradeoff: Security isn't just a tax on convenience; it's the fundamental engineering choice between optimization and robustness—every layer of protection represents a deliberate sacrifice of efficiency for survival capacity.",
-      "Authority Bias Weaponized: The Madoff Paradox reveals how our survival heuristic of trusting authority figures becomes our greatest vulnerability in hierarchical financial systems—the bigger the fraud, the more it hides behind the very signals we're programmed to trust."
-    ],
-    "practice": [
-      {
-        "title": "System 1 vs System 2 Phishing Audit",
-        "steps": [
-          "Conduct a 15-minute audit of recent communications, specifically targeting emails that trigger automatic responses (urgency, authority cues, social proof).",
-          "For each flagged item, consciously override your instinctive reaction using Kahneman's framework: identify which cognitive shortcut was being exploited and why it bypassed rational processing.",
-          "Implement one structural change (like a 5-minute delay rule for financial requests) that forces System 2 engagement where System 1 would normally dominate."
-        ]
-      },
-      {
-        "title": "Sunk Cost Fallacy Subscription Purge",
-        "steps": [
-          "Analyze 90 days of financial statements through the lens of commitment bias—identify recurring charges you maintain because 'I've already paid for it' or 'I might use it someday.'",
-          "Calculate the actual opportunity cost of each subscription in terms of what that capital could achieve if invested at historical market returns.",
-          "Eliminate three subscriptions using first-principles reasoning: if you wouldn't start this subscription today with fresh capital, you shouldn't continue it with sunk capital."
-        ]
-      },
-      {
-        "title": "Single Point of Failure Elimination Protocol",
-        "steps": [
-          "Map your entire financial ecosystem, identifying every authentication method that represents a single point of failure (SMS-based 2FA, password-only accounts, shared credentials).",
-          "Apply engineering's redundancy principle: for each critical access point, implement at least two independent authentication factors from different failure domains (e.g., hardware token + biometric + knowledge factor).",
-          "Stress-test your system by simulating the failure of your most trusted authentication method—what cascading failures would occur, and what redundant paths exist?"
-        ]
-      }
-    ],
-    "risk_notes": "Security optimization follows the law of diminishing returns—beyond a certain point, additional protection consumes more value than it preserves. Psychological traps include the 'control illusion' (mistaking complexity for security) and 'expertise blindness' (overconfidence in technical solutions while ignoring human factors). All security systems fail eventually; the goal isn't perfection but designing failure modes that are non-catastrophic and recoverable. The greatest risk isn't fraud itself, but allowing fear of fraud to paralyze legitimate wealth-building activities—security should enable growth, not prevent it.",
-    "sources": [
-      {
-        "title": "Security Engineering by Ross Anderson",
-        "url": "https://www.cl.cam.ac.uk/~rja14/book.html"
-      },
-      {
-        "title": "FTC Consumer Sentinel Network Data Book",
-        "url": "https://www.ftc.gov/reports/consumer-sentinel-network-data-book-2022"
-      }
-    ],
-    "meta": {
-      "id": "Financial fraud & security",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Consumer rights",
-        "Online safety"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
         "入门"
       ]
     }
