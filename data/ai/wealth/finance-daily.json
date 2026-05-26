@@ -1,5 +1,76 @@
 [
   {
+    "id": "d704b56f-4a01-4c4d-8ec6-e716ff6e1f9e",
+    "date": "2026-05-26",
+    "topic": "Financial Fraud: The Invisible Heist",
+    "teaser": "The world’s most successful bank robber never used a gun. He used a suit, a smile, and a forged signature. Are you next?",
+    "summary": "**The world’s most successful bank robber never used a gun. He used a suit, a smile, and a forged signature.** That man, Frank Abagnale, impersonated a pilot, a doctor, and a lawyer, cashing $2.5 million in fraudulent checks before his 21st birthday. His weapon of choice wasn't a vault cracker—it was your brain's trust circuit.\n\nFinancial fraud is a mind heist. It exploits the gap between what you believe and what is true—a failure of verification. In 2023, Americans lost over $10 billion to fraud, a 14% jump from the prior year. But the real number is likely higher, because shame keeps victims silent. And now, with AI-generated voice clones and deepfake video calls, the line between legitimate and fraudulent is vanishing.\n\nConsider this: In 2024, a finance worker at a multinational firm was tricked into transferring $25 million after a deepfake video call with what appeared to be the CFO. The 'CFO' spoke with his voice, moved with his mannerisms, and even cracked his signature joke. The employee verified the request through what he thought was a secure channel. He was wrong.\n\nThe most effective fraudsters don't break into systems; they break into minds. They weaponize your trust, your fear of losing a small investment, and your false sense of security from superficial protections. They know that a polite smile disarms more alarms than a crowbar ever could.\n\nTo defend your wealth, you must adopt a mindset of *informed vigilance*—not paranoid suspicion, but a systematic approach to verification that becomes second nature. This lesson arms you with mental models and practical steps to spot and stop fraud before it costs you. Because in a world where seeing is no longer believing, your best defense is a healthy dose of structured skepticism.",
+    "key_points": [
+      "**The 'Trust but Verify' Paradox**: The best frauds exploit your desire to trust. Use *Inversion*—instead of asking 'Is this legitimate?', ask 'How could this be a scam?' This flips your brain from confirmation bias to risk detection. For example, when a caller claims to be from your bank, don't verify the caller; verify the claim through a separate, trusted channel. The paradox: the more trustworthy someone appears, the more you should verify.",
+      "**The Sunk Cost Trap**: Scammers get you to invest small amounts of time or money, then exploit your reluctance to abandon that investment to extract more. Why scammers love your reluctance to walk away from a $50 investment: they'll use it to steal $5,000. The mechanism is 'escalation of commitment'—once you've paid $50 for a 'processing fee,' you're more likely to pay $200 for 'insurance' because quitting means admitting loss. The counterintuitive fix: pre-commit to a maximum loss and walk away when you hit it, no matter what.",
+      "**The Security Theater Illusion**: Complex passwords and 2FA can lull you into false security. The real vulnerability is often social engineering—manipulating people, not systems. A fraudster doesn't need your password if they can trick you into authorizing a transfer. The illusion: you think you're safe because you have a 20-character password, but the attacker calls your IT help desk, impersonates you, and resets it. The antidote: treat every unsolicited request for action as a potential attack, regardless of how secure your systems seem."
+    ],
+    "practice": [
+      {
+        "title": "Pause and Verify",
+        "steps": [
+          "Before any financial decision, wait 24 hours. Use this checklist:",
+          "1. Identify the request: Is it unsolicited? Does it create urgency?",
+          "2. Verify the source: Call the institution back using a number from their official website or your statement—never one provided in the message.",
+          "3. Confirm the details: Ask a question only the real person would know (e.g., 'What was the amount of my last transaction?').",
+          "4. Check for anomalies: Is the email address slightly off? Is the tone different?",
+          "5. Trust your gut: If something feels wrong, it probably is. Delay until you're sure."
+        ]
+      },
+      {
+        "title": "Run a 'Fraud Scenario' Thought Experiment",
+        "steps": [
+          "Imagine you receive a call from your 'bank' about suspicious activity. Write down exactly what you would do. Then check against this template:",
+          "- Do not engage: Say 'I'll call you back' and hang up.",
+          "- Find the official number: Look on your bank card or statement.",
+          "- Call and ask: 'Did you just call me about suspicious activity?'",
+          "- If yes, proceed with caution. If no, report the scam.",
+          "Practice this with a friend or family member to make it automatic.",
+          "For a free simulation, visit [FTC Scam Simulator](https://www.consumer.ftc.gov/features/scam-simulator)."
+        ]
+      },
+      {
+        "title": "Check Your Credit Report",
+        "steps": [
+          "Get a free annual credit report from annualcreditreport.com (the only official site).",
+          "Look for accounts you didn't open, inquiries you didn't authorize, or incorrect personal information.",
+          "This is a low-effort, high-impact check. Set a calendar reminder to do it every 4 months by rotating among the three bureaus (Equifax, Experian, TransUnion).",
+          "If you find fraud, place a fraud alert or credit freeze immediately. A freeze is free and doesn't affect your credit score."
+        ]
+      }
+    ],
+    "risk_notes": "Paranoia can be as damaging as naivety. Over-skepticism may cause you to miss legitimate opportunities or damage relationships. Also, security measures like freezing your credit can be inconvenient and delay legitimate transactions. The goal is informed vigilance, not fear. Balance: trust your instincts but verify with evidence.",
+    "sources": [
+      {
+        "title": "Federal Trade Commission (FTC) - Consumer Advice on Fraud",
+        "url": "https://www.consumer.ftc.gov/features/scam-alerts"
+      },
+      {
+        "title": "AARP Fraud Watch Network",
+        "url": "https://www.aarp.org/money/scams-fraud/"
+      }
+    ],
+    "meta": {
+      "id": "Financial fraud & security",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Consumer rights",
+        "Online safety"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "cc0dbe1c-0d07-4725-ab3c-dfec6393afde",
     "date": "2026-05-25",
     "topic": "The Psychology of Spending: How Every Dollar Shapes Your Future Self",
@@ -3821,81 +3892,6 @@
       "related": [
         "Financial statements",
         "Financial ratios"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "8a4d6180-17b7-458f-9498-493d75b0097a",
-    "date": "2026-03-22",
-    "topic": "Assets vs. Liabilities: The Cash Flow Framework That Determines Your Financial Destiny",
-    "teaser": "Why Venetian merchants would laugh at your 'dream home' balance sheet, and how a 14th-century mental model reveals what your financial statements hide.",
-    "summary": "**For seven centuries, the world's wealthiest people have understood something your accountant probably doesn't: assets and liabilities aren't about ownership—they're about cash flow direction.** While modern finance obsesses over balance sheets and net worth, medieval Venetian merchants evaluated trade expeditions not by who owned the ships, but by their expected cash flows. This ancient insight exposes a critical flaw in contemporary financial thinking: we've mistaken accounting conventions for economic reality.\n\n**First principles reveal that Benjamin Graham's 'intrinsic value' and Robert Kiyosaki's 'cash flow' frameworks are two sides of the same coin—both attempt to price future cash distributions.** Graham focused on margin of safety in estimating those distributions; Kiyosaki focuses on their direction. The Venetian merchant assessing a spice expedition asked: 'Will this venture bring silver into my coffers or drain them?' Not 'Do I own the ships?' This cash-flow-first mentality created fortunes while others hoarded 'assets' that secretly consumed wealth.\n\n**Modern portfolio theory would critique Kiyosaki's binary classification as dangerously simplistic—and it's right.** Your 'asset' rental property and 'asset' stock portfolio might both collapse simultaneously in a crisis, revealing they were correlated liabilities in disguise. The 2008 financial crisis wasn't an anomaly; it was a brutal reminder that assets are probability distributions of future cash flows, not guaranteed income streams. That beautiful suburban home isn't an asset or liability—it's a bundle of cash flow probabilities: mortgage payments (negative), potential rental income (positive), maintenance costs (negative), and appreciation potential (uncertain).\n\n**Right now, you're navigating your financial life using medieval maps in a quantum world.** The average American household's $100,000+ debt represents not just liabilities, but misclassified probability distributions. The wealthiest 1% aren't just acquiring 'assets'—they're constructing portfolios of cash flow distributions with careful attention to correlation, sequence risk, and black swan events. This isn't about getting rich; it's about building **financial antifragility**—where economic downturns don't just reveal your weaknesses but actually strengthen your position. Your net worth statement shows the wreckage of past probability distributions; your cash flow statement reveals the architecture of future ones. Master this distinction, and you stop being a gambler in the casino of modern finance and become the house.",
-    "key_points": [
-      "Assets are probability distributions, not things: Every financial instrument represents a probability distribution of future cash flows. A 'luxury car' isn't a liability because it's a car—it's a liability because its cash flow distribution is almost certainly negative (depreciation + expenses > resale value). This mathematical framing explains why the same house can be an asset for one owner (rental income > costs) and liability for another (mortgage > rental potential).",
-      "The Veblen-Kiyosaki paradox: Thorstein Veblen identified 'conspicuous consumption' in 1899—people buying liabilities to signal status. Kiyosaki observed they call these liabilities 'assets.' The modern twist: social media has weaponized this illusion, turning liabilities into 'lifestyle assets' that followers admire while the owner's cash flow bleeds out. True wealth builders practice 'inconspicuous asset accumulation'—buying cash flow generators that nobody notices until the freedom manifests.",
-      "Munger's inversion principle applied: Instead of asking 'what builds wealth?', ask 'what destroys wealth fastest?' Charlie Munger's approach reveals the answer: misclassifying liabilities as assets. The speed of wealth destruction accelerates when you leverage misclassified 'assets'—see mortgage-backed securities in 2008 or margin-called speculators in any market crash. Your financial priority shouldn't be acquiring more things, but correctly classifying the things you already have.",
-      "The cash flow continuum through time: Nothing is permanently asset or liability because probability distributions change. Venetian spice routes became liabilities when Ottoman taxes rose. Your rental property becomes a liability when the local factory closes. The critical question isn't 'Is this an asset?' but 'What's the current probability distribution of this instrument's future cash flows, and how does it correlate with my other distributions?' This dynamic framing explains why the wealthy constantly rebalance—they're not changing what they own, but their assessment of cash flow probabilities."
-    ],
-    "practice": [
-      {
-        "title": "30-Minute Probability Distribution Audit",
-        "steps": [
-          "List every financial instrument you 'own'—from mortgage to stocks to subscriptions.",
-          "For each, estimate three cash flow scenarios: base case (expected), stress case (2008-style), and disaster case (personal job loss + market crash).",
-          "Map correlations: Which 'assets' would fail together? (Hint: in 2008, 'diversified' real estate, stocks, and bonds all became correlated liabilities.)",
-          "Calculate not just your asset-to-liability ratio, but your correlated-liabilities ratio: how many 'assets' would become simultaneous liabilities in a crisis? Track this monthly with different stress scenarios."
-        ]
-      },
-      {
-        "title": "Antifragility Ratio Simulation",
-        "steps": [
-          "Calculate monthly living expenses under three conditions: normal, job-loss austerity, and crisis (medical emergency + job loss).",
-          "Calculate passive income from true assets under matching conditions: normal dividends, stress-case dividend cuts (typical 30-50% reduction), and disaster-case income cessation.",
-          "Apply sequence-of-returns risk: Test what happens if your job disappears during the exact recession that cuts your dividend income. Most 'liberty ratios' ignore this correlation risk.",
-          "Calculate your antifragility ratio: (stress-case passive income / crisis-case expenses) × (1 - correlation coefficient between income sources). Aim to increase this through uncorrelated cash flow sources."
-        ]
-      },
-      {
-        "title": "The Venetian Merchant Assessment",
-        "steps": [
-          "Imagine you're a 14th-century Venetian evaluating every possession as a trade expedition: 'What's the probability distribution of silver flowing in vs. out?'",
-          "Apply opportunity cost framework: That gym membership liability might provide health benefits that reduce future medical liabilities—calculate the net present value of both cash flows.",
-          "Identify your top 3 correlated-liability clusters (e.g., house + car + vacation home in same economic region) and create a 90-day decoupling plan.",
-          "Project your cash flow probability distributions 5 years forward with and without changes—include black swan scenarios where 'everything that can go wrong does.'"
-        ]
-      }
-    ],
-    "risk_notes": "This cash flow probability framework fails when treated deterministically. All probability estimates contain error—your 'asset' might be a liability you haven't discovered yet. The 2008 crisis revealed that AAA-rated mortgages had fat-tailed risk distributions nobody modeled. Psychologically, this model can cause analysis paralysis or reckless optimization (chasing yield while ignoring correlation risk). True financial intelligence requires: (1) humility about distribution estimates, (2) margin of safety for estimation error, (3) antifragile design (gaining from estimation errors), and (4) recognition that some 'liabilities' (education, health investments) have option value that doesn't appear in cash flow calculations. The Venetian merchants survived not because they were always right, but because they respected uncertainty and maintained liquidity when expeditions looked certain.",
-    "sources": [
-      {
-        "title": "Rich Dad Poor Dad by Robert Kiyosaki",
-        "url": "https://www.richdad.com/"
-      },
-      {
-        "title": "Security Analysis by Benjamin Graham & David Dodd",
-        "url": "https://en.wikipedia.org/wiki/Security_Analysis_(book)"
-      },
-      {
-        "title": "The Theory of the Leisure Class by Thorstein Veblen",
-        "url": "https://en.wikipedia.org/wiki/The_Theory_of_the_Leisure_Class"
-      },
-      {
-        "title": "Black Swan & Antifragile by Nassim Taleb",
-        "url": "https://www.fooledbyrandomness.com/"
-      }
-    ],
-    "meta": {
-      "id": "Assets vs. liabilities",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Balance sheet",
-        "Net worth"
       ],
       "tags": [
         "Basic Financial Knowledge",
