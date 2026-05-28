@@ -1,5 +1,70 @@
 [
   {
+    "id": "d2e6f37a-5205-494c-9ec2-7271eaf10018",
+    "date": "2026-05-28",
+    "topic": "Balance Sheet vs. Cash Flow: The Photo and the Movie of Your Financial Life",
+    "teaser": "I once met a millionaire who couldn't pay his electric bill. His balance sheet was stunning. His cash flow? Zero.",
+    "summary": "I once met a millionaire who couldn't pay his electric bill. He owned a paid-off house worth $2 million, a vintage car collection, and a stock portfolio. But his cash flow was zero. He had to borrow from a friend to keep the lights on. That's when I learned: the balance sheet is a photograph—a frozen moment of supposed wealth. The cash-flow statement is the movie—the real story of how money moves.\n\nMost people fixate on the photo. They check their net worth quarterly and feel rich. But the movie reveals the plot: Are you generating enough cash to live? Can you survive a layoff? The balance sheet tells you what you own; the cash flow tells you if you can keep it.\n\nWhy do profitable businesses go bankrupt? Because profit is an opinion—subject to accounting estimates—while cash is a fact. You can't pay bills with accruals. In personal finance, your salary is your operating cash flow. Your investments are your investing cash flow. Your debt payments are financing cash flow. Ignore any of these, and you're watching a silent film with no subtitles.\n\nHere's the counterintuitive truth: A high net worth with negative cash flow is a ticking time bomb. Assets on your balance sheet are only valuable if they generate cash—or if you can sell them. A rental property that bleeds cash monthly is a liability, not an asset. Your cash-flow statement is the ultimate truth teller: it exposes your spending habits and saving discipline, no matter how you rationalize them.\n\nTo master your finances, you must watch both the photo and the movie. The balance sheet gives you a snapshot of wealth; the cash flow statement reveals the story of how you build—or destroy—that wealth over time. And remember: the millionaire with the unpaid bill learned this the hard way. Don't be that millionaire.",
+    "key_points": [
+      "Profit is an opinion; cash is a fact. Accounting rules can make profit look good while cash drains away.",
+      "A high net worth with negative cash flow is a ticking time bomb. You can be asset-rich and cash-poor, one missed paycheck from disaster.",
+      "Your personal cash-flow statement is the ultimate truth teller: it exposes your spending habits and saving discipline, no matter how you rationalize them.",
+      "Overemphasis on cash flow can lead to hoarding cash and missing investment opportunities; both statements must be read together."
+    ],
+    "practice": [
+      {
+        "title": "Create a Personal Balance Sheet",
+        "steps": [
+          "List all assets: cash, investments, home, car, etc.",
+          "List all liabilities: credit cards, loans, mortgage, etc.",
+          "Calculate net worth: total assets minus total liabilities.",
+          "Update quarterly to track progress."
+        ]
+      },
+      {
+        "title": "Track Your Cash Flow for One Month",
+        "steps": [
+          "Record every dollar coming in (income) and going out (expenses).",
+          "Categorize expenses: housing, food, transportation, entertainment, etc.",
+          "Compare actual spending to your budget. Identify variances.",
+          "Identify one 'leak' to plug (e.g., unused subscriptions, dining out).",
+          "Set a goal to reduce that leak by 20% next month."
+        ]
+      },
+      {
+        "title": "Simulate a 3-Month Income Loss",
+        "steps": [
+          "Assume your income drops to zero for three months.",
+          "List essential expenses you must cover (rent, food, utilities, etc.).",
+          "Calculate how long your current assets (cash, investments) can sustain you.",
+          "Adjust your emergency fund to cover at least 3-6 months of essential expenses.",
+          "After the simulation, identify one behavior change you will make (e.g., cut discretionary spending, increase savings rate)."
+        ]
+      }
+    ],
+    "risk_notes": "Overemphasis on cash flow can lead to hoarding cash and missing investment opportunities. The balance sheet may look weak if you have high liabilities for growth (e.g., student loans for a high-paying degree). Both statements must be read together; focusing on one can mislead.",
+    "sources": [
+      {
+        "title": "The Interpretation of Financial Statements by Benjamin Graham",
+        "url": "https://www.harpercollins.com/products/the-intelligent-investor-benjamin-graham?variant=32122886684710"
+      }
+    ],
+    "meta": {
+      "id": "Balance sheet & cash-flow statement",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Financial statements",
+        "Financial ratios"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "8c56a0cc-5f58-47bd-8138-eb26eba8d361",
     "date": "2026-05-27",
     "topic": "The Asset-Liability Trap: Why Your 'Wealth' Might Be an Illusion",
@@ -3828,70 +3893,6 @@
       "related": [
         "Inflation & purchasing power",
         "Fixed income"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "c542bc97-62c7-4846-afb2-53a5c1c5038f",
-    "date": "2026-03-24",
-    "topic": "Banking Fundamentals: How Checking and Savings Accounts Really Work",
-    "teaser": "What if your bank's greatest innovation wasn't safeguarding your money, but quietly convincing you to leave it where it slowly disappears? The 700-year-old trick hiding in plain sight.",
-    "summary": "**In 14th-century Florence, goldsmiths made a discovery that would shape modern civilization: they could lend out the gold entrusted to them for safekeeping, creating new money while promising depositors their gold was still there.** This wasn't just financial innovation—it was psychological alchemy, transforming physical metal into abstract trust. Today's banking system operates on the same fundamental insight: **money exists not as physical objects but as psychological agreements about future promises.**\n\nThis historical reality reveals banking's core tension: banks profit by lending your money while you sleep, yet your interest lies in preserving purchasing power against inflation's silent erosion. The fractional reserve system—where banks keep only a fraction of deposits available—creates a structural misalignment: **banks maximize lending while customers need preserved purchasing power.** This isn't a bug but the system's fundamental feature, perfected over centuries.\n\n**Why this matters now more than ever:** We're living through the greatest monetary experiment in history, with central banks creating trillions electronically. Yet most people still treat banking like medieval peasants treated goldsmiths—with blind trust in institutions that profit from their inertia. The psychological reality is stark: **FDIC insurance protects against bank failure but creates false security against inflation, the true wealth destroyer.** Your cash isn't just sitting there—it's being systematically transferred from your future self to bank shareholders through the mechanics of negative real returns.\n\nUnderstanding this changes everything. The goldsmiths' insight wasn't about storage but about **velocity**—putting idle resources to work. Your parallel insight must be about **intentionality**—recognizing that every dollar has a purpose along the liquidity spectrum. Checking accounts serve immediate transactions; savings accounts serve near-term needs; everything else belongs elsewhere. The system counts on you confusing these functions, just as medieval merchants trusted goldsmiths with more than storage.\n\nThis knowledge transforms banking from passive acceptance to active strategy. The same system that financed Renaissance trade now quietly erodes modern wealth through designed complacency. Your defense begins with recognizing that **banking isn't a service but a relationship of competing interests**, where your vigilance is the price of preserved purchasing power.",
-    "key_points": [
-      "The Velocity Deception: Medieval goldsmiths discovered that money's value comes not from storage but from movement—today's banks monetize your belief that money should sit still. Optimal cash management means matching each dollar's velocity to its purpose, not letting institutional convenience dictate its speed.",
-      "The Inertia Tax: Banks generate billions from customer cognitive laziness—the tendency to accept default options as permanent solutions. Every day you leave excess funds in checking accounts, you pay a hidden tax measured in lost compounding and surrendered purchasing power.",
-      "The Safety Illusion: FDIC insurance creates psychological safety that masks financial danger—it protects against bank failure while distracting from inflation's guaranteed erosion. Treating insured accounts as 'safe' often means accepting returns that guarantee purchasing power decline.",
-      "The Convenience Trap: Behavioral economics reveals we overvalue immediate convenience and undervalue future consequences. Leaving money in checking for 'easy access' is like paying a 2-3% annual convenience fee—a cognitive error that compounds into six-figure lifetime wealth transfers.",
-      "The Structural Misalignment: Fractional reserve banking creates inherent conflict—banks profit by maximizing lending while customers need preserved purchasing power. Recognizing this misalignment transforms banking from trusted service to negotiated relationship."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Cognitive Convenience Tax",
-        "steps": [
-          "Track every emotional resistance to moving money between accounts for 30 days—note each 'too complicated' or 'later' thought",
-          "Calculate the exact dollar amount of convenience you're paying: (excess checking balance) × (HYSA rate - your checking rate)",
-          "Project this annual cost over 20 years at 5% compound growth to see your lifetime convenience tax",
-          "Compare this amount to what you'd pay for actual convenience services (food delivery, premium subscriptions) to calibrate your true priorities"
-        ]
-      },
-      {
-        "title": "Audit Your Psychological Safety Premium",
-        "steps": [
-          "List every reason you keep money in low-yield accounts ('FDIC insured,' 'always been there,' 'easy access')",
-          "Quantify each reason: How much extra are you paying for FDIC insurance beyond what high-yield accounts offer?",
-          "Calculate the opportunity cost of time spent managing multiple accounts versus single-account simplicity",
-          "Simulate three scenarios: current setup, optimized HYSA, and laddered approach—include both financial and psychological costs"
-        ]
-      },
-      {
-        "title": "Map Your Liquidity Spectrum with Behavioral Guardrails",
-        "steps": [
-          "Analyze 90 days of transactions to identify true cash flow patterns, not perceived needs",
-          "Establish behavioral rules: 'If checking exceeds [X] for 3 days, auto-transfer to savings'",
-          "Calculate your personal inflation buffer: minimum emergency fund needed to maintain purchasing power during price surges",
-          "Create a tiered system with psychological triggers: checking (immediate needs), savings (true emergencies), and growth vehicles (everything else)"
-        ]
-      }
-    ],
-    "risk_notes": "Traditional banking products represent a sophisticated wealth transfer mechanism disguised as financial services. The greatest risk isn't bank failure but systematic purchasing power erosion through negative real returns—a guaranteed outcome when yields trail inflation. Psychological traps include 'availability bias' (overweighting FDIC protection while ignoring inflation) and 'present bias' (valuing today's convenience over tomorrow's wealth). During economic stress, the system's fragility appears: banks restrict access precisely when liquidity matters most, revealing that 'safety' and 'accessibility' often conflict. These products work as transaction utilities but fail as wealth preservers—confusing these functions represents one of history's most persistent and expensive financial errors.",
-    "sources": [
-      {
-        "title": "Principles for Navigating Big Debt Crises",
-        "url": "https://www.principles.com/big-debt-crises/"
-      }
-    ],
-    "meta": {
-      "id": "Common banking products",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Savings account",
-        "Checking account"
       ],
       "tags": [
         "Basic Financial Knowledge",
