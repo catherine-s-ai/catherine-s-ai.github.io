@@ -1,5 +1,70 @@
 [
   {
+    "id": "b2d2e5c8-fd54-4508-88de-f17ec90db204",
+    "date": "2026-05-31",
+    "topic": "Stocks vs. Bonds: Ownership, Debt, and the Real Risks",
+    "teaser": "Are you using a Ferrari to haul bricks? Why treating stocks like lottery tickets and bonds like savings accounts is a recipe for disaster.",
+    "summary": "Imagine you own a rental property. A stock is like owning that property outright—you get the rent (profits) when times are good, but you also pay for repairs (losses) when things break. A bond is like being the bank that lent the owner money to buy the property: you get a fixed monthly payment regardless of whether the property is thriving or rotting. Same asset, completely different risk profiles. Yet most people treat stocks as lottery tickets (hoping for a quick win) and bonds as savings accounts (assuming they're safe). That's like using a Ferrari to haul bricks. \n\n**Ownership vs. Lending:** Stocks make you a partner; bonds make you a banker. Partners share in the upside and downside; bankers get paid first but cap their gains. In a booming economy, stocks soar; in a downturn, bonds provide a floor—unless the borrower defaults. \n\n**Risk isn't volatility; it's permanent loss.** Volatility is just a roller coaster; permanent loss is when the ride breaks down. Stocks can drop 50% and come back (think 2008). Bonds can default and never recover (think Lehman Brothers). But here's the nuance: market risk (price fluctuations) differs from credit risk (default). A high-quality bond might fluctuate in price but still pay back; a junk bond might offer high yield but carry default risk. Volatility is a feature, not a bug—it's the price of higher returns. \n\n**The yield curve** is the market's collective prediction about the future. When short-term bonds yield more than long-term (inverted curve), it's a red flag for recessions. Ignore it at your peril. In 2023, the inverted curve signaled a recession that hasn't fully materialized—yet. History says it's a matter of time. \n\n**The real job of stocks and bonds:** Stocks are for growth; bonds are for stability and income. But in 2022, both crashed together—stocks fell 20%, bonds fell 15%. That's the 'correlation breakdown' that blindsided many. The lesson: diversification isn't just about asset classes; it's about understanding how they behave in different economic regimes. \n\n**Mental model:** Think of your portfolio as a team. Stocks are the strikers—they score goals but are unreliable. Bonds are the defenders—they prevent losses but won't win the game. You need both, but the mix depends on your risk tolerance and time horizon. \n\n**First principles:** A stock is a claim on residual cash flows after all debts are paid. A bond is a legal contract for fixed payments. The difference is foundational: one is residual, the other is contractual. That's why stocks have higher expected returns—they bear more uncertainty. \n\n**Bottom line:** Don't treat stocks as lottery tickets or bonds as savings accounts. They are tools with distinct jobs. Misuse them, and your portfolio will break down faster than a Ferrari on a dirt road.",
+    "key_points": [
+      "Ownership vs. Lending: Stocks make you a partner; bonds make you a banker. Partners share upside and downside; bankers get paid first but cap gains. In a boom, stocks soar; in a bust, bonds provide a floor—unless the borrower defaults.",
+      "Risk isn't volatility; it's permanent loss. Volatility is a feature, not a bug—it's the price of higher returns. Distinguish market risk (price fluctuations) from credit risk (default). A high-quality bond can fluctuate but still pay back; a junk bond may default. Stocks can lose 50% and recover; bonds can default and never come back.",
+      "The yield curve is the market's collective prediction about the future. An inverted curve (short-term yields > long-term) has preceded every recession in the last 50 years. It's not a timing signal but a warning: ignore at your peril. In 2023, inversion signaled a recession that's still pending—history says it's a matter of time."
+    ],
+    "practice": [
+      {
+        "title": "Identify Your Holdings",
+        "steps": [
+          "Check your 401(k) or brokerage account.",
+          "Identify which holdings are stocks and which are bonds.",
+          "Write down their tickers and names.",
+          "For each bond holding, check the credit rating (e.g., AAA, BB). Is it investment-grade or junk? This tells you the default risk."
+        ]
+      },
+      {
+        "title": "Compare Yields and Interpret",
+        "steps": [
+          "Look up the yield on a 10-year Treasury bond.",
+          "Look up the dividend yield on the S&P 500.",
+          "Compare them: the stock dividend yield plus expected growth vs. the bond's fixed yield. Which offers a better risk-adjusted return? Ask: why would anyone buy one over the other?",
+          "Check the yield curve: compare 2-year and 10-year Treasury yields. Is it inverted? If so, consider reducing risk in your portfolio."
+        ]
+      },
+      {
+        "title": "Stress Test Your Portfolio with a Decision Framework",
+        "steps": [
+          "Simulate a 30% stock market drop on your portfolio. How much would you lose? If the loss exceeds your risk tolerance (e.g., more than 20%), you need to rebalance to more bonds.",
+          "Simulate a 10% rise in interest rates. How much would your bonds lose? Use duration: a bond with duration 5 loses ~5% per 1% rate increase. If the loss is too high, consider shorter-duration bonds.",
+          "Which scenario hurts more? That reveals your true risk exposure. Use the 'rebalancing checklist': if stocks drop, do you have the nerve to buy more? If rates rise, can you hold bonds to maturity? Adjust your asset allocation accordingly."
+        ]
+      }
+    ],
+    "risk_notes": "The greatest trap is false precision. People think stocks are 'risky' and bonds are 'safe.' In 2022, bonds had their worst year in decades, proving that safe isn't always safe. Also, complexity: derivatives, structured notes, and ETFs blur the lines. If you don't understand what you own, you don't own it. Beware of 'bond proxies' like utilities that behave like bonds but are actually stocks. And remember: inflation is the silent killer of bonds. A 3% bond yield with 5% inflation means you're losing purchasing power. Real returns matter more than nominal.",
+    "sources": [
+      {
+        "title": "The Intelligent Investor by Benjamin Graham",
+        "url": "https://www.amazon.com/Intelligent-Investor-Updated-Practical-Advice/dp/0061809449"
+      },
+      {
+        "title": "A Random Walk Down Wall Street by Burton Malkiel",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      }
+    ],
+    "meta": {
+      "id": "Overview of financial instruments",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Stocks",
+        "Bonds"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "945763fb-2e88-453c-b4a0-a889a0b4df8b",
     "date": "2026-05-30",
     "topic": "Understanding Interest Rates: The Silent Tax or Bonus on Your Cash",
@@ -3804,77 +3869,6 @@
       "related": [
         "Tax planning",
         "Tax strategies"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "6c94ae0e-fa14-44ee-b43d-7430f8730b13",
-    "date": "2026-03-27",
-    "topic": "Insurance: The 17th-Century Bet That Protects Your Financial Future",
-    "teaser": "What if the same financial alchemy that built Lloyd's coffeehouse fortunes now quietly funds your retirement—and why most people get this bet backwards?",
-    "summary": "**In 1688 London, Edward Lloyd's coffeehouse became history's first risk exchange.** Merchants didn't just insure ships—they transformed uncertainty into mathematics. By pooling capital against shared dangers, they discovered probability's most practical application: making catastrophic loss survivable through collective foresight.\n\n**This 17th-century innovation reveals insurance's first principle:** it's not about predicting misfortune, but pricing it. When you pay premiums, you're buying certainty—converting unpredictable ruin into manageable expense. The insurer becomes your statistical partner, using the law of large numbers to make individual disasters collectively affordable.\n\n**Modern finance misunderstands this tool.** We treat insurance as expense rather than architecture—the foundation upon which all other risk-taking rests. Without proper coverage, a medical diagnosis can erase decades of compounding, a lawsuit can liquidate generational wealth, a disability can terminate earning power. Insurance isn't pessimism; it's the prerequisite for optimism.\n\n**The psychological mechanism is profound.** Proper catastrophic coverage creates what behavioral economists call 'loss aversion asymmetry'—you protect against devastating downside while remaining exposed to unlimited upside. This transforms your financial psychology: you can invest in volatile assets, launch businesses, pursue career risks, because the truly existential threats are contained. The merchants at Lloyd's weren't betting against ships—they were betting on commerce's continued expansion. Your premiums aren't a cost; they're the price of financial courage.",
-    "key_points": [
-      "Insurance as 'asymmetric loss protection': Behavioral finance reveals we feel losses twice as intensely as gains (Kahneman's loss aversion). Insurance exploits this asymmetry—paying small, certain premiums to avoid catastrophic, emotionally devastating losses. This creates psychological capital: the freedom to pursue growth risks without survival anxiety.",
-      "The availability heuristic gap: We over-insure vivid, frequent risks (phone damage, travel delays) while under-insuring abstract, catastrophic ones (disability, liability, long-term care). This misallocation stems from the availability heuristic—we protect against what easily comes to mind, not what matters most statistically. True protection requires fighting cognitive biases with data.",
-      "Float as hidden compounding engine: Insurers collect premiums years before paying claims. This 'float' creates a double economy: your protection becomes their working capital. Warren Buffett's genius was recognizing float as perpetual, zero-cost leverage—Berkshire's insurance operations fund investments that compound while claims wait. Your premium doesn't just buy safety; it joins a capital pool generating returns that ultimately benefit policyholders through competitive pricing.",
-      "The moral hazard paradox: Insurance can create perverse incentives—knowing you're protected might make you riskier. But the greater danger is 'policy complacency': believing you're covered when exclusions, limits, or fine print leave catastrophic exposure. The most expensive insurance mistake isn't the premium; it's the false confidence."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Catastrophe Number",
-        "steps": [
-          "List assets requiring protection: annual income × 10 (human capital), home equity, investment portfolio, other major assets.",
-          "Estimate maximum plausible losses: $500k+ medical event (beyond insurance caps), $1M+ liability judgment, 5-year disability at 60% income replacement, total property loss.",
-          "Use this template: [Asset] → [Worst-case loss] → [Current coverage] → [Gap]. Example: '$150k annual income → $1.5M human capital → $500k disability policy → $1M gap'.",
-          "Prioritize gaps where loss would be irreversible versus merely inconvenient."
-        ]
-      },
-      {
-        "title": "Optimize Deductibles Using the Buffett Test",
-        "steps": [
-          "For each property/auto policy, note current deductible and annual premium.",
-          "Calculate premium reduction for raising deductible to maximum you could cover from emergency fund (typically $1k-$5k).",
-          "Apply the Buffett test: 'If the savings compound at 8% annually, would I rather have this growing pool or the convenience of a lower deductible?'",
-          "Example math: Raising auto deductible from $500 to $1,500 saves $300/year. Invested at 8% for 20 years = $14,743. That's the true cost of 'convenience'."
-        ]
-      },
-      {
-        "title": "Conduct a Cognitive Bias Audit",
-        "steps": [
-          "Download a coverage audit template (digital example: Notion/Google Sheets with columns: Policy Type, Coverage Limit, Annual Premium, Protected Risk, Probability, Emotional Salience, True Need).",
-          "For each policy, ask: 'Am I insuring this because it's statistically significant or because it's emotionally available?' Mark trivial coverage (extended warranties, flight insurance) versus catastrophic (umbrella liability, disability).",
-          "Calculate premium allocation ratio: catastrophic coverage % vs. trivial coverage %. Target >80% toward true catastrophes.",
-          "Quarterly review: Has any life change (new assets, income jump, dependents) created new catastrophic exposure?"
-        ]
-      }
-    ],
-    "risk_notes": "Insurance's greatest risk is illusion of protection. Moral hazard distorts behavior when safety nets encourage recklessness. Policy complexity hides exclusions—most discover coverage gaps only at claim time. Insurers profit from both premiums and behavioral biases: they sell peace of mind for statistically insignificant risks while underpricing catastrophic coverage. The float economy creates misalignment: insurers benefit from delayed claims, potentially compromising service. Self-insurance through emergency funds remains essential—insurance should complement, not replace, personal resilience. Remember: no policy covers everything, and the fine print matters more than the marketing.",
-    "sources": [
-      {
-        "title": "Against the Gods: The Remarkable Story of Risk by Peter L. Bernstein",
-        "url": "https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639"
-      },
-      {
-        "title": "Thinking, Fast and Slow by Daniel Kahneman (Loss Aversion Principles)",
-        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
-      },
-      {
-        "title": "Berkshire Hathaway Annual Letters (Float & Insurance Economics)",
-        "url": "https://www.berkshirehathaway.com/letters/letters.html"
-      }
-    ],
-    "meta": {
-      "id": "Insurance basics",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Risk management",
-        "Life insurance"
       ],
       "tags": [
         "Basic Financial Knowledge",
