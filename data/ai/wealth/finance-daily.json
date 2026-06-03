@@ -1,5 +1,69 @@
 [
   {
+    "id": "2ffd68d5-bd11-4d11-b813-7a57bfd8d400",
+    "date": "2026-06-03",
+    "topic": "Consumer Rights & Regulation: Your Financial Shield",
+    "teaser": "Before 1972, your car could explode—and you'd have no recourse. Consumer rights are a rebellion, not a gift.",
+    "summary": "**Imagine buying a car that explodes on impact, and the manufacturer says 'too bad, you signed the waiver.' Before 1972, that was the norm.** Consumer rights aren't a gift—they're a hard-fought rebellion against legalized exploitation.\n\n**Consumer rights and regulation are legal frameworks that shift the burden of proof from the buyer to the seller.** At first principles: in a free market, information asymmetry gives sellers power. Regulation rebalances this by imposing duties (e.g., safety standards, truth in advertising) and granting remedies (e.g., refunds, damages) when products or services fail reasonable expectations.\n\n**Right now, every dollar you spend is at risk of being taken by fine print, hidden fees, or defective products.** Without knowing your rights, you're paying for things you don't get or getting harmed without recourse. In 2023, Americans lost $10 billion to fraud alone—most unrecovered because victims didn't know how to fight back.\n\nUnderstanding your rights transforms you from a passive consumer into an empowered one. It's not about being litigious; it's about knowing the rules of the game. When you buy a product, you're entering a contract. The law implies warranties—that the product is fit for its purpose—unless explicitly disclaimed. And in many cases, even disclaimers can't override consumer protection laws.\n\n**The bottom line: consumer protection is a public good, like clean air.** It's invisible when it works, but devastating when it's absent. By knowing your rights, you're not just protecting your wallet—you're upholding the standards that make markets fair.",
+    "key_points": [
+      "**Caveat Emptor is dead**: The old 'buyer beware' rule is replaced by 'seller beware' in most developed countries. You are not expected to inspect everything—the law assumes the seller has superior knowledge and must act in good faith.",
+      "**The 'Cooling-Off Rule' exploits a psychological flaw**: It counters the 'sunk cost fallacy' and 'commitment bias'—once we agree, we rationalize the decision. The 3-day (door-to-door) or 14-day (online in EU) cancellation window is designed to let reason override impulse. Use it as a forced reflection period, not a loophole.",
+      "**Implied warranties are the silent guardians**: Even an 'as is' sale often comes with an implied warranty of merchantability—the product must do what it's supposed to. This is a default legal protection you can't waive in many jurisdictions, regardless of fine print.",
+      "**Regulation is a public good, but it's underfunded**: Agencies like the FTC and CFPB recover billions annually, but for every dollar spent on enforcement, consumers lose hundreds to fraud. The real shield is your own vigilance, backed by legal leverage."
+    ],
+    "practice": [
+      {
+        "title": "Pre-Purchase Investigation",
+        "steps": [
+          "Before any major purchase, search '[product name] + recall' or '[company] + lawsuit' to see if the seller has a history of violations.",
+          "Check the Better Business Bureau or consumer review sites for complaints.",
+          "Read the fine print on warranties and return policies before buying."
+        ]
+      },
+      {
+        "title": "Leverage the Cooling-Off Period",
+        "steps": [
+          "For any subscription or service, set a calendar reminder to cancel within the first week—this leverages the cooling-off period many states mandate (e.g., 3 days for door-to-door, 14 days for online in EU).",
+          "Know that the cooling-off rule applies to door-to-door sales, certain online purchases, and some contract services.",
+          "If pressured to sign, say 'I'll review this and get back to you within the cooling-off period.'"
+        ]
+      },
+      {
+        "title": "Document and Dispute",
+        "steps": [
+          "Keep a 'rights log': Note the date, seller, and terms of every transaction over $100.",
+          "If a dispute arises, you have evidence and can file a complaint with the FTC or CFPB within minutes online.",
+          "Contact the seller first with a written dispute letter (e.g., 'I am writing to request a refund for [product] purchased on [date] due to [defect]. As per [law], I expect a resolution within 14 days.'); if unresolved, escalate to consumer protection agencies or your state attorney general."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest trap is the 'security theater' of regulation: believing that because a product is legal, it is safe or fair. Many regulations are weak, under-enforced, or written by industry lobbyists. Also, over-reliance on consumer protection can lead to moral hazard—people stop being vigilant because they assume the government will save them. The reality: you are your first and best line of defense.",
+    "sources": [
+      {
+        "title": "Nolo's Encyclopedia of Everyday Law",
+        "url": "https://www.nolo.com"
+      },
+      {
+        "title": "Consumer Financial Protection Bureau (CFPB)",
+        "url": "https://www.consumerfinance.gov"
+      }
+    ],
+    "meta": {
+      "id": "Consumer rights & regulation",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Financial regulation",
+        "Consumer protection"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "82bd475c-a12d-4f73-88d1-6a2f5022ee1a",
     "date": "2026-06-02",
     "topic": "Taxes: Your Uninvited Portfolio Partner",
@@ -3804,76 +3868,6 @@
       "related": [
         "Financial planning basics",
         "Personal finance"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "6d35a334-31dd-48dc-9d5e-6aa399fef38d",
-    "date": "2026-03-30",
-    "topic": "Debt Crises: Ancient Patterns and Modern Realities",
-    "teaser": "The Roman Empire didn't fall to barbarians—it collapsed from debt. Your finances might be following the same script. Learn to spot the crisis before it hits.",
-    "summary": "**Debt crises follow a timeless pattern: they begin when future consumption is brought forward, but future income fails to materialize.** This first principle explains why Rome collapsed under Diocletian's currency debasement and why modern economies tremble at 300% debt-to-GDP ratios. The critical insight isn't historical—it's personal. Your debt capacity isn't about what you earn today, but what you'll earn tomorrow amid economic uncertainty.\n\nCentral banks now tighten policy after a decade of easy money, making variable-rate debts more expensive and job security precarious. Like ancient empires, individuals face collapse when they can't borrow more to maintain solvency. This lesson empowers you to build resilience by recognizing that **debt crises are psychological before they're mathematical**—the moment you rationalize 'temporary' borrowing, you've entered dangerous territory. From Diocletian to the Fed, the mechanics remain eerily similar. Your task: navigate these cycles with clarity, not fear.",
-    "key_points": [
-      "Debt capacity requires a 'margin of safety'—borrow only what you can repay if income drops by one standard deviation. A surgeon with volatile $500k earnings has less safe capacity than a stable $80k teacher, because safety lies in predictability, not magnitude.",
-      "Debt spirals follow a predictable S-curve: initial borrowing fuels growth, then interest consumes cash flow, forcing more borrowing until collapse. Identifying your position on this curve—before the inflection point—allows strategic intervention.",
-      "Crisis signals emerge in cognitive dissonance: when you hide debt or justify 'one-time' loans, you've crossed into crisis territory. This psychological shift precedes mathematical default, mirroring how empires deny fragility until collapse."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Debt Service Coverage Ratio",
-        "steps": [
-          "Sum your monthly income from all sources.",
-          "Subtract essential living expenses (e.g., housing, food, utilities).",
-          "Divide the result by your total monthly debt payments.",
-          "Aim for a ratio above 1.5x; below that, you're one emergency away from trouble."
-        ]
-      },
-      {
-        "title": "Run a Rate Shock Test",
-        "steps": [
-          "List all debts with their current interest rates.",
-          "Increase each rate by 3 percentage points—a realistic stress test based on historical tightening cycles like the Fed's 1980s hikes or 2022-2023 surge.",
-          "Recalculate monthly payments and compare to your budget.",
-          "If this breaks your finances, you're over-leveraged and need to adjust immediately."
-        ]
-      },
-      {
-        "title": "Create a Debt Transparency Dashboard",
-        "steps": [
-          "Compile every liability: credit cards, loans, mortgages, etc.",
-          "For each, note the interest rate, minimum payment, and purpose (e.g., 'education,' 'car').",
-          "Display it all in one document or spreadsheet.",
-          "Review weekly to spot rationalization patterns and prioritize repayments."
-        ]
-      }
-    ],
-    "risk_notes": "Avoid binary thinking: debt paranoia can be as harmful as addiction. Shunning all debt means missing strategic opportunities, like investing in education or assets that appreciate. Leverage, when managed prudently, can amplify returns. Also, focusing solely on personal debt ignores systemic risks—even sound finances can suffer from others' recklessness through job loss or market contagion. Balance caution with opportunity.",
-    "sources": [
-      {
-        "title": "Principles for Navigating Big Debt Crises",
-        "url": "https://www.principles.com/big-debt-crises/"
-      },
-      {
-        "title": "This Time Is Different: Eight Centuries of Financial Folly",
-        "url": "https://scholar.harvard.edu/rogoff/publications/time-different-eight-centuries-financial-folly"
-      },
-      {
-        "title": "Federal Reserve Financial Stability Reports",
-        "url": "https://www.federalreserve.gov/publications/financial-stability-report.htm"
-      }
-    ],
-    "meta": {
-      "id": "Debt crisis prevention",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Debt management",
-        "Risk identification"
       ],
       "tags": [
         "Basic Financial Knowledge",

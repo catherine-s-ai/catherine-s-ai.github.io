@@ -1963,5 +1963,75 @@
         "入门"
       ]
     }
+  },
+  {
+    "id": "6d35a334-31dd-48dc-9d5e-6aa399fef38d",
+    "date": "2026-03-30",
+    "topic": "Debt Crises: Ancient Patterns and Modern Realities",
+    "teaser": "The Roman Empire didn't fall to barbarians—it collapsed from debt. Your finances might be following the same script. Learn to spot the crisis before it hits.",
+    "summary": "**Debt crises follow a timeless pattern: they begin when future consumption is brought forward, but future income fails to materialize.** This first principle explains why Rome collapsed under Diocletian's currency debasement and why modern economies tremble at 300% debt-to-GDP ratios. The critical insight isn't historical—it's personal. Your debt capacity isn't about what you earn today, but what you'll earn tomorrow amid economic uncertainty.\n\nCentral banks now tighten policy after a decade of easy money, making variable-rate debts more expensive and job security precarious. Like ancient empires, individuals face collapse when they can't borrow more to maintain solvency. This lesson empowers you to build resilience by recognizing that **debt crises are psychological before they're mathematical**—the moment you rationalize 'temporary' borrowing, you've entered dangerous territory. From Diocletian to the Fed, the mechanics remain eerily similar. Your task: navigate these cycles with clarity, not fear.",
+    "key_points": [
+      "Debt capacity requires a 'margin of safety'—borrow only what you can repay if income drops by one standard deviation. A surgeon with volatile $500k earnings has less safe capacity than a stable $80k teacher, because safety lies in predictability, not magnitude.",
+      "Debt spirals follow a predictable S-curve: initial borrowing fuels growth, then interest consumes cash flow, forcing more borrowing until collapse. Identifying your position on this curve—before the inflection point—allows strategic intervention.",
+      "Crisis signals emerge in cognitive dissonance: when you hide debt or justify 'one-time' loans, you've crossed into crisis territory. This psychological shift precedes mathematical default, mirroring how empires deny fragility until collapse."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Debt Service Coverage Ratio",
+        "steps": [
+          "Sum your monthly income from all sources.",
+          "Subtract essential living expenses (e.g., housing, food, utilities).",
+          "Divide the result by your total monthly debt payments.",
+          "Aim for a ratio above 1.5x; below that, you're one emergency away from trouble."
+        ]
+      },
+      {
+        "title": "Run a Rate Shock Test",
+        "steps": [
+          "List all debts with their current interest rates.",
+          "Increase each rate by 3 percentage points—a realistic stress test based on historical tightening cycles like the Fed's 1980s hikes or 2022-2023 surge.",
+          "Recalculate monthly payments and compare to your budget.",
+          "If this breaks your finances, you're over-leveraged and need to adjust immediately."
+        ]
+      },
+      {
+        "title": "Create a Debt Transparency Dashboard",
+        "steps": [
+          "Compile every liability: credit cards, loans, mortgages, etc.",
+          "For each, note the interest rate, minimum payment, and purpose (e.g., 'education,' 'car').",
+          "Display it all in one document or spreadsheet.",
+          "Review weekly to spot rationalization patterns and prioritize repayments."
+        ]
+      }
+    ],
+    "risk_notes": "Avoid binary thinking: debt paranoia can be as harmful as addiction. Shunning all debt means missing strategic opportunities, like investing in education or assets that appreciate. Leverage, when managed prudently, can amplify returns. Also, focusing solely on personal debt ignores systemic risks—even sound finances can suffer from others' recklessness through job loss or market contagion. Balance caution with opportunity.",
+    "sources": [
+      {
+        "title": "Principles for Navigating Big Debt Crises",
+        "url": "https://www.principles.com/big-debt-crises/"
+      },
+      {
+        "title": "This Time Is Different: Eight Centuries of Financial Folly",
+        "url": "https://scholar.harvard.edu/rogoff/publications/time-different-eight-centuries-financial-folly"
+      },
+      {
+        "title": "Federal Reserve Financial Stability Reports",
+        "url": "https://www.federalreserve.gov/publications/financial-stability-report.htm"
+      }
+    ],
+    "meta": {
+      "id": "Debt crisis prevention",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Debt management",
+        "Risk identification"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
   }
 ]
