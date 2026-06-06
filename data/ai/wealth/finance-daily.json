@@ -1,5 +1,72 @@
 [
   {
+    "id": "ff0fb4eb-f9f3-44c6-bcdc-df51debc1ff9",
+    "date": "2026-06-06",
+    "topic": "Financial Goal Setting: The Blueprint for Your Money House",
+    "teaser": "Most people pick curtains before they have a blueprint. Don't be that person.",
+    "summary": "Imagine you're building a house. Most people start by picking out curtains—a new car, a vacation, the latest gadget—while the foundation crumbles. That's what financial goal setting without a blueprint is like. But a blueprint isn't just a list of rooms; it's a structural plan that ensures every beam and nail serves a purpose. **Financial goal setting is the process of defining specific, measurable, achievable, relevant, and time-bound (SMART) objectives for your financial life, based on your values and priorities.** It's the bridge between your current reality and your desired financial future.\n\nWhy does this matter? Without clear goals, your money has no direction. You'll drift from paycheck to paycheck, reacting to emergencies instead of building wealth. In a world of infinite consumption choices and constant financial noise, goals are your compass. They help you say 'no' to things that don't matter so you can say 'yes' to what does.\n\nThink of it this way: A goal like 'save $5,000 for a down payment by December 31st, 2024' is not about the money. It's about the security of owning a home, the pride of a stable foundation, and the freedom from rent hikes. **But here's the hard truth: your savings rate—not investment returns—is the single most controllable factor in building wealth.** A 50% savings rate can make you financially independent in 17 years, regardless of market returns. That's the power of a blueprint.\n\nThe best goals are boring. Consistency beats heroics. A goal to save 15% of income every month is more powerful than aiming for a 50% one-time windfall. And set goals that are 'just right' – not too easy (no growth) and not too hard (no hope). The Goldilocks principle applies to financial ambition.\n\nIn a world of noise, your goals are your signal. They filter out distractions and keep you focused. Without them, you're just wandering. With them, you're building a house, one brick at a time.",
+    "key_points": [
+      "Your savings rate is the single most controllable factor in building wealth, far more than investment returns. A 50% savings rate can achieve financial independence in 17 years, regardless of market performance.",
+      "The best goals are boring. Consistency beats heroics. Automating a 15% savings rate each month outperforms sporadic big wins.",
+      "Set goals that are 'just right' – not too easy (no growth) and not too hard (no hope). The Goldilocks principle applies to financial ambition.",
+      "Without clear goals, you drift from paycheck to paycheck, reacting to emergencies instead of building wealth."
+    ],
+    "practice": [
+      {
+        "title": "Write a SMART Goal Using This Template",
+        "steps": [
+          "Goal: [Action verb] [Amount] for [Purpose] by [Date].",
+          "Example: 'Save $5,000 for a down payment by December 31st, 2024.'",
+          "Break it down: How much per month? ($5,000 / 12 months = $416.67/month)",
+          "Automate it: Set up a recurring transfer to a separate savings account on payday."
+        ]
+      },
+      {
+        "title": "Calculate the Cost of Waiting",
+        "steps": [
+          "For your goal, calculate the monthly savings needed if you start now vs. one month from now.",
+          "Example: $5,000 in 12 months = $416.67/month. Start in 1 month: $5,000 in 11 months = $454.55/month.",
+          "The cost of waiting one month is an extra $37.88 per month.",
+          "Write down this number and reflect: procrastination has a price."
+        ]
+      },
+      {
+        "title": "Identify a Goal Killer",
+        "steps": [
+          "Common goal killers: daily coffee shop visits ($100+/month), unused gym memberships ($50/month), premium cable subscriptions ($100/month), eating out for lunch ($150/month).",
+          "Pick one goal killer from your spending that doesn't align with your goal.",
+          "Cut it for one week and redirect that money to your goal.",
+          "Track the amount saved and note how it feels to prioritize your goal."
+        ]
+      }
+    ],
+    "risk_notes": "Over-optimization and rigidity. Setting goals can lead to tunnel vision, causing you to miss better opportunities or ignore life changes. Also, the 'goal gradient effect' can make you slack off once you're close to the finish line. And if you fail to meet a goal, you might feel shame and give up entirely. Stay flexible and forgiving.",
+    "sources": [
+      {
+        "title": "Your Money or Your Life by Vicki Robin",
+        "url": "https://www.yourmoneyoryourlife.com/"
+      },
+      {
+        "title": "Principles by Ray Dalio",
+        "url": "https://www.principles.com/"
+      }
+    ],
+    "meta": {
+      "id": "Financial goal setting",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Financial planning basics",
+        "Personal finance"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "e23ed928-bebe-43bd-a11c-2ba31bbb0531",
     "date": "2026-06-05",
     "topic": "Understanding and Preventing Personal Debt Crises",
@@ -3783,70 +3850,6 @@
       "related": [
         "Asset allocation",
         "Risk reduction"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "730ee999-a087-42cc-9567-6b3d42992b84",
-    "date": "2026-04-01",
-    "topic": "The Risk-Return Trade-Off: A Psychological Bargain with Your Future Self",
-    "teaser": "Isaac Newton lost his life savings in 1720—discover why even geniuses can't outsmart risk's fundamental asymmetry.",
-    "summary": "In 1720, Isaac Newton—the man who decoded gravity—lost his life savings in the South Sea Bubble. His famous lament, \"I can calculate the motions of heavenly bodies, but not the madness of people,\" reveals a profound truth: **the risk-return trade-off isn't a financial law, but a psychological bargain with your future self.** Even geniuses can't outsmart risk's fundamental asymmetry.\n\nLet's strip this down to **first principles**. All investments are claims on future cash flows. **Risk measures the uncertainty of those cash flows.** Return is the compensation for bearing that uncertainty. The trade-off emerges because rational markets price assets based on expected cash flows—higher uncertainty demands higher potential compensation to attract capital. This isn't abstract theory; it's the engine driving every price in financial markets.\n\nWhy does this matter **right now**? You're making this trade-off whether you realize it or not. Your cash savings are losing purchasing power to inflation (negative real return with near-zero risk). Your retirement accounts hold implicit risk positions. **Understanding this framework lets you consciously choose your risk exposure rather than having it chosen for you by default or fear.** Most people operate on autopilot—chasing returns without quantifying risks, or avoiding risk entirely while their wealth erodes. The market doesn't care about your comfort level; it simply prices uncertainty. Your job isn't to beat the market, but to understand where you sit on this spectrum and why.\n\nThis isn't about finding some optimal mathematical point. It's about aligning your investments with your **psychological durability**. The greatest portfolio in theory is worthless if you abandon it during a downturn. Newton's failure wasn't mathematical—it was emotional. He bought at the peak because everyone else was, then sold in panic when the bubble burst. **The risk-return trade-off only works if you can live with the risk.** Otherwise, you'll become your own worst enemy, buying high and selling low in a cycle of regret. Your future self is counting on you to get this right.",
-    "key_points": [
-      "Risk isn't volatility—it's the permanent loss of capital. Volatility is just the price of admission to the market.",
-      "The efficient frontier isn't a line to maximize—it's a personal comfort zone to inhabit. Your optimal portfolio is psychologically sustainable, not mathematically perfect.",
-      "High returns don't compensate for inappropriate risk. Earning 15% annually while losing sleep over 30% drawdowns is a net negative to life satisfaction.",
-      "The greatest hidden risk is mismatching time horizon with risk exposure—taking long-term risks with short-term money guarantees failure."
-    ],
-    "practice": [
-      {
-        "title": "Portfolio Risk Mapping",
-        "steps": [
-          "List all your investments (cash, bonds, stocks, alternatives) and their current values.",
-          "Place each asset class on a simple grid: low-risk/low-return (cash), medium-risk/medium-return (bonds), high-risk/high-return (stocks).",
-          "Calculate the percentage drop you could withstand before panicking—that's your true risk tolerance, not what you tell yourself in calm markets."
-        ]
-      },
-      {
-        "title": "The Sleep Test",
-        "steps": [
-          "Imagine your portfolio drops 25% tomorrow morning.",
-          "Write down your exact emotional response (e.g., 'I'd check prices every hour,' 'I'd feel sick').",
-          "Document your planned action. If it involves selling anything, your current risk exposure is too high for your psychology."
-        ]
-      },
-      {
-        "title": "30-Year Scenario Simulation",
-        "steps": [
-          "Scenario A: 6% average annual returns with low volatility (max drawdown 15%).",
-          "Scenario B: 8% average annual returns but with three 40% crashes along the way.",
-          "Which path would you actually stick with for three decades? Be brutally honest—this reveals your real risk capacity."
-        ]
-      }
-    ],
-    "risk_notes": "This framework has critical limitations. During systemic crises like 2008, correlations converge toward 1.0—supposedly 'low-risk' assets (corporate bonds, real estate) plummet alongside stocks. Psychological traps abound: chasing past returns (recency bias), underestimating tail risks (black swan blindness), and confusing familiarity with safety (home bias). The market's pricing of risk is imperfect and can disconnect from fundamentals during manias or panics. Newton's mistake wasn't mispricing the South Sea Company—it was failing to account for crowd psychology. Your biggest enemy isn't market risk, but your own behavioral responses to it.",
-    "sources": [
-      {
-        "title": "\"Against the Gods: The Remarkable Story of Risk\" by Peter L. Bernstein",
-        "url": "https://www.amazon.com/Against-Gods-Remarkable-Peter-Bernstein/dp/0471295639"
-      },
-      {
-        "title": "\"The Most Important Thing\" by Howard Marks",
-        "url": "https://www.amazon.com/Most-Important-Thing-Illuminated/dp/0231162847"
-      }
-    ],
-    "meta": {
-      "id": "Risk–return trade-off",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Portfolio diversification",
-        "Risk management"
       ],
       "tags": [
         "Investment Concepts & Principles",
