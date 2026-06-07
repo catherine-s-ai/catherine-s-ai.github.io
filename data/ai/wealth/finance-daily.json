@@ -1,5 +1,64 @@
 [
   {
+    "id": "cf22a787-3864-43b3-9791-87e1acc4a375",
+    "date": "2026-06-07",
+    "topic": "The Risk-Return Trade-Off: Why You're Not Paid to Be Smart",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "In 64 AD, Emperor Nero faced a cash crunch. His solution? Clip the edges off gold coins, melt them, and mint more coins. For a time, it worked—more money, more spending. But citizens soon realized their coins were lighter. Prices rose. Trust eroded. Nero had discovered inflation, but not the trade-off: you can't create value by diluting value.\n\nThat's the risk-return trade-off in a nutshell. Every investment is a bet on future cash flows, but the future is uncertain. The trade-off isn't between safety and greed—it's between certainty and potential. Imagine two slot machines: one pays $100 every pull; the other pays $1 with 99% probability and $10,000 with 1% probability. The expected value of the risky machine is $100.99, higher than the safe $100. But would you pull the lever? Most people say no, because the risk of getting $1 feels like a loss. That feeling is the price of potential.\n\nAt first principles: every asset has a probability distribution of returns. The wider the distribution, the higher the risk. Investors demand a premium for bearing that uncertainty—otherwise, why bother? The equity risk premium (stocks beating bonds by ~4-6% annually) is not a gift; it's compensation for enduring 50% drawdowns every decade. Today, with inflation eroding cash and bonds yielding near zero, many chase returns without understanding the trade-off. Ignoring it leads to catastrophic losses or portfolios too conservative to build wealth. This principle is the bedrock of every portfolio decision.",
+    "key_points": [
+      "**Risk is not volatility; it's the probability of permanent loss.** Volatility is just the scoreboard; permanent loss is when you're forced to sell at a bad price. The real risk is buying an asset you don't understand or can't hold through a downturn. Charlie Munger said, 'The first rule of compounding is never interrupt it unnecessarily.' That means avoiding situations where you have to sell at the worst time.",
+      "**The equity risk premium is a pain premium, not a genius premium.** History shows stocks outperform bonds, but only because they punish you severely along the way. The 4-6% annual premium is the reward for enduring stomach-churning drawdowns. If you can't tolerate the pain, you won't get the gain. It's not about being smart; it's about being able to sit still when everyone else is panicking.",
+      "**Diversification is not about maximizing returns; it's about minimizing regret.** A concentrated portfolio can outperform, but it can also destroy wealth. Diversification trades some upside for a smoother ride, which helps you stay invested. The goal is to avoid the regret of selling at the bottom. As Harry Markowitz said, 'Diversification is the only free lunch'—but it's a lunch of insurance, not feast."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Risk Capacity",
+        "steps": [
+          "Calculate your annual living expenses and subtract any guaranteed income (salary, pension). That's your 'must-have' cash flow.",
+          "Estimate the maximum percentage loss you could endure in your portfolio without changing your lifestyle—say, 20%. This is your 'sleep-at-night' drawdown.",
+          "Use the rule of thumb: maximum equity allocation = tolerable drawdown / (historical worst equity drawdown). For example, if tolerable drawdown is 20% and worst equity drawdown is 50%, equities ≤ 40%. Adjust based on your risk tolerance."
+        ]
+      },
+      {
+        "title": "Stress-Test Your Portfolio",
+        "steps": [
+          "For each asset class, look up its worst historical drawdown (e.g., S&P 500: -50% in 2008; long-term bonds: -20% in 2022).",
+          "Write down the dollar loss for your portfolio if each asset hits that drawdown simultaneously (worst case).",
+          "Now, close your eyes and imagine seeing that loss on your screen. Would you panic sell? If yes, reduce exposure to that asset until you can honestly say 'No'. If no, consider that you might be overconfident—talk to someone who lived through 2008."
+        ]
+      },
+      {
+        "title": "Simulate a Market Crash Rebalance",
+        "steps": [
+          "Assume your portfolio drops by 50% overnight. Write down your new asset allocation (e.g., stocks fell more than bonds, so stocks become a smaller percentage).",
+          "Compare to your target allocation (if you don't have one, start with 60% stocks/40% bonds). Calculate how much you need to buy or sell to rebalance.",
+          "Now, ask yourself: 'Would I actually have the guts to buy stocks when they're crashing?' If the answer is no, your target allocation is too aggressive. If yes, you are ready for the next bear market."
+        ]
+      }
+    ],
+    "risk_notes": "The risk-return trade-off assumes rational investors and efficient markets. In reality, behavioral biases (loss aversion, recency bias) cause people to overestimate risk after a crash and underestimate it after a rally. Also, during tail events (like 2008 or COVID), correlations go to 1 and diversification fails. Finally, some risks are not rewarded—speculative bubbles, illiquid assets, or leverage—where you take risk without expected return. Beware of 'fake' risk premiums like lottery stocks or crypto.",
+    "sources": [
+      {
+        "title": "Aswath Damodaran, 'Investment Valuation' (Chapter on Risk and Return)",
+        "url": "http://pages.stern.nyu.edu/~adamodar/"
+      }
+    ],
+    "meta": {
+      "id": "Risk–return trade-off",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Portfolio diversification",
+        "Risk management"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "ff0fb4eb-f9f3-44c6-bcdc-df51debc1ff9",
     "date": "2026-06-06",
     "topic": "Financial Goal Setting: The Blueprint for Your Money House",
@@ -3779,77 +3838,6 @@
       "related": [
         "Compound interest",
         "Return metrics"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "59129850-95b8-4c0d-845f-88e38737c1ec",
-    "date": "2026-04-02",
-    "topic": "Portfolio Diversification: Beyond Spreading Your Bets",
-    "teaser": "The Dutch merchant who owned 40 ships but lost everything in the tulip bubble—your diversification is probably a comforting lie.",
-    "summary": "In 1637, a Dutch merchant watched his fortune evaporate. He owned shares in 40 different ships—what seemed like the ultimate diversified portfolio. Yet when the tulip bubble collapsed, it didn't matter. **Everything failed together.**\n\nThis isn't just history—it's your portfolio today. Most investors make the same mistake: they count assets instead of counting storms. True diversification isn't about how many ships you own; it's about whether they all sink in the same hurricane.\n\n**Here's what the textbooks won't tell you:**\n\n1. **Diversification works precisely when you don't need it**—during calm markets when assets behave predictably. The moment you actually need it (during a crisis), correlations converge toward 1. Everything moves together. Your 'diversified' portfolio becomes a single bet.\n\n2. **The market charges a brutal tax for false diversification**—you pay fees, suffer complexity, and endure psychological strain for protection that often evaporates when most needed. Owning 30 tech stocks feels safe until the entire sector collapses.\n\n3. **True diversification feels wrong**—it means holding assets that perform poorly when your winners soar. It means watching part of your portfolio bleed while the rest thrives. This psychological friction causes most investors to abandon diversification at the worst possible moment.\n\n**The ruthless truth:** Most portfolios are dangerously concentrated in a single bet—'everything goes up.' When that bet fails (and history shows it always does), the consequences are catastrophic. The 2008 financial crisis wasn't a failure of diversification—it was a failure to understand what true diversification requires: assets that thrive when your core holdings collapse.\n\n**Your financial life depends on answering one question:** What assets in your portfolio would soar if your largest holding dropped 50% tomorrow? If you can't name at least three, you're not diversified—you're just spread thin.",
-    "key_points": [
-      "Diversification is a hedge against your own ignorance—but only if you're honest about what you don't know. Most investors diversify against the wrong risks.",
-      "The 'efficient frontier' is a mathematical fiction—in reality, markets have fat tails and black swans that make optimal diversification impossible. True diversification prepares for the impossible.",
-      "Correlation is a fair-weather friend—it works until it doesn't. During crises, all assets become correlated. True diversification requires assets that are fundamentally different, not just statistically uncorrelated.",
-      "Diversification's greatest enemy is success—when concentrated bets pay off, diversification feels like a tax on genius. This psychological trap destroys more wealth than market crashes."
-    ],
-    "practice": [
-      {
-        "title": "The 'One Storm' Test: Discover Your True Number of Bets",
-        "steps": [
-          "List your 5 largest holdings (by value or emotional attachment)",
-          "For each holding, ask: 'What economic storm would destroy this?' (e.g., rising rates kill bonds, regulation kills tech, deflation kills gold)",
-          "Now identify: Do all your holdings fear the same storm? If yes, you have one bet, not many",
-          "Find one asset that thrives in each storm you identified—these are your true diversifiers"
-        ]
-      },
-      {
-        "title": "The 'Painful Holding' Audit: Build Psychological Resilience",
-        "steps": [
-          "Identify the asset in your portfolio that has performed worst recently",
-          "Ask: 'Do I understand why I own this?' If the answer is 'for diversification,' dig deeper",
-          "Research what conditions would make this asset soar while your winners collapse",
-          "If you can't stomach holding it through another bad year, you don't truly believe in diversification"
-        ]
-      },
-      {
-        "title": "The 'History Repeats' Scenario: Stress Test Without Math",
-        "steps": [
-          "Pick three historical crises: 2008 (financial collapse), 2020 (pandemic), 1970s (stagflation)",
-          "For each crisis, identify which of your assets would have been destroyed",
-          "More importantly, identify which would have thrived",
-          "If you don't have assets that would thrive in each scenario, you're not prepared for history's next chapter"
-        ]
-      }
-    ],
-    "risk_notes": "Diversification has three fatal flaws: 1) **The correlation trap**—during true crises, everything becomes correlated (2008 showed this brutally), 2) **The complexity tax**—more assets mean more fees, more monitoring, more behavioral errors, 3) **The mediocrity guarantee**—true diversification means you'll never have a top-performing portfolio, only one that survives. The hidden truth: diversification isn't about maximizing returns—it's about surviving long enough to compound. Most investors fail because they want both outperformance and safety, which is mathematically impossible. True diversification requires accepting that you'll look foolish during bull markets to avoid being destroyed during bear markets.",
-    "sources": [
-      {
-        "title": "Kenneth French's Data Library (Fama-French factors showing diversification benefits)",
-        "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html"
-      },
-      {
-        "title": "Ray Dalio's \"Principles for Navigating Big Debt Crises\" (Chapter on diversification across uncorrelated return streams)",
-        "url": "https://www.principles.com/big-debt-crises/"
-      },
-      {
-        "title": "Nassim Taleb's \"The Black Swan\" (Chapter on why correlation breaks down when you need it most)",
-        "url": "https://www.fooledbyrandomness.com/"
-      }
-    ],
-    "meta": {
-      "id": "Portfolio diversification",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Asset allocation",
-        "Risk reduction"
       ],
       "tags": [
         "Investment Concepts & Principles",
