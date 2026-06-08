@@ -1,5 +1,77 @@
 [
   {
+    "id": "37b46d1b-6f78-4bcd-9e0a-b01322b6ab9d",
+    "date": "2026-06-08",
+    "topic": "Diversification: The Art of Not Betting the Farm",
+    "teaser": "Why the world's greatest investors admit they know nothing—and how you can profit from their humility.",
+    "summary": "Imagine a farmer in ancient Mesopotamia who plants only wheat. A drought comes—he starves. His neighbor plants wheat, barley, and lentils. He loses some, but survives. That’s diversification: not betting the farm on one thing. But here’s the deeper truth: diversification is an admission of ignorance. You don’t know which crop will thrive, which stock will soar, or which black swan will strike. So you hedge your bets. As Ray Dalio would say, you build a ‘risk parity’ portfolio—balancing assets so that no single shock wipes you out. Morgan Housel reminds us that the real value of diversification isn’t higher returns; it’s the ability to sleep at night during a crash. And Richard Feynman would ask: how do we know it works? Through the first principle of correlation—the statistical magic that makes 1+1 > 2. When stocks zig and bonds zag, your portfolio glides. But here’s the catch: correlation is a fickle lover. In a crisis, everything correlates to 1—stocks, bonds, even gold can fall together. That’s why true diversification requires assets with truly independent risk drivers: not just asset classes, but strategies, geographies, and time horizons. The S&P 500’s top 10 stocks now account for 30% of its value. If they tumble, your ‘diversified’ 401(k) could still get crushed. The antidote? Own the whole haystack—but also own insurance: long-duration bonds, trend-following commodities, and maybe a dash of cash. Because the only certainty is uncertainty.",
+    "key_points": [
+      "Diversification is an admission of ignorance: You don't know which asset will outperform, so you own them all—a humble acknowledgment of uncertainty.",
+      "The true benefit is not higher returns, but a smoother ride—reducing the chance of catastrophic loss. As Housel says, ‘Survival is the only way to compound.’",
+      "Correlation is the key, but it breaks down in crises: during panics, all correlations converge to 1. True diversification requires assets with independent risk drivers, not just historical low correlation.",
+      "Diversification can hurt during bubbles: owning everything means owning overvalued assets too. In 1999, a diversified portfolio still lost money when the dot-com bubble burst—because bonds and value stocks also suffered. The lesson: diversification is a long-term strategy, not a panic button."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Portfolio's Correlation to the S&P 500",
+        "steps": [
+          "Step 1: Download your portfolio's monthly returns for the past 3 years (or use a tool like Portfolio Visualizer).",
+          "Step 2: In Excel, use the CORREL function: =CORREL(your_returns, S&P_500_returns).",
+          "Step 3: If the result is above 0.9, you are heavily correlated. Add assets with low or negative correlation: long-term Treasuries (TLT), gold (GLD), or managed futures (DBMF).",
+          "Step 4: Recalculate after adding new assets to see the improvement."
+        ]
+      },
+      {
+        "title": "Check Your Top 5 Holdings",
+        "steps": [
+          "Step 1: List your top 5 positions by market value (stocks, ETFs, mutual funds).",
+          "Step 2: Add up their percentages. If they exceed 20% of your portfolio, you are concentrated.",
+          "Step 3: Trim the largest position by 50% and spread the proceeds equally into a small-cap index (IWM), an international fund (VXUS), and a REIT (VNQ).",
+          "Step 4: Set a rule: no single holding > 5% of portfolio."
+        ]
+      },
+      {
+        "title": "Simulate a 2008-Style Crash",
+        "steps": [
+          "Step 1: Go to Portfolio Visualizer's 'Stress Test' tool (free).",
+          "Step 2: Enter your portfolio tickers and weights.",
+          "Step 3: Select the '2008 Financial Crisis' scenario (S&P 500 -38%, 10yr Treasury +20%).",
+          "Step 4: Note the estimated loss. If > 30%, rebalance: increase bonds to 40% (e.g., TLT) and add a trend-following ETF (e.g., KMLM).",
+          "Step 5: Rerun the stress test. Aim for a loss < 20% in a 2008 repeat."
+        ]
+      }
+    ],
+    "risk_notes": "Over-diversification can dilute returns and lead to 'diworsification'—owning too many mediocre assets. It also creates complexity and higher costs. Psychologically, it can give a false sense of security, leading to complacency during bubbles. Diversification does not guarantee against loss; it only reduces the impact of any single event. In a systemic crisis, all correlations rise, so even a diversified portfolio can suffer. The key is to rebalance ruthlessly and include non-correlated assets like trend-following strategies or catastrophe bonds.",
+    "sources": [
+      {
+        "title": "The Intelligent Investor by Benjamin Graham",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "The Black Swan by Nassim Taleb",
+        "url": "https://www.amazon.com/Black-Swan-Impact-Highly-Improbable/dp/081297381X"
+      },
+      {
+        "title": "Portfolio Visualizer",
+        "url": "https://www.portfoliovisualizer.com/"
+      }
+    ],
+    "meta": {
+      "id": "Portfolio diversification",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Asset allocation",
+        "Risk reduction"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "cf22a787-3864-43b3-9791-87e1acc4a375",
     "date": "2026-06-07",
     "topic": "The Risk-Return Trade-Off: Why You're Not Paid to Be Smart",
@@ -3774,70 +3846,6 @@
       "related": [
         "Long-term investing",
         "Trading"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "23696992-7c6e-4720-b092-f2f625133bad",
-    "date": "2026-04-03",
-    "topic": "Annualized vs. Compound Returns: The Dangerous Illusion in Your Investment Statements",
-    "teaser": "Your investment statement shows an 8% annual return—a comforting fiction that could cost you everything when the market's true volatility arrives.",
-    "summary": "**The difference between annualized and compound returns is the difference between a tourist's photo of a mountain and a mountaineer's journal.** One shows you the average view; the other reveals the treacherous path you actually climbed.\n\nConsider two decades: 1990-2009 and 2010-2029. Both periods delivered roughly 8% annualized returns for the S&P 500. But the journey was radically different. The first period included the dot-com bubble and the 2008 financial crisis—years of -37% and -38.5% losses that devastated portfolios at the worst possible moments. The second period was a steady bull market with consistent gains. The annualized number treats these as identical journeys, but your retirement account knows the brutal truth: **annualized returns are backward-looking fictions that ignore path dependency, the single most important concept in retirement planning.**\n\n**Why does this distinction matter so much?** Because every investment statement you encounter uses these metrics, and misunderstanding them leads to catastrophic planning errors. If you expect your 8% annualized return to deliver 8% every year, you'll be shocked when real markets deliver -20%, +30%, and +15%. This gap between expectation and reality destroys portfolios during downturns, as investors panic-sell when volatility inevitably appears.\n\nThink of it this way: two portfolios can have identical 7% annualized returns over a decade. One achieved this through steady 7% annual gains. The other swung wildly between -15% and +30% years. The annualized number hides this volatility completely, creating what I call the **'smoothness illusion'**—making risky investments appear safer than they are. This isn't just academic; it's the difference between retiring comfortably and running out of money.\n\nThe brutal mathematics of compounding work both ways: **a 50% loss requires a 100% gain just to break even.** Annualized returns often obscure this reality, presenting a sanitized version of your investment journey. When you understand that annualized returns are mathematical conveniences for comparison—not promises of consistent performance—you stop extrapolating past returns into the future and start preparing for the actual volatility you'll face.",
-    "key_points": [
-      "Annualized returns are backward-looking fictions that ignore path dependency, the single most important concept in retirement planning",
-      "Sequence of returns risk: Two investments with the same annualized return can produce vastly different ending wealth depending on when gains and losses occur, especially during withdrawal phases",
-      "Compounding's asymmetric nature: A 50% loss requires 100% gain to recover—annualized returns often mask this mathematical brutality",
-      "Annualized returns become meaningless over short periods or extreme volatility, encouraging dangerous extrapolation of past performance"
-    ],
-    "practice": [
-      {
-        "title": "Deconstruct Your Most Volatile Investment",
-        "steps": [
-          "Select your most volatile holding (check your investment statements)",
-          "Calculate its actual year-by-year returns for the past 5 years",
-          "Compute the annualized return using the formula: (Ending Value / Beginning Value)^(1/Years) - 1",
-          "Compare the single annualized number to the actual year-by-year journey—notice what stories get erased"
-        ]
-      },
-      {
-        "title": "Simulate the Smoothness Illusion",
-        "steps": [
-          "Take $10,000 and apply a smooth 7% annual return for 20 years (calculate: $10,000 × 1.07^20)",
-          "Take the same $10,000 and apply this volatile sequence: Year 1: -15%, Year 2: +30%, Year 3: +10%, Year 4: -5%, Year 5: +25% (then repeat this 5-year pattern for 20 years)",
-          "Calculate the annualized return for the volatile sequence using the same formula",
-          "Compare final amounts—they'll have identical annualized returns but different ending wealth",
-          "Track your emotional reaction when comparing the smoothed annualized number to the volatile reality—this psychological gap is where most investment mistakes occur"
-        ]
-      },
-      {
-        "title": "Audit Your Investment Statements",
-        "steps": [
-          "Pull up your most recent investment statement from any brokerage",
-          "Identify whether displayed returns are labeled as 'annualized' or 'total'",
-          "If annualized, ask: 'Over what exact time period? During which market cycle?'",
-          "Research what the actual year-by-year returns were during that period"
-        ]
-      }
-    ],
-    "risk_notes": "Annualized returns become particularly dangerous in three scenarios: 1) Over very short periods (less than a year) where they're mathematically meaningless, 2) During extreme market volatility where they create false stability perceptions, and 3) In withdrawal phases where sequence risk makes the smoothed number irrelevant. Psychologically, they encourage extrapolation of past performance while ignoring mean reversion and changing market regimes. The greatest risk isn't mathematical—it's behavioral: investors who believe the smoothed version will panic when reality delivers volatility.",
-    "sources": [
-      {
-        "title": "Search: Annualized vs. Compound Returns: The Dangerous Illusion in Your Investment Statements",
-        "url": "https://www.google.com/search?q=Annualized%20vs.%20Compound%20Returns%3A%20The%20Dangerous%20Illusion%20in%20Your%20Investment%20Statements"
-      }
-    ],
-    "meta": {
-      "id": "Annualized & compound returns",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Compound interest",
-        "Return metrics"
       ],
       "tags": [
         "Investment Concepts & Principles",
