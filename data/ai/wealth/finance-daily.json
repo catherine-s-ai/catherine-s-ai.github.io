@@ -1,5 +1,67 @@
 [
   {
+    "id": "2785be75-e620-43eb-809c-c71d83f5ba9b",
+    "date": "2026-06-09",
+    "topic": "Annualized Return: The True Measure of Investment Growth",
+    "teaser": "Your money is reproducing. Are you accidentally killing its offspring?",
+    "summary": "**Compound interest isn't math; it's biology. Like cells dividing, money reproduces—but only if you don't kill the offspring.**\n\nImagine a colony of bacteria that doubles every hour. If one hour you kill 50% of the colony, the next hour they must grow 100% just to get back to the original size. That's the brutal math of volatility. **Annualized return** is the geometric average rate of return per year, accounting for compounding. It answers: *If your investment grew at a constant rate each year, what would that rate be?* First principles: if you earn r% each year for n years, your initial $1 becomes $(1+r)^n$. The annualized return is the single rate that, compounded over n years, equals the total growth.\n\n**Why it matters:** Most investors focus on total returns, ignoring the devastating effect of volatility. A 50% loss requires a 100% gain to break even—annualized returns expose the real growth rate. For example, a fund that gains 20% one year and loses 20% the next has a cumulative return of -4%, not 0%. The annualized return is about -2.02%, revealing the true cost of volatility. Understanding this prevents you from being misled by headline returns and helps you set realistic expectations for wealth accumulation. It's the difference between thinking you're on track and actually being on track.\n\n**The Investor's Dilemma:** In 2008, the S&P 500 fell 37%. By 2012, it had recovered. But an investor who panicked and sold at the bottom locked in losses, while another who stayed invested broke even. The annualized return over that period was about -1.5% for the stayer—a sobering reminder that volatility kills compounding.",
+    "key_points": [
+      "Volatility decay: A 20% gain followed by a 20% loss results in a -4% cumulative return, not 0%. Sequence of returns matters more than average returns. The damage is asymmetric: losses hurt more than equivalent gains help.",
+      "Annualized return hides the risk of ruin: a 99% gain followed by a 100% loss wipes you out, but the annualized return doesn't capture that. The geometric mean is always less than the arithmetic mean; the gap is a measure of volatility drag.",
+      "The Rule of 72 is a rough mental model, but precision matters less than the insight: small differences in return compound to huge differences over decades. At 1% it takes 70 years to double; at 10% it takes 7.2 years. The real insight: time is the multiplier of return, and volatility is the subtractor."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Annualized Return",
+        "steps": [
+          "Find your portfolio's ending value and starting value over the past 5 years.",
+          "Divide ending value by starting value.",
+          "Raise the result to the power of (1/5).",
+          "Subtract 1 and multiply by 100 to get percentage.",
+          "Compare to S&P 500's annualized return over the same period. If yours is lower, ask: Did I panic-sell? Did I add money at the wrong time? Consider rebalancing or changing your strategy."
+        ]
+      },
+      {
+        "title": "Simulate a Market Drop Recovery",
+        "steps": [
+          "Assume your portfolio drops 50%.",
+          "Calculate the future value needed to break even: starting value * 2.",
+          "Using a 10% annual return, solve for years: log(2)/log(1.10) ≈ 7.27 years.",
+          "Now simulate a scenario: you have $100,000, drop to $50,000, then earn 10% annually. After 7.27 years you're back to $100,000. But if you had avoided the drop, $100,000 at 10% for 7.27 years would be $200,000. The drop cost you $100,000 in future value."
+        ]
+      },
+      {
+        "title": "Compare Time-Weighted vs Money-Weighted Return",
+        "steps": [
+          "Locate your brokerage statement for both return types.",
+          "Note the difference: time-weighted measures manager performance, money-weighted measures your timing.",
+          "If money-weighted is lower, you likely added money before drops or withdrew after gains. Decision: If your personal return lags the fund's return by more than 2% annually, consider automating contributions to avoid emotional timing."
+        ]
+      }
+    ],
+    "risk_notes": "Annualized returns assume reinvestment of all gains, which is unrealistic (taxes, spending). They also smooth out volatility, hiding the emotional pain of drawdowns. Psychologically, investors overestimate future returns by extrapolating recent high annualized returns, leading to risk-taking just before reversals.",
+    "sources": [
+      {
+        "title": "Search: Annualized Return: The True Measure of Investment Growth",
+        "url": "https://www.google.com/search?q=Annualized%20Return%3A%20The%20True%20Measure%20of%20Investment%20Growth"
+      }
+    ],
+    "meta": {
+      "id": "Annualized & compound returns",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Compound interest",
+        "Return metrics"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "37b46d1b-6f78-4bcd-9e0a-b01322b6ab9d",
     "date": "2026-06-08",
     "topic": "Diversification: The Art of Not Betting the Farm",
@@ -3780,72 +3842,6 @@
       "related": [
         "Market anomalies",
         "CAPM"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "31238d17-3e9b-4f53-b9b1-053f347ce8d7",
-    "date": "2026-04-04",
-    "topic": "Investing vs. Speculating: The Eternal Financial Distinction",
-    "teaser": "The AI stock you bought last week—is it the next Amazon or just a digital tulip? Most people can't tell until it's too late. Here's how to know before the next 40% crash.",
-    "summary": "Last month, Nvidia's stock surged 27% in a single day on AI hype. Retail investors poured billions into call options, chasing momentum. Meanwhile, its actual business—selling chips—grew at a predictable 15% annual rate. This disconnect isn't new; it's the oldest story in finance. In 1720, British aristocrats mortgaged estates to buy South Sea Company shares, believing they'd discovered infinite wealth. They weren't investing in trade routes; they were speculating on greater fools. The same psychology fueled 1929's margin traders, 1999's dot-com day traders, and today's crypto degens.\n\n**Investing** is purchasing productive assets at rational prices—you're buying cash flows. **Speculating** is purchasing price movements—you're buying narratives. The first principle: investing extracts value from economic output; speculating extracts value from other participants' psychological errors.\n\nWhy this matters now: We're in the late stages of a everything bubble—AI stocks trading at 50x sales, cryptocurrencies with no cash flows, meme stocks driven by social media sentiment. The danger isn't just losing money; it's wasting your most precious resource: time. A decade of speculative losses can't be recovered. The 2008 housing crisis showed how speculation disguised as 'safe investing' destroys lifetimes of savings. Today's version is more insidious because it's democratized—anyone with a Robinhood account can leverage options on unprofitable tech stocks while calling it 'investing.'\n\nYour psychological blind spot: During bubbles, speculation feels like genius. In 1999, day traders quit jobs to 'invest' full-time. In 2021, crypto influencers promised lambos. The crash reveals the truth—but by then, the damage is done. Your goal isn't to eliminate speculation (impossible in modern markets) but to quarantine it: recognize when you're gambling with retirement money dressed up as 'conviction investing.'",
-    "key_points": [
-      "The Time Horizon Paradox: Asking 'Would I hold through a 50% drop?' is useless—you can't simulate panic. The real test: Have you structured your portfolio so market crashes are irrelevant? True investing means owning assets so productive that daily prices are noise. If you're checking stock apps weekly, you're likely speculating.",
-      "The Productivity Spectrum: Cash flows matter, but early Amazon had negative cash flow for years while building massive productive potential. The deeper filter: Is this asset creating societal value independent of market sentiment? Bitcoin creates value for speculators; Microsoft Excel creates value for businesses. One is speculation, the other investment—even if both are volatile.",
-      "The Ownership Mindset: Investors measure in decades; speculators measure in days. This difference in time preference changes everything: investors worry about business models, speculators worry about Fed meetings. When you think in decades, a 40% drop is a buying opportunity. When you think in days, it's a catastrophe."
-    ],
-    "practice": [
-      {
-        "title": "The Job Loss Stress Test",
-        "steps": [
-          "Look at your portfolio today",
-          "Assume you lose your primary income tomorrow",
-          "Calculate what percentage you'd need to sell to cover 6 months of expenses",
-          "If it's over 10%, you're speculating with money you can't afford to lose"
-        ]
-      },
-      {
-        "title": "The Narrative vs. Numbers Journal",
-        "steps": [
-          "For each holding, write two sentences: one describing the business model, one describing the market narrative",
-          "Example: 'Nvidia makes AI chips (business). Nvidia is the future of computing (narrative).'",
-          "If the narrative sentence is longer or more emotionally charged, you're likely speculating",
-          "Track how often you check prices on narrative-driven vs. business-driven holdings"
-        ]
-      },
-      {
-        "title": "The Decade Commitment Exercise",
-        "steps": [
-          "Take your largest holding",
-          "Write down three specific business milestones you expect in the next 10 years (e.g., 'This company will double its market share in cloud services')",
-          "Now write down three price targets for next month",
-          "If the monthly targets come easier than the decade milestones, you're speculating"
-        ]
-      }
-    ],
-    "risk_notes": "This framework has important limitations. During hyperinflation (Weimar Germany, Zimbabwe), all assets become speculation on the monetary system—cash flows become meaningless when currency evaporates. The psychological trap is worse than confirmation bias; it's identity protection—speculators will defend losing positions because admitting they're gambling would threaten their self-image as 'smart investors.' Also, survivor bias distorts history: we remember the Buffetts who invested, but forget that most 1929 speculators were completely wiped out. In efficient markets, the line blurs—which is why Bogle argued most people should index rather than pretend they can distinguish investment from speculation in individual stocks.",
-    "sources": [
-      {
-        "title": "The Intelligent Investor by Benjamin Graham",
-        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
-      },
-      {
-        "title": "A Random Walk Down Wall Street by Burton Malkiel",
-        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
-      }
-    ],
-    "meta": {
-      "id": "Investing vs. speculating",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Long-term investing",
-        "Trading"
       ],
       "tags": [
         "Investment Concepts & Principles",
