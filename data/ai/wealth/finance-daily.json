@@ -1,5 +1,69 @@
 [
   {
+    "id": "24ee09a1-3254-4eea-b5fc-dc2f7378c2f2",
+    "date": "2026-06-10",
+    "topic": "Investing vs. Speculation",
+    "teaser": "Newton lost a fortune in 1720. Are you making the same mistake?",
+    "summary": "In 1720, Sir Isaac Newton, the man who unraveled the laws of gravity, fell for the greatest financial illusion of his era: the South Sea Company. He poured his savings into a stock that promised riches from trade with South America—a venture that had almost no actual business. When the bubble burst, Newton lost £20,000 (millions today). His lament, 'I can calculate the motion of heavenly bodies, but not the madness of people,' is a timeless warning. Newton confused **investing** with **speculation**. Investing means owning a piece of a business that generates cash flows—profits, dividends, growth. Speculation means betting on price changes driven by crowd psychology, with no regard for underlying value. It's the difference between buying a farm for its crops and buying a lottery ticket for its potential resale. Today, millions of new investors are repeating Newton's error, piling into meme stocks and cryptocurrencies that lack fundamental earnings. The urgency? Inflation is eating cash savings. But the real danger is mistaking a gamble for a strategy. **Investing compounds your capital over decades; speculation can vaporize it in weeks.** Understand the line, or risk joining Newton in the annals of financial folly.",
+    "key_points": [
+      "The 'greater fool theory' is the engine of speculation: you buy an overvalued asset hoping to sell it to someone even more foolish. Investing assumes the asset itself generates value over time. The difference is not just semantics—it's the difference between owning a cash-flow machine and hoping for a greater fool.",
+      "Volatility is not risk for investors; it is risk for speculators. An investor who bought the S&P 500 at the 2007 peak saw a 50% drawdown but recovered within 5 years—because the underlying businesses kept earning. A speculator who bought at the same peak likely sold at the bottom, locking in losses. Volatility is the price of entry for investors; it's the endgame for speculators.",
+      "Time horizon is a red herring. Holding a meme stock for 10 years is still speculation if the business has no earnings power—you're just a patient gambler. Conversely, a one-day trade in a bond can be investing if it's based on a known interest payment—the source of return is fundamental, not price action. The classification depends on the *source of return*, not the holding period."
+    ],
+    "practice": [
+      {
+        "title": "Articulate the Source of Return",
+        "steps": [
+          "Before any purchase, write down the specific source of expected return (e.g., dividends, earnings growth, interest).",
+          "If you cannot articulate a fundamental source, you are speculating."
+        ]
+      },
+      {
+        "title": "Check Portfolio Turnover",
+        "steps": [
+          "Calculate your portfolio's annual turnover ratio (total trades divided by average portfolio value).",
+          "If it exceeds 50% annually, you are likely speculating, not investing."
+        ]
+      },
+      {
+        "title": "Simulate a 50% Crash",
+        "steps": [
+          "Imagine any asset you hold drops 50% overnight.",
+          "If your plan is to sell, you are speculating. If your plan is to buy more or hold, you are investing."
+        ]
+      }
+    ],
+    "risk_notes": "The line between investing and speculation is blurry. Many successful investors (e.g., Buffett) have made speculative bets (e.g., options on indexes). Conversely, speculation can be part of a disciplined strategy (e.g., trend following). The psychological trap is overconfidence: investors often rationalize speculation as 'strategic investing' during bubbles. Also, pure investing ignores opportunities in momentum or arbitrage that can generate alpha.",
+    "sources": [
+      {
+        "title": "The Intelligent Investor",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "A Random Walk Down Wall Street",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      },
+      {
+        "title": "Security Analysis",
+        "url": "https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions/dp/0071592539"
+      }
+    ],
+    "meta": {
+      "id": "Investing vs. speculating",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Long-term investing",
+        "Trading"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "2785be75-e620-43eb-809c-c71d83f5ba9b",
     "date": "2026-06-09",
     "topic": "Annualized Return: The True Measure of Investment Growth",
@@ -3782,66 +3846,6 @@
       "related": [
         "Cognitive bias",
         "Emotional bias"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "7cd55584-2817-4ca2-871c-304607074ab6",
-    "date": "2026-04-05",
-    "topic": "The Efficient Market Hypothesis: Why You Can't Beat the Market (And When You Can)",
-    "teaser": "The theory that says you can't win at investing is the same one that created the world's greatest fortunes—here's what they're not telling you.",
-    "summary": "**Picture this: In 1965, a young Warren Buffett took control of Berkshire Hathaway—a failing textile mill. While academics at the University of Chicago were proving mathematically that beating the market was impossible, Buffett was quietly building what would become a $900 billion empire by doing exactly that. This isn't a contradiction—it's the central paradox of modern finance.**\n\n**The Iron Law of Markets:** The efficient market hypothesis (EMH) emerged not from ivory towers but from observing a brutal reality: professional money managers couldn't consistently beat dart-throwing monkeys. Eugene Fama's 1965 research showed something profound—**markets digest information with terrifying speed.** When news breaks, prices adjust before most humans can react. This isn't theory; it's observable physics. The 1987 crash saw markets drop 22% in a single day with no fundamental news—just machines reacting to other machines.\n\n**Why This Matters More Than Ever:** You live in the most information-saturated era in history, yet your edge has never been smaller. High-frequency traders execute orders in microseconds. AI algorithms parse earnings calls in real-time. **The market isn't just efficient—it's anticipatory.** This changes everything: your broker's 'hot tip' was priced in before he finished the sentence. The crypto influencer's 'next big thing' has already been arbitraged by quant funds you've never heard of.\n\n**The Beautiful Irony:** EMH's greatest critics—Buffett, Soros, Simons—became billionaires not by disproving it, but by understanding its limitations better than anyone. They discovered that **markets are efficiently inefficient.** Like a forest that appears uniform from above but reveals microclimates and hidden streams upon closer inspection, markets contain pockets of predictable irrationality. The 2000 dot-com bubble wasn't market failure—it was perfect efficiency at reflecting collective delusion.\n\n**Your Practical Reality:** For 95% of investors, EMH is liberating truth. Stop trying to outsmart machines. Your informational 'edge' is likely imaginary. But for the 5% with genuine insight—whether behavioral (recognizing patterns of human irrationality), structural (understanding regulatory changes before they're priced), or analytical (seeing connections others miss)—EMH provides the ultimate framework. It forces the only question that matters: **'What do I know that hasn't been processed by the collective intelligence of millions of traders, thousands of algorithms, and trillions in capital?'** If your answer survives that scrutiny, you're not gambling—you're engaging in the highest form of financial craftsmanship.",
-    "key_points": [
-      "Market efficiency operates like thermodynamics—it describes aggregate behavior while allowing for local violations. Just as perpetual motion machines can't exist but temporary energy concentrations do, markets can't be consistently beaten but contain temporary mispricings that skilled investors exploit",
-      "Efficiency breaks down predictably in three scenarios: 1) During liquidity crises when forced selling creates fire-sale prices (2008), 2) In complex securities where information asymmetry persists (mortgage-backed securities pre-2008), 3) When behavioral biases create systematic errors (value stocks being chronically underpriced due to recency bias)",
-      "The greatest insight isn't whether markets are efficient, but understanding that efficiency itself creates new inefficiencies. When everyone indexes, price discovery breaks down—creating opportunities for active investors. This is the market's self-correcting mechanism",
-      "EMH's most practical application is as a Bayesian filter: Start with the prior that markets are efficient, then require overwhelming evidence to override it. Most investment theses fail this test—the few that pass become legendary fortunes"
-    ],
-    "practice": [
-      {
-        "title": "The Information Edge Quantifier",
-        "steps": [
-          "For each investment idea, assign numerical scores (1-10) to: 1) Timeliness (How many hours/days before this becomes widely known?), 2) Exclusivity (How many other investors have this insight?), 3) Verifiability (Can this be objectively tested against data?)",
-          "Calculate your Edge Score: (Timeliness × Exclusivity × Verifiability) / 1000. Scores below 0.3 suggest you're trading on public information; above 0.7 indicates genuine edge",
-          "Track your Edge Scores versus actual returns over 12 months to calibrate your self-assessment accuracy"
-        ]
-      },
-      {
-        "title": "Portfolio Efficiency Benchmarking",
-        "steps": [
-          "Calculate your active portfolio percentage, then compare to historical benchmarks: Top quartile hedge funds maintain 20-40% active exposure; retail investors average 70% (and underperform by 3-5% annually)",
-          "For each active position, document: 1) The specific inefficiency you're exploiting (behavioral, structural, informational), 2) Expected holding period until market corrects the mispricing, 3) Maximum position size based on Kelly Criterion",
-          "Quarterly review: If active positions underperform their respective index equivalents by >2% for two consecutive quarters, automatically revert to index allocation"
-        ]
-      },
-      {
-        "title": "The Tomorrow's Newspaper Stress Test",
-        "steps": [
-          "For each investment, write the headline that would appear if your thesis proved correct (e.g., 'Company X Discovers Revolutionary Battery Technology')",
-          "Estimate: 1) How many minutes before algorithmic traders react, 2) What percentage price move would occur, 3) Whether you could exit at favorable prices given liquidity constraints",
-          "If the headline wouldn't move markets significantly, or if you couldn't capitalize due to speed/liquidity constraints, your 'edge' is likely illusory"
-        ]
-      }
-    ],
-    "risk_notes": "The efficient market hypothesis contains dangerous subtleties that have bankrupted otherwise intelligent investors. **The efficiency trap:** Believing markets are perfectly efficient leads to under-diversification (\"why hedge if prices are always right?\") and missing structural shifts. **The inefficiency trap:** Seeing inefficiencies everywhere leads to overtrading and ruin—most perceived mispricings are risk premiums in disguise. **Historical context matters:** EMH emerged during the 1960-80 period of rising markets and increasing institutionalization—it may be less applicable during deglobalization or technological disruption. **The liquidity illusion:** Markets appear efficient during normal times but can become violently inefficient during crises when liquidity evaporates. **The greatest risk:** Using EMH as a blanket excuse for intellectual laziness rather than as a framework for rigorous hypothesis testing. Remember Long-Term Capital Management—Nobel laureates in economics who understood EMH perfectly still blew up because they underestimated tail risk.",
-    "sources": [
-      {
-        "title": "The Warren Buffett Archive - annual letters challenging market efficiency",
-        "url": "https://www.berkshirehathaway.com/letters/letters.html"
-      }
-    ],
-    "meta": {
-      "id": "Efficient market theory",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Market anomalies",
-        "CAPM"
       ],
       "tags": [
         "Investment Concepts & Principles",
