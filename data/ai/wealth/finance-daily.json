@@ -1,5 +1,64 @@
 [
   {
+    "id": "8a9f6354-6bde-4df0-94cc-58a8f0660e79",
+    "date": "2026-06-11",
+    "topic": "Efficient Market Hypothesis (EMH)",
+    "teaser": "If the market knows everything, how do some investors win? The truth will surprise you.",
+    "summary": "**Imagine you're at a poker table where every player can see everyone else's cards.** That's the stock market according to the **Efficient Market Hypothesis (EMH)**. But if that were true, why do some players consistently win?\n\nThe **Efficient Market Hypothesis** states that asset prices fully reflect all available information. In its strongest form, it implies that it's impossible to consistently achieve higher returns than the overall market through stock picking or market timing, because any new information is instantly priced in. From first principles: markets are informationally efficient; prices follow a random walk; past performance doesn't predict future returns.\n\n**Why it matters:** If EMH holds, your active trading or fund picking is likely a waste of time and money. In a world of index funds and robo-advisors, understanding EMH helps you decide whether to 'beat the market' or join it. With millions of algorithms and analysts competing, the edge is razor-thin—your wealth depends on not fighting a losing battle.\n\nYet, EMH isn't perfect. It fails in the presence of market anomalies (e.g., momentum, value, small-cap effects) and during bubbles/crashes when collective irrationality overrides efficiency. The key is to recognize that markets are efficient *on average* and *over time*, but not always. By understanding EMH, you can avoid the trap of overconfidence and make smarter decisions about when to index and when to seek active strategies.\n\n**The bottom line:** Accept market returns through low-cost index funds unless you have a verifiable edge. And if you think you do, test it rigorously against the EMH benchmark.",
+    "key_points": [
+      "1. **No Free Lunch**: Any information you have is already priced in. Your edge must come from information others don't have or can't act on.",
+      "2. **Index Fund Paradox**: By accepting market returns, you actually outperform most active managers. The more people index, the more pricing inefficiencies may appear—a self-correcting cycle.",
+      "3. **Behavioral EMH**: Markets are efficient not because all investors are rational, but because irrational traders cancel each other out and arbitrageurs correct mispricings—though limits to arbitrage can allow anomalies to persist."
+    ],
+    "practice": [
+      {
+        "title": "Compare Your Performance",
+        "steps": [
+          "Calculate your portfolio's annualized return over the last 5 years (after fees and taxes).",
+          "Find the annualized return of a low-cost total market index fund (e.g., VTSAX) over the same period.",
+          "If your return is not at least 2% higher than the index, consider switching to index funds."
+        ]
+      },
+      {
+        "title": "Test Your Stock-Picking Edge",
+        "steps": [
+          "Pick a stock you believe is undervalued.",
+          "List three pieces of public information supporting your view.",
+          "Search for news articles from weeks or months ago that contain the same information. If found, your edge is likely gone."
+        ]
+      },
+      {
+        "title": "Simulate Randomness",
+        "steps": [
+          "Create a 'random portfolio' by throwing darts at a stock list to pick 10 stocks.",
+          "Track the portfolio's performance for one year (use a paper trading account).",
+          "Compare its return to a total market index fund. Observe how randomness plays out."
+        ]
+      }
+    ],
+    "risk_notes": "EMH fails during extreme market events (bubbles, crashes) where collective irrationality dominates. Psychological traps: overconfidence in your ability to beat the market, and using EMH as an excuse to stop learning. Markets are efficient on average, not always—so stay vigilant.",
+    "sources": [
+      {
+        "title": "Malkiel, B. G. (2019). A Random Walk Down Wall Street. W. W. Norton & Company.",
+        "url": "https://www.randomwalk.com"
+      }
+    ],
+    "meta": {
+      "id": "Efficient market theory",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Market anomalies",
+        "CAPM"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "24ee09a1-3254-4eea-b5fc-dc2f7378c2f2",
     "date": "2026-06-10",
     "topic": "Investing vs. Speculation",
@@ -3787,65 +3846,6 @@
       "related": [
         "Fear & greed",
         "Overconfidence"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "575fc5b2-b8c0-4008-bfb7-0e4017027e0b",
-    "date": "2026-04-06",
-    "topic": "Behavioral Finance: How Your Brain Sabotages Your Wealth",
-    "teaser": "What if your portfolio's worst enemy isn't market volatility, but 2.5 million years of evolutionary wiring? Discover the three cognitive glitches that cost investors 2-4% in annual returns—and how to reprogram them.",
-    "summary": "In 1979, Daniel Kahneman and Amos Tversky published 'Prospect Theory,' a paper that quietly detonated the foundation of modern economics. For decades, the Efficient Market Hypothesis had assumed humans were rational actors—perfect calculators of risk and reward. Kahneman and Tversky proved we're not. We're primates with prefrontal cortices, making decisions through mental shortcuts forged in Pleistocene environments where avoiding losses meant survival, not just preserving capital.\n\n**Behavioral finance** represents a paradigm shift from viewing markets as mathematical systems to understanding them as psychological ecosystems. The first principle is evolutionary: our brains developed heuristics for quick decisions in ancestral environments—fight-or-flight responses, pattern recognition in ambiguous data, social conformity for tribal safety. These same mechanisms now misfire in financial contexts, creating systematic errors that traditional economics cannot explain.\n\nWhy does this matter today? Because these biases aren't occasional mistakes—they're predictable patterns that compound. Loss aversion (where losses feel 2-2.5x more painful than equivalent gains) leads to the disposition effect, costing investors 1-2% annually. Confirmation bias creates concentrated portfolios vulnerable to black swan events. Narrative fallacy causes trend-chasing that misses mean reversion. Together, these invisible forces can erode 20-40% of lifetime portfolio returns.\n\nThe revolutionary insight isn't that psychology affects money—it's that markets are fundamentally psychological constructs. Prices aren't just numbers; they're collective emotional states expressed mathematically. By understanding this, you're not just learning to avoid mistakes—you're learning to see the market's true architecture: a mirror reflecting 8 billion human brains, each wrestling with evolutionary baggage while trying to calculate present value.",
-    "key_points": [
-      "Loss Aversion's Quantifiable Toll: Kahneman's research shows losses feel 2-2.5x more painful than equivalent gains—an evolutionary survival mechanism that creates the 'disposition effect' (selling winners too early, holding losers too long). Studies by Terrance Odean show this bias costs investors 1-2% in annual returns, with the pain of loss triggering cortisol spikes measurable in laboratory settings.",
-      "Narrative Fallacy as Statistical Blindness: Humans evolved to detect patterns in randomness—a survival advantage that now causes us to attribute market movements to compelling stories rather than probability. This leads to trend-chasing that ignores mean reversion, with research showing narrative-driven investors underperform by 3-4% annually as they buy high (during euphoric narratives) and sell low (during panic narratives).",
-      "Confirmation Bias Compounds Portfolio Risk: We seek information confirming existing beliefs while ignoring contradictory data—a tribal loyalty mechanism that now creates dangerously concentrated portfolios. Studies show this bias leads to 30-50% higher portfolio volatility and 20% lower risk-adjusted returns, as investors overweight familiar assets and miss diversification benefits."
-    ],
-    "practice": [
-      {
-        "title": "Bias Audit Protocol",
-        "steps": [
-          "Document your last five financial decisions with timestamps and emotional states",
-          "Map each decision to specific behavioral biases using Kahneman's taxonomy (e.g., availability heuristic, affect heuristic, anchoring)",
-          "Calculate the cost: For investment decisions, compare your action to a simple benchmark (e.g., 'What if I had done nothing?') and quantify the difference"
-        ]
-      },
-      {
-        "title": "Market Crash Simulation with Historical Calibration",
-        "steps": [
-          "Select your three largest holdings and research their maximum historical drawdowns (e.g., S&P 500 dropped 34% in 2020, 57% in 2008-2009)",
-          "Simulate three scenarios: -20%, -35%, -50% drops while measuring physiological responses (heart rate, decision latency)",
-          "Create a written protocol specifying: 'At X% drop, I will rebalance Y%' with triggers based on historical volatility bands, not emotions"
-        ]
-      },
-      {
-        "title": "Investment Pre-Mortem with Falsification Metrics",
-        "steps": [
-          "Before any investment, define three specific metrics that would prove your thesis wrong (e.g., 'If revenue growth falls below 15% for two quarters, I exit')",
-          "Calculate your maximum acceptable loss using the Kelly Criterion: position size = (edge/odds) where edge is your probabilistic advantage",
-          "Document which behavioral biases most threaten this investment (e.g., 'This tech stock triggers my recency bias due to recent outperformance')"
-        ]
-      }
-    ],
-    "risk_notes": "Behavioral finance carries meta-risks: overcorrection can create 'bias hypervigilance' leading to analysis paralysis, with studies showing excessive monitoring reduces returns by 1.5% annually. The 'bias blind spot'—recognizing others' biases while missing our own—creates false sophistication. Most dangerously, psychological awareness can become an excuse for poor fundamentals; behavioral finance complements valuation metrics but doesn't replace them. Effective application requires balancing: use biases as diagnostic tools, not deterministic explanations, and remember that even aware investors need mechanical systems to override 2.5 million years of wiring.",
-    "sources": [
-      {
-        "title": "Thinking, Fast and Slow by Daniel Kahneman",
-        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
-      }
-    ],
-    "meta": {
-      "id": "Introduction to behavioral finance",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Cognitive bias",
-        "Emotional bias"
       ],
       "tags": [
         "Investment Concepts & Principles",
