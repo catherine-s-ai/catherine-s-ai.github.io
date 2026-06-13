@@ -1,5 +1,64 @@
 [
   {
+    "id": "3071a744-4abc-4b12-9f80-194775b8c5b2",
+    "date": "2026-06-13",
+    "topic": "Investment Psychology: Navigating the Fog of Biases",
+    "teaser": "Your brain is wired for the savanna, not the stock market. Here's how to stop it from sabotaging your wealth.",
+    "summary": "In 1720, Sir Isaac Newton—one of the greatest minds in history—invested in the South Sea Company. He made a tidy profit early, sold, and watched the stock soar. Then, driven by FOMO, he bought back at the peak. When the bubble burst, he lost £20,000 (over $3 million today). His lament: 'I can calculate the motion of heavenly bodies, but not the madness of people.'\n\nThat madness is the fog of biases—systematic errors in thinking that our brains evolved for survival on the savanna, not for navigating modern financial markets. On the savanna, a rustle in the bushes could be a predator; hesitation meant death. So we developed heuristics: fast, automatic mental shortcuts. Today, those same heuristics cause us to see patterns where none exist (confirmation bias), overreact to recent events (recency bias), and cling to losing positions because selling feels like admitting failure (loss aversion).\n\nRight now, the market is a cacophony of recession fears and AI euphoria. Your amygdala is screaming 'danger' or 'opportunity,' drowning out the rational voice in your prefrontal cortex. The result? You buy at the peak of hype and sell at the bottom of panic—the surest way to destroy wealth. Your biggest risk isn't the market; it's your own brain.\n\nThe key isn't to eliminate emotion—that's impossible—but to build a system that checks your impulses. Awareness alone is insufficient; you need actionable rules. This lesson will arm you with mental models to identify biases and practices to counteract them, so you can decide based on evidence, not instinct.",
+    "key_points": [
+      "**Loss aversion asymmetry**: Losing $100 hurts about twice as much as gaining $100 feels good. This leads to the 'disposition effect': selling winners too early to lock in gains and holding losers too long to avoid realizing a loss. The counterintuitive insight: loss aversion is not constant; it's amplified when you can mentally 'undo' the loss (e.g., by waiting). But waiting rarely reverses the loss—it usually deepens it. The best investors treat realized losses as a tax deduction, not a failure.",
+      "**Narrative fallacy**: We prefer compelling stories over cold statistics. A stock with a great story (Tesla, crypto) can command a premium not justified by fundamentals, creating bubbles. The deeper insight: narratives are self-reinforcing. As the story spreads, it attracts more buyers, which pushes up the price, which validates the story. This feedback loop can detach price from value for years. The antidote: ask 'What would have to be true for this narrative to be wrong?' and 'What is the price of the story?'",
+      "**Anchoring on irrelevant numbers**: Your purchase price for a stock is an arbitrary anchor, yet you treat it as a reference point for decisions. The market doesn't care what you paid. The counterintuitive twist: anchoring is so powerful that it affects even experts. A study showed that real estate agents given a high listing price for a property appraised it higher than those given a low listing price—even though they denied being influenced. To break the anchor, ask 'If I didn't own this stock, would I buy it today at the current price?'"
+    ],
+    "practice": [
+      {
+        "title": "Pre-Trade Rationale Check",
+        "steps": [
+          "Before any trade, write down one sentence explaining why you're buying/selling.",
+          "If the reason includes 'I think,' 'I feel,' or 'everyone says,' stop and reconsider.",
+          "Rewrite the rationale using only factual data (e.g., P/E ratio < 15, earnings growth > 10% for 3 years, debt-to-equity < 0.5)."
+        ]
+      },
+      {
+        "title": "Stress Test Your Portfolio",
+        "steps": [
+          "Simulate a 30% drop in your portfolio's value.",
+          "If your plan would be to sell, you're overexposed. Adjust your allocation now, while calm.",
+          "Rebalance to a level where you could stomach a 50% decline without panic-selling. For example, if you're 100% stocks, shift to 70% stocks / 30% bonds, or set a rule: 'If any single stock exceeds 5% of my portfolio, I sell the excess.'"
+        ]
+      },
+      {
+        "title": "Break the Anchor",
+        "steps": [
+          "Check your portfolio's performance over the last year.",
+          "Identify the one position you're most emotionally attached to (e.g., a stock you inherited or bought at a high).",
+          "Sell 10% of it today to break the anchor and remind yourself that the market doesn't care about your cost basis. Then, each month, sell another 10% until you're free."
+        ]
+      }
+    ],
+    "risk_notes": "Awareness of biases can create overconfidence in your ability to overcome them. You might think you're immune and take bigger risks. Also, trying to eliminate all emotion can lead to paralysis by analysis. Some biases (like overconfidence) can actually be beneficial in certain contexts (e.g., starting a business). The goal is not to be perfectly rational, but to have a system that checks your impulses.",
+    "sources": [
+      {
+        "title": "Thinking, Fast and Slow",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      }
+    ],
+    "meta": {
+      "id": "Investment psychology biases",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Fear & greed",
+        "Overconfidence"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "9c062a16-5408-49d3-abd5-620162d3d572",
     "date": "2026-06-12",
     "topic": "Behavioral Finance: The Psychology of Money",
@@ -3770,84 +3829,6 @@
       "related": [
         "Index investing",
         "Active management"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "17ea7ce5-bfdd-4e24-93ed-ae120c7fca15",
-    "date": "2026-04-12",
-    "topic": "Risk-Adjusted Performance Measures: The Math That Separates Skill From Luck",
-    "teaser": "The Nobel-winning formula Wall Street tried to bury—and why today's algorithmic traders are repeating the same dangerous mistake your portfolio might be making.",
-    "summary": "In 1966, William Sharpe—a Berkeley professor dismissed by Wall Street as 'too academic'—published a paper that would ignite a 50-year battle between mathematical rigor and financial profit motives. While investment firms peddled high-return funds with hidden risks, Sharpe created a simple ratio that answered finance's most fundamental question: **How much return am I getting for each unit of risk I'm taking?** His formula exposed an inconvenient truth: many 'star' managers were simply taking dangerous bets, not demonstrating skill. Wall Street initially rejected it—the Sharpe ratio threatened their lucrative opacity.\n\n**This tension between academic insight and industry profit persists today in fintech and algorithmic trading.** Robo-advisors tout 'optimized' portfolios using Sharpe-like metrics while ignoring tail risks, and quant funds chase high ratios through leverage and derivatives—echoing the same dangerous patterns Sharpe identified decades ago. The 2008 crisis wasn't an anomaly; it was the logical endpoint of systematically underestimating risk while chasing returns.\n\n**First principles reveal that all investments have just two dimensions: return (what you gain) and risk (what you could lose).** Risk-adjusted measures mathematically compare these dimensions, transforming vague notions of 'risk' into precise metrics. They reveal whether that impressive 15% annual return came from brilliant stock selection or simply from loading up on volatile assets that could collapse in the next downturn.\n\n**The psychological insight here is profound: humans naturally focus on returns while underestimating risk.** We remember the gains but forget the sleepless nights. Risk-adjusted measures force us to confront the full picture—the volatility, the drawdowns, the probability of permanent loss. They're the financial equivalent of checking both speed and fuel efficiency when buying a car, rather than just admiring the horsepower. In a world where everyone talks about returns, understanding risk-adjusted performance is what separates the serious investor from the speculator.\n\n**Mental Model: Sharpe vs. Kahneman**\nSharpe's framework assumes rational actors measuring volatility mathematically, while Kahneman's prospect theory shows humans experience risk emotionally—we fear losses twice as much as we enjoy equivalent gains. This explains why investors chase high-Sharpe investments during calm markets (underestimating tail risks) then panic-sell during crises (overestimating immediate dangers). The Sharpe ratio measures what risk *should* be; prospect theory explains why we consistently misjudge it.",
-    "key_points": [
-      "**The Normal Distribution Fallacy:** Sharpe-type ratios assume returns follow a bell curve, but markets have 'fat tails' where extreme events occur far more frequently. This 'black swan' blindness doomed Long-Term Capital Management in 1998 (their models predicted a 1-in-10^24-year event that happened in their first year) and fueled the 2008 crisis (AAA-rated mortgage securities behaving like junk bonds).",
-      "**The Volatility Paradox:** Periods of low volatility and high Sharpe ratios often precede crashes—not because risk disappears, but because it becomes hidden. Pre-2008, mortgage-backed securities showed excellent risk-adjusted returns until correlations converged to 1 and everything collapsed together. Low volatility seduces investors into taking more leverage, creating systemic fragility.",
-      "**High Ratios as Danger Signals:** A soaring Sharpe ratio can indicate undetected risks like liquidity constraints (WeWork's private valuation vs. public collapse), excessive leverage (Archegos' hidden swaps), or return smoothing (Madoff's impossibly consistent returns). The best-performing funds sometimes take the most dangerous bets that only reveal themselves in crises.",
-      "**Correlation Breakdowns:** During market crises when 'everything falls together,' diversification fails and Sharpe-type models break down precisely when needed most. This isn't a model flaw—it's a feature of complex systems where risk metrics work until they don't, reminding us that all models are simplifications of reality."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Portfolio's Sharpe Ratio with Real-World Tools",
-        "steps": [
-          "Gather your portfolio's monthly returns for at least 3 years (36+ data points). **For new investors with limited history, use PortfolioVisualizer's backtest tool with similar ETFs as proxies**",
-          "Calculate average monthly return, subtract the risk-free rate (use 3-month Treasury bill returns from FRED)",
-          "Calculate standard deviation of monthly returns",
-          "Divide excess return by standard deviation for your Sharpe ratio",
-          "**Interpretation with behavioral guardrails:** Below 0.5 means poor risk compensation; 0.5-1.0 is acceptable; above 1.0 indicates strong performance. **But beware recency bias**—a high ratio during a bull market may collapse in a downturn. **Free tool:** PortfolioVisualizer automatically calculates this"
-        ]
-      },
-      {
-        "title": "Compare Funds Using Sortino Ratio with Practical Constraints",
-        "steps": [
-          "Select two investment funds you own or are considering",
-          "**For missing data on newer funds, use category averages or similar vintage funds as proxies**—acknowledge this limitation in your analysis",
-          "Calculate each fund's downside deviation (standard deviation of only negative returns)",
-          "Divide each fund's excess return by its downside deviation",
-          "Compare Sortino ratios. **Key insight:** Often the 'lower returning' fund provides better risk-adjusted performance by protecting against losses. This reveals which manager truly adds value versus merely taking more risk"
-        ]
-      },
-      {
-        "title": "Stress-Test Your Portfolio for Black Swan Events",
-        "steps": [
-          "Identify the worst 3-month period in your portfolio's history. **Behavioral pitfall alert:** We naturally select recent crises (2020 COVID crash) while ignoring older ones (2008)—use both to avoid recency bias",
-          "Calculate what your annualized returns would be if that period became the new normal",
-          "Recalculate Sharpe ratio using these stressed returns",
-          "Observe how dramatically risk-adjusted performance deteriorates—most portfolios show negative ratios in crisis scenarios",
-          "**This reveals your portfolio's vulnerability to tail events that models underestimate.** Add a margin of safety: if your stressed Sharpe ratio falls below 0, consider reducing leverage or increasing cash"
-        ]
-      }
-    ],
-    "risk_notes": "**Critical Limitations:** Risk-adjusted measures fail spectacularly during market crises when correlations converge to 1 and volatility explodes—the mathematics breaks down just when investors need guidance most. The psychological trap is 'ratio worship'—blindly chasing high Sharpe ratios without understanding they're backward-looking and easily manipulated through options strategies, illiquid assets, or leverage. These ratios also assume normal return distributions, ignoring the 'fat tails' where extreme losses occur 5-10 times more frequently than predicted. Most dangerously, they can't capture liquidity risk (what happens when everyone sells at once), counterparty risk (Lehman Brothers' collapse), or regulatory changes—the hidden risks that often cause catastrophic failures. **Mental model reminder:** Sharpe gives us the map; Kahneman reminds us why we keep getting lost. Use these measures as one tool among many, never as the sole arbiter of investment decisions.",
-    "sources": [
-      {
-        "title": "Frank Sortino's 'Managing Downside Risk in Financial Markets'",
-        "url": "https://www.amazon.com/Managing-Downside-Risk-Financial-Markets/dp/0750648630"
-      },
-      {
-        "title": "AQR's Cliff Asness on 'The Volatility Paradox'",
-        "url": "https://www.aqr.com/Insights/Research/Journal-Article/The-Volatility-Paradox"
-      },
-      {
-        "title": "Nassim Taleb's 'Black Swan' on fat tail risks",
-        "url": "https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X"
-      },
-      {
-        "title": "PortfolioVisualizer (free backtesting tool)",
-        "url": "https://www.portfoliovisualizer.com"
-      }
-    ],
-    "meta": {
-      "id": "Risk-adjusted performance measures",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Sharpe ratio",
-        "Sortino ratio"
       ],
       "tags": [
         "Investment Concepts & Principles",
