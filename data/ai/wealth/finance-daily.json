@@ -1,5 +1,68 @@
 [
   {
+    "id": "1540c253-e497-48e2-b0d2-f388f8f731a9",
+    "date": "2026-06-14",
+    "topic": "Sharpe vs Sortino Ratio: Which Risk Metric Actually Protects Your Portfolio?",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "Imagine you’re a Roman emperor in 301 AD. Prices are soaring, so you issue an edict: maximum prices on everything. Sounds smart? It wasn’t. The result: shortages, black markets, economic chaos. You, dear investor, are making the same mistake when you judge investments by raw returns. You’re ignoring the hidden inflation of risk.\n\nThat’s where the Sharpe and Sortino ratios come in. They’re like inflation-adjusted returns for volatility. But here’s the twist: the Sharpe ratio penalizes all volatility—even the good kind. A stock that surges 20% then dips 10% has high total volatility, but you’re still up. The Sortino ratio ignores those upside swings, focusing only on the downside that keeps you awake at night.\n\nWhy does this matter? Because investors don’t fear all risk—they fear loss. A fund manager who delivers smooth returns with occasional big drops might look safe on Sharpe, but the Sortino ratio reveals the hidden tail risk. The emperor thought he was fixing inflation; instead, he broke the economy. Don’t let a flawed metric break your portfolio.\n\nHere’s the kicker: both ratios are backward-looking and assume markets behave like a bell curve. They don’t. Black swans happen. But used together, they’re your best defense against the illusion of safety. The Sharpe ratio tells you overall efficiency; the Sortino ratio tells you who can survive a storm. And in investing, survival is everything.",
+    "key_points": [
+      "The Sharpe ratio penalizes upside volatility equally to downside, but investors actually welcome upside—the Sortino ratio corrects this by focusing only on downside deviation.",
+      "A high Sharpe ratio can be artificially inflated by strategies that hide tail risk, such as selling out-of-the-money options or using leverage that amplifies returns without revealing hidden crash risk.",
+      "Both ratios are backward-looking and assume normally distributed returns, but markets have fat tails; they reveal consistency of past performance, not future safety."
+    ],
+    "practice": [
+      {
+        "title": "Calculate the Sharpe Ratio of Your Largest Holding",
+        "steps": [
+          "Obtain monthly returns for the past 3 years for your largest stock or fund.",
+          "Calculate the annualized return (geometric mean) and annualized standard deviation of returns.",
+          "Subtract the risk-free rate (e.g., 3-month T-bill yield) from the annualized return.",
+          "Divide the excess return by the standard deviation. That's the Sharpe ratio. Compare to the S&P 500's Sharpe (around 0.5-0.7).",
+          "Simplified example: If a fund returned 12% annually with 15% volatility and risk-free rate is 2%, Sharpe = (12-2)/15 = 0.67. For quick calculation, use online tools like Portfolio Visualizer."
+        ]
+      },
+      {
+        "title": "Compare Sortino Ratios of Two Similar ETFs",
+        "steps": [
+          "Pick two ETFs in the same category (e.g., large-cap growth).",
+          "Find their Sortino ratios on Morningstar or Portfolio Visualizer (use 3-year, monthly data).",
+          "Identify which has a higher Sortino ratio—that ETF delivered better return per unit of downside risk.",
+          "Check the drawdowns during a bear market (e.g., 2022) to see if the Sortino ratio aligns with actual protection."
+        ]
+      },
+      {
+        "title": "Simulate the 2008 Crisis: High Sharpe vs High Raw Return",
+        "steps": [
+          "Find two funds: one with a high Sharpe ratio (e.g., 1.2) and one with high raw return (e.g., 20% annual) but lower Sharpe (e.g., 0.6).",
+          "Use a backtesting tool (Portfolio Visualizer) to simulate a $10,000 investment from Jan 2007 to Dec 2009.",
+          "Compare the maximum drawdown and final portfolio value. The high Sharpe fund likely lost less and recovered faster.",
+          "Reflect: Would you have stayed invested in the high-return fund during a 50% drop?"
+        ]
+      }
+    ],
+    "risk_notes": "Both ratios assume normal distribution of returns, but markets have fat tails. They also ignore liquidity risk and can be manipulated by smoothing returns. Over-reliance may lead to ignoring qualitative factors like management quality.",
+    "sources": [
+      {
+        "title": "Search: Sharpe vs Sortino Ratio: Which Risk Metric Actually Protects Your Portfolio?",
+        "url": "https://www.google.com/search?q=Sharpe%20vs%20Sortino%20Ratio%3A%20Which%20Risk%20Metric%20Actually%20Protects%20Your%20Portfolio%3F"
+      }
+    ],
+    "meta": {
+      "id": "Risk-adjusted performance measures",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Sharpe ratio",
+        "Sortino ratio"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "3071a744-4abc-4b12-9f80-194775b8c5b2",
     "date": "2026-06-13",
     "topic": "Investment Psychology: Navigating the Fog of Biases",
@@ -3760,75 +3823,6 @@
       "related": [
         "Disclosure",
         "Conflicts of interest"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "a4d0df3d-c7cd-420a-8292-c1fb3b4b2615",
-    "date": "2026-04-13",
-    "topic": "The Passive Investing Paradox: Why the World's Greatest Active Investor Tells You to Index",
-    "teaser": "Warren Buffett's final instructions contain a secret that could save you 20% of your wealth—but first, you must overcome the psychological trap that makes it feel like failure.",
-    "summary": "**In 1962, a young Warren Buffett took control of Berkshire Hathaway—a failing textile mill he would transform through relentless stock-picking into a $900 billion empire.** Six decades later, his will contains a startling contradiction: 90% of his wife's inheritance must go into an S&P 500 index fund. This isn't just advice—it's the ultimate admission from history's greatest active investor that the game has changed.\n\n**The paradox reveals a deeper truth about market evolution.** When Buffett began investing in the 1950s, information traveled by ticker tape and quarterly reports arrived by mail. Today, algorithms execute trades in nanoseconds and retail investors access real-time data on smartphones. The efficient market hypothesis isn't about markets being perfect—it's about information becoming so democratized that consistently beating the market requires consistently outsmarting millions of equally informed participants. It's a winner's game that's become a loser's game.\n\n**Buffett's own career exemplifies this shift.** His early success came from finding 'cigar butt' companies trading below liquidation value—opportunities that largely disappeared as markets became more efficient. Yet the active management industry evolved not to solve this problem, but to profit from it. The real customers became the managers collecting fees, not the investors seeking alpha. This creates what Charlie Munger calls 'perverse incentives'—where the industry benefits from complexity and volatility, not from delivering superior returns.\n\n**The psychological barrier is equally important.** Our brains are wired for action. Doing nothing feels like surrender. This explains why Buffett's index fund advice—mathematically sound—feels emotionally unsatisfying. We'd rather pay for the illusion of control than accept the statistical reality. The cognitive bias is so powerful that even knowing the numbers, most investors still try to beat the market.\n\n**The cost of this illusion compounds in silence.** The 0.63% annual fee gap between active and passive funds seems trivial until compounded over decades. At 7% returns over 30 years, it costs you 20% of your potential wealth. You're not just paying for underperformance—you're paying for the privilege of believing you can outsmart the collective wisdom of the market.\n\n**Passive investing isn't surrender—it's strategic humility.** It recognizes that the most reliable edge comes from minimizing costs, not maximizing predictions. When Buffett recommends indexing, he's pointing to the mathematical certainty that, after fees, most active managers become a drag on returns. Your greatest investment advantage might be the trades you don't make—a lesson Buffett learned through six decades of watching brilliant investors fail.",
-    "key_points": [
-      "The active management industry profits from volatility and complexity, not from delivering alpha—making investors pay for the illusion of control while systematically extracting wealth through fees",
-      "Market efficiency has evolved from an academic theory to a practical reality: information democratization means beating the market requires consistently outsmarting millions, turning a winner's game into a statistical impossibility for most",
-      "The most powerful investment edge isn't finding winners but avoiding losers—historical data shows that simply avoiding market timing during crashes (like 2008 or 2020) preserved more wealth than any stock-picking strategy",
-      "Buffett's paradox reveals a fundamental truth: investment success often comes from strategic inaction—the best trades are frequently the ones you didn't make, a principle demonstrated by how 'doing nothing' during panics outperforms most active responses"
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your True Investment Costs",
-        "steps": [
-          "If detailed statements aren't available, estimate your fees using free online tools like Personal Capital's Fee Analyzer or SEC's Mutual Fund Cost Calculator",
-          "Gather all investment statements and identify every fee: expense ratios, transaction fees, advisor fees, and hidden costs (12b-1 fees, soft dollar arrangements)",
-          "Calculate total fees as a percentage of your portfolio value",
-          "Multiply this percentage by 30 years at 7% annual returns using the Rule of 72 to see your potential wealth loss",
-          "Compare this amount to what you'd pay for a low-cost index fund portfolio (typically 0.03%-0.10%)"
-        ]
-      },
-      {
-        "title": "Run the Active Manager Survivor Test",
-        "steps": [
-          "Select 10 actively managed funds that existed 20 years ago using free resources like Yahoo Finance's fund screener or the SEC's EDGAR database",
-          "Check how many still exist today—SPIVA data shows over 60% of funds disappear within 10 years",
-          "Of those remaining, compare their 20-year returns to their appropriate benchmark index (S&P 500 for large-cap, Russell 2000 for small-cap, etc.)",
-          "Note how many actually outperformed after accounting for all fees, expenses, and survivor bias—typically fewer than 20%"
-        ]
-      },
-      {
-        "title": "Conduct a Personal Decision Audit",
-        "steps": [
-          "Use this simple template: | Date | Decision | Rationale | Cost/Fee | Outcome vs. Doing Nothing |",
-          "List every investment decision you made in the past year: buys, sells, allocations, changes",
-          "Track whether each decision added value after accounting for all costs (fees, taxes, time, opportunity cost)",
-          "Identify patterns—are your best-performing decisions the ones where you did nothing?",
-          "Calculate what your portfolio would be worth if you had made no changes beyond annual rebalancing"
-        ]
-      }
-    ],
-    "risk_notes": "While passive investing offers compelling advantages, it creates concentration risk as capital flows to index constituents regardless of fundamentals, potentially inflating valuation bubbles. During market dislocations when active price discovery fails, passive strategies can suffer disproportionately. Psychologically, passive investing often feels like 'settling' for average returns, triggering the 'I can do better' bias that leads investors to abandon their strategy at precisely the wrong times—often after periods of underperformance when discipline matters most. The very success of passive investing may be sowing the seeds of its future challenges through reduced market efficiency.",
-    "sources": [
-      {
-        "title": "The Little Book of Common Sense Investing by John C. Bogle",
-        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
-      },
-      {
-        "title": "The Arithmetic of Active Management by William F. Sharpe",
-        "url": "https://web.stanford.edu/~wfsharpe/art/active/active.htm"
-      }
-    ],
-    "meta": {
-      "id": "Active vs. passive investing",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Index investing",
-        "Active management"
       ],
       "tags": [
         "Investment Concepts & Principles",
