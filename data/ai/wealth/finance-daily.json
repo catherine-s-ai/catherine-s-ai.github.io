@@ -1,5 +1,69 @@
 [
   {
+    "id": "6b6a938e-f160-486a-a887-596b2901fd17",
+    "date": "2026-06-17",
+    "topic": "Fixed Income: Beyond the 'Safe' Label",
+    "teaser": "Your 'safe' bonds lost 15% in 2022. That's more than the S&P 500 dropped in 2020. What the heck happened? And how do you make sure it doesn't happen again?",
+    "summary": "Imagine you're a landlord. You rent out your apartment for $1,000 a month. Then, suddenly, new apartments in your building start renting for $1,200. Your tenant says, 'I'll move unless you cut the rent to $800.' That's what happened to bonds in 2022. You lent money at 2% interest, but new bonds now pay 5%. Your old bond's price had to drop to compete.\n\nIn 2022, the Federal Reserve raised rates at the fastest pace in decades. The result? The Bloomberg US Aggregate Bond Index fell 13%. Some long-term bond funds dropped over 30%. This wasn't a 'safe' investment—it was a trip to the dentist.\n\nFixed income isn't just one thing. It's a spectrum: from ultra-safe T-bills to junk bonds that yield like lottery tickets. The price of any bond moves inversely with interest rates. When rates rise, bond prices fall. Why? Because your fixed coupon becomes less attractive compared to new bonds paying more. Think of a seesaw: rates go up, prices go down. The longer the bond's maturity, the heavier the seesaw.\n\nBut here's the twist: if you hold a bond to maturity, you get your principal back (assuming no default). So a 10-year Treasury bought at a discount will still pay you $1,000 at the end. The price volatility is only a problem if you sell early. That's why understanding your time horizon is crucial.\n\nNow, with yields at 15-year highs, bonds are actually attractive again. But the lesson of 2022 is clear: 'safe' doesn't mean 'no volatility.' It means you know what you're getting into. Duration, yield to maturity, and the yield curve are your tools. Let's unpack them.",
+    "key_points": [
+      "**Duration: Your Risk Thermostat** — Duration is not time to maturity. It's a measure of interest rate sensitivity. A bond with a duration of 5 years will drop roughly 5% for every 1% rise in rates. Think of it as financial leverage. If you own a bond fund with a duration of 7 years, you're essentially taking on the risk of a 7% loss per 1% rate hike. In 2022, the 10-year Treasury yield rose from 1.5% to 4.0%, so a duration of 8 would mean a 20% loss. That's why long-term bond funds were crushed. Tip: Check your bond fund's duration before you buy.",
+      "**Yield to Maturity: The Flawed Crystal Ball** — YTM is the total return you'll earn if you hold a bond to maturity, but it assumes you can reinvest all coupon payments at the same YTM. In a falling rate environment, that's impossible. In a rising rate environment, you actually benefit from reinvesting at higher rates. So YTM is a static estimate, not a guarantee. For example, a 10-year bond bought at par with a 5% coupon has a YTM of 5%, but if rates rise to 6% after a year, your reinvested coupons will earn less than 5% (if you hold to maturity) or you'll sell at a loss. The real return is path-dependent.",
+      "**The Yield Curve: The Recession Crystal Ball** — The yield curve plots yields of bonds with different maturities. Normally, longer-term bonds yield more to compensate for risk. When short-term yields exceed long-term yields (an inverted curve), it's a powerful recession signal. Every US recession since 1960 has been preceded by an inverted curve. In 2022, the curve inverted sharply. Why? Because the market expected the Fed's rate hikes to cause an economic slowdown, pushing future rates down. This is exactly what happened: by late 2023, the market was pricing in rate cuts. The inversion was a warning that worked. For investors, an inverted curve suggests it's time to shorten duration and lock in high short-term yields."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Current Yield and YTM",
+        "steps": [
+          "Take a specific bond: a 10-year Treasury with a 2% coupon, currently trading at $90 (per $100 face value).",
+          "Current yield = annual coupon / current price = $2 / $90 = 2.22%. That's your income return.",
+          "Use a YTM calculator (e.g., on Investopedia) to find YTM. For this bond, YTM is about 3.1% because you also get $10 capital gain at maturity. But note: YTM assumes reinvesting the $2 coupons at 3.1%—unlikely if rates change. So YTM is a rough guide, not a promise."
+        ]
+      },
+      {
+        "title": "Check Duration of Your Bond ETFs",
+        "steps": [
+          "Find the duration of a bond ETF like BND (Vanguard Total Bond Market) or AGG (iShares Core US Aggregate Bond). As of early 2024, BND's duration is about 6.5 years. That means a 1% rate rise could cause a ~6.5% drop.",
+          "Warning: Bond fund duration is an average, and it can change as the fund's holdings change. Also, if you hold individual bonds, the duration decreases over time. For funds, it stays roughly constant because they replace maturing bonds.",
+          "If you expect rates to rise, consider short-term bond funds (duration < 3 years) or floating-rate notes. If rates are falling, long-term funds (duration > 10) can offer big gains."
+        ]
+      },
+      {
+        "title": "Build a Bond Ladder",
+        "steps": [
+          "If you have $10,000, buy $2,000 each of bonds maturing in 1, 2, 3, 4, and 5 years. Use Treasury bonds or high-quality corporate bonds.",
+          "When the 1-year bond matures, reinvest the $2,000 into a new 5-year bond. This keeps your ladder rolling.",
+          "If you don't have enough for individual bonds (minimums are often $1,000-$5,000), use a bond ladder ETF like iShares iBonds or Invesco BulletShares. These are ETFs that hold bonds maturing in a specific year, giving you the ladder effect with a single purchase.",
+          "A ladder provides regular cash flow and reduces interest rate risk because you always have money coming due soon. During 2022, a 5-year ladder of Treasuries would have lost only about 5%, much less than a long-term fund."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest trap is assuming 'fixed income' means 'no risk.' In reality, bonds have three main risks: (1) Interest rate risk: prices fall when rates rise. (2) Credit risk: the issuer defaults. (3) Inflation risk: your returns may not keep up with inflation. In 2022, inflation hit 9%, so even bonds yielding 5% lost purchasing power. Psychological trap: reaching for yield by buying long-term or low-quality bonds when rates are low, only to see prices crash when rates rise. Also, beware of callable bonds—issuers can repay early, leaving you to reinvest at lower rates. Always read the fine print.",
+    "sources": [
+      {
+        "title": "Fabozzi, Frank J. Bond Markets, Analysis, and Strategies. Pearson.",
+        "url": "https://www.pearson.com/store/p/bond-markets-analysis-and-strategies/P100000005348"
+      },
+      {
+        "title": "Bodie, Zvi, Alex Kane, and Alan J. Marcus. Investments. McGraw-Hill.",
+        "url": "https://www.mheducation.com/highered/product/investments-bodie-kane/M9781264412662.html"
+      }
+    ],
+    "meta": {
+      "id": "Fixed income & interest-rate products",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Bond valuation",
+        "Yield curve"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "1fc99fae-c586-4a18-9460-cd465796a1c2",
     "date": "2026-06-16",
     "topic": "Ethics in Investing: Fiduciary Duty and Professional Standards",
@@ -3736,89 +3800,6 @@
       "related": [
         "Currency risk",
         "Commodity futures"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "82648c0c-55af-4870-8ffd-ebb1b3882916",
-    "date": "2026-04-16",
-    "topic": "Equity Ownership: The Foundation of Wealth Building",
-    "teaser": "What if your cash isn't just losing value—it's actively betraying your future? Discover why stocks aren't investments, but claims on human progress itself.",
-    "summary": "**Equity ownership isn't a financial innovation—it's humanity's solution to a 500-year-old problem of capital allocation.** Before joint-stock companies emerged in 17th-century Amsterdam, wealth creation was limited by debt's rigid constraints: lenders demanded fixed returns regardless of venture success, stifling ambitious projects. Equity solved this by aligning risk and reward—investors could share in unlimited upside while accepting potential total loss. This wasn't merely an accounting change; it was a psychological breakthrough that unlocked humanity's collective ingenuity.\n\nFrom medieval guilds to modern corporations, the evolution reveals a first principle: **equity represents a perpetual option on human productivity.** When you buy Apple stock today, you're participating in the same mechanism that funded the Dutch East India Company's spice voyages or Carnegie's steel mills. You're not betting on products; you're buying fractional ownership in humanity's problem-solving capacity. This system has become our most effective wealth-creation engine precisely because it channels savings toward scalable ideas while distributing risk across society.\n\nWhy this matters urgently: **Inflation isn't just a statistic—it's the silent partner eroding every dollar you keep in cash.** Historically, stocks have delivered 7-10% real returns because businesses can raise prices and improve productivity, while cash holdings inevitably decay. The compounding gap is staggering: $10,000 at 3% inflation-adjusted growth becomes $18,000 in 20 years, but at 8% real returns, it transforms into $46,600. More fundamentally, avoiding equity means opting out of the very mechanism that has lifted global living standards for centuries. Your choice isn't between stocks and safety—it's between participating in economic progress or watching from the sidelines as your purchasing power evaporates.",
-    "key_points": [
-      "Equity is a perpetual option on human ingenuity—you're buying infinite optionality, not just current earnings. This mental model reframes stocks from static assets to dynamic claims on future innovation.",
-      "Your ownership stake represents a claim on future productivity gains, making inflation your silent partner in wealth destruction if you avoid stocks. Cash doesn't just grow slowly—it actively loses ground against businesses that can adapt and grow.",
-      "Time isn't just a variable—it's the solvent that dissolves market irrationality and reveals true business value. Short-term prices reflect collective psychology; long-term returns reflect underlying economic reality."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Ownership Stake",
-        "steps": [
-          "Choose a publicly traded company you own or are considering.",
-          "Divide your investment amount by the company's total market capitalization.",
-          "Express the result as a percentage (e.g., $1,000 in a $1 trillion company = 0.0000001%).",
-          "Reflect on what this fractional ownership means for your role as a capitalist."
-        ]
-      },
-      {
-        "title": "Confront Inflation's Erosion vs. Equity's Growth",
-        "steps": [
-          "Calculate the inflation-adjusted value of $10,000 in cash over 30 years at 3% annual inflation.",
-          "Compare this to $10,000 invested in equities at 8% annual returns over the same period.",
-          "Visualize the difference: the cash loses over half its purchasing power, while equities grow nearly tenfold.",
-          "Document your emotional response to this mathematical reality—does it change your perception of 'safe' assets?"
-        ]
-      },
-      {
-        "title": "Map Market Drawdowns Against Your Life Timeline",
-        "steps": [
-          "Research historical market declines (1929, 2000, 2008) and their recovery periods.",
-          "Plot these events against your own age and expected investment horizon.",
-          "Identify which declines you would have experienced and how long recoveries took relative to your life stage.",
-          "Use this perspective to calibrate your true risk tolerance—not theoretical, but personal and historical."
-        ]
-      },
-      {
-        "title": "Compare Emotional Responses to Knowledge Asymmetry",
-        "steps": [
-          "Select two stocks: one you've researched thoroughly, another you know only by name.",
-          "Simulate a 50% decline in both simultaneously.",
-          "Write down your immediate gut reaction to each scenario—do you feel panic, curiosity, or indifference?",
-          "Analyze why identical price movements trigger different emotions, revealing how knowledge (or lack thereof) drives investment behavior."
-        ]
-      }
-    ],
-    "risk_notes": "Markets can remain irrational longer than you can remain solvent, but the deeper risk lies in psychological miscalibration. Survivorship bias causes us to study only successful companies while ignoring the thousands that failed. Overconfidence makes us mistake bull markets for genius, while loss aversion magnifies declines beyond their mathematical reality. Most dangerously, we confuse short-term price movements with long-term business value—a cognitive error that has destroyed more wealth than any recession. Recognize that equity's volatility isn't a bug but a feature of a system that prices infinite future possibilities.",
-    "sources": [
-      {
-        "title": "The Little Book of Common Sense Investing by John Bogle",
-        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
-      },
-      {
-        "title": "A Random Walk Down Wall Street by Burton Malkiel",
-        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
-      },
-      {
-        "title": "Berkshire Hathaway Shareholder Letters",
-        "url": "https://www.berkshirehathaway.com/letters/letters.html"
-      },
-      {
-        "title": "The Ascent of Money by Niall Ferguson",
-        "url": "https://www.amazon.com/Ascent-Money-Financial-History-World/dp/0143116177"
-      }
-    ],
-    "meta": {
-      "id": "Equity investments (stocks)",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Stock markets & trading mechanics",
-        "Equity valuation"
       ],
       "tags": [
         "Asset Classes & Products",
