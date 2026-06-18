@@ -1,5 +1,69 @@
 [
   {
+    "id": "6bc21114-80b9-4d2b-9fbf-d4e764533561",
+    "date": "2026-06-18",
+    "topic": "Stocks: Ownership in Real Businesses, Not Just Tickers",
+    "teaser": "What if your stock portfolio could survive a 50% crash and still make you rich? The secret lies in thinking like an owner.",
+    "summary": "In 1973, the S&P 500 lost nearly half its value. Gas was $0.39 a gallon, and the economy was a mess. But here's the kicker: investors who bought stocks that year saw a 10x return over the next decade. Why? Because they understood that stocks aren't just tickers—they're ownership in real businesses. When you buy a stock, you own a piece of a company's assets, earnings, and future. The market price is just a mood ring. Over time, the business's performance is what drives returns. With inflation eating away at cash at ~3% per year, stocks have historically returned 6-10% after inflation. Not owning them means your savings silently shrink. So forget the noise. Think like an owner.",
+    "key_points": [
+      "**Ownership vs. Speculation:** Most people buy stocks hoping the price goes up. That's speculation. Real investors buy businesses. When you own a piece of a company, you care about its earnings, its competitive advantage, and its ability to grow. You ignore the daily noise and focus on the business's long-term value creation. This shift in mindset is the difference between gambling and investing.",
+      "**Mr. Market is Your Servant, Not Your Guide:** The market is a manic-depressive who offers to buy or sell you a piece of a business every day. Some days he's euphoric and offers a high price; other days he's terrified and offers a low price. Your job is to take advantage of his mood swings, not be controlled by them. Buy when he's fearful, sell when he's greedy. This counterintuitive approach—being greedy when others are fearful—is the hallmark of great investors.",
+      "**The Power of Reinvestment: The Eighth Wonder of the World:** Einstein supposedly called compound interest the eighth wonder. When you reinvest dividends and let earnings compound, the growth is exponential. A stock that grows earnings at 10% per year for 20 years turns $10,000 into $67,000—even if the P/E ratio stays flat. But here's the kicker: most people underestimate the power of time. The longer you stay invested, the more magical compounding becomes."
+    ],
+    "practice": [
+      {
+        "title": "Find a Bargain Business",
+        "steps": [
+          "Go to a stock screener (like Finviz) and filter for P/E below 15 and 10 years of rising earnings per share. (A P/E below 15 is a rough starting point; adjust based on industry norms.)",
+          "Write down why you'd buy it as if you were buying the whole business. What is its competitive advantage? How does it make money? Is the management trustworthy?"
+        ]
+      },
+      {
+        "title": "Track Intrinsic Value",
+        "steps": [
+          "Open your brokerage account and check your portfolio's 'cost basis' column.",
+          "Calculate how much your holdings have grown in intrinsic value over the past year: sum up the earnings per share of each stock and multiply by the number of shares you own. Compare this to the market price change. This trains you to focus on business performance, not stock price."
+        ]
+      },
+      {
+        "title": "Stress Test Your Emotions",
+        "steps": [
+          "Simulate a 50% market drop: take your current portfolio value, halve it.",
+          "Write a paragraph explaining why you would or wouldn't sell. This prepares your mind for volatility and helps you avoid panic selling when the market actually crashes."
+        ]
+      }
+    ],
+    "risk_notes": "Stocks fail when you confuse a great company with a great stock (paying too high a price). They also fail when you cannot hold through drawdowns—human psychology often sells at the worst time. Hidden risks include dilution from stock options, accounting fraud, and sector obsolescence (e.g., Kodak).",
+    "sources": [
+      {
+        "title": "The Intelligent Investor by Benjamin Graham",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "Common Stocks and Uncommon Profits by Philip Fisher",
+        "url": "https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509"
+      },
+      {
+        "title": "The Little Book of Common Sense Investing by John C. Bogle",
+        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
+      }
+    ],
+    "meta": {
+      "id": "Equity investments (stocks)",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Stock markets & trading mechanics",
+        "Equity valuation"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "6b6a938e-f160-486a-a887-596b2901fd17",
     "date": "2026-06-17",
     "topic": "Fixed Income: Beyond the 'Safe' Label",
@@ -3730,76 +3794,6 @@
       "related": [
         "Property investment",
         "REIT structure"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "ec7b107e-2828-48e2-9de3-326d485a501a",
-    "date": "2026-04-17",
-    "topic": "Foreign Exchange and Commodities: The Invisible Forces Shaping Your Wealth",
-    "teaser": "What if the same psychological virus that made tulip bulbs worth houses in 1637 is still infecting your portfolio today—and you don't even know you're sick?",
-    "summary": "In 1637 Amsterdam, a single Semper Augustus tulip bulb traded for 10,000 guilders—enough to buy a grand canal house. The traders weren't buying flowers; they were buying stories, momentum, and the intoxicating belief that this time was different. When the bubble burst, it wasn't because tulips changed, but because human psychology finally exhausted itself. This same psychological virus—the belief that price movements reflect fundamental value rather than collective emotion—has infected every speculative market since, mutating to survive in new hosts.\n\nToday, that virus lives in the foreign exchange markets where $7.5 trillion changes hands daily, and in commodity pits where traders bet on future scarcity. The symptoms are identical: narratives about 'strong currencies' or 'permanent shortages' that ignore first principles. Foreign exchange rates aren't magic numbers—they're the market's collective judgment about relative purchasing power, interest rate differentials, and geopolitical stability. Commodity prices aren't just about scarcity—they're bets on whether human ingenuity (in finding new supply) will outpace human consumption.\n\nWhat makes this history lesson urgent is that you're already participating, whether you know it or not. Every multinational stock in your portfolio carries hidden currency exposure. Every gallon of gas you pump reflects global oil politics. The 17th-century Dutch merchant who lost everything on tulips made the same fundamental error as the modern investor who ignores these forces: believing markets reward what we want to be true rather than what actually is. By understanding these markets not as abstract concepts but as theaters of recurring human psychology, you gain something more valuable than trading strategies—you gain immunity to the stories that have bankrupted speculators for centuries.",
-    "key_points": [
-      "The Currency Illusion: Most investors measure returns in nominal terms while real wealth exists in purchasing power—a strong dollar can simultaneously boost your portfolio's numbers and destroy what those numbers can actually buy overseas, creating a dangerous disconnect between perception and reality.",
-      "The Commodity Paradox: Betting on physical scarcity often leads to ruin precisely because high prices solve high prices—they incentivize new production, substitution, and conservation, turning today's 'certain shortage' into tomorrow's glut (see: shale oil revolutionizing energy markets after years of 'peak oil' predictions).",
-      "The Supercycle Lens: Commodity prices move in 20-30 year waves driven by industrialization's capital-intensive nature (it takes decades to build mines and refineries), making most daily price movements statistical noise—successful participants don't trade the news; they position for the decade-long tectonic shifts beneath it."
-    ],
-    "practice": [
-      {
-        "title": "Map Your Portfolio's Currency Exposure Through the Lens of Purchasing Power Parity",
-        "steps": [
-          "List all holdings and their base currencies, then calculate what percentage of your portfolio is exposed to non-USD movements.",
-          "Apply the Big Mac Index (or OECD PPP data) to estimate how over/undervalued each currency is relative to its purchasing power—this reveals whether you're betting on economic fundamentals or speculative momentum.",
-          "Simulate two scenarios: (1) currencies reverting to PPP equilibrium, and (2) extreme divergence from fundamentals. Calculate how each affects your real (inflation-adjusted) wealth.",
-          "Reflect: Are you being compensated for currency risk through higher expected returns, or are you taking uncompensated volatility? This is the first-principles question most investors never ask."
-        ]
-      },
-      {
-        "title": "Conduct a Real Return Commodity Audit",
-        "steps": [
-          "Track one month of spending on commodity-sensitive items (energy, food, materials), then research their 10-year price history adjusted for inflation—you'll often find 'rising prices' are just monetary illusion.",
-          "Calculate the covariance between commodity prices and your income sources: do you earn money from the same forces that increase your costs? (Most people do, creating hidden concentration risk.)",
-          "Apply the 'commodity producer vs. consumer' mental model: identify whether you're structurally positioned as a net beneficiary or victim of commodity movements in your career and investments.",
-          "Implement one change based on the audit's deepest insight—not the most obvious cost-cutting measure, but the adjustment that addresses the fundamental mismatch in your economic positioning."
-        ]
-      },
-      {
-        "title": "Simulate a Commodity Futures Trade to Experience the Psychology of Scarcity Betting",
-        "steps": [
-          "Select one commodity with clear substitution dynamics (e.g., aluminum where recycling competes with mining) and paper-trade a futures contract while maintaining a parallel 'substitution index' tracking alternatives.",
-          "Use 10:1 leverage to experience the emotional reality institutional traders face daily—the gains feel deserved, the losses feel unfair.",
-          "Keep a decision journal documenting every time you confuse price movement (what's happening) with value change (what it means). Note when narrative ('this shortage is permanent!') overrides data.",
-          "After three months, analyze not your paper profits/losses, but your psychological patterns: did you fall for the same scarcity stories that trapped the tulip traders? This is where true learning happens."
-        ]
-      }
-    ],
-    "risk_notes": "FX and commodity markets are institutional playgrounds where retail participants face structural disadvantages: transaction costs that compound like negative interest, information asymmetry measured in milliseconds, and leverage that turns small miscalculations into existential threats. The deepest risk isn't volatility—it's the psychological seduction of apparent simplicity. These markets feel understandable ('oil goes up when there's conflict') while hiding layers of derivative exposure, geopolitical complexity, and feedback loops. During crises like March 2020's negative oil prices, the models break because human psychology reaches emotional extremes that math cannot capture—preparing for these moments requires understanding not just the markets, but the human minds that comprise them.",
-    "sources": [
-      {
-        "title": "'The Alchemy of Finance' by George Soros (reflexivity theory in currency markets)",
-        "url": "https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495"
-      },
-      {
-        "title": "Bank for International Settlements (BIS) FX statistics",
-        "url": "https://www.bis.org/statistics/rpfx19.htm"
-      },
-      {
-        "title": "'Manias, Panics, and Crashes' by Charles Kindleberger (historical psychology of bubbles)",
-        "url": "https://www.amazon.com/Manias-Panics-Crashes-Financial-History/dp/0471467146"
-      }
-    ],
-    "meta": {
-      "id": "Foreign exchange & commodities",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Currency risk",
-        "Commodity futures"
       ],
       "tags": [
         "Asset Classes & Products",
