@@ -1,5 +1,71 @@
 [
   {
+    "id": "28c42b59-51a0-4d88-aff1-b49922bfc889",
+    "date": "2026-06-20",
+    "topic": "Real Estate Investing: The Inflation-Fighting Bond",
+    "teaser": "Real estate isn't a physical asset; it's a claim on future rent—like a bond that fights inflation.",
+    "summary": "Imagine owning a bond that not only pays you more when prices rise but also has the power to raise its own payments. That's real estate. At its core, real estate investing is about buying a stream of future rents—a claim on the cash flows that people and businesses generate by occupying space. And the best way to do it passively? REITs (Real Estate Investment Trusts), which are legally required to pay out 90% of taxable income as dividends. Think of them as toll roads on the economy: data centers, cell towers, and healthcare properties are essential, so they have pricing power even in a recession.\n\nWhy now? Inflation is the silent thief of purchasing power, and real estate has historically been one of the best hedges. While stocks wobble and bonds offer paltry yields, real estate provides a tangible asset that tends to appreciate with inflation and generates income that can grow. For example, during the 1970s stagflation, REITs delivered positive real returns while stocks and bonds struggled. Today, with the 10-year Treasury yield around 4% and REIT dividend yields averaging 4-6%, the spread is telling you something: the market is pricing in risk, but also opportunity.\n\nThe core insight is that real estate is a leveraged bet on human geography. You're betting that people will want to live, work, or shop in a specific location for decades. But REITs are not 'real estate lite'—they are a different beast: stock-like volatility with bond-like cash flows. The best REITs are monopolies on necessity: data centers, cell towers, and healthcare properties have pricing power regardless of the economy. For instance, a data center REIT like Equinix has customers locked into long-term contracts, and its revenue grows as data usage explodes. That's a bond that fights inflation.\n\nActionable takeaway: Don't just buy a REIT ETF blindly. Compare the dividend yield of VNQ to the 10-year Treasury yield—the spread tells you the risk premium. Then pick one sector (e.g., industrial) and analyze its top 3 tenants' credit ratings and lease expiration schedules. Finally, calculate the 'cap rate' of a local rental property using online data and compare it to the dividend yield of a REIT in the same sector. This will ground you in the real economics of real estate.",
+    "key_points": [
+      "Real estate is a leveraged bet on human geography: you're betting people will want to live, work, or shop in a specific location for decades.",
+      "REITs are not 'real estate lite'—they combine stock-like volatility with bond-like cash flows, and the best ones are monopolies on necessity.",
+      "The spread between REIT dividend yields and Treasury yields reveals the market's risk premium—a wider spread signals opportunity, a narrow one warns of froth."
+    ],
+    "practice": [
+      {
+        "title": "Compare Risk Premiums",
+        "steps": [
+          "Look up the current dividend yield of VNQ (Vanguard Real Estate ETF) – say 4.5%.",
+          "Find the current 10-year U.S. Treasury yield – say 4.0%.",
+          "Subtract: 4.5% - 4.0% = 0.5% spread.",
+          "Interpret: A 0.5% spread is slim, suggesting REITs are relatively expensive. Historically, spreads above 2% signal undervaluation."
+        ]
+      },
+      {
+        "title": "Analyze a REIT Sector",
+        "steps": [
+          "Choose one REIT sector (e.g., industrial).",
+          "Identify top 3 REITs: Prologis (PLD), Duke Realty (DRE), Rexford Industrial (REXR).",
+          "Check tenant credit ratings: Amazon (AA), FedEx (BBB), etc.",
+          "Examine lease expirations: Prologis has a weighted average lease term of 5 years, providing stable income."
+        ]
+      },
+      {
+        "title": "Calculate Cap Rate vs. REIT Yield",
+        "steps": [
+          "Find a local rental property: price $500,000, annual rent $60,000, expenses $20,000 → NOI = $40,000.",
+          "Cap rate = $40,000 / $500,000 = 8%.",
+          "Compare to industrial REIT yield: say Prologis yields 2.5%.",
+          "Note: The 8% cap rate compensates for illiquidity, management hassle, and leverage; the REIT offers liquidity and diversification at a lower yield."
+        ]
+      }
+    ],
+    "risk_notes": "Real estate is illiquid and highly sensitive to interest rates. REITs can crash 40% in a rate hike cycle, as they did in 2022. The psychological trap: mistaking a dividend for a bond, when REIT dividends can be cut. Also, leverage magnifies losses in downturns. Always check the debt maturity profile and interest coverage ratio of any REIT you own.",
+    "sources": [
+      {
+        "title": "The Intelligent REIT Investor by Stephanie Krewson-Kelly and R. Brad Thomas",
+        "url": "https://www.wiley.com/en-us/The+Intelligent+REIT+Investor-p-9781119200734"
+      },
+      {
+        "title": "NAREIT – REIT Performance Data and Education",
+        "url": "https://www.reit.com"
+      }
+    ],
+    "meta": {
+      "id": "Real estate & REITs",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Property investment",
+        "REIT structure"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "23ca357c-2e47-46d0-9e69-ceb8a260f9d4",
     "date": "2026-06-19",
     "topic": "Forex and Commodities: The Hidden Forces Shaping Your Wealth",
@@ -3719,77 +3785,6 @@
       "related": [
         "Options",
         "Futures"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "49cb8282-5183-4b39-9165-702e45dab71d",
-    "date": "2026-04-19",
-    "topic": "Mutual Funds vs. ETFs: The Hidden Costs and Tax Traps of Pooled Investments",
-    "teaser": "What if the investment vehicle you trust is silently siphoning 20-40% of your lifetime returns through structural inefficiencies most advisors never mention?",
-    "summary": "In 1924, Edward G. Leffler's Massachusetts Investors Trust promised democratized investing—a revolutionary idea that delivered diversification to the masses. A century later, we face a curious paradox: this once-innovative wrapper persists alongside its more efficient descendant, the ETF, much like landlines coexisted with mobile phones for decades. Both serve the same fundamental purpose—pooling assets to solve the twin problems of cost and complexity—but their structural DNA differs profoundly.\n\nMutual funds trade once daily at net asset value (NAV), calculated after markets close, while ETFs trade intraday like stocks, with prices set by supply and demand. This operational distinction creates cascading consequences: mutual funds must sell securities to meet redemptions, triggering taxable capital gains distributions that silently compound against investors in taxable accounts. ETFs, through their in-kind creation/redemption mechanism, largely avoid this tax drag—a structural advantage that can preserve 0.5-1.0% annually in taxable accounts.\n\nYet dismissing mutual funds entirely would be simplistic. In tax-advantaged accounts like 401(k)s, where tax efficiency matters less, their automatic investment plans and fractional share capabilities remain valuable. The real insight isn't that one vehicle is universally superior, but that their suitability depends on three critical factors: account type (taxable vs. tax-advantaged), investor behavior (lump-sum vs. dollar-cost averaging), and fund construction (index vs. active).\n\nConsider this: Vanguard's index mutual funds, thanks to their patented heartbeat trades, achieve near-ETF tax efficiency—proving that fund structure matters more than wrapper type. Meanwhile, actively managed ETFs now challenge the notion that ETFs must be passive. We're witnessing not a simple replacement but a technological transition where legacy systems persist for specific use cases while new architectures dominate where efficiency matters most.\n\nIn an era of compressed returns and rising taxes, understanding these mechanics transforms from academic curiosity to practical necessity. The choice between mutual funds and ETFs isn't about picking winners but about aligning vehicle structure with your specific circumstances—a decision that can preserve hundreds of thousands in lifetime wealth that would otherwise bleed away through unnecessary friction.",
-    "key_points": [
-      "The tax efficiency gap between mutual funds and ETFs stems from redemption mechanics, not wrapper labels. Mutual funds facing redemptions must sell securities, generating taxable capital gains that get distributed to all shareholders—even those who didn't sell. ETFs use in-kind transfers, avoiding most taxable events. Data from Morningstar shows this structural advantage costs mutual fund investors 0.3-0.9% annually in taxable accounts, compounding to 20-40% of terminal wealth over 30 years.",
-      "Active share—measuring how much a fund deviates from its benchmark—creates a behavioral trap: high active share correlates with both extreme outperformance and underperformance, yet investors systematically chase the former while ignoring the latter. Research by Antti Petajisto shows the top decile of active share funds underperform by 1.26% annually after fees, yet attract disproportionate flows due to recency bias. This creates a perverse cycle where investors pay premium fees for lottery-ticket strategies that mathematically cannot deliver consistent alpha.",
-      "ETF liquidity is a two-layer system: surface trading volume matters for small investors, but underlying security liquidity determines stability during stress. The 2020 bond ETF crisis revealed this distinction—while ETF prices temporarily diverged from NAV by 3-5%, the underlying corporate bonds faced far worse liquidity evaporation. This structural resilience explains why bond ETFs recovered within weeks while individual bond markets remained impaired for months, demonstrating that ETF wrappers can actually enhance liquidity during crises through price discovery mechanisms."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your True Cost of Ownership with Free Tools",
-        "steps": [
-          "Access fund prospectuses via SEC EDGAR (free) or Morningstar (free basic access) to find total expense ratios (TER).",
-          "Use the formula: Future Value Impact = Principal × [(1 - TER)^years - 1]. Example: $100,000 with 1% TER loses $34,000 (26%) over 30 years versus 0.2% TER.",
-          "Compare TERs between similar vehicles on Portfolio Visualizer (free), adjusting for tax efficiency: add 0.3% for mutual funds in taxable accounts based on average capital gains distributions."
-        ]
-      },
-      {
-        "title": "Assess Tax Efficiency Through Turnover and Structure Analysis",
-        "steps": [
-          "Locate turnover ratio in the 'Financial Highlights' section of annual reports (free on SEC EDGAR).",
-          "Interpret strategically: <30% indicates tax-efficient indexing; 30-100% suggests moderate tax drag; >100% signals high tax costs regardless of wrapper type.",
-          "Check if mutual funds use heartbeat trades (Vanguard patents) or if ETFs use in-kind creation—this structural detail matters more than the wrapper label for tax efficiency."
-        ]
-      },
-      {
-        "title": "Stress-Test Liquidity with Historical Crisis Data",
-        "steps": [
-          "Use free resources: Portfolio Visualizer's crisis periods (2008, 2020) or FRED economic data to identify ETFs holding illiquid assets.",
-          "Analyze maximum drawdowns during stress periods—compare ETF declines to underlying asset class declines to assess wrapper resilience.",
-          "Warning: During stress-testing, investors systematically overestimate risk tolerance by 30-50% (behavioral gap). Assume you'll react worse than planned and build 20% extra liquidity buffer."
-        ]
-      }
-    ],
-    "risk_notes": "Structural risks persist across both vehicles: synthetic ETFs introduce counterparty risk through derivatives, while mutual funds face liquidity mismatches during mass redemptions. The 2020 bond ETF stress revealed that NAV deviations of 3-5% can occur even in normal-functioning markets during volatility spikes. Psychologically, the 'hot fund' fallacy persists—investors chase recent outperformers despite mean reversion tendencies that cause 80% of top-quartile funds to fall to bottom half within 5 years. Remember: diversification reduces specific risk but amplifies systemic risk exposure during correlated downturns.",
-    "sources": [
-      {
-        "title": "'The Little Book of Common Sense Investing' by John C. Bogle",
-        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
-      },
-      {
-        "title": "'The Arithmetic of Active Management' by William F. Sharpe",
-        "url": "https://web.stanford.edu/~wfsharpe/art/active/active.htm"
-      },
-      {
-        "title": "Morningstar's 'Active Share' Research by Antti Petajisto",
-        "url": "https://www.morningstar.com/lp/active-share"
-      },
-      {
-        "title": "Portfolio Visualizer for Backtesting and Crisis Analysis",
-        "url": "https://www.portfoliovisualizer.com"
-      }
-    ],
-    "meta": {
-      "id": "Mutual funds & ETFs",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Index funds",
-        "Active funds"
       ],
       "tags": [
         "Asset Classes & Products",
