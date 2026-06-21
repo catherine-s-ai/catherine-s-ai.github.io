@@ -1,5 +1,64 @@
 [
   {
+    "id": "3f030740-cee7-4d32-af77-9b028357431b",
+    "date": "2026-06-21",
+    "topic": "Mutual Funds vs ETFs: Which One Sinks Your Wealth Faster?",
+    "teaser": "You're paying for a cruise ship but getting a life raft. The difference between mutual funds and ETFs could cost you 60% of your returns. But the real trap isn't the fees—it's your own brain.",
+    "summary": "**The Fee Illusion: Why Your Brain Ignores the Obvious**\n\nImagine two identical portfolios. One charges 1% in fees, the other 0.03%. Over 30 years, the 1% fund eats 30% of your returns. Yet millions choose the expensive option. Why? Because humans are wired to discount the future. Present bias makes us overvalue today's convenience and undervalue tomorrow's costs. It's the same reason we eat junk food now and regret it later.\n\n**The Tax Mirage: ETFs' Secret Weapon**\n\nMutual funds are like a restaurant that charges you for the meal and then sends you the bill for the kitchen's mistakes. When a fund manager sells a winner, you pay capital gains taxes—even if you didn't sell. ETFs, thanks to their in-kind creation/redemption mechanism, avoid most of these distributions. Over time, this 'hidden alpha' can add 0.5-1% annually to after-tax returns. That's free money, but it's invisible unless you look.\n\n**The Liquidity Trap: Why Speed Can Kill**\n\nETFs trade all day, which feels safe. But during the 2010 Flash Crash, some ETFs traded at 80% of their value. Mutual funds always trade at NAV, protecting you from panic-induced discounts. The illusion of liquidity can trick you into selling at the worst moment. Your behavior, not the vehicle, is the real risk.\n\n**First Principles: What Are You Really Buying?**\n\nA mutual fund is a managed portfolio; an ETF is a basket that trades like a stock. The core question: Do you need active management or a low-cost index? For 90% of investors, the answer is the latter. But the industry has spent decades convincing you otherwise. Remember: the best fund is the one you don't trade.",
+    "key_points": [
+      "**Present bias blinds you to fee impact.** A 1% fee difference costs 30% of your returns over 30 years, but humans underestimate compounding losses because they feel distant. The real insight: your brain is the enemy of long-term wealth.",
+      "**Tax efficiency is hidden alpha.** ETFs' in-kind creation avoids capital gains distributions, adding 0.5-1% annually to after-tax returns. This is a structural advantage, not a marketing gimmick.",
+      "**Liquidity is a double-edged sword.** ETFs trade at market prices that can deviate from NAV during stress; mutual funds always trade at NAV. The illusion of liquidity can trigger panic selling, destroying wealth."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Fee Drag with a Concrete Example",
+        "steps": [
+          "Find your fund's expense ratio (e.g., 1.2%).",
+          "Search for an equivalent ETF (e.g., VTI at 0.03%).",
+          "Use an online calculator: $100k invested for 20 years at 7% return. The 1.2% fund grows to $350k; the ETF grows to $420k. You lose $70k—a down payment on a house."
+        ]
+      },
+      {
+        "title": "Check Turnover Ratio for Tax Leakage",
+        "steps": [
+          "Look up your mutual fund's turnover ratio (e.g., 80% means high trading).",
+          "Estimate tax drag: if 80% turnover generates 10% capital gains, and you're in a 20% tax bracket, that's 2% lost annually.",
+          "Switch to an ETF with turnover <10% (most index ETFs). Your after-tax returns will improve significantly."
+        ]
+      },
+      {
+        "title": "Stress-Test Your Behavior",
+        "steps": [
+          "Imagine a 20% market drop in one day.",
+          "Write down your plan: 'I will not sell any ETFs for 30 days. I will only rebalance if my equity allocation drifts more than 5%.'",
+          "Email this plan to a trusted friend. Behavioral anchoring prevents panic."
+        ]
+      }
+    ],
+    "risk_notes": "The real risk isn't the product—it's your behavior. Mutual funds encourage complacency (set-and-forget), while ETFs tempt overtrading. Both fail if you chase past performance. Remember: diversification is not a number of ETFs; it's exposure to global asset classes. A portfolio of 100 sector ETFs is not diversified—it's concentrated risk.",
+    "sources": [
+      {
+        "title": "Ferri, Richard A. 'The ETF Book: All You Need to Know About Exchange-Traded Funds.' Wiley, 2009.",
+        "url": "https://www.wiley.com/en-us/The+ETF+Book%3A+All+You+Need+to+Know+About+Exchange+Traded+Funds-p-9780470287040"
+      }
+    ],
+    "meta": {
+      "id": "Mutual funds & ETFs",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Index funds",
+        "Active funds"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "28c42b59-51a0-4d88-aff1-b49922bfc889",
     "date": "2026-06-20",
     "topic": "Real Estate Investing: The Inflation-Fighting Bond",
@@ -3719,72 +3778,6 @@
       "related": [
         "Private equity",
         "Hedge funds"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "038e0a3e-2eb8-4680-92ee-748b0bdcba47",
-    "date": "2026-04-20",
-    "topic": "Derivatives: The Ancient Tools Shaping Your Financial World",
-    "teaser": "Your 'safe' bond fund contains financial weapons of mass destruction—and you probably don't even know you're holding them. The 2008 crisis wasn't an anomaly; it was a preview.",
-    "summary": "**The first derivative contract wasn't carved on a Babylonian clay tablet in 1750 BC because farmers loved complexity—it was because they needed to survive.** That farmer paying upfront for next year's date harvest at a fixed price wasn't speculating; he was ensuring his family wouldn't starve if prices spiked. This ancient need—managing uncertainty about the future—has evolved into the invisible architecture that now determines your mortgage rate, retirement savings, and even the price of your morning coffee.\n\n**Here's the evolutionary arc most miss:** Derivatives didn't jump from Babylonian dates to Wall Street quants. They followed human civilization's expansion of risk. Agricultural futures gave way to shipping contracts during the Age of Exploration, then to railroad bonds in the Industrial Revolution, and finally to the mortgage-backed securities that amplified the 2008 crisis. Each leap made risk more transferable—and more concentrated. When Lehman Brothers collapsed, it wasn't because derivatives created bad mortgages; it was because credit default swaps (a type of derivative) concentrated that risk in ways that made the entire financial system vulnerable. The gas price you pay today? It's being set right now in oil futures markets by traders who will never touch a barrel of crude.\n\n**The first principle remains unchanged:** A derivative is a contract whose value derives from an underlying asset's price, but you're buying exposure, not ownership. Think of it as buying hurricane insurance without owning the beach house—you can profit from destruction you don't experience. This separation enables precision hedging but creates what Warren Buffett called 'financial weapons of mass destruction' because it allows institutions to take risks they wouldn't otherwise bear.\n\n**Why this matters to you now:** The global derivatives market exceeds $600 trillion—roughly 8 times global GDP—making it the largest financial market in history. Your pension fund uses currency futures to hedge international investments. Your bank uses interest rate swaps to determine mortgage rates. Even your grocery bill reflects agricultural futures priced months before harvest. When derivatives work, they're invisible plumbing. When they fail, they're systemic contagion. The 2008 crisis showed how mortgage-backed securities could amplify localized housing risk into global financial collapse. Today, the same concentration risk exists in corporate debt derivatives and climate-linked securities.\n\n**The psychological insight:** The most dangerous position isn't owning derivatives—it's owning them without knowing. Many 'conservative' bond funds and target-date retirement funds contain embedded derivatives that create what I call 'asymmetric understanding': investors think they understand their portfolio's risk but remain blind to the derivative exposures quietly reshaping it. From Babylonian farmers to modern retirees, the human need to manage uncertainty remains constant. Only the tools' sophistication—and their capacity for both protection and destruction—has evolved.",
-    "key_points": [
-      "Derivatives don't create risk—they concentrate it. The 2008 crisis wasn't caused by derivatives; it was caused by bad mortgages that derivatives then concentrated into systemic failure when everyone used the same hedging strategies.",
-      "Separation of ownership from exposure enables precise risk management but creates extreme moral hazard—you can profit from something's collapse without owning it, as Warren Buffett warned about 'financial weapons of mass destruction.'",
-      "Asymmetric understanding creates hidden danger: The most perilous derivative position is one where you understand the instrument but not the underlying risk dynamics or how it interacts with other positions in a crisis.",
-      "Derivatives are the invisible architecture of modern finance—if you don't see them working, you don't understand how prices are truly set or how risk accumulates silently before erupting."
-    ],
-    "practice": [
-      {
-        "title": "Discover Your Hidden Derivative Exposure",
-        "steps": [
-          "Select one mutual fund or ETF from your portfolio (or use VTI or SPY as examples)",
-          "Download the full prospectus—not just the summary—from the fund provider's website",
-          "Search for 'derivatives usage,' 'futures,' 'options,' 'swaps,' or 'forward contracts' in both the main text and footnotes (derivative disclosures are often buried)",
-          "Note what percentage of assets are in derivatives and whether they're used for hedging or speculation",
-          "**Real-world constraint:** Prospectuses often bury derivative usage in footnotes or legal jargon. Many funds use derivatives for 'efficient portfolio management' without clear risk disclosure."
-        ]
-      },
-      {
-        "title": "Price a Simple Protective Put Hedge",
-        "steps": [
-          "Assume you own $10,000 worth of S&P 500 index fund shares",
-          "Using a free options calculator (like the CME's or OptionsPlay), input: underlying = SPY, strike price = 20% below current price, expiration = 6 months",
-          "Calculate the premium cost for this 'insurance policy' against a 20% drop",
-          "Express the cost as a percentage of your $10,000 portfolio",
-          "**Real-world constraint:** Options calculators assume normal distributions that fail during crises. The 2008 volatility spike made protective puts 5-10x more expensive than models predicted. Theoretical pricing often diverges from real execution costs."
-        ]
-      },
-      {
-        "title": "Trace a Commodity's Price Chain",
-        "steps": [
-          "Select one commodity you consume regularly (coffee, gasoline, wheat products)",
-          "Research the current futures price on CME Group or ICE exchange",
-          "Map the 3-link chain: (1) Producer sells futures to lock in price → (2) Processor buys futures to secure supply → (3) Retailer prices based on expected costs",
-          "Estimate how a 10% move in futures prices might affect retail prices in 3-6 months",
-          "**Real-world constraint:** Futures markets ignore real-world friction. Transport costs, tariffs, storage fees, and processing margins create gaps between futures prices and what you actually pay. A 10% futures move might translate to only 6-7% at retail after accounting for these frictions."
-        ]
-      }
-    ],
-    "risk_notes": "Derivatives fail spectacularly when used for leverage rather than risk management. The psychological trap is 'asymmetric understanding'—traders master the instrument but remain blind to underlying risk dynamics. Hidden risks include: (1) Counterparty risk (the other party defaults), (2) Liquidity evaporation during crises (you can't exit positions), (3) Model risk (pricing models assume normal distributions that fail during extreme events), and (4) The 'tail risk' illusion where rare events are priced as impossible rather than improbable. **Critical warning:** There's always a gap between theoretical pricing models and real-world execution. During the 2008 crisis, correlation assumptions broke down, volatility models failed, and liquidity disappeared precisely when protection was needed most. Complexity doesn't eliminate risk; it often hides it in plain sight. The most sophisticated derivatives require the most rigorous understanding of both the instrument and the underlying reality it references—and how they interact during stress.",
-    "sources": [
-      {
-        "title": "The Black Swan: The Impact of the Highly Improbable by Nassim Nicholas Taleb",
-        "url": "https://www.penguinrandomhouse.com/books/176277/the-black-swan-by-nassim-nicholas-taleb/"
-      }
-    ],
-    "meta": {
-      "id": "Derivatives basics",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Options",
-        "Futures"
       ],
       "tags": [
         "Asset Classes & Products",
