@@ -1,5 +1,64 @@
 [
   {
+    "id": "885cd6a3-3091-4a0f-8968-67985ae4560d",
+    "date": "2026-06-22",
+    "topic": "Derivatives: The Double-Edged Sword of Finance",
+    "teaser": "You buy fire insurance, but someone else is striking the match. Are you hedged or holding the gasoline?",
+    "summary": "**Derivatives are like insurance—or arson.** Imagine you own a house. You buy fire insurance not because you want it to burn, but to protect against the financial ruin if it does. That's a derivative: a contract that pays out when something bad happens. But what if you don't own the house, and you buy insurance on it anyway? Now you're betting it will burn. That's also a derivative. The same tool can be a shield or a torch.\n\nIn 2008, AIG sold insurance on mortgage bonds they thought were safe. They collected premiums for years, until the housing market caught fire. The losses nearly collapsed the global economy. Meanwhile, hedge funds like Paulson & Co. bought that same insurance, betting on arson. They made billions. The contracts were identical—only the intent differed.\n\nAt its core, a derivative is a side bet between two parties on the future price of something—a stock, a commodity, a rate. You don't own the thing; you own a promise. 'If the price goes up, you pay me; if it goes down, I pay you.' That's it. But from that simple structure springs infinite complexity: options, futures, swaps, credit default swaps.\n\n**Why should you care?** Derivatives are woven into your pension fund, your mortgage, the price of gas. Airlines use them to lock in fuel costs; farmers use them to lock in crop prices. But speculators use them to gamble with borrowed money. The same leverage that lets you control $100,000 with $5,000 can vaporize your account in a day.\n\nThe key insight: derivatives are zero-sum before costs. For every winner, there's a loser. The house (the exchange, the broker) always wins. So if you're trading derivatives, ask yourself: Do I have an edge? Or am I the sucker?\n\nUnderstanding derivatives isn't just about finance—it's about seeing the hidden leverage in the economy. It's about knowing when a tool is being used for insurance or arson. And it's about not mistaking complexity for sophistication.",
+    "key_points": [
+      "**Derivatives are zero-sum before costs, but not all participants are equal.** Hedgers (e.g., airlines buying fuel futures) are willing to lose money on the derivative if the underlying risk goes away. Speculators are pure zero-sum. The real insight: the market is a battlefield of information asymmetry. If you don't know who the whale is, it's probably you.",
+      "**Leverage is a double-edged sword, but the edge is sharper than you think.** A 5% move against a 20x leveraged position wipes you out—but the real danger is path dependency: a volatile market can trigger margin calls even if your thesis is right. Most blowups aren't from being wrong, but from being right too late.",
+      "**Implied volatility is not just a fear gauge; it's a mispriced lottery ticket.** The VIX (volatility index) often spikes during crises, but the market systematically overprices tail risk (see: Taleb). Savvy traders sell expensive insurance during calm times and buy it cheap when panic is overblown. The contrarian play: bet against the crowd's fear."
+    ],
+    "practice": [
+      {
+        "title": "Gauge Market Fear with the VIX Term Structure",
+        "steps": [
+          "Pull up the VIX futures curve on a site like VIXCentral or CBOE.",
+          "Compare front-month futures to later months. A steep upward curve (contango) suggests near-term calm; a downward curve (backwardation) suggests immediate fear.",
+          "Check the VIX level relative to its 90-day moving average. If VIX is above 30 and in backwardation, the market is pricing in a crisis—but historically, such spikes revert quickly. Consider selling futures if you're contrarian."
+        ]
+      },
+      {
+        "title": "Simulate a Leverage Blowup",
+        "steps": [
+          "Use an options calculator (e.g., OptionStrat) with a $100 stock, $100 strike call, 30 days to expiry, 20% IV.",
+          "Set the stock to drop 5% in one day (to $95). Note the option price change. Then simulate a 10% drop over five days. See how time decay (theta) accelerates losses.",
+          "Now add margin: assume you bought 10 contracts with $5,000 capital. A 5% stock drop can wipe out 50% of your account. Adjust volatility up to 40% to see how vega inflates premiums—and then crashes."
+        ]
+      },
+      {
+        "title": "Read an Options Chain Like a Pro",
+        "steps": [
+          "Open the options chain for SPY (S&P 500 ETF) on a broker or Yahoo Finance.",
+          "Look for unusual open interest (OI) vs. volume. High OI with low volume indicates stale positions; high volume with low OI suggests new bets.",
+          "Find the put/call ratio for strikes near the money. A ratio > 1 suggests bearish sentiment, but check if it's driven by institutional hedging (e.g., large put buys for portfolio protection) or speculative gambling."
+        ]
+      }
+    ],
+    "risk_notes": "Derivatives are not just risky—they are systemically dangerous. The 2008 crisis was a derivatives disaster: mortgage-backed securities and credit default swaps created a web of counterparty risk that froze global markets. Individual blowups are common: Nick Leeson (Barings Bank) lost $1.4 billion trading futures; Jerome Kerviel (Société Générale) lost $7.2 billion. The psychological trap is overconfidence: derivatives give the illusion of control. You think you're hedging, but you're really speculating. Never trade a derivative you don't understand. If you can't explain it to a child in one minute, you're the arsonist's target.",
+    "sources": [
+      {
+        "title": "Search: Derivatives: The Double-Edged Sword of Finance",
+        "url": "https://www.google.com/search?q=Derivatives%3A%20The%20Double-Edged%20Sword%20of%20Finance"
+      }
+    ],
+    "meta": {
+      "id": "Derivatives basics",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Options",
+        "Futures"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "3f030740-cee7-4d32-af77-9b028357431b",
     "date": "2026-06-21",
     "topic": "Mutual Funds vs ETFs: Which One Sinks Your Wealth Faster?",
@@ -3714,70 +3773,6 @@
       "related": [
         "Insurance basics",
         "Retirement planning"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "b0bf3278-d83f-40ed-b07c-8b6d11b5990d",
-    "date": "2026-04-21",
-    "topic": "Alternative Assets: Beyond Stocks and Bonds",
-    "teaser": "The 1956 crisis that created hedge funds reveals a brutal truth: your 'diversified' portfolio is probably just 60 different ways to lose money together.",
-    "summary": "In 1956, as British and French troops stormed the Suez Canal, economist Alfred Winslow Jones faced an impossible trade. He wanted to short Egyptian bonds—a brilliant bet against Nasser's nationalization—but no market existed to execute it. His solution wasn't just clever; it was revolutionary. By combining leverage with short positions in a limited partnership structure, Jones didn't just make money—he created the first modern hedge fund and inadvertently birthed the entire alternatives industry.\n\nThis story isn't historical trivia. It's the perfect illustration of alternatives' first principle: **value exists where others can't or won't look.** While traditional investors were paralyzed by the crisis, Jones saw opportunity in the market's blind spot—the very definition of alternative thinking.\n\nToday, that 1956 insight has grown into a $4 trillion industry precisely because public markets have become too efficient. When everyone can buy Apple stock with a click, the real edge moves elsewhere. Alternatives thrive in the spaces between conventional categories—private equity buying companies before they go public, venture capital funding what doesn't yet exist, real estate syndicates acquiring what institutions overlook.\n\nBut here's what most investors miss: alternatives aren't just about higher returns. They're about **different returns.** The traditional 60/40 portfolio is collapsing because stocks and bonds now move together during crises—exactly when you need diversification most. True diversification today requires assets that zig when everything else zags, even if that means accepting illiquidity or complexity.\n\nConsider the illiquidity premium Jones captured: by accepting he couldn't exit quickly, he accessed returns liquid markets couldn't offer. Or the two-tier access reality his fund embodied: while retail investors watched the crisis unfold, Jones had the relationships and structure to act.\n\nThe shift isn't optional. As Ray Dalio observed, 'The most important thing is to know how to diversify well.' With 60% of global wealth now in private markets and public markets becoming increasingly crowded, ignoring alternatives means competing with one hand tied behind your back. Your wealth needs exposure to what others can't easily access—not because it's exclusive, but because that's where the real diversification lives.",
-    "key_points": [
-      "The Illiquidity Paradox: While illiquidity creates the premium that compensates patient capital, it also introduces hidden risks—during crises, illiquid assets can't be sold to meet obligations, potentially amplifying losses rather than cushioning them. This isn't a flaw but a feature that requires strategic planning.",
-      "Correlation's Deceptive Nature: What appears uncorrelated during calm periods often converges during crises (2008's 'everything crash'), but true alternatives maintain divergence when it matters most. The insight isn't that correlation changes—it's that most investors measure it wrong, focusing on normal times rather than stress periods.",
-      "Access as Alpha: The best alternative opportunities flow to those with relationships and specialized knowledge, creating a structural advantage that compounds over decades. This isn't unfair—it's the market pricing information asymmetry, just as it did in 1956 when Jones had the insight others lacked.",
-      "Definition by First Principles: Alternatives are best understood through negation (not public, not liquid, not correlated) because this reveals their core function: to access economic value through channels conventional portfolios ignore. This framing matters because it shifts focus from 'what they are' to 'what problem they solve' in portfolio construction."
-    ],
-    "practice": [
-      {
-        "title": "Portfolio Correlation Reality Check",
-        "steps": [
-          "Calculate your portfolio's correlation with the S&P 500 using a free tool like PortfolioVisualizer (import your holdings or use ETFs as proxies)",
-          "Identify which assets truly move independently—look for correlations below 0.3 during both calm periods AND the 2020 COVID crash",
-          "Measure what percentage qualifies as 'truly alternative' by this dual standard (most investors are shocked to discover it's under 10%)"
-        ]
-      },
-      {
-        "title": "Private Equity Stress Test",
-        "steps": [
-          "Using Cambridge Associates data (available through many university libraries or free summary reports), simulate adding 5% private equity allocation in 2007",
-          "Compare the 2008-2009 drawdown: while public markets fell 50%, private equity marked down 30%—but couldn't be sold, creating a liquidity trap",
-          "Calculate the 10-year outcome: despite the crisis, that allocation would have outperformed public markets by 3-4% annually, illustrating both the premium and the patience required"
-        ]
-      },
-      {
-        "title": "Access Audit & Minimum Viable Alternative",
-        "steps": [
-          "Audit your existing access points: 401(k) alternative funds, REITs in brokerage accounts, employer stock plans with private company exposure",
-          "Research one viable option—for example, publicly traded private equity firms (like Blackstone) or real estate crowdfunding platforms (like Fundrise)",
-          "Document the trade-offs: lower minimums ($500-5,000) but higher fees and less control versus institutional channels"
-        ]
-      }
-    ],
-    "risk_notes": "The 'smart money illusion' tempts investors to equate exclusivity with superiority—remember that even sophisticated investors lose money in alternatives. Survivorship bias distorts performance data (failed funds disappear, making averages look better than reality). Liquidity mismatches can trap capital precisely when needed most—2008 taught that illiquidity isn't just about waiting, it's about being forced to hold during collapses. High fees (typically 2% + 20%) compound quietly: over 20 years, they can consume 60%+ of returns. Due diligence is exponentially more important—without SEC filings or daily pricing, you're trusting manager integrity and valuation models that can be gamed.",
-    "sources": [
-      {
-        "title": "The Alchemy of Finance by George Soros",
-        "url": "https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495"
-      },
-      {
-        "title": "The End of Alchemy by Mervyn King",
-        "url": "https://www.amazon.com/End-Alchemy-Money-Banking-Future/dp/0393247024"
-      }
-    ],
-    "meta": {
-      "id": "Alternative assets",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Private equity",
-        "Hedge funds"
       ],
       "tags": [
         "Asset Classes & Products",
