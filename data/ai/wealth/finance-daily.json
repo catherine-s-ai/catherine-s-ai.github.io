@@ -1,5 +1,61 @@
 [
   {
+    "id": "3ea9fec8-da30-4ede-8970-bca2a4708a12",
+    "date": "2026-06-24",
+    "topic": "Alternative Assets: The Secret Ingredient for a Michelin-Starred Portfolio",
+    "teaser": "Most investors eat stocks and bonds. The wealthy dine on private equity and hedge funds. Here's the menu.",
+    "summary": "Imagine a kitchen where the head chef is a mad scientist—mixing volatility with leverage, arbitrage with illiquidity, and serving up returns that don't move with the market. That's the world of alternative assets. While the average investor stuffs their plate with stocks and bonds, the financial elite have long feasted on private equity and hedge funds, savoring the 'illiquidity premium' like a fine wine that gets better with time. But here's the catch: it's not just about adding a splash of alternatives to your portfolio; it's about understanding the hidden costs and behavioral traps that come with this secret ingredient. In a world where public markets are overpriced and interest rates are low, alternatives are no longer optional—they're essential. But to cook with them, you need more than a recipe; you need a Michelin-starred mindset.",
+    "key_points": [
+      "**Illiquidity is a feature, not a bug.** The 3-5% premium from private equity isn't compensation for risk—it's a reward for patience. Most investors can't stomach a decade-long lock-up, which is precisely why those who can earn the premium. This is the ultimate behavioral edge: forced discipline.",
+      "**Diversification is dead; long live 'uncorrelated idiosyncrasy.'** Owning 100 stocks doesn't protect you in a crash; owning assets that zig when markets zag does. Alternatives like trend-following or reinsurance have near-zero correlation to equities, but their true power lies in their asymmetrical payoff profiles—they protect against tail risks that destroy traditional portfolios.",
+      "**Manager selection isn't just important; it's the only thing that matters.** The spread between top-quartile and bottom-quartile funds in private equity can exceed 10% per year. This isn't a normal distribution; it's a winner-take-all game. The skill lies not in picking asset classes but in identifying managers with structural advantages—like access to proprietary deal flow or a repeatable alpha generation process."
+    ],
+    "practice": [
+      {
+        "title": "Check Your Current Allocation",
+        "steps": [
+          "Calculate what percentage of your portfolio is in assets that are not publicly traded stocks or bonds.",
+          "If it's less than 5%, consider adding exposure through a fund-of-funds or a simple REIT."
+        ]
+      },
+      {
+        "title": "Simulate a Liquidity Crunch",
+        "steps": [
+          "Imagine you couldn't access 20% of your savings for 10 years.",
+          "Would you be comfortable? If not, alternatives might not be for you—or you need to size accordingly."
+        ]
+      },
+      {
+        "title": "Interview Your Inner Manager",
+        "steps": [
+          "Write down three criteria you'd use to pick a private equity or hedge fund manager.",
+          "Research one fund and see if it meets your criteria."
+        ]
+      }
+    ],
+    "risk_notes": "Alternatives come with high fees (often 2% management + 20% performance), lock-up periods that can last years, and a lack of transparency. The biggest trap is 'return chasing'—investing in a hot fund just before its performance reverts to the mean. Also, due to infrequent pricing, you might not know your true returns until it's too late.",
+    "sources": [
+      {
+        "title": "AQR Capital Management. 'A Century of Evidence on Trend-Following.' 2021.",
+        "url": "https://www.aqr.com/Insights/Research/Journal-Article/A-Century-of-Evidence-on-Trend-Following"
+      }
+    ],
+    "meta": {
+      "id": "Alternative assets",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Private equity",
+        "Hedge funds"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "885cd6a3-3091-4a0f-8968-67985ae4560d",
     "date": "2026-06-22",
     "topic": "Derivatives: The Double-Edged Sword of Finance",
@@ -3709,70 +3765,6 @@
       "related": [
         "401(k)",
         "IRA"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "5fac8084-a11a-4c73-a080-51f3779c16da",
-    "date": "2026-04-22",
-    "topic": "Insurance and Annuities: Hedging Tail Risks for a Secure Financial Future",
-    "teaser": "Insurance isn't a bet against disaster—it's a bet you'll panic. Annuities? A bet you'll live too long.",
-    "summary": "**Insurance is not a bet against disaster; it's a bet that you'll be too emotional to make rational decisions when disaster strikes.** This provocative idea reframes insurance as a tool to manage your own behavioral biases, not just a financial product. At its core, insurance is a **risk-pooling mechanism**: many pay small premiums to cover the few who suffer losses, transferring risk from individuals to a collective. Annuities are the inverse: you pay a lump sum to an insurer who guarantees you a stream of income for life, transferring **longevity risk** (outliving your savings) to the insurer.\n\n**Why does this matter?** With lifespans increasing and traditional pensions disappearing, the risk of outliving your savings is real. Meanwhile, unexpected expenses—medical emergencies, property damage—can wipe out years of gains. Understanding insurance and annuities helps you hedge against **tail risks** that destroy wealth, allowing your investments to compound undisturbed.\n\nThink of insurance as protecting your **balance sheet**, not your income. Insure what you can't afford to replace: your house, your ability to earn. Skip insuring what you can: your phone. Annuities are a form of **'longevity insurance'**: they convert a lump sum into a paycheck for life. The mental model is 'buying a personal pension' to hedge against the risk of living too long.\n\n**The best insurance policy is the one you never use.** If you file a claim, you've already lost—deductibles, premium hikes. Treat insurance as a necessary cost of risk transfer, not an investment. Similarly, annuities are not growth vehicles; they are **income guarantees**. By understanding these tools, you can build a financial fortress that withstands life's shocks and ensures your savings last as long as you do.",
-    "key_points": [
-      "**Insurance is a volatility-reducing tool, not an investment.** It's about smoothing consumption, not maximizing returns. The expected value of insurance is always negative—you pay premiums that exceed average payouts—but the utility gain from avoiding a catastrophic loss is immense. Think of it as buying certainty, not profit.",
-      "**Annuities are a behavioral hedge against spending too little.** The biggest risk in retirement isn't running out of money—it's underspending due to fear of the unknown. A guaranteed income stream from an annuity lets you splurge guilt-free, knowing your essentials are covered. It's a commitment device to enjoy your wealth.",
-      "**Self-insure the small stuff, transfer the tail.** The optimal strategy is to have high deductibles on everything except catastrophic coverage. Use your emergency fund for minor repairs; save insurance for the rare events that would bankrupt you. This aligns incentives and lowers premiums.",
-      "**The best time to buy an annuity is at age 70, not 65.** Delaying increases the payout significantly due to mortality credits and higher interest rates. If you need income earlier, ladder bonds or use a systematic withdrawal plan. Annuities are for late retirement, when longevity risk is highest."
-    ],
-    "practice": [
-      {
-        "title": "Optimize Your Insurance Coverage",
-        "steps": [
-          "List all your insurance policies and note deductibles and coverage limits.",
-          "For each asset, ask: 'Could I afford to replace this out of pocket?' If yes, consider raising deductibles to lower premiums.",
-          "Ensure you have adequate liability coverage (umbrella policy) to protect your assets from lawsuits."
-        ]
-      },
-      {
-        "title": "Assess Your Longevity Risk",
-        "steps": [
-          "Use a life expectancy calculator (e.g., from the Social Security Administration) to estimate your lifespan.",
-          "Price a simple immediate annuity for your age and see what monthly income you'd get for a given lump sum.",
-          "Compare that income to your projected essential expenses in retirement. If there's a gap, consider allocating a portion of savings to an annuity."
-        ]
-      },
-      {
-        "title": "Simulate a Financial Shock",
-        "steps": [
-          "Imagine a worst-case scenario: job loss plus a medical emergency. Estimate the total cost.",
-          "Check your emergency fund (ideally 6-12 months of expenses) and insurance coverage (health, disability, life).",
-          "Identify gaps and adjust: increase emergency savings, add disability insurance, or lower deductibles if needed."
-        ]
-      }
-    ],
-    "risk_notes": "Insurance can create **moral hazard**: you may take more risks because you're covered. Annuities can be **illiquid and expensive**; once you buy one, you can't get the lump sum back. Also, insurance companies can fail (though state guaranty funds offer some protection). The biggest trap is buying products you don't understand (e.g., indexed annuities with complex caps and fees). Always read the fine print and consider working with a fiduciary advisor.",
-    "sources": [
-      {
-        "title": "The Black Swan by Nassim Taleb",
-        "url": "https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)"
-      },
-      {
-        "title": "Life Insurance: A Consumer's Guide by the NAIC",
-        "url": "https://www.naic.org/documents/prod_serv_consumer_life_li.pdf"
-      }
-    ],
-    "meta": {
-      "id": "Insurance & annuities",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Insurance basics",
-        "Retirement planning"
       ],
       "tags": [
         "Asset Classes & Products",
