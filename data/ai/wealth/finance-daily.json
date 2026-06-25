@@ -1,5 +1,72 @@
 [
   {
+    "id": "7bcb39fd-6fcd-44af-884d-4a617d22af23",
+    "date": "2026-06-25",
+    "topic": "Insurance and Annuities: The House Edge in Your Financial Life",
+    "teaser": "Insurance companies profit by being right about the average. You profit by being wrong about yourself.",
+    "summary": "**Insurance is not a bet against bad luck; it's a bet that you'll be unlucky, and the insurance company is the house. Annuities are the opposite: a bet that you'll live long, and the annuity company is the house.** Both products transfer risk from an individual to a pool, relying on the law of large numbers to make premiums predictable. With life expectancy rising and traditional pensions disappearing, the risk of outliving your assets is real. Without proper insurance, a single medical event can wipe out decades of savings. Annuities offer a guaranteed income stream in an uncertain world. The core concept is simple: insurance protects against the downside of a short life (death, disability, illness), while annuities protect against the downside of a long life (running out of money). Both are essential tools in a comprehensive financial plan, but they must be understood not as investments but as behavioral tools that protect you from your own future panic and poor decisions.",
+    "key_points": [
+      "Insurance companies profit by being right about the average; you profit by being wrong about yourself. The best insurance is the one you never need, but the worst financial move is to be uninsured when you need it.",
+      "Annuities are often criticized for low returns, but their real value is in risk reduction, not return maximization. Think of them as a portfolio's 'ballast' not its 'engine'.",
+      "The biggest mistake is treating insurance and annuities as investments. They are behavioral tools—they protect you from your own future panic and poor decisions.",
+      "Both rely on the law of large numbers: pooling risk makes individual outcomes predictable, allowing companies to price products that offer peace of mind."
+    ],
+    "practice": [
+      {
+        "title": "Gap Analysis of Insurance Policies",
+        "steps": [
+          "List all current insurance policies (health, life, disability, property, auto, umbrella).",
+          "For each, identify the deductible, coverage limits, and exclusions.",
+          "Estimate the financial impact of a worst-case scenario (e.g., major illness, car accident, house fire) without insurance.",
+          "Prioritize filling the gaps that could cause financial ruin, starting with health and disability insurance."
+        ]
+      },
+      {
+        "title": "Calculate Your Longevity Risk",
+        "steps": [
+          "Estimate your life expectancy using online tools (e.g., Social Security Life Expectancy Calculator).",
+          "Determine your current retirement savings and planned withdrawal rate (e.g., 4% rule).",
+          "Use a simple heuristic: If your savings are less than 25 times your annual expenses, your longevity risk is high. For a more precise estimate, try the free Monte Carlo simulation at Portfolio Visualizer.",
+          "If probability of savings lasting 30 years is below 80%, consider allocating a portion of savings to a deferred income annuity."
+        ]
+      },
+      {
+        "title": "Explore a Deferred Income Annuity (DIA)",
+        "steps": [
+          "If over age 50, get a quote for a DIA that starts paying at age 80 or 85.",
+          "Compare quotes from multiple highly-rated insurance companies (A.M. Best A or better).",
+          "Calculate the guaranteed income you can buy with a small portion (e.g., 10-20%) of your savings.",
+          "Assess how this income floor improves your retirement plan's sustainability."
+        ]
+      }
+    ],
+    "risk_notes": "Insurance can lead to moral hazard—taking more risks because you're covered. Annuities can lock you into low returns and high fees, and they are illiquid. Psychological trap: buying too much insurance out of fear, or buying annuities that are too complex and expensive. Always read the fine print, understand surrender charges, and consider inflation protection.",
+    "sources": [
+      {
+        "title": "The Black Swan by Nassim Nicholas Taleb",
+        "url": "https://www.penguinrandomhouse.com/books/176224/the-black-swan-by-nassim-nicholas-taleb/"
+      },
+      {
+        "title": "Insurance Information Institute",
+        "url": "https://www.iii.org/"
+      }
+    ],
+    "meta": {
+      "id": "Insurance & annuities",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Insurance basics",
+        "Retirement planning"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "3ea9fec8-da30-4ede-8970-bca2a4708a12",
     "date": "2026-06-24",
     "topic": "Alternative Assets: The Secret Ingredient for a Michelin-Starred Portfolio",
@@ -3696,75 +3763,6 @@
       "related": [
         "Tax planning",
         "Tax basics"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "1cfb0c6e-c987-4c9f-92d3-692c0b0a7242",
-    "date": "2026-04-23",
-    "topic": "The Accidental Retirement Account: How to Master Tax-Advantaged Investing",
-    "teaser": "What began as a tax loophole for executives in 1978 now determines whether you'll retire at 50 or 70—and most people are using it wrong.",
-    "summary": "**Picture this: 1978, Washington D.C.** A junior staffer adds a single paragraph to the Revenue Act—Section 401(k)—intended as a minor provision for executives to defer bonuses. No one imagined this footnote would become America's primary retirement system, replacing pensions that had sustained generations. This wasn't design; it was **accidental evolution**—a policy mutation that spread through corporate America like a financial virus.\n\n**The human drama unfolds in three acts:** First, the 1980s corporate adoption wave, where benefits consultants discovered they could shift retirement costs from companies to employees. Second, the 1990s regulatory expansion, where Congress—seeing the genie wouldn't go back in the bottle—added Roth options and contribution limits. Third, today's reality: a system **designed by committee, optimized by accident**, where most participants have never read the 26 U.S. Code § 401(k) that governs their financial future.\n\n**At first principles:** Money compounds, taxes erode, time amplifies both. Retirement accounts are simply **mathematical optimization tools** that manage this relationship. They're not investments—they're **tax-advantaged containers** that determine whether your savings grow at 7% annually or 4.5% after taxes. That 2.5% difference seems trivial until compounded over 40 years: $10,000 becomes $150,000 in a tax-advantaged account versus just $58,000 in a taxable one. **That's not a difference in returns—that's a difference in life outcomes.**\n\n**The tragedy isn't people who don't save—it's the diligent savers** who max out accounts but choose wrong containers. They work the same hours, make the same sacrifices, but end up with 30-40% less because they misunderstood the system's accidental architecture. This isn't about beating the market; it's about **not letting historical accidents beat you**. The most successful investors aren't necessarily the smartest stock pickers—they're the ones who understand **where history put the goalposts** and how to play accordingly.",
-    "key_points": [
-      "The employer match isn't free money—it's deferred compensation you've already earned. Think of it as your salary arriving in two installments: cash now, and a 50-100% bonus if you wait until retirement to collect the second part.",
-      "Roth vs Traditional isn't about predicting tax rates—it's about **hedging against political risk**. History shows governments change tax rules an average of every 3-5 years; Roth represents insurance against future revenue-hungry legislatures.",
-      "Your 401(k) balance translates to future labor hours: $1 million at a 4% withdrawal rate equals approximately 40,000 hours of minimum wage work you won't perform—or 5 years of your life reclaimed.",
-      "Retirement accounts are **time machines for money**—they transport today's dollars into a future where they've multiplied tax-free. The container matters more than the contents because physics (compounding) + policy (tax law) > stock picking.",
-      "The system's accidental origin explains its flaws: designed for executives, scaled for masses, it carries structural inefficiencies (high fees, limited choices) that require active management to overcome."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Retirement Tax Drag (Beginner-Friendly Version)",
-        "steps": [
-          "Find your tax bracket using last year's tax return or IRS tables (this is your 'tax haircut' percentage)",
-          "Take any investment outside retirement accounts: for every $100 it earns, your government takes $20-40 immediately",
-          "Use the Rule of 72: Divide 72 by your after-tax return rate to see how many years until your money doubles",
-          "Compare: Money in retirement accounts doubles 30-50% faster. That time difference determines when you stop working"
-        ]
-      },
-      {
-        "title": "Audit Your 401(k) Like a Forensic Accountant",
-        "steps": [
-          "Locate your plan's fee disclosure statement (usually buried online)—look for 'expense ratios'",
-          "Benchmark: Vanguard averages 0.09%; anything above 0.50% is eating your future",
-          "Calculate the lifetime cost: Every 1% in extra fees reduces your ending balance by 28% over 40 years",
-          "Action step: If fees are high, prioritize IRA contributions first, then only contribute to 401(k) up to the match"
-        ]
-      },
-      {
-        "title": "Simulate a Roth Conversion Ladder (With Training Wheels)",
-        "steps": [
-          "Step 1: Identify 'income valleys'—years when you'll earn less (between jobs, sabbaticals, early retirement phase)",
-          "Step 2: During those valleys, convert small amounts from Traditional to Roth IRA—enough to fill lower tax brackets but not jump to higher ones",
-          "Step 3: Each conversion must age 5 years before withdrawal (like fine whiskey)",
-          "Step 4: Visualize: Create a simple calendar showing how conversions today create tax-free income streams in future years",
-          "Pro tip: Start with just $1,000 conversion to learn the process—the IRS doesn't charge tuition for financial education"
-        ]
-      }
-    ],
-    "risk_notes": "The greatest risk isn't market crashes—it's **misunderstanding the container's purpose**. People treat retirement accounts as savings accounts (too conservative) or lottery tickets (too aggressive), missing that they're **long-term compounding engines**. Psychological traps abound: 'Out of sight' leads to neglect; tax advantages create false security; employer matches feel like 'bonuses' rather than earned compensation. The catastrophic scenario: diligent savers in high-fee plans effectively work extra years to fund their advisor's retirement. Remember: Tax optimization multiplies returns, but doesn't create them—you still need sensible asset allocation and cost vigilance. The system was designed by accident; your participation must be deliberate.",
-    "sources": [
-      {
-        "title": "The Retirement Savings Time Bomb by Ed Slott",
-        "url": "https://www.irahelp.com/slottreport"
-      },
-      {
-        "title": "IRS Historical Tax Tables (1979-Present)",
-        "url": "https://www.irs.gov/statistics/soi-tax-stats-historical-table-23"
-      }
-    ],
-    "meta": {
-      "id": "Retirement plans",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "401(k)",
-        "IRA"
       ],
       "tags": [
         "Asset Classes & Products",
