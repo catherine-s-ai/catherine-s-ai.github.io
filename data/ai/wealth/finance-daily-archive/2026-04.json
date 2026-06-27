@@ -1337,5 +1337,64 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "f8974322-61bd-4813-98df-d410dd3e576d",
+    "date": "2026-04-25",
+    "topic": "Primary vs. Secondary Markets: The Bakery and the eBay",
+    "teaser": "IPOs are a lottery, not an investment. Here's why the real money is in the secondary market.",
+    "summary": "Imagine a bakery that sells its first loaf of bread directly to you. That's the primary market: the bakery gets your cash, you get the bread. Now imagine that same loaf being resold on eBay. The baker earns nothing, but the price tells everyone if the bread is worth baking more. That's the secondary market. \n\nMost investors chase IPOs like free bread, but the data is brutal: IPOs underperform the market by an average of 20% in the three years after listing. Why? Because companies time their IPOs when markets are hot and they can get the highest price—not when the stock is cheap. The first-day pop? That's a gift to institutional insiders, not you. \n\nYour real edge is in the secondary market. There, prices reflect the collective wisdom of millions of investors, not just a company's hype. The secondary market is where you can buy at fair prices after the frenzy fades. It's also a double-edged sword: liquidity lets you exit quickly, but it tempts you to trade too often, eroding returns through fees and taxes. \n\nRemember: primary markets are about capital allocation—companies raise money. Secondary markets are about information aggregation—prices reflect reality. Avoid the IPO hype trap, and focus on buying in the secondary market where the real dough is made.",
+    "key_points": [
+      "IPOs are a lottery, not an investment. Studies show that IPOs underperform the market by 20% on average over three years. Companies time IPOs when markets are hot, not when they're undervalued. The first-day pop benefits insiders, not retail investors.",
+      "The secondary market is an information aggregation machine. Stock prices there reflect collective wisdom, not just company fundamentals. This makes it a more reliable place to buy than the primary market, where prices are set by underwriters and hype.",
+      "Liquidity is a double-edged sword. It allows quick exits but also encourages overtrading. The average investor's returns are reduced by 1-2% annually due to excessive trading, not to mention taxes and fees."
+    ],
+    "practice": [
+      {
+        "title": "IPO Hype Thought Experiment",
+        "steps": [
+          "Next time you see a hot IPO, note the ticker and the IPO price.",
+          "Six months later, look up its current price and compare it to the S&P 500 return over the same period.",
+          "Calculate the difference. If the IPO underperformed, ask yourself: 'Was the hype justified? What does this tell me about the primary vs. secondary market dynamics?'"
+        ]
+      },
+      {
+        "title": "Simulate the Cost of Hype",
+        "steps": [
+          "Pick a well-known IPO like Facebook (2012). Look up its IPO price ($38) and its price 3 months later ($26).",
+          "Calculate the return if you bought at IPO: -31.6% in 3 months. Now compare to waiting 3 months and buying at $26—your return from that point to today would be much higher.",
+          "Reflect: 'What does this teach me about patience and waiting for fair prices in the secondary market?'"
+        ]
+      },
+      {
+        "title": "Audit Your Portfolio's Primary Exposure",
+        "steps": [
+          "Check your brokerage statements for any holdings purchased through IPOs or new bond issues in the last 12 months.",
+          "Calculate the percentage of your total portfolio that came from primary market purchases. Aim for less than 5%.",
+          "If higher, identify which positions to sell and replace with diversified secondary market ETFs. Ask yourself: 'Am I holding these because of hype or because of fundamentals?'"
+        ]
+      }
+    ],
+    "risk_notes": "The primary-secondary distinction can lull you into thinking IPOs are 'special' investments. In reality, most IPOs are sold by insiders cashing out—the classic 'lemons problem.' Also, secondary markets can become disconnected from primary market fundamentals during bubbles, leading to mispricing that persists longer than you can stay solvent.",
+    "sources": [
+      {
+        "title": "Search: Primary vs. Secondary Markets: The Bakery and the eBay",
+        "url": "https://www.google.com/search?q=Primary%20vs.%20Secondary%20Markets%3A%20The%20Bakery%20and%20the%20eBay"
+      }
+    ],
+    "meta": {
+      "id": "Primary & secondary markets",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "IPOs",
+        "Secondary trading"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
   }
 ]
