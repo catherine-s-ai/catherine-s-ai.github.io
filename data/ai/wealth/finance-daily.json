@@ -1,5 +1,64 @@
 [
   {
+    "id": "e46fb140-03c1-4f0c-833e-679fca888b63",
+    "date": "2026-06-28",
+    "topic": "Primary vs. Secondary Markets: Where the Real Money Moves",
+    "teaser": "Your neighbor's kitchen smells like profit, but the bakery is just the beginning. Here's why the real money moves when you least expect it.",
+    "summary": "**Imagine a bakery that sells fresh bread every morning. That's the primary market—companies issuing new shares to raise capital. But the real action is next door, where neighbors resell slices. That's the secondary market.**\n\nMost people think investing is about buying the fresh loaf (the IPO). They line up, hoping for a taste. But the baker already sold the loaf to insiders at a discount. By the time you get a slice, the price has popped—and the easy money is gone.\n\n**Here's the first principle:** Primary markets create securities; secondary markets trade them. The primary market is where companies get funded. The secondary market is where you build (or lose) wealth. But here's the kicker: secondary markets feel safe because you can sell anytime—until you can't.\n\n**The liquidity illusion** is a silent wealth killer. In March 2020, bid-ask spreads on ETFs like SPY widened from pennies to dollars. If you had to sell, you'd pay a panic premium. The market is a voting machine in the short run, a weighing machine in the long run. When everyone votes fear, the machine breaks.\n\n**IPO underpricing** is not your friend. Companies intentionally leave money on the table to reward early investors. The first-day pop is a wealth transfer from the company to institutional buyers. Retail investors who buy on day one are buying hype, not value. **Never buy an IPO on the first day.**\n\n**Secondary markets are zero-sum for traders** (before costs) but positive-sum for long-term holders. Economic growth lifts all boats, but only if you don't capsize in the liquidity storm. The primary market is where companies get their seed; the secondary market is where you grow your tree—or get chopped.\n\n**Your move:** Ignore the IPO frenzy. Focus on secondary markets with discipline. Use limit orders, avoid panic selling, and remember: the neighbor's kitchen might smell good, but the real feast is in patient, long-term holding.",
+    "key_points": [
+      "**Liquidity Illusion**: Secondary markets feel safe because you can sell anytime, but during panics liquidity evaporates. The market is a voting machine in the short run, a weighing machine in the long run. Action: Use limit orders, not market orders, especially during volatility.",
+      "**IPO Underpricing**: Companies intentionally leave money on the table to reward early investors. The first-day pop is a wealth transfer from company to institutional buyers, not a signal for retail to buy. Action: Never buy an IPO on the first day. Wait at least 6 months for the lock-up expiration to pass.",
+      "**Zero-Sum vs. Positive-Sum**: Secondary markets are zero-sum for traders (before costs) but positive-sum for long-term holders due to economic growth. Primary markets fund companies; secondary markets build (or destroy) wealth. Action: Invest for the long term in diversified index funds to capture economic growth, not trade IPOs."
+    ],
+    "practice": [
+      {
+        "title": "Check Lock-Up Periods",
+        "steps": [
+          "Find the lock-up expiration date for any recent IPO on SEC.gov (search EDGAR for the company's S-1 filing, look for 'lock-up' section).",
+          "On Yahoo Finance, look up the stock's price 1 day before, on, and 1 week after the expiration date for the last 5 IPOs.",
+          "Note how often prices drop when insiders are allowed to sell. This will cure you of IPO FOMO."
+        ]
+      },
+      {
+        "title": "Simulate a Liquidity Crisis",
+        "steps": [
+          "Go to Yahoo Finance and download daily data for SPY from March 2020.",
+          "Calculate the average bid-ask spread (ask minus bid) during the crash week (Mar 16-20) vs. the prior month. Use historical quotes if available.",
+          "Multiply that spread by a hypothetical $10,000 trade. That's your panic cost. It will make you use limit orders forever."
+        ]
+      },
+      {
+        "title": "Track Follow-On Offerings",
+        "steps": [
+          "Pick a company that had an IPO and later a secondary offering (e.g., Tesla, but check any). Use SEC.gov EDGAR to find filing dates.",
+          "On Yahoo Finance, compare stock price 6 months after each event.",
+          "Calculate the percentage change. If the secondary offering caused a drop, that's dilution in action. Ask yourself: would I have bought before or after?"
+        ]
+      }
+    ],
+    "risk_notes": "The primary-secondary distinction can lull you into thinking secondary markets are 'safe' because they're liquid. But liquidity can vanish, and IPOs can create a false sense of scarcity. Psychological trap: anchoring to IPO price, ignoring that the market constantly reprices assets. The biggest risk is acting on the illusion of safety.",
+    "sources": [
+      {
+        "title": "Larry Harris, Trading and Exchanges: Market Microstructure for Practitioners (Oxford University Press).",
+        "url": "https://global.oup.com/academic/product/trading-and-exchanges-9780195144703"
+      }
+    ],
+    "meta": {
+      "id": "Primary & secondary markets",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "IPOs",
+        "Secondary trading"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "7f0e3539-ab81-45cc-9aa0-038b17f2fadc",
     "date": "2026-06-27",
     "topic": "Tax-Advantaged Accounts: The Government-Sponsored Loophole",
@@ -3698,70 +3757,6 @@
       "related": [
         "Corporate actions",
         "Dividend policy"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "e00d7d54-d68d-4796-b093-ef9f7cf42796",
-    "date": "2026-04-26",
-    "topic": "How Stock Exchanges Really Work (and Why You're Paying More Than You Think)",
-    "teaser": "Every trade you make is being auctioned to the highest bidder—and you're not the one collecting the cash.",
-    "summary": "**Stock exchanges are not markets; they are auction houses for liquidity, where the product being auctioned is time.** The NYSE started under a buttonwood tree in 1792, but today's trading is a battle between nanoseconds and human patience.\n\nA **stock exchange** is a regulated venue where buyers and sellers trade shares of publicly listed companies. Think of it as a matchmaking service for capital: companies list shares to raise money, and investors trade those shares. **Trading platforms** are the digital interfaces (like Robinhood or E*TRADE) that connect you to the exchange. The exchange ensures fair prices by matching orders—**bid** (buy) and **ask** (sell)—through an auction process. At its core, it's a **price-discovery mechanism**: the price of a stock is simply the last price at which a buyer and seller agreed to transact.\n\n**Why does this matter to you?** Because every dollar you invest passes through these systems, and the fees, speed, and hidden order types can eat your returns. In 2021, meme stock mania showed how retail order flow is sold to high-frequency traders, costing you pennies per share. Understanding the plumbing helps you avoid being the sucker at the auction.\n\n**Key insights:**\n- Exchanges are not neutral; they are profit-maximizing businesses. The NYSE and Nasdaq charge fees for data and listings, and they compete for order flow. Your brokerage may route your order to the exchange that pays them, not the one that gives you the best price.\n- Liquidity is a mirage. Most stocks trade thinly; the quoted bid-ask spread is often wider than you think. That 'liquid' stock may cost you 1% to enter and exit, which is a massive drag on returns over time.\n- Dark pools are the hidden icebergs. Over 40% of US stock trades happen off-exchange in private venues, where large institutions trade anonymously to avoid moving prices. This means the price you see on your screen may not reflect true supply and demand.\n\n**Actionable practice:**\n- Check your brokerage's order routing policy. Look for 'payment for order flow' disclosures. If they sell your orders, consider using a broker that doesn't (e.g., IEX-based).\n- Simulate a trade on a low-volume stock: note the bid-ask spread. Divide the spread by the stock price to see your hidden cost. Repeat for a high-volume stock to see the difference.\n- Use limit orders instead of market orders. Market orders guarantee execution but not price; limit orders guarantee price but not execution. For liquid stocks, use limit orders with a small buffer to avoid overpaying.",
-    "key_points": [
-      "Zero commissions are a tax on your attention: every notification is designed to trigger a trade, and the house always wins.",
-      "Exchanges are profit-maximizing businesses that sell speed and data. Your order is a product, not a service.",
-      "Liquidity is an illusion—the bid-ask spread can cost you 1% or more, silently eroding returns. That 'liquid' stock may be a liquidity mirage.",
-      "Over 40% of trades occur in dark pools, hidden from public view. The price you see is a curated reality, not the full picture."
-    ],
-    "practice": [
-      {
-        "title": "Check Your Broker's Order Routing",
-        "steps": [
-          "Log into your brokerage account and find the 'Order Routing' or 'Payment for Order Flow' disclosure (usually in the fine print).",
-          "Note whether your broker receives payment for sending your orders to specific exchanges or market makers.",
-          "If they do, consider switching to a broker that uses IEX or another venue that prioritizes price improvement over profit. To do this, search for 'IEX-compatible brokers' and compare their routing policies."
-        ]
-      },
-      {
-        "title": "Calculate the Hidden Cost of Spread",
-        "steps": [
-          "Pick a low-volume stock (e.g., with average daily volume under 100k shares) and note the current bid and ask prices.",
-          "Calculate the spread: ask minus bid. Then divide by the stock price to get the percentage cost.",
-          "Repeat with a high-volume stock (e.g., Apple or Microsoft). Compare the costs and reflect on how much you'd lose on a round-trip trade."
-        ]
-      },
-      {
-        "title": "Master Limit Orders",
-        "steps": [
-          "For your next trade, use a limit order instead of a market order. For example, if Apple is at $150 bid / $150.05 ask, set a limit buy at $150.03 to avoid paying the full spread.",
-          "Monitor the order; if it doesn't fill, adjust the price incrementally. Avoid chasing the price.",
-          "For highly liquid stocks, use a limit order with a small buffer (e.g., a few cents) to improve execution while still capturing most of the spread."
-        ]
-      }
-    ],
-    "risk_notes": "The biggest trap is overconfidence in your ability to time the market. Exchanges and platforms are designed to make you trade more—gamification, notifications, zero commissions. This leads to overtrading, which is a proven destroyer of wealth. Also, during flash crashes or volatility halts, the exchange may stop trading, leaving you unable to exit. Finally, the illusion of liquidity: you can buy easily, but when everyone wants to sell, the exchange may fail to match orders, causing panic.",
-    "sources": [
-      {
-        "title": "Flash Boys: A Wall Street Revolt by Michael Lewis",
-        "url": "https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351591"
-      },
-      {
-        "title": "Trading and Exchanges: Market Microstructure for Practitioners by Larry Harris",
-        "url": "https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708"
-      }
-    ],
-    "meta": {
-      "id": "Stock exchanges & trading platforms",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Market participants",
-        "Clearing"
       ],
       "tags": [
         "Market Operations",
