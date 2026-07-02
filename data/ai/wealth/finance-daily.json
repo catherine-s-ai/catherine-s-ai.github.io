@@ -1,5 +1,70 @@
 [
   {
+    "id": "6af68897-d415-4f5c-853b-29d048fe863b",
+    "date": "2026-07-02",
+    "topic": "Order Types: Market, Limit, and Stop Orders",
+    "teaser": "Your order type is silently draining 1-5% per trade. Are you paying the slippage tax?",
+    "summary": "**Order types are the steering wheel of your portfolio—yet most traders treat them like a horn, honking randomly at the market.**\n\nThink of order types as your car's controls. A market order is like flooring the accelerator: you get immediate movement, but you lose control over the exact price. A limit order is like setting cruise control: you'll only move at your desired speed, but you might never arrive if traffic (the market) doesn't cooperate. A stop order is like an airbag: it deploys automatically when you hit a certain speed, but it can also be triggered by a pothole (volatility) when you least expect it.\n\n**Why it matters:** In today's high-frequency trading landscape, the difference between a market and limit order can mean the difference between profit and loss. The hidden tax of slippage on market orders is especially brutal in thin markets—think of it as a toll you pay for speed. Limit orders, on the other hand, let you play the role of a market maker, capturing the bid-ask spread, but you risk non-execution if the price never reaches your level. Stop orders automate discipline but can trigger cascade sells during flash crashes (e.g., 2010 Flash Crash). By mastering order types, you turn a random horn into a precise steering wheel, navigating the market's chaos with intention.\n\n**The counterintuitive truth:** Most traders think market orders are for when you need to get in or out quickly. But the real cost isn't the commission—it's the slippage. And the best way to avoid it? Use limit orders even when you think you need speed, especially in volatile markets. The few seconds it takes to set a limit can save you hundreds of dollars over a year.",
+    "key_points": [
+      "**Market orders are a tax on impatience**—you're paying for speed, but the real cost is hidden in slippage, which can be 1-5% in thin markets.",
+      "**Limit orders turn you into a market maker**—you capture the bid-ask spread, but the risk of non-execution is a feature, not a bug; it forces you to be patient and disciplined.",
+      "**Stop orders are a double-edged sword**—they automate discipline but can trigger cascade sells during flash crashes (e.g., 2010 Flash Crash); use them with a volatility buffer (like ATR) to avoid being stopped out by noise.",
+      "**Over-reliance on any order type breeds rigidity**—markets adapt, but your order instructions don't; the best traders use a mix, switching between order types based on market conditions."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Slippage Tax",
+        "steps": [
+          "Review your last 10 market order trade confirmations.",
+          "For each trade, note the expected price at order placement and the actual fill price.",
+          "Calculate the difference (in dollars or percentage) for each trade.",
+          "Sum the differences and divide by 10 to get your average slippage per trade.",
+          "Multiply by your annual trade frequency to estimate your yearly slippage tax. Example: If you trade 100 times a year and average $10 slippage per trade, you're losing $1,000 annually to slippage."
+        ]
+      },
+      {
+        "title": "Simulate a Stop-Loss Placement",
+        "steps": [
+          "Identify a stock you currently hold or plan to trade.",
+          "Determine a stop-loss level based on acceptable loss (e.g., 2% of your account), not on where you think the market will reverse.",
+          "Place a simulated stop order in a paper trading account and monitor if it would have been triggered by noise or a genuine move.",
+          "Adjust your stop level to avoid being stopped out by normal volatility. Use the Average True Range (ATR) indicator: set your stop at 1.5 to 2 times the ATR below your entry price."
+        ]
+      },
+      {
+        "title": "Speed vs. Price Decision Framework",
+        "steps": [
+          "Before placing any trade, ask: 'Am I optimizing for speed (market) or price (limit)?'",
+          "If speed is critical (e.g., news event, fast-moving stock), use a market order but be aware of slippage. Consider using a limit order with a small premium to the current price to reduce slippage.",
+          "If price is critical (e.g., adding to a position, capturing spread), use a limit order and be patient. Set your limit at a price that gives you a favorable entry, and walk away.",
+          "Write down your answer and reasoning before clicking the order button. Over time, this will train your brain to choose the right order type automatically."
+        ]
+      }
+    ],
+    "risk_notes": "Stop orders can amplify panic selling in a crash (cascading stop hunts). Limit orders can create a false sense of control, leading to missed opportunities when prices gap through your limit. Over-reliance on any order type breeds rigidity—markets adapt, but your order instructions don't. Always consider market conditions (volatility, liquidity) before choosing an order type.",
+    "sources": [
+      {
+        "title": "Search: Order Types: Market, Limit, and Stop Orders",
+        "url": "https://www.google.com/search?q=Order%20Types%3A%20Market%2C%20Limit%2C%20and%20Stop%20Orders"
+      }
+    ],
+    "meta": {
+      "id": "Order types",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Market order",
+        "Limit order",
+        "Stop order"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "edf33b1c-e6ae-431f-a2db-51407be69e14",
     "date": "2026-07-01",
     "topic": "Dividends vs. Buybacks: Which Actually Builds Wealth?",
@@ -3696,65 +3761,6 @@
       "related": [
         "Securities law",
         "Disclosure"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "2c63fedb-9eae-4c90-9258-e2f8b9513df5",
-    "date": "2026-04-29",
-    "topic": "Settlement and Custody: The Hidden Mechanics of Trading",
-    "teaser": "Your trade is a promise. But for two days, you're just hoping. And your assets? They're held by someone you've never met. Here's the truth behind the curtain.",
-    "summary": "Imagine shaking hands on a deal to buy a house, then waiting 48 hours to actually own it. You've paid, but the seller still holds the keys. That's settlement: the awkward handshake that takes two days to complete. In finance, this is T+2—trade date plus two business days. And custody? That's the vault where your assets sleep, but the key is held by a third party you may never see.\n\nWhy does this matter? Because between the handshake and the ownership, you're exposed. You've paid for stocks, but they're not yours yet. If the seller fails to deliver, you're out cash and left with nothing. This gap is a credit risk window—silent, invisible, and dangerous. Clearinghouses exist to plug this gap, but they're not foolproof.\n\nCustody is another trust game. Your broker may not physically hold your shares; they use a custodian. If that custodian goes bankrupt—like Lehman Brothers did—your assets could be frozen. The lesson: ownership and possession are separate. Knowing who holds your assets is as important as knowing what you own.\n\nNow, here's the counterintuitive part: T+2 isn't universal. In some markets, settlement happens in one day (T+1) or even instantly (T+0). This creates arbitrage opportunities and risks. If you trade across borders, a Friday trade in one market might not settle until Tuesday in another—leaving you with a weekend of uncertainty.\n\nThe emotional hook? Every trade you make is a leap of faith. For two days, you're not a shareholder; you're a creditor. And the only thing standing between you and a failed trade is a system you barely understand. That's the hidden mechanics of trading—and ignoring them is like driving with your eyes closed.",
-    "key_points": [
-      "The gap between trade and settlement isn't just a delay—it's a credit risk window where you're unsecured. This is why clearinghouses exist, but they concentrate risk too.",
-      "Custody separates ownership from possession. Your broker might not hold your assets; a custodian does. If the custodian fails, you're exposed—even if the broker is healthy. That's a hidden concentration risk.",
-      "T+2 is not universal. Markets vary: US stocks are T+2, but some bonds settle T+1, and ETFs can settle T+0. This mismatch creates settlement friction and arbitrage opportunities that most traders ignore."
-    ],
-    "practice": [
-      {
-        "title": "Check Settlement Schedules",
-        "steps": [
-          "Review your brokerage's settlement calendar: stocks settle T+2, options T+1, but some ETFs settle T+0. Mark your calendar for Friday trades—they won't settle until Tuesday.",
-          "Note the exact time when funds become available for withdrawal. Often it's after 4 PM on settlement day—don't assume you can use them earlier.",
-          "Set reminders to avoid accidental overdrafts: if you sell on Monday to free up cash for a Friday purchase, you might still be in the hole on Wednesday."
-        ]
-      },
-      {
-        "title": "Verify Custodian Arrangements",
-        "steps": [
-          "Check if your broker uses a separate custodian (like Apex or Pershing) or holds assets in-house. In-house custody is riskier—if the broker fails, your assets are commingled.",
-          "Look for SIPC insurance: it covers up to $500,000, but it's not a guarantee. Understand that SIPC protects against broker failure, not market loss.",
-          "Diversify custodians if possible: holding assets with multiple brokers reduces concentration risk. But beware of the complexity—more accounts mean more tracking."
-        ]
-      },
-      {
-        "title": "Simulate a Failed Trade",
-        "steps": [
-          "Learn the buy-in process: if your counterparty fails to deliver, the clearinghouse buys the securities at market price and charges the failing party. You might get your cash, but at a cost.",
-          "Understand the costs: failed trades can trigger margin calls, overdraft fees, or even account restrictions. Practice by checking your broker's policy on trade fails.",
-          "Manage cash flows: keep a buffer of cash to cover potential delays. If you're trading on margin, a settlement delay could amplify losses."
-        ]
-      }
-    ],
-    "risk_notes": "Settlement risk turns into systemic risk during crises—like 2008 when AIG's failure threatened CDS settlements. Psychological trap: investors assume trades settle instantly, leading to overleveraging or premature spending. Custody risk: trusting a single custodian creates concentration risk; diversifying custodians can mitigate but adds complexity.",
-    "sources": [
-      {
-        "title": "Search: Settlement and Custody: The Hidden Mechanics of Trading",
-        "url": "https://www.google.com/search?q=Settlement%20and%20Custody%3A%20The%20Hidden%20Mechanics%20of%20Trading"
-      }
-    ],
-    "meta": {
-      "id": "Settlement & custody",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "T+2 settlement",
-        "Custody"
       ],
       "tags": [
         "Market Operations",
