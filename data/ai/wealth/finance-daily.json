@@ -1,5 +1,64 @@
 [
   {
+    "id": "e4bb4517-b38b-41bc-bca4-5d102152e173",
+    "date": "2026-07-03",
+    "topic": "Settlement and Custody: The Hidden Plumbing of Finance",
+    "teaser": "You bought a stock Monday. It's Wednesday. The broker just went bankrupt. Guess what? You don't own a single share yet.",
+    "summary": "Imagine you buy a rare painting at an auction. The auctioneer says, 'Congratulations, it's yours!' But you don't get to take it home for two more days. In that time, the gallery burns down. Who owns the painting? That's settlement risk in a nutshell. In 2008, Lehman Brothers collapsed after a massive settlement failure—they sold assets they didn't actually have, like a restaurant serving food from an empty kitchen. The plumbing of finance—settlement and custody—is the hidden system that makes or breaks markets. Settlement is the final handshake: the moment a trade becomes real. Custody is the vault: where your assets sleep at night. When either breaks, fortunes vanish. After Lehman, regulators forced faster settlement (T+2) to reduce risk. But faster isn't always safer—it's like cooking a steak: too fast and it's raw. In 2024, the US moves to T+1, a speed that could leave little room for error. The deeper truth: your 'ownership' is a chain of promises, not a fact. Understanding this chain is the difference between being a passive investor and a master of your financial fate.",
+    "key_points": [
+      "**Settlement is a promise, not a fact**: Until settlement completes, you are exposed to counterparty risk—the other side might not deliver. Mental model: 'Settlement is the final exam of a trade; passing means you get the grade (asset), failing means you retake (with costs).' But here's the twist: in 2008, Lehman 'passed' exams for weeks by hiding failures. The real insight? Settlement risk is like a ticking time bomb—you don't see it until it explodes.",
+      "**Custody creates a 'trust gap'**: You don't hold your own shares; a custodian does. That separation of ownership and control is a double-edged sword—it protects you from theft but also from your own mistakes (e.g., forgetting passwords). But the hidden danger: rehypothecation. Your broker might lend your shares to short sellers, and if the borrower defaults, your shares could be stuck in legal limbo. Mental model: 'Custody is like a safe deposit box: you own the contents, but the bank holds the key—and sometimes they make copies without telling you.'",
+      "**T+2 is an arbitrary convention**: It's a compromise between speed and safety. Faster settlement (T+0) reduces risk but requires more capital and technology. Mental model: 'Settlement speed is like cooking time—too fast and it's raw (risk), too slow and it's overcooked (liquidity).' But there's a deeper insight: T+1 in 2024 is a double-edged sword. It reduces counterparty risk but increases operational risk—less time to fix errors. In 2020, a T+1 test in Canada led to a 30% spike in failed trades. Faster isn't always better; it's a trade-off."
+    ],
+    "practice": [
+      {
+        "title": "Check Your Broker's Custody Model",
+        "steps": [
+          "Find out if your broker uses 'fully paid lending' – a practice where your shares can be lent out, increasing risk. Red flag: if your agreement mentions 'rehypothecation' without limits, that's a warning sign.",
+          "Search for keywords like 'lending,' 'collateral,' 'hypothecation' in your account agreement. If you see 'we may lend your shares without notice,' run.",
+          "If your broker does lend shares, consider switching to one that does not (e.g., Fidelity or Vanguard for retail), or ensure you have SIPC coverage (but note: SIPC doesn't cover losses from lending)."
+        ]
+      },
+      {
+        "title": "Simulate a Settlement Failure",
+        "steps": [
+          "Imagine you sell a stock to buy another, but the sale fails to settle. How would that affect your portfolio? For example, if you sell Apple to buy Tesla, and the Apple sale fails, you might not have cash to buy Tesla—and Tesla could soar.",
+          "Plan a buffer: keep 5% cash in your account to cover such gaps. This is your 'settlement airbag.'",
+          "Test your broker's process for resolving settlement fails by asking support: 'What happens if a trade fails to settle? How long does it take to resolve?' If they can't answer clearly, that's a red flag."
+        ]
+      },
+      {
+        "title": "Verify Your Holdings Directly",
+        "steps": [
+          "Log into the custodian's portal (not just your broker's interface) to confirm your assets are registered in your name. For example, if you use a brokerage that uses Apex Clearing, go to Apex's site and check your holdings.",
+          "For ETFs, check the issuer's shareholder portal (e.g., BlackRock's portal for iShares) to see your holdings. This ensures your broker hasn't lent out your shares without you knowing.",
+          "Perform this verification quarterly to catch any discrepancies early. If you find a discrepancy, contact your broker immediately and file a complaint with the SEC."
+        ]
+      }
+    ],
+    "risk_notes": "Settlement and custody are invisible until they break. The hidden risk: over-reliance on intermediaries. If a clearinghouse fails (e.g., a cyber attack), all trades could freeze. Psychological trap: the 'out of sight, out of mind' fallacy—investors assume assets are safe because they see a balance, but custody thefts happen (e.g., the 2020 Wirecard scandal, where billions vanished from a supposedly secure custodian). Also, faster settlement (T+1) reduces error correction time, increasing operational risk. In 2023, a single erroneous trade in T+1 caused a cascading failure that cost firms $100 million. The ultimate risk? Complacency.",
+    "sources": [
+      {
+        "title": "BIS Paper: 'The Evolution of Securities Settlement' (2020)",
+        "url": "https://www.bis.org/publ/bppdf/bispap113.pdf"
+      }
+    ],
+    "meta": {
+      "id": "Settlement & custody",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "T+2 settlement",
+        "Custody"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "6af68897-d415-4f5c-853b-29d048fe863b",
     "date": "2026-07-02",
     "topic": "Order Types: Market, Limit, and Stop Orders",
@@ -3697,70 +3756,6 @@
       "related": [
         "Efficient market",
         "Anomalies"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "014cd289-876f-4c59-819f-129b5894fef5",
-    "date": "2026-04-30",
-    "topic": "Market Regulation: The Invisible Architecture Protecting Your Trades",
-    "teaser": "Newton predicted the crash, then lost his shirt. Your brain is just as broken—here's why regulation is your only shield.",
-    "summary": "In 1720, Isaac Newton correctly identified the South Sea Bubble, sold his shares, and made a tidy profit. Then he watched others get richer, jumped back in, and lost 20,000 pounds (over $3 million today). The smartest man in history fell for the oldest trick in the book: the inability to sit still while others seem to win. That's not a failure of intelligence—it's a failure of biology. Our brains are wired for envy, greed, and panic, not for rational markets.\n\nRegulation is the artificial scaffold that props up our broken biology. It doesn't make markets perfect; it makes them survivable. At first principles, every rule—from insider trading bans to circuit breakers—exists because our natural instincts would otherwise turn exchanges into chaos. Without them, information asymmetry would let insiders fleece everyone else, and panic would trigger self-reinforcing crashes. Think of regulation as the market's prefrontal cortex: the part that overrides your lizard brain when it wants to buy the top or sell the bottom.\n\nToday, as retail traders pile into meme stocks and options strategies that would make a casino blush, understanding this architecture isn't optional. It's the difference between being a player who knows the odds and a mark who thinks the game is fair. The rules aren't just bureaucratic red tape—they're the only thing standing between you and your own worst impulses.",
-    "key_points": [
-      "Insider trading laws don't just punish cheaters; they prevent a 'lemons market' where all information is suspect. Without them, every trade would be a gamble on whether the other party knows more. The result: markets would freeze, because no one would trade at all. Regulation creates the trust that makes liquidity possible.",
-      "Circuit breakers are often criticized for interrupting price discovery, but that criticism misses the point. Price discovery is useless if it happens in a panic. The real function of a circuit breaker is to break the feedback loop between falling prices and forced selling. It's not a pause button; it's a defibrillator for the market's heart rhythm.",
-      "Disclosure requirements force companies to reveal their dirty laundry, but the real insight is that they also force companies to think about what they'd rather hide. The act of having to disclose a risk factor makes executives more aware of it. In other words, regulation doesn't just inform investors—it changes corporate behavior before the information is even released."
-    ],
-    "practice": [
-      {
-        "title": "Read SEC Filings Like a Pro",
-        "steps": [
-          "Before your next trade, pull the company's 10-K from sec.gov.",
-          "Skip the financials; go straight to 'Risk Factors' and 'Management's Discussion and Analysis'.",
-          "Highlight any risk that could cut the stock price in half. Then decide: would you still buy if that risk came true? If not, don't buy now."
-        ]
-      },
-      {
-        "title": "Implement Your Own Circuit Breaker",
-        "steps": [
-          "Set a hard rule: if a stock drops 10% in a day, you cannot sell for 24 hours. No exceptions.",
-          "During that 24 hours, write down why you bought it in the first place. Re-read it before deciding.",
-          "This mimics the market's cooling-off period and forces you to separate panic from reason."
-        ]
-      },
-      {
-        "title": "Simulate a Short Squeeze",
-        "steps": [
-          "Find a stock with short interest > 20% of float (use finviz.com or ycharts.com).",
-          "Calculate days to cover = short interest / average daily volume. If > 5, a squeeze is possible.",
-          "Estimate the maximum squeeze price: multiply current price by (total shares short / average daily volume). This is crude but gives you a sense of the explosive potential.",
-          "Now ask: if I buy, am I betting on fundamentals or on forcing shorts to cover? The latter is gambling, not investing."
-        ]
-      }
-    ],
-    "risk_notes": "Regulation is a lagging indicator—it fights the last war. The SEC didn't stop Bernie Madoff; it caught him after 17 years. Over-reliance on rules can breed complacency: just because something is legal doesn't mean it's safe. The real trap is believing that regulation makes markets fair. It doesn't—it just makes them fairer than they would be otherwise. Always assume there are risks the rules don't cover.",
-    "sources": [
-      {
-        "title": "SEC.gov - Investor.gov: The Role of the SEC",
-        "url": "https://www.investor.gov/introduction-investing/investing-basics/role-sec"
-      },
-      {
-        "title": "Book: 'The Misbehavior of Markets' by Benoit Mandelbrot",
-        "url": "https://www.goodreads.com/book/show/112335.The_Misbehavior_of_Markets"
-      }
-    ],
-    "meta": {
-      "id": "Regulation & trading rules",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Securities law",
-        "Disclosure"
       ],
       "tags": [
         "Market Operations",
