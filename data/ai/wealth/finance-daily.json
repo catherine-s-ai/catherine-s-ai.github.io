@@ -1,5 +1,69 @@
 [
   {
+    "id": "ab75f12e-de58-4193-a144-b05640c3025b",
+    "date": "2026-07-04",
+    "topic": "Understanding Market Regulation: The Rules That Protect (and Trap) Investors",
+    "teaser": "The stock market is a casino where the house doesn't let you count cards. But what if the bouncers are also the ones rigging the game?",
+    "summary": "Imagine a casino where you can't count cards—the bouncers ensure the game is fair. That's the stock market with regulations. In 1929, there were no bouncers, and insiders traded on secret info, crashing the market. Today, we have rules like insider trading bans. But here's the twist: regulations are written after the disaster, not before. The SEC was born from the 1929 crash; Reg BI from 2008. They're like band-aids on a bullet wound. And disclosure? Companies must list risks, but who reads 100-page filings? The real danger is that disclosure lulls you into a false sense of security. You see the warning, but you invest anyway because everyone else does. Market structure rules, like circuit breakers, can even amplify panic during flash crashes—trading halts cause a logjam of sell orders that flood the market when trading resumes. So regulations are a double-edged sword: they protect you from the worst, but they can also make you complacent. The smart investor respects the rules but never trusts them blindly.",
+    "key_points": [
+      "Regulation is a lagging indicator: it follows scandals, not prevents them. The SEC was created after the 1929 crash; Reg BI after 2008. Expect new rules after the next crisis—never before. This is because regulators are reactive, not proactive, due to political and industry pressure.",
+      "Disclosure creates an illusion of safety. Companies disclose risks, but the act of disclosure shifts responsibility to investors. It's a 'cover your ass' tactic: 'We told you so.' The real risk isn't the disclosed risk; it's that you think you're protected because you read it. Behavioral finance shows that warning labels can actually increase risk-taking (the 'it won't happen to me' bias).",
+      "Market structure rules can backfire. Circuit breakers were designed to prevent panic, but they can cause a 'magnet effect'—traders rush to sell before the halt, accelerating the crash. In 2010, the flash crash saw a 9% drop in minutes; halts didn't help. The underlying incentive: exchanges want to avoid liability, not necessarily stabilize markets.",
+      "Regulations create moral hazard. When investors believe the SEC has their back, they take more risk. This is the same dynamic that caused the 2008 crisis: banks thought they were 'too big to fail.' The incentive for regulators is to appear tough, but enforcement is underfunded. The SEC charges less than 1% of insider trading cases. So the rules are there, but the chance of getting caught is low—unless you're a whale."
+    ],
+    "practice": [
+      {
+        "title": "Check your broker's regulatory status",
+        "steps": [
+          "Go to FINRA's BrokerCheck website (brokercheck.finra.org).",
+          "Enter your broker's name or CRD number.",
+          "Review any disclosures, complaints, or regulatory actions.",
+          "If you find red flags, consider switching brokers.",
+          "Challenge: Compare your broker's disclosure history with two competitors. Which one has the cleanest record? Which has the most complaints? Write a short paragraph on what this tells you about their culture."
+        ]
+      },
+      {
+        "title": "Read one 10-K filing and compare risk factors",
+        "steps": [
+          "Pick a company you own shares in.",
+          "Go to sec.gov and search for the company's 10-K filing.",
+          "Scroll to the 'Risk Factors' section.",
+          "Note three risks you didn't know about and assess how they affect your investment.",
+          "Challenge: Now find a competitor's 10-K. Compare their risk factors. Which company faces more regulatory risk? Which has more operational risk? Write a 100-word analysis."
+        ]
+      },
+      {
+        "title": "Simulate a SEC investigation and identify the incentive mismatch",
+        "steps": [
+          "Imagine you accidentally received non-public information about a stock (e.g., from a friend).",
+          "Write down the steps you must take: (1) Do not trade on the information. (2) Do not share it with anyone. (3) Report the incident to your legal or compliance department (or the SEC if you have no internal process).",
+          "Now think: Why would you report it? The incentive: if you don't report, you could go to jail. But if you do report, you might still be investigated. The SEC's incentive is to make an example of someone. So the rational actor might stay silent. This is the 'prisoner's dilemma' of compliance."
+        ]
+      }
+    ],
+    "risk_notes": "Regulations create moral hazard: investors trust that rules make markets safe, so they take excessive risks. Overregulation can stifle innovation (e.g., high compliance costs hurt small IPOs). Psychologically, the 'rules are for others' trap: you might think you're too small to be caught, but insider trading cases include retail traders who acted on tips. The key insight: rules exist, but enforcement is a game of probabilities. The smart investor doesn't rely on rules—they rely on their own due diligence.",
+    "sources": [
+      {
+        "title": "Book: 'The Man Who Solved the Market' by Gregory Zuckerman",
+        "url": "https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/073521798X"
+      }
+    ],
+    "meta": {
+      "id": "Regulation & trading rules",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Securities law",
+        "Disclosure"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "e4bb4517-b38b-41bc-bca4-5d102152e173",
     "date": "2026-07-03",
     "topic": "Settlement and Custody: The Hidden Plumbing of Finance",
@@ -3697,65 +3761,6 @@
       "related": [
         "Leverage",
         "Risk management"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "f4444c3d-64de-4534-88fa-dc57edd5d0cb",
-    "date": "2026-05-01",
-    "topic": "Market Efficiency and Anomalies",
-    "teaser": "How did Paul Tudor Jones make $100 million in one day during the 1987 crash, and what does that tell us about market efficiency?",
-    "summary": "In October 1987, as markets plunged, Paul Tudor Jones was betting against them. While others panicked, he saw fragility where most saw stability. That $100 million day wasn't luck—it was a masterclass in understanding when markets break. The efficient market hypothesis says prices reflect all information, but Jones proved that during extremes, efficiency cracks. Anomalies like the January effect and momentum aren't glitches; they're clues. The low-volatility anomaly—where boring stocks outperform risky ones—looks like a free lunch until you realize it's a risk premium: safe stocks are crowded, and when panic hits, they crash hardest. The real anomaly? Our brains. We fear losses more than we love gains, causing us to misprice tail risks. Jones didn't beat the market; he beat our collective psychology. The lesson: respect efficiency, but when everyone zigzags, be ready to zag.",
-    "key_points": [
-      "**Efficiency is a spectrum**—markets are efficient enough to prevent easy arbitrage, but not so efficient that anomalies vanish. The 1987 crash was a liquidity crisis, not a failure of information.",
-      "**Anomalies are risk premiums in disguise**—the low-volatility anomaly looks like a bargain, but it compensates for crash risk. When markets tumble, low-vol stocks often fall hardest.",
-      "**The greatest anomaly is the human brain**—we systematically misprice tail risks due to loss aversion and overconfidence, creating fat tails that active managers can harvest."
-    ],
-    "practice": [
-      {
-        "title": "Identify Mispriced Stocks",
-        "steps": [
-          "List 3 stocks you think are mispriced.",
-          "Ask: what information do I have that the market doesn't? If none, it's likely efficient for you.",
-          "If you have unique insight, document your thesis and track the outcome."
-        ]
-      },
-      {
-        "title": "Test the January Effect",
-        "steps": [
-          "Identify small-cap stocks that have underperformed in the past year (losers, not winners).",
-          "Buy them in late December and sell in mid-January to capture the anomaly.",
-          "Compare returns to a buy-and-hold of the same stocks over the rest of the year. Beware: the effect has weakened since discovery; transaction costs may erase gains."
-        ]
-      },
-      {
-        "title": "Simulate a Momentum Strategy",
-        "steps": [
-          "Buy the top 10% performing stocks over the past 12 months (excluding the last month).",
-          "Hold for 1 month, then rebalance.",
-          "Compare cumulative returns to a buy-and-hold index over 10 years. Caution: momentum can crash during reversals; account for transaction costs and data mining bias."
-        ]
-      }
-    ],
-    "risk_notes": "The trap is overconfidence: thinking you've found an anomaly when it's just noise or data mining. Anomalies can disappear once discovered, and transaction costs often wipe out paper profits. Psychological trap: anchoring on past returns, assuming they'll repeat.",
-    "sources": [
-      {
-        "title": "Search: Market Efficiency and Anomalies",
-        "url": "https://www.google.com/search?q=Market%20Efficiency%20and%20Anomalies"
-      }
-    ],
-    "meta": {
-      "id": "Market efficiency & anomalies",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Efficient market",
-        "Anomalies"
       ],
       "tags": [
         "Market Operations",

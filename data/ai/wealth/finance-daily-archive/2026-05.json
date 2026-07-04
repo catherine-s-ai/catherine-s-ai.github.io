@@ -1,0 +1,61 @@
+[
+  {
+    "id": "f4444c3d-64de-4534-88fa-dc57edd5d0cb",
+    "date": "2026-05-01",
+    "topic": "Market Efficiency and Anomalies",
+    "teaser": "How did Paul Tudor Jones make $100 million in one day during the 1987 crash, and what does that tell us about market efficiency?",
+    "summary": "In October 1987, as markets plunged, Paul Tudor Jones was betting against them. While others panicked, he saw fragility where most saw stability. That $100 million day wasn't luck—it was a masterclass in understanding when markets break. The efficient market hypothesis says prices reflect all information, but Jones proved that during extremes, efficiency cracks. Anomalies like the January effect and momentum aren't glitches; they're clues. The low-volatility anomaly—where boring stocks outperform risky ones—looks like a free lunch until you realize it's a risk premium: safe stocks are crowded, and when panic hits, they crash hardest. The real anomaly? Our brains. We fear losses more than we love gains, causing us to misprice tail risks. Jones didn't beat the market; he beat our collective psychology. The lesson: respect efficiency, but when everyone zigzags, be ready to zag.",
+    "key_points": [
+      "**Efficiency is a spectrum**—markets are efficient enough to prevent easy arbitrage, but not so efficient that anomalies vanish. The 1987 crash was a liquidity crisis, not a failure of information.",
+      "**Anomalies are risk premiums in disguise**—the low-volatility anomaly looks like a bargain, but it compensates for crash risk. When markets tumble, low-vol stocks often fall hardest.",
+      "**The greatest anomaly is the human brain**—we systematically misprice tail risks due to loss aversion and overconfidence, creating fat tails that active managers can harvest."
+    ],
+    "practice": [
+      {
+        "title": "Identify Mispriced Stocks",
+        "steps": [
+          "List 3 stocks you think are mispriced.",
+          "Ask: what information do I have that the market doesn't? If none, it's likely efficient for you.",
+          "If you have unique insight, document your thesis and track the outcome."
+        ]
+      },
+      {
+        "title": "Test the January Effect",
+        "steps": [
+          "Identify small-cap stocks that have underperformed in the past year (losers, not winners).",
+          "Buy them in late December and sell in mid-January to capture the anomaly.",
+          "Compare returns to a buy-and-hold of the same stocks over the rest of the year. Beware: the effect has weakened since discovery; transaction costs may erase gains."
+        ]
+      },
+      {
+        "title": "Simulate a Momentum Strategy",
+        "steps": [
+          "Buy the top 10% performing stocks over the past 12 months (excluding the last month).",
+          "Hold for 1 month, then rebalance.",
+          "Compare cumulative returns to a buy-and-hold index over 10 years. Caution: momentum can crash during reversals; account for transaction costs and data mining bias."
+        ]
+      }
+    ],
+    "risk_notes": "The trap is overconfidence: thinking you've found an anomaly when it's just noise or data mining. Anomalies can disappear once discovered, and transaction costs often wipe out paper profits. Psychological trap: anchoring on past returns, assuming they'll repeat.",
+    "sources": [
+      {
+        "title": "Search: Market Efficiency and Anomalies",
+        "url": "https://www.google.com/search?q=Market%20Efficiency%20and%20Anomalies"
+      }
+    ],
+    "meta": {
+      "id": "Market efficiency & anomalies",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Efficient market",
+        "Anomalies"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  }
+]
