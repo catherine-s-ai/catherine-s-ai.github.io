@@ -57,5 +57,65 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "97fcd6cf-d036-4b20-933c-cb6915e6bfbb",
+    "date": "2026-05-02",
+    "topic": "Short Selling and Margin Trading: The Double-Edged Sword",
+    "teaser": "You can lose more than your entire account in a trade. Here's why most people shouldn't short stocks or use margin, and how the pros do it.",
+    "summary": "In 2008, a hedge fund manager named John Paulson made $15 billion betting against subprime mortgages. He understood something most people miss: short selling isn't about predicting a crash—it's about understanding when the market's optimism has become detached from reality. But for every Paulson, there are thousands who lost everything trying to catch a falling knife that kept falling up.\n\nShort selling is the act of borrowing shares and selling them, hoping to buy them back cheaper later. It's a bet against human optimism, but as John Maynard Keynes noted, 'Markets can stay irrational longer than you can stay solvent.' The GameStop squeeze of 2021 demonstrated this brutally: short sellers faced unlimited losses as the stock rose 1,700%, forcing them to cover at any price. The asymmetry is stark: your maximum gain is 100% (if the stock goes to zero), but your loss is infinite (if it rises forever).\n\nMargin trading is the mirror image: you borrow money to buy more stock, amplifying gains and losses. During the 2020 COVID crash, many investors who were 2x leveraged saw their portfolios drop 60% in days, triggering margin calls that forced them to sell at the bottom. The Federal Reserve's intervention saved the market, but not those who were forced out.\n\nThe real danger isn't the tools themselves—it's the illusion of control. Both short selling and margin trading expose you to liquidity risk: when everyone tries to exit at once, the door closes. The key is to size positions not based on conviction, but on the worst-case scenario. As Ray Dalio says, 'He who lives by the crystal ball will eat shattered glass.'",
+    "key_points": [
+      "Short selling has asymmetric risk: max gain 100%, max loss infinite. This is not a trade you can 'set and forget'; it requires constant monitoring and a strict exit plan.",
+      "Margin calls are most dangerous during liquidity crises (e.g., 2008, 2020). When volatility spikes, brokers can demand more collateral or liquidate positions at fire-sale prices, turning a temporary dip into a permanent loss.",
+      "The 'value trap' is a first-principles risk: a stock can be overvalued based on fundamentals but remain so for years due to momentum, hype, or market structure. Shorting a stock because it 'looks expensive' ignores the cost of borrowing and the risk of a squeeze.",
+      "Emotional decision-making is amplified with leverage. Studies show that traders using margin are more likely to panic-sell during drawdowns and over-trade during rallies, leading to lower long-term returns."
+    ],
+    "practice": [
+      {
+        "title": "Set Your Margin Safety Limit Based on Volatility",
+        "steps": [
+          "Calculate the average true range (ATR) of your portfolio's assets.",
+          "Set a maximum margin usage that ensures a 3-standard-deviation move won't trigger a margin call. For volatile assets (e.g., small-cap stocks), this may be as low as 10% of portfolio value.",
+          "Monitor margin usage weekly and reduce positions if volatility increases."
+        ]
+      },
+      {
+        "title": "Use Options for Short Exposure Instead of Naked Shorts",
+        "steps": [
+          "Consider buying put options to express a bearish view. The maximum loss is the premium paid, avoiding unlimited risk.",
+          "If you must short, size the position so that a 100% move against you results in a loss of no more than 2% of your portfolio.",
+          "Set a stop-loss based on volatility, not a fixed percentage. For example, place a stop at 1.5x the 20-day ATR above your entry."
+        ]
+      },
+      {
+        "title": "Run a Stress Test with Extreme Scenarios",
+        "steps": [
+          "Use a broker's margin calculator or a spreadsheet to simulate a flash crash (e.g., 20% drop in one day) and a rapid interest rate spike (e.g., 5% increase in broker call rates).",
+          "If any scenario triggers a margin call, reduce leverage or add cash until the portfolio survives all scenarios.",
+          "Re-run the stress test monthly or after significant market events."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest trap is overconfidence in your ability to predict price movements. Short selling can lead to 'value traps' where a stock seems overvalued but remains so for years. Margin trading can create a false sense of wealth, leading to reckless risk-taking. Both tools can trigger emotional decision-making under pressure. Always have a plan and stick to it.",
+    "sources": [
+      {
+        "title": "Search: Short Selling and Margin Trading: The Double-Edged Sword",
+        "url": "https://www.google.com/search?q=Short%20Selling%20and%20Margin%20Trading%3A%20The%20Double-Edged%20Sword"
+      }
+    ],
+    "meta": {
+      "id": "Short selling & margin trading",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Leverage",
+        "Risk management"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
   }
 ]
