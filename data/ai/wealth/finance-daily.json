@@ -1,5 +1,71 @@
 [
   {
+    "id": "278cf889-1a4c-43e0-8b26-838fd1b4da1e",
+    "date": "2026-07-07",
+    "topic": "Short Selling and Margin Trading: The Double-Edged Sword of Leverage",
+    "teaser": "You think shorting is just betting against a stock? The real danger isn't what you know—it's the infinite loss you don't see coming.",
+    "summary": "Imagine you're at a poker table. You bet $100 that the next card is a 2. But the dealer shows you the deck: there are 48 cards that aren't 2, and only 4 that are. Your odds are terrible, but you think you're smart. That's short selling—except the deck has no limit, and the dealer can add more cards. \n\nShort selling is borrowing shares you don't own, selling them, and hoping to buy them back cheaper. But if the price goes up, your loss is unbounded. A stock can rise 100%, 1000%, or more. That's the asymmetry: you risk everything for limited gain. \n\nMargin trading is the flip side—borrowing money to buy stocks, amplifying both wins and losses. Together, they form a lethal cocktail. Most retail traders don't understand the math. They see the upside, not the forced liquidation that can happen in a flash. \n\nHere's the first principle: leverage is a multiplier, not a magic wand. It turns a 10% loss into a 20% loss if you're 2x leveraged. And with short selling, the multiplier is infinite because the denominator (your initial bet) is fixed but the numerator (loss) can go to infinity. \n\nThe key is to think in terms of scenarios, not probabilities. What's the worst case? Can you survive it? If not, don't take the bet. That's the mental model of a professional: they focus on survival, not just returns. \n\nThis lesson will show you how to calculate your true risk, set up safety nets, and avoid the traps that have wiped out legendary traders. You'll learn to see margin calls not as a surprise, but as a predictable event you can prepare for. And you'll understand why the best investors often avoid leverage entirely—or use it with extreme caution.",
+    "key_points": [
+      "Leverage is a multiplier of risk, not just returns. A 2x margin doubles your gains but also doubles your losses. Short selling multiplies risk asymmetrically: your maximum gain is 100% (if the stock goes to zero), but your loss is infinite. This asymmetry is the hidden trap that lures amateurs.",
+      "Short selling is not just a bet against a company; it's a bet against time and momentum. Even if you're right about a company's overvaluation, the market can stay irrational longer than you can stay solvent. The key isn't being right—it's surviving until you're right.",
+      "Margin calls are not a warning; they are a forced exit at the worst possible time. They turn paper losses into real ones. The only way to avoid them is to never rely on them as a safety net. Instead, use position sizing and stop-losses that account for worst-case scenarios."
+    ],
+    "practice": [
+      {
+        "title": "The Worst-Case Scenario Calculator",
+        "steps": [
+          "Pick a stock you might short. Assume it can rise 10x overnight (like a meme stock squeeze).",
+          "Calculate your loss if you short 100 shares at $10 and it goes to $100: loss = (100 - 10) * 100 = $9,000 on a $1,000 margin deposit (900% loss).",
+          "Now set a stop-loss at 20% above entry. If triggered, loss = $200. Compare: $200 vs $9,000.",
+          "Rule: Always define your maximum acceptable loss before entering the trade. Use a hard stop-loss order."
+        ]
+      },
+      {
+        "title": "Margin Call Simulation",
+        "steps": [
+          "Assume you have $10,000 cash and buy $20,000 of stock on margin (50% initial margin). Maintenance margin is 30%.",
+          "If stock drops 25%, market value = $15,000. Equity = $15,000 - $10,000 loan = $5,000. Equity % = 5,000/15,000 = 33.3% > 30%, so no call yet.",
+          "If stock drops to $12,000 (40% decline), equity = $2,000, equity % = 16.7% < 30%. Margin call: you must deposit $1,600 to bring equity to 30% ($3,600) or sell shares.",
+          "Decision: If you sell, you lock in loss. If you deposit, you risk more. The best move is to avoid reaching this point by using smaller position sizes."
+        ]
+      },
+      {
+        "title": "The 1% Rule for Leverage",
+        "steps": [
+          "Never risk more than 1% of your total account on any single leveraged trade.",
+          "For a $100,000 account, max risk per trade = $1,000.",
+          "If shorting a $50 stock with a stop-loss at $55 (10% risk), you can short 200 shares (risk = 200 * $5 = $1,000).",
+          "This ensures that a string of losses won't wipe you out. It's boring but effective."
+        ]
+      }
+    ],
+    "risk_notes": "Short selling carries unlimited loss potential and can be subject to short squeezes (e.g., GameStop). Margin trading can lead to forced liquidation and debt if the market moves against you. Psychological traps include overconfidence in leverage and the sunk cost fallacy when holding losing positions. Always use stop-losses and position sizing to survive.",
+    "sources": [
+      {
+        "title": "The Little Book of Common Sense Investing by John C. Bogle",
+        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
+      },
+      {
+        "title": "When Genius Failed by Roger Lowenstein",
+        "url": "https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259"
+      }
+    ],
+    "meta": {
+      "id": "Short selling & margin trading",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Leverage",
+        "Risk management"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "8fe95b5b-1350-4bfa-a4f4-120fcd021b68",
     "date": "2026-07-05",
     "topic": "Market Efficiency and Anomalies",
@@ -3697,69 +3763,6 @@
       "related": [
         "Time zones",
         "Overnight risk"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "20c27dc9-b8ab-4255-b798-5a1720a78d60",
-    "date": "2026-05-03",
-    "topic": "The Hidden Tax of Trading: Understanding Market Microstructure",
-    "teaser": "The bid-ask spread is a toll booth for liquidity. Most traders pay the toll. Learn how to become the one collecting it.",
-    "summary": "Imagine every trade you make is a trip through a toll booth. The bid-ask spread is the toll, and liquidity providers are the toll collectors. Most traders mindlessly pay this fee, thinking it's just part of the game. But here's the secret: you can become the toll collector. Market microstructure reveals that the spread is not a fixed cost—it's a tax on impatience. The more urgent your trade, the higher the tax. By understanding the order book—the real-time ledger of buy and sell orders—you can time your trades to minimize costs. Use limit orders to provide liquidity and earn the spread instead of paying it. But beware: the order book is a mirage. Hidden orders and dark pools mask true supply and demand, and high-frequency traders manipulate tick sizes to create artificial spreads. Mastering these nuances turns a hidden tax into a strategic advantage. Stop being the mark. Start being the house.",
-    "key_points": [
-      "The spread is a tax on impatience, and the size of the tax is determined by your ability to wait. Use limit orders to become the liquidity provider and collect the tax from others.",
-      "Order book depth is a lie: visible liquidity is just the tip of the iceberg. Hidden iceberg orders and dark pools can distort the true supply/demand, causing sudden price swings when apparent support or resistance vanishes.",
-      "Tick size manipulation: Minimum price increments (ticks) can be gamed by HFTs to create artificial spreads. In less liquid stocks, HFTs widen the spread to the maximum allowed by tick size, trapping traders into paying more. Understanding this lets you avoid the trap."
-    ],
-    "practice": [
-      {
-        "title": "Check the Spread Before Trading",
-        "steps": [
-          "Before hitting market order, check the bid-ask spread on your next trade.",
-          "If the spread is more than 0.1% of the price (or 1 cent for stocks under $10), use a limit order or wait for better liquidity.",
-          "Record the spread and the cost saved over 10 trades. Calculate the total savings and compare to a benchmark of always using market orders."
-        ]
-      },
-      {
-        "title": "Simulate Limit Order Execution",
-        "steps": [
-          "Place a limit buy at the current bid price and note the time.",
-          "Track how long it takes to fill, or if it doesn't fill within 60 seconds, cancel and reassess.",
-          "Compare the cost saved versus using a market order over 10 simulated trades. If your limit order fills within 30 seconds on average, you are successfully capturing the spread."
-        ]
-      },
-      {
-        "title": "Use Level 2 Data for Support/Resistance",
-        "steps": [
-          "Access Level 2 order book data (e.g., NASDAQ TotalView).",
-          "Identify large bid walls (support) and ask walls (resistance). Look for clusters of size > 10x the average trade size.",
-          "Use these levels to set entry/exit points. If a bid wall is strong, consider placing a limit buy slightly above it. If an ask wall looms, avoid buying into it. After 10 trades, check how often price reversed at those levels. If >70%, you have a reliable edge."
-        ]
-      }
-    ],
-    "risk_notes": "In fast-moving markets, limit orders can be 'picked off' by HFTs if you're too slow to cancel. In illiquid stocks, the spread can be huge and limit orders may never fill. Over-reliance on microstructure can lead to analysis paralysis and missing big moves. Always balance microstructure insights with broader market context.",
-    "sources": [
-      {
-        "title": "Larry Harris, Trading and Exchanges: Market Microstructure for Practitioners",
-        "url": "https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708"
-      },
-      {
-        "title": "NASDAQ TotalView-ITCH data documentation",
-        "url": "https://www.nasdaqtrader.com/Trader.aspx?id=ITCH"
-      }
-    ],
-    "meta": {
-      "id": "Market microstructure",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Bid-ask spread",
-        "Order book"
       ],
       "tags": [
         "Market Operations",
