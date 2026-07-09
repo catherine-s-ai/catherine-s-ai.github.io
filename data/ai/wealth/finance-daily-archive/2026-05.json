@@ -244,5 +244,64 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "30026aa9-47f1-4308-b2e3-67470d5c6243",
+    "date": "2026-05-05",
+    "topic": "Supply and Demand: The Invisible Hand Behind Every Price",
+    "teaser": "Why a Picasso's price isn't about art—it's about scarcity. Unlock the hidden force that moves markets.",
+    "summary": "Imagine you're at an auction for a rare Picasso. The bidding starts at $10 million. But what if I told you that the price isn't determined by how much people love the painting, but by the number of people willing to sell it? That's supply and demand in a nutshell—it's not about value, it's about scarcity and desire.\n\nAt its core, supply and demand explains how prices are determined in a market. The law of demand states that as price increases, quantity demanded decreases (all else equal). The law of supply states that as price increases, quantity supplied increases. The equilibrium price is where the two curves intersect, balancing the quantity buyers want to buy with the quantity sellers want to sell. This is derived from first principles: people have limited resources and unlimited wants, so they make trade-offs; producers aim to maximize profit, so they produce more when prices are higher.\n\nRight now, supply chain disruptions and inflation are reshaping your purchasing power. Understanding supply and demand helps you anticipate price changes in everything from groceries to real estate. For your wealth, it's crucial: if you know which assets have inelastic demand (like oil or housing), you can hedge against inflation. Ignoring this means you're a passive victim of market forces instead of an active participant.",
+    "key_points": [
+      "**Price is a signal, not a cost.** High prices tell producers to make more and consumers to buy less. Treat price changes as information, not just numbers.",
+      "**Elasticity is the secret weapon.** Demand for necessities (like insulin) is inelastic—price changes barely affect quantity demanded. For luxuries, demand is elastic. Invest in companies with inelastic demand; they have pricing power.",
+      "**Supply shocks create asymmetries.** A sudden drop in supply (e.g., oil embargo) can cause prices to spike far beyond what demand alone would suggest. Diversify across supply chains to mitigate risk."
+    ],
+    "practice": [
+      {
+        "title": "Track a Product's Price",
+        "steps": [
+          "Pick a product you buy regularly (e.g., gasoline) and track its price over a month.",
+          "Note any news about supply disruptions or demand changes.",
+          "Correlate the price movements with those events."
+        ]
+      },
+      {
+        "title": "Assess a Stock's Elasticity",
+        "steps": [
+          "For a stock you own, estimate the price elasticity of demand for its main product.",
+          "Determine if it's a necessity or a luxury.",
+          "Use this to gauge how vulnerable the company is to price wars."
+        ]
+      },
+      {
+        "title": "Simulate a Supply Shock",
+        "steps": [
+          "Imagine a key input for your favorite brand (e.g., microchips for Apple) becomes scarce.",
+          "How would that affect the stock price?",
+          "What would you do as an investor?"
+        ]
+      }
+    ],
+    "risk_notes": "Supply and demand analysis assumes rational actors and perfect information. In reality, emotions, herd behavior, and manipulation can distort prices. During a panic, demand can become completely inelastic (people buy at any price), and supply can dry up. The model also fails in monopolies, where a single seller can set prices regardless of demand. Markets are not always efficient—be cautious of over-relying on this model.",
+    "sources": [
+      {
+        "title": "The Undercover Economist by Tim Harford",
+        "url": "https://timharford.com/books/the-undercover-economist/"
+      }
+    ],
+    "meta": {
+      "id": "Supply & demand analysis",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Equilibrium",
+        "Elasticity"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
   }
 ]

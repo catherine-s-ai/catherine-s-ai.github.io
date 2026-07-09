@@ -1,5 +1,64 @@
 [
   {
+    "id": "add6a171-7143-45d9-a0f9-b2fa74a42d6f",
+    "date": "2026-07-09",
+    "topic": "Global Market Hours: The Invisible Hand That Moves Your Money While You Sleep",
+    "teaser": "Your portfolio never sleeps. While you dream, a trader in Tokyo is buying what you're selling—and you don't even know it. Here's how to see the invisible hand.",
+    "summary": "Imagine you're in a relay race, but you hand off the baton and immediately fall asleep. That's how most people invest. The baton (your portfolio) gets passed from Tokyo to London to New York, and while you're unconscious, someone else is running with it—making decisions that affect your wealth.\n\nGlobal market hours are not just trivia; they are the mechanism of continuous price discovery. When the New York Stock Exchange closes, it's not the end of trading for your stocks—it's just a change of venue. The same Apple shares that closed at $150 in New York might open at $148 in Tokyo because a supplier in China issued a profit warning during the Asian session. That gap is not random; it's the market's consensus forming in real-time across time zones.\n\nMost investors think of the market as a 9-to-5 job, but that's an illusion. The market is a 24-hour organism. Your job is not to trade 24/7 but to understand when your portfolio is most vulnerable and when it's most liquid. This is about risk management, not activity.\n\nHere's a concrete example: In 2016, the British pound crashed 6% in Asian trading after a surprise Brexit poll. European and American investors woke up to a gap that wiped out months of gains. Those who understood market hours had hedged; those who didn't were left wondering what hit them.\n\nThe key insight is simple: the market never closes. It just changes hands. And if you're not paying attention to the handoffs, you're leaving your portfolio exposed to invisible risks.",
+    "key_points": [
+      "**Liquidity is not a fixed property; it's a function of time zone overlap.** The highest liquidity occurs during the London-New York overlap (12:00-16:00 UTC). But here's the nuance: liquidity is not just about volume; it's about the diversity of participants. During the Asian session, you have mostly Asian players; during the overlap, you have global players. That diversity reduces the impact of any single trader and leads to fairer prices. Conversely, trading during a single session (e.g., only Tokyo) means you're trading against a narrower set of participants, which can lead to price anomalies. This is why 'liquidity arbitrage' is not just about spreads—it's about the quality of price discovery.",
+      "**The overnight risk premium is a hidden tax on your portfolio.** Every time you hold a position overnight, you are essentially short an option that pays off if nothing happens. Why? Because the market prices in an expected move based on the time until the next trading session. This is why stocks often gap at the open—the gap is the market's adjustment to information that accumulated while the exchange was closed. But the real insight is that this premium varies by asset class and time zone. For example, holding a U.S. stock over a weekend is riskier than holding it overnight because more news can accumulate. Understanding this allows you to quantify your 'carry cost' of holding—a concept usually applied to futures, but applicable to any asset.",
+      "**Your time zone is your blind spot.** A trader in New York has a different risk profile than one in Sydney because their 'overnight' coincides with different active markets. But the deeper point is that your local market's opening and closing times create a 'home bias' in your perception of risk. You tend to overweigh events that happen during your waking hours and underweigh events that happen while you sleep. This asymmetry leads to systematic mispricing of assets by local investors. For instance, Australian stocks might be more volatile during U.S. hours because of U.S. news, but Australian investors might ignore that because they're asleep. The savvy investor exploits this by being aware of when their blind spots are."
+    ],
+    "practice": [
+      {
+        "title": "Morning Gap Check",
+        "steps": [
+          "Before your local market opens, review the overnight price action of your holdings using a 24-hour chart or pre-market data.",
+          "Identify any gaps and research the catalyst (e.g., news, earnings, economic data) that caused the move.",
+          "Adjust your stop-losses or limit orders accordingly to account for the new price level."
+        ]
+      },
+      {
+        "title": "Trade During Overlaps",
+        "steps": [
+          "If you're an active trader, schedule your most important trades during the London-New York overlap (12:00-16:00 UTC) for best liquidity.",
+          "Avoid trading during the first and last 30 minutes of a session when volatility and spreads are highest.",
+          "Use limit orders instead of market orders to control execution price during less liquid hours."
+        ]
+      },
+      {
+        "title": "Use Limit Orders for Overnight Protection",
+        "steps": [
+          "For long-term investors, set limit orders to buy or sell at specific prices to avoid being filled at unfavorable gap openings.",
+          "Consider using good-til-canceled (GTC) orders with a price limit that reflects your risk tolerance.",
+          "Monitor your orders daily to adjust them based on new information."
+        ]
+      }
+    ],
+    "risk_notes": "The concept can lead to over-trading or trying to time the market based on session openings. It also creates a false sense of control if you think you can predict overnight moves. Moreover, for long-term investors, micro-managing market hours is often a distraction from the big picture.",
+    "sources": [
+      {
+        "title": "Book: 'The Hour Between Dog and Wolf' by John Coates",
+        "url": "https://www.penguinrandomhouse.com/books/310598/the-hour-between-dog-and-wolf-by-john-coates/"
+      }
+    ],
+    "meta": {
+      "id": "Global market hours",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Time zones",
+        "Overnight risk"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "751e9e33-498d-4062-a127-84ae2548913a",
     "date": "2026-07-08",
     "topic": "Market Microstructure: The Hidden Tax in Every Trade",
@@ -3706,65 +3765,6 @@
       "related": [
         "Utility",
         "Indifference curves"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "30026aa9-47f1-4308-b2e3-67470d5c6243",
-    "date": "2026-05-05",
-    "topic": "Supply and Demand: The Invisible Hand Behind Every Price",
-    "teaser": "Why a Picasso's price isn't about art—it's about scarcity. Unlock the hidden force that moves markets.",
-    "summary": "Imagine you're at an auction for a rare Picasso. The bidding starts at $10 million. But what if I told you that the price isn't determined by how much people love the painting, but by the number of people willing to sell it? That's supply and demand in a nutshell—it's not about value, it's about scarcity and desire.\n\nAt its core, supply and demand explains how prices are determined in a market. The law of demand states that as price increases, quantity demanded decreases (all else equal). The law of supply states that as price increases, quantity supplied increases. The equilibrium price is where the two curves intersect, balancing the quantity buyers want to buy with the quantity sellers want to sell. This is derived from first principles: people have limited resources and unlimited wants, so they make trade-offs; producers aim to maximize profit, so they produce more when prices are higher.\n\nRight now, supply chain disruptions and inflation are reshaping your purchasing power. Understanding supply and demand helps you anticipate price changes in everything from groceries to real estate. For your wealth, it's crucial: if you know which assets have inelastic demand (like oil or housing), you can hedge against inflation. Ignoring this means you're a passive victim of market forces instead of an active participant.",
-    "key_points": [
-      "**Price is a signal, not a cost.** High prices tell producers to make more and consumers to buy less. Treat price changes as information, not just numbers.",
-      "**Elasticity is the secret weapon.** Demand for necessities (like insulin) is inelastic—price changes barely affect quantity demanded. For luxuries, demand is elastic. Invest in companies with inelastic demand; they have pricing power.",
-      "**Supply shocks create asymmetries.** A sudden drop in supply (e.g., oil embargo) can cause prices to spike far beyond what demand alone would suggest. Diversify across supply chains to mitigate risk."
-    ],
-    "practice": [
-      {
-        "title": "Track a Product's Price",
-        "steps": [
-          "Pick a product you buy regularly (e.g., gasoline) and track its price over a month.",
-          "Note any news about supply disruptions or demand changes.",
-          "Correlate the price movements with those events."
-        ]
-      },
-      {
-        "title": "Assess a Stock's Elasticity",
-        "steps": [
-          "For a stock you own, estimate the price elasticity of demand for its main product.",
-          "Determine if it's a necessity or a luxury.",
-          "Use this to gauge how vulnerable the company is to price wars."
-        ]
-      },
-      {
-        "title": "Simulate a Supply Shock",
-        "steps": [
-          "Imagine a key input for your favorite brand (e.g., microchips for Apple) becomes scarce.",
-          "How would that affect the stock price?",
-          "What would you do as an investor?"
-        ]
-      }
-    ],
-    "risk_notes": "Supply and demand analysis assumes rational actors and perfect information. In reality, emotions, herd behavior, and manipulation can distort prices. During a panic, demand can become completely inelastic (people buy at any price), and supply can dry up. The model also fails in monopolies, where a single seller can set prices regardless of demand. Markets are not always efficient—be cautious of over-relying on this model.",
-    "sources": [
-      {
-        "title": "The Undercover Economist by Tim Harford",
-        "url": "https://timharford.com/books/the-undercover-economist/"
-      }
-    ],
-    "meta": {
-      "id": "Supply & demand analysis",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Equilibrium",
-        "Elasticity"
       ],
       "tags": [
         "Microeconomics Fundamentals",
