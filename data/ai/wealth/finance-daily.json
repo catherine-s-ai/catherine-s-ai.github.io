@@ -1,5 +1,64 @@
 [
   {
+    "id": "e7439ec9-7627-44c8-8bad-b8c2b6719eab",
+    "date": "2026-07-10",
+    "topic": "Supply and Demand: The Psychology Behind the Price Tag",
+    "teaser": "In 1973, oil supply dropped just 5%, but prices quadrupled. The real shortage wasn't crude—it was sanity.",
+    "summary": "The 1973 oil crisis wasn't about oil; it was about the supply of expectations. When OPEC embargoed the US, the price of a barrel quadrupled, but the actual physical supply only dropped by 5%. The rest was panic. **Supply and demand** is a story about human psychology, not just barrels and bushels.\n\nPicture this: You're in line at a gas station in 1973, the air thick with anxiety. The news says OPEC has cut exports, but the real bottleneck is in your head. Every driver, fearing future shortages, fills up their tank and then some. That surge in demand—driven by fear—creates the very shortage everyone feared. The equilibrium price shot up, not because there was less oil, but because everyone *thought* there would be.\n\nAt its simplest, supply and demand describes the relationship between the quantity of a good that producers are willing to sell at various prices (supply) and the quantity that consumers are willing to buy (demand). The intersection of these two curves is the **equilibrium price**—the market-clearing price where every buyer finds a seller. But this is just a static snapshot. In reality, both curves are constantly shifting due to changes in preferences, technology, costs, and expectations. The 'law' is just a first approximation; the real magic is in understanding the dynamics.\n\nEvery day, you participate in markets—as a consumer, an investor, or an employee. The price of your morning coffee, the rent on your apartment, the value of your stock portfolio, and even your salary are all determined by supply and demand. Ignoring these forces is like sailing without a compass. Right now, understanding supply and demand can help you spot bubbles (like the housing market in 2008), negotiate a raise (by demonstrating your scarcity), or avoid overpaying for trendy assets (like NFTs in 2021).",
+    "key_points": [
+      "**Price is a signal, not a verdict.** High prices tell producers to make more and consumers to use less. Low prices do the opposite. But signals can be distorted by subsidies, taxes, or regulations—leading to shortages or surpluses. In 1973, price controls created lines that wouldn't have existed otherwise.",
+      "**Elasticity is the hidden multiplier.** Demand for insulin is inelastic (people need it regardless of price), while demand for concert tickets is elastic (a small price change can cause a big swing in attendance). When supply is disrupted, inelastic goods see massive price spikes; elastic goods see quantity adjustments. But the real insight? Think about *marginal buyers* in an auction: the last bidder willing to pay $500 for a vintage guitar sets the price for everyone. That's why a single motivated buyer can send prices soaring—it's not about the average, it's about the edge.",
+      "**The marginal buyer and seller set the price.** The last person willing to buy at the highest price, and the last person willing to sell at the lowest price, determine the market price. This is why a small shift in supply or demand can cause large price changes—it's all about the edge. In a bidding war, the marginal buyer is the one who just won—and their willingness to pay is often driven by emotion, not logic."
+    ],
+    "practice": [
+      {
+        "title": "Track a Product's Price and Predict Movements",
+        "steps": [
+          "Pick a product you buy regularly (e.g., gasoline, avocados).",
+          "For one week, track its price and note any news about supply (weather, strikes) or demand (holidays, trends).",
+          "See if you can predict price movements based on shifts in supply/demand."
+        ]
+      },
+      {
+        "title": "Elasticity Thought Experiment on Your Skills",
+        "steps": [
+          "If you raised your hourly rate by 20%, how many clients would you lose?",
+          "If you lowered it by 20%, how many new clients would you gain?",
+          "Calculate your elasticity: % change in quantity demanded / % change in price. This tells you your personal demand elasticity."
+        ]
+      },
+      {
+        "title": "Identify a Market and Propose Equilibrium Shifts",
+        "steps": [
+          "Identify a market where you think prices are 'too high' or 'too low'.",
+          "List three factors that could shift supply or demand to bring prices back to 'normal'.",
+          "This trains you to think in terms of equilibrium."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest trap is assuming supply and demand are independent. They are not—advertising can create demand, and production can be adjusted based on expected demand. Another trap is ignoring time lags: supply often takes years to respond (e.g., housing construction), leading to boom-bust cycles. Finally, the model assumes rational actors, but humans are emotional—fear and greed can cause prices to overshoot any 'equilibrium' for extended periods.",
+    "sources": [
+      {
+        "title": "Search: Supply and Demand: The Psychology Behind the Price Tag",
+        "url": "https://www.google.com/search?q=Supply%20and%20Demand%3A%20The%20Psychology%20Behind%20the%20Price%20Tag"
+      }
+    ],
+    "meta": {
+      "id": "Supply & demand analysis",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Equilibrium",
+        "Elasticity"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "add6a171-7143-45d9-a0f9-b2fa74a42d6f",
     "date": "2026-07-09",
     "topic": "Global Market Hours: The Invisible Hand That Moves Your Money While You Sleep",
@@ -3702,69 +3761,6 @@
       "related": [
         "Cost structure",
         "Production functions"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "10b29a59-b6b3-4ee8-b4c0-9a575cf8b1f5",
-    "date": "2026-05-07",
-    "topic": "Consumer Theory: Maximizing Happiness Within Your Budget",
-    "teaser": "The simple math that reveals if you're wasting money—and how to fix it.",
-    "summary": "Imagine you're at a buffet. You can eat anything, but you have a fixed stomach capacity. Your goal is to maximize happiness per bite. That's **consumer theory** in a nutshell: we all face constraints and try to get the most satisfaction from our limited resources.\n\nConsumer theory explains how individuals make choices given their budget constraints and preferences. It assumes consumers aim to **maximize utility** (satisfaction) from goods and services, subject to their income and prices. The theory uses **indifference curves** (combinations of goods that give equal utility) and **budget lines** to model optimal choices.\n\nUnderstanding consumer theory helps you make better spending decisions by recognizing trade-offs and the true cost of choices. It reveals why you might overspend on status goods or under-save for retirement. Today, with inflation and rising costs, applying these principles can directly improve your financial well-being.\n\n**The core insight**: The marginal utility per dollar spent should be equal across all goods for optimal allocation. This principle can optimize any budget, from groceries to investments. Indifference curves are convex because of **diminishing marginal utility**; the more you have of something, the less you value additional units—this explains why variety is valuable. Additionally, **income and substitution effects** show that a price change affects behavior in two ways: it changes purchasing power (income effect) and relative attractiveness (substitution effect). Understanding this helps predict how tax changes or discounts alter spending.",
-    "key_points": [
-      "Equalize marginal utility per dollar across all purchases to maximize total satisfaction from your budget.",
-      "Diminishing marginal utility explains why variety is valuable and why we tire of any single good.",
-      "Income and substitution effects: a price increase reduces purchasing power and makes substitutes more attractive, altering consumption patterns.",
-      "Consumer theory provides a framework, but real-world decisions are influenced by emotions, habits, and biases."
-    ],
-    "practice": [
-      {
-        "title": "Marginal Utility Audit",
-        "steps": [
-          "List your last three discretionary purchases (e.g., coffee, movie ticket, app subscription).",
-          "Estimate the satisfaction (on a scale 1-10) each gave you.",
-          "Divide satisfaction by the price to get marginal utility per dollar.",
-          "Compare the ratios. If they vary widely, consider reallocating spending toward higher-utility items."
-        ]
-      },
-      {
-        "title": "Indifference Curve Mapping",
-        "steps": [
-          "Choose two goods you regularly consume (e.g., coffee and tea).",
-          "Draw a graph with quantity of good A on x-axis, good B on y-axis.",
-          "Plot points where you'd be equally satisfied with different combinations (e.g., 2 coffee + 3 tea vs 3 coffee + 1 tea).",
-          "Impose a 20% budget cut. Determine how you'd reallocate spending and note your true priorities."
-        ]
-      },
-      {
-        "title": "Price Sensitivity Simulation",
-        "steps": [
-          "Identify a luxury item you buy (e.g., premium coffee, brand clothing).",
-          "Imagine its price increases by 20%.",
-          "Estimate how much less you'd buy due to the income effect (feeling poorer) vs. substitution effect (switching to alternatives).",
-          "Reflect on whether your estimate matches your actual behavior; this builds self-awareness of price sensitivity."
-        ]
-      }
-    ],
-    "risk_notes": "Consumer theory assumes rational, consistent preferences, but real humans are influenced by emotions, habits, and cognitive biases. The theory also ignores social context and advertising's power to shape desires. Relying solely on it can lead to oversimplification and neglect of psychological factors like status-seeking or addiction.",
-    "sources": [
-      {
-        "title": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
-        "url": "https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X"
-      }
-    ],
-    "meta": {
-      "id": "Consumer theory",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Utility",
-        "Indifference curves"
       ],
       "tags": [
         "Microeconomics Fundamentals",

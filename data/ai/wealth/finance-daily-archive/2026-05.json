@@ -303,5 +303,68 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "10b29a59-b6b3-4ee8-b4c0-9a575cf8b1f5",
+    "date": "2026-05-07",
+    "topic": "Consumer Theory: Maximizing Happiness Within Your Budget",
+    "teaser": "The simple math that reveals if you're wasting money—and how to fix it.",
+    "summary": "Imagine you're at a buffet. You can eat anything, but you have a fixed stomach capacity. Your goal is to maximize happiness per bite. That's **consumer theory** in a nutshell: we all face constraints and try to get the most satisfaction from our limited resources.\n\nConsumer theory explains how individuals make choices given their budget constraints and preferences. It assumes consumers aim to **maximize utility** (satisfaction) from goods and services, subject to their income and prices. The theory uses **indifference curves** (combinations of goods that give equal utility) and **budget lines** to model optimal choices.\n\nUnderstanding consumer theory helps you make better spending decisions by recognizing trade-offs and the true cost of choices. It reveals why you might overspend on status goods or under-save for retirement. Today, with inflation and rising costs, applying these principles can directly improve your financial well-being.\n\n**The core insight**: The marginal utility per dollar spent should be equal across all goods for optimal allocation. This principle can optimize any budget, from groceries to investments. Indifference curves are convex because of **diminishing marginal utility**; the more you have of something, the less you value additional units—this explains why variety is valuable. Additionally, **income and substitution effects** show that a price change affects behavior in two ways: it changes purchasing power (income effect) and relative attractiveness (substitution effect). Understanding this helps predict how tax changes or discounts alter spending.",
+    "key_points": [
+      "Equalize marginal utility per dollar across all purchases to maximize total satisfaction from your budget.",
+      "Diminishing marginal utility explains why variety is valuable and why we tire of any single good.",
+      "Income and substitution effects: a price increase reduces purchasing power and makes substitutes more attractive, altering consumption patterns.",
+      "Consumer theory provides a framework, but real-world decisions are influenced by emotions, habits, and biases."
+    ],
+    "practice": [
+      {
+        "title": "Marginal Utility Audit",
+        "steps": [
+          "List your last three discretionary purchases (e.g., coffee, movie ticket, app subscription).",
+          "Estimate the satisfaction (on a scale 1-10) each gave you.",
+          "Divide satisfaction by the price to get marginal utility per dollar.",
+          "Compare the ratios. If they vary widely, consider reallocating spending toward higher-utility items."
+        ]
+      },
+      {
+        "title": "Indifference Curve Mapping",
+        "steps": [
+          "Choose two goods you regularly consume (e.g., coffee and tea).",
+          "Draw a graph with quantity of good A on x-axis, good B on y-axis.",
+          "Plot points where you'd be equally satisfied with different combinations (e.g., 2 coffee + 3 tea vs 3 coffee + 1 tea).",
+          "Impose a 20% budget cut. Determine how you'd reallocate spending and note your true priorities."
+        ]
+      },
+      {
+        "title": "Price Sensitivity Simulation",
+        "steps": [
+          "Identify a luxury item you buy (e.g., premium coffee, brand clothing).",
+          "Imagine its price increases by 20%.",
+          "Estimate how much less you'd buy due to the income effect (feeling poorer) vs. substitution effect (switching to alternatives).",
+          "Reflect on whether your estimate matches your actual behavior; this builds self-awareness of price sensitivity."
+        ]
+      }
+    ],
+    "risk_notes": "Consumer theory assumes rational, consistent preferences, but real humans are influenced by emotions, habits, and cognitive biases. The theory also ignores social context and advertising's power to shape desires. Relying solely on it can lead to oversimplification and neglect of psychological factors like status-seeking or addiction.",
+    "sources": [
+      {
+        "title": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
+        "url": "https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X"
+      }
+    ],
+    "meta": {
+      "id": "Consumer theory",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Utility",
+        "Indifference curves"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
   }
 ]
