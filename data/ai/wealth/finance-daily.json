@@ -1,5 +1,69 @@
 [
   {
+    "id": "0df5536e-8de7-4b53-ad3f-c165f6f0b02d",
+    "date": "2026-07-11",
+    "topic": "Consumer Theory: The Hidden Logic Behind Every Purchase",
+    "teaser": "Why is water cheap but diamonds expensive? The answer will reprogram how you spend every dollar—and why earning more won't make you happier.",
+    "summary": "The 19th-century 'diamond-water paradox' stumped economists: water, essential for life, is cheap; diamonds, mere trinkets, are exorbitant. The resolution birthed modern consumer theory—and a mental model that can save you thousands.\n\nIt's all about marginal utility. Water's total utility is immense, but its marginal utility (the extra satisfaction from one more glass) is tiny because it's abundant. Diamonds are scarce, so each additional carat delivers a massive jolt of utility. This principle explains why the first slice of pizza is bliss, the fifth is regret, and why your $75,000 salary feels like freedom, but $150,000 feels like a treadmill.\n\nEvery purchase is a trade-off. In a world of infinite choices and targeted ads, understanding your own utility function cuts through the noise. You'll stop overpaying for status goods that don't bring lasting satisfaction and start allocating money to experiences or assets that compound joy. Right now, with inflation and rising rates, consumer theory is your mental budget optimizer—a lens to see hidden costs and fake value.\n\nThis isn't abstract theory. It's the logic behind why you choose Netflix over a night out, why you upgrade your phone but not your mattress, and why the best financial decision is often to do nothing. Let's decode the hidden logic behind every purchase.",
+    "key_points": [
+      "The Easterlin Paradox: Beyond ~$75,000 (adjusted for inflation and location), income gains yield negligible happiness increases. The marginal utility of money itself diminishes sharply. Stop chasing raises—chase time and autonomy.",
+      "Indifference curves reveal your 'shadow preferences'—the trade-offs you make when no one is watching. Track your spending for a month; the pattern shows what you truly value, not what you say you value. Most people over-index on visible consumption and under-index on experiences.",
+      "Narrow framing is the enemy: we treat each purchase in isolation, ignoring the holistic budget constraint. The true cost is the foregone alternative (opportunity cost), not the price tag. Before any discretionary purchase, ask: 'What else could this money do over the next 10 years?'",
+      "The diamond-water paradox is resolved by distinguishing total vs. marginal utility. Water's total utility is high, marginal utility low; diamonds reverse that. This principle explains why essential goods (housing, healthcare) can be 'cheap' in marginal terms, while luxury goods command high prices."
+    ],
+    "practice": [
+      {
+        "title": "Utility Audit",
+        "steps": [
+          "For one week, log every non-essential purchase and rate its satisfaction (1-10).",
+          "Identify the top 3 lowest-utility items—eliminate them permanently.",
+          "Calculate the annual savings and convert into hours of freedom (e.g., 'This frees up 2 months of work')."
+        ]
+      },
+      {
+        "title": "Opportunity Cost Check",
+        "steps": [
+          "Before any purchase over $50, mentally convert the cost into hours of work (after-tax hourly wage).",
+          "Ask: 'Is this worth X hours of my life?'",
+          "For bigger purchases, calculate the future value: if invested at 7% for 20 years, what would it be worth?"
+        ]
+      },
+      {
+        "title": "Shadow Preference Mapping",
+        "steps": [
+          "Instead of abstract indifference curves, track your actual spending on two categories (e.g., dining out vs. streaming).",
+          "List the combinations you chose over the past month.",
+          "Plot them: does your spending pattern align with what you claim to value? If not, adjust."
+        ]
+      }
+    ],
+    "risk_notes": "Consumer theory assumes perfect rationality and stable preferences. In reality, we suffer from present bias (overvaluing now), social comparison (keeping up with Joneses), and addiction (where utility is negative but consumption persists). The model also ignores that preferences are malleable—advertisers shape what we want. Over-reliance on this theory can lead to 'utility maximization' that feels robotic and misses non-quantifiable joys like altruism or spontaneity. Use it as a lens, not a straitjacket.",
+    "sources": [
+      {
+        "title": "Frank, R. H. (2011). The Economic Naturalist: Why Economics Explains Almost Everything.",
+        "url": "https://www.basicbooks.com/titles/robert-h-frank/the-economic-naturalist/9780465022238/"
+      },
+      {
+        "title": "Thaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving Decisions About Health, Wealth, and Happiness.",
+        "url": "https://yalebooks.yale.edu/book/9780300122237/nudge/"
+      }
+    ],
+    "meta": {
+      "id": "Consumer theory",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Utility",
+        "Indifference curves"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "e7439ec9-7627-44c8-8bad-b8c2b6719eab",
     "date": "2026-07-10",
     "topic": "Supply and Demand: The Psychology Behind the Price Tag",
@@ -3702,65 +3766,6 @@
       "related": [
         "Competition",
         "Monopoly"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "8ef6d624-4402-48fd-86a4-b7cec2a80fc1",
-    "date": "2026-05-08",
-    "topic": "Producer Theory: The Hidden Math Behind Business Scalability",
-    "teaser": "Why your lemonade stand's first pitcher is pure gold, but the hundredth might cost you more than it earns—and how the world's most valuable companies cheat this rule.",
-    "summary": "Picture your lemonade stand on a scorching summer day. The first pitcher sells out instantly—pure profit. You add more lemons, sugar, and a second pitcher. Still sells. By the fifth pitcher, your stand is cramped, you're sweating, and each new batch requires more effort for less return. That's the law of diminishing returns. But here's the twist: some businesses—like software platforms—seem to defy this law. They get more efficient as they grow. Producer theory is the hidden math that separates the lemonade stands from the Facebooks. It reveals why your boss hires more people but doesn't raise your pay, why automation isn't always about saving money, and why some industries inevitably become monopolies. This isn't just academic; it's the playbook for spotting the next trillion-dollar company before anyone else.",
-    "key_points": [
-      "1. The Marginal Product of Labor (MPL) isn't just why you're underpaid—it's a leading indicator of industry disruption. When MPL falls, firms have two choices: accept lower profits or replace you with capital. But here's the non-obvious insight: in knowledge work, MPL can actually *increase* with the right team dynamics (e.g., network effects among employees). The real skill is identifying when MPL is about to tip from increasing to decreasing—that's when you should sell the stock or switch careers.",
-      "2. The isoquant-isocost framework reveals a counterintuitive truth: the cheapest way to produce isn't always the most efficient. In fact, using more capital (automation) can be cheaper even if capital is expensive, because it avoids the hidden costs of managing people. But the deeper insight? The optimal mix depends on the elasticity of substitution. In industries where capital and labor are easily substitutable (like manufacturing), automation wins quickly. In creative fields (where substitution is low), labor retains power. This explains why AI threatens coders more than artists—for now.",
-      "3. Returns to scale aren't just a predictor of monopoly—they're a self-fulfilling prophecy. Increasing returns (like in tech platforms) create winner-take-all markets, but the non-obvious twist: these returns are often driven by *demand-side* economies of scale (network effects) rather than supply-side. That's why Uber's scale didn't protect it from rivals—it lacked true network effects. The real moat is when both supply and demand sides have increasing returns, like in AWS or Microsoft Office."
-    ],
-    "practice": [
-      {
-        "title": "Marginal Product Self-Audit (with a Twist)",
-        "steps": [
-          "Track one specific output metric (e.g., code commits, sales calls, articles written) for each hour over a week. But don't just measure—also note the *quality* or *impact* of each hour's output.",
-          "Calculate your marginal product for the last hour. If it's lower than your average, ask: 'Is this task scalable? Can I automate it, delegate it, or eliminate it?'",
-          "Then, do the inverse: identify tasks where your marginal product is *increasing*. Double down on those. The goal isn't just to avoid diminishing returns—it's to find your increasing returns zone."
-        ]
-      },
-      {
-        "title": "Revenue per Employee Analysis (with Action Guide)",
-        "steps": [
-          "Pick a company and compute revenue per employee. But now, compare it to the industry median. If the company's ratio is significantly higher, it suggests a capital-intensive or highly scalable model (good for investors). If it's lower, it may be labor-intensive with diminishing returns.",
-          "Now, look at the trend over 5 years. Is revenue per employee rising? If yes, the company is likely benefiting from economies of scale. If falling, they may be hiring too fast without productivity gains—a red flag.",
-          "Action: If you're an investor, buy companies with rising revenue per employee in industries with increasing returns. If you're a manager, benchmark your team's ratio against competitors to spot inefficiencies."
-        ]
-      },
-      {
-        "title": "Isoquant Thought Experiment (Made Concrete)",
-        "steps": [
-          "Pick a real business process you're familiar with—say, preparing a monthly report. Estimate the time it takes with current labor (e.g., 10 hours of analyst time).",
-          "Now, consider a capital-intensive alternative: buying a software tool that automates data collection. Estimate the cost (e.g., $500/month) and the remaining labor (e.g., 2 hours for analysis).",
-          "Calculate the total cost of each option over a year. Include not just direct costs but also training, maintenance, and error rates. Which is cheaper? Now, sketch a simple isoquant: on a graph with labor on one axis and capital on the other, plot the points (10 hours, $0 capital) and (2 hours, $500/month). The curve connecting them shows all combinations that produce the same output. The cheapest point is where the slope of the isoquant equals the ratio of input prices. This reveals whether you should invest in more automation or more people."
-        ]
-      }
-    ],
-    "risk_notes": "Producer theory is a powerful lens, but it's a simplification. It assumes firms are rational profit-maximizers with perfect information—which they rarely are. Managers suffer from status quo bias, overconfidence, and short-termism. Also, the theory ignores externalities: a firm that minimizes private costs might maximize social costs (e.g., pollution). And in the real world, production functions aren't always smooth—they can have discontinuities (e.g., a factory needs a minimum scale to be viable). Beware of applying these models blindly without considering market power, regulation, and human psychology. The best use of producer theory is as a diagnostic tool, not a prescription.",
-    "sources": [
-      {
-        "title": "Varian, H. R. (2014). Intermediate Microeconomics: A Modern Approach. W.W. Norton.",
-        "url": "https://www.wwnorton.com/books/9780393919677"
-      }
-    ],
-    "meta": {
-      "id": "Producer theory",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Cost structure",
-        "Production functions"
       ],
       "tags": [
         "Microeconomics Fundamentals",
