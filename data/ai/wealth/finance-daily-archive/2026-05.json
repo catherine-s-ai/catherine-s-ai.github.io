@@ -425,5 +425,65 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "21f378aa-7c5a-4e7e-bb61-d12aa36d9822",
+    "date": "2026-05-09",
+    "topic": "Market Structures: From Monopoly to Perfect Competition",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "In 301 AD, Emperor Diocletian faced a problem: prices were soaring. His solution? A price control edict—death for selling above the cap. It failed spectacularly. Markets, he learned, have a mind of their own. Today, we still fight the same battle, but now it's about market structure: the invisible architecture that determines who holds the power.\n\nImagine a single company controlling your city's water. That's not a monopoly—it's a utility. But what if that company also owned the pipes, the treatment plants, and the regulations? That's market power. Now imagine that company is your broker, your bank, and your pension fund. That's the modern financial system.\n\nMarket structures are the DNA of competition. At one extreme: **perfect competition**—a bazaar of tiny stalls selling identical wares, where no one has power. At the other: **monopoly**—a fortress with a single gatekeeper. In between lie **monopolistic competition** (many sellers, each with a unique twist) and **oligopoly** (a handful of titans playing chess).\n\nWhy should you care? Because this DNA dictates your returns and your bills. Monopolies mint money—until regulators or disruptors strike. Oligopolies wage silent wars through advertising and hidden collusion, costing you more. Tech giants today face antitrust battles that could reshape your portfolio. Understanding market structure isn't academic; it's survival. It tells you which companies have real moats and which are castles built on sand.",
+    "key_points": [
+      "Monopoly is a gradient, not a binary: Even near-monopolies face threats from substitutes, tech shifts, or regulation. Google's search dominance isn't eternal—AI chatbots are the new barbarians at the gate. The real question isn't 'Is it a monopoly?' but 'How durable is its power?'",
+      "Oligopolies prefer non-price competition because price wars are mutually assured destruction. Instead, they compete on branding, features, and ecosystems. Think Apple vs. Samsung: they'd rather sell you a story than a discount.",
+      "Perfect competition is a theoretical mirage. Real markets have information gaps, switching costs, and loyalty. Even commodity markets like oil have OPEC. The stock market is close, but insider information and behavioral biases create edges.",
+      "Market structure is dynamic, not static. Disruption can topple titans: Netflix buried Blockbuster, Zoom crashed the boardroom party. Regulatory risk is the wildcard. Always ask: 'What could break this structure in 5 years?'"
+    ],
+    "practice": [
+      {
+        "title": "Analyze Your Portfolio",
+        "steps": [
+          "Pick one stock you own and identify its market structure (monopoly, oligopoly, etc.).",
+          "Look at its market share, number of competitors, and barriers to entry.",
+          "Assess whether the company has pricing power and how sustainable it is."
+        ]
+      },
+      {
+        "title": "Check Your Monthly Bills",
+        "steps": [
+          "Identify which industries are oligopolies (e.g., internet, cell phone, airlines).",
+          "Research if there's a smaller competitor offering better value.",
+          "Consider switching or negotiating your current plan."
+        ]
+      },
+      {
+        "title": "Simulate an Antitrust Breakup",
+        "steps": [
+          "Choose a dominant tech company (e.g., Amazon, Meta).",
+          "Imagine it's forced to split into separate businesses (e.g., marketplace vs cloud).",
+          "Analyze how that would affect each part's valuation and whether you'd buy the pieces."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest trap is assuming market structure is static. Disruptive innovation can topple monopolies (e.g., Netflix vs Blockbuster). Also, regulatory risk is hard to predict—a monopoly today might be broken up tomorrow. Psychological trap: investors often overpay for 'moats' that turn out to be shallow (e.g., Kodak's film monopoly). Finally, in oligopolies, collusion can be illegal but hard to detect, leading to hidden price fixing that hurts consumers.",
+    "sources": [
+      {
+        "title": "Competition Demystified",
+        "url": "https://www.penguinrandomhouse.com/books/291643/competition-demystified-by-bruce-greenwald-and-judd-kahn/"
+      }
+    ],
+    "meta": {
+      "id": "Market structures",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Competition",
+        "Monopoly"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
   }
 ]
