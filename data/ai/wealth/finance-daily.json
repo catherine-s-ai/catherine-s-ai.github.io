@@ -1,5 +1,73 @@
 [
   {
+    "id": "61eab0c9-d385-413b-8bdf-7e435ac818d7",
+    "date": "2026-07-14",
+    "topic": "Game Theory in Finance",
+    "teaser": "Why the bullet holes in returning bombers reveal the hidden strategy behind every market crash.",
+    "summary": "In 1944, statistician Abraham Wald confronted a puzzle: Allied bombers kept returning riddled with bullet holes, yet they weren't getting shot down. The military wanted to armor the most-hit areas. Wald saw the opposite: the planes that didn't return were hit where it mattered. Survivorship bias—focusing on survivors—led to a fatal strategic error. This is game theory's first lesson: what you see is shaped by unseen choices.\n\nGame theory studies strategic interactions where your payoff depends on others' actions. The Nash equilibrium is a stable state where no one can improve by changing alone. But here's the non-obvious part: in many financial games, the Nash equilibrium is disastrous, yet rational players get stuck there. Example: a market panic. Individually, selling is rational (Nash). Collectively, holding is better (Pareto optimal). The insight: to escape, you need to change the game—by coordinating, signaling, or altering payoffs.\n\nConsider the Prisoner's Dilemma. Two suspects, separate rooms. If both stay silent, they get 1 year each. If one confesses and implicates the other, the confessor goes free, the other gets 10. If both confess, they get 5 each. The dominant strategy is to confess, leading to 5 years each—worse than the cooperative 1 year. In finance, this explains why everyone rushes to sell during a crash: each fears being the sucker left holding the bag. The Pareto-optimal outcome (hold) is unstable. How to break the cycle? Use tit-for-tat in repeated games: start cooperative, then mirror your counterpart. In a panic, that means not selling first, but being willing to sell if others do—creating a contingent cooperation. Or, change the payoffs: central banks act as a third party, guaranteeing liquidity to make holding less risky.\n\nAnother deep insight: zero-sum vs. positive-sum. Most people think markets are zero-sum (one winner, one loser). But over time, markets are positive-sum: the pie grows. The strategic mistake is to focus on beating others rather than creating value. Warren Buffett's approach: buy businesses, not stocks. That's playing a positive-sum game.\n\nMastering game theory means seeing the hidden structure behind financial chaos. It's not about predicting others; it's about understanding the incentives that trap everyone—and finding the escape hatch.",
+    "key_points": [
+      "**Survivorship Bias in Strategy**: What we observe (returning bombers) is systematically different from the unseen (downed planes). In finance, this means studying successful investors or strategies ignores the many failures—leading to overconfidence. True insight comes from analyzing the full distribution, not just the winners.",
+      "**Nash Equilibrium ≠ Optimal**: In a panic, selling is the Nash equilibrium (each player's best response to others selling), but the Pareto-optimal outcome is holding. The gap between the two is where strategic thinking matters: how to coordinate on the better outcome? Solutions include pre-commitment, signaling, or external intervention (e.g., circuit breakers).",
+      "**Tit-for-Tat as a Meta-Strategy**: In repeated interactions, tit-for-tat (start cooperate, then mirror) is remarkably robust. In finance, this translates to building trust in business partnerships or long-term investing. But it fails if the game is one-shot or if noise (misinterpretation) exists. The insight: in noisy environments, be forgiving (e.g., occasionally cooperate after a defection) to restore cooperation.",
+      "**Positive-Sum vs. Zero-Sum Thinking**: Most financial transactions are zero-sum in the short run (buyer vs. seller). But over the long run, markets grow. The strategic error is to treat investing as a battle against others. Instead, focus on assets that generate real value (businesses, innovation). This shifts the game from adversarial to cooperative—with the market as a partner."
+    ],
+    "practice": [
+      {
+        "title": "Analyze a Past Financial Decision Through the Lens of Game Theory",
+        "steps": [
+          "Recall a specific financial decision (e.g., selling a stock during a dip, negotiating a raise).",
+          "Identify all players (e.g., other sellers, your boss, the market).",
+          "Map their possible strategies and payoffs. What was the Nash equilibrium?",
+          "Ask: Did I fall into a suboptimal equilibrium? What could have changed the game (e.g., different information, commitment, or timing)?",
+          "Write down one actionable insight for future decisions."
+        ]
+      },
+      {
+        "title": "Simulate a Repeated Prisoner's Dilemma with Financial Context",
+        "steps": [
+          "Use an online simulator or partner. Play 20 rounds with a payoff matrix: both cooperate: +3 each; both defect: +1 each; one cooperates, one defects: defector gets +5, cooperator gets 0.",
+          "After 10 rounds, introduce 'noise' (e.g., 10% chance your action is misinterpreted).",
+          "Record your strategy and outcomes. Relate to real financial negotiations: how does miscommunication affect trust?",
+          "Test a 'forgiving tit-for-tat' (cooperate after a defection with some probability). Compare performance."
+        ]
+      },
+      {
+        "title": "Apply the 'If Everyone Knew' Test with a Twist",
+        "steps": [
+          "Before any investment, ask: 'If everyone knew my reasoning, would this still be a good move?'",
+          "If yes, consider that you may be ignoring others' strategic responses. For example, if you buy a stock because you think it's undervalued, ask: 'Why hasn't everyone else already bought?'",
+          "Research whether the market has already priced in that information. Look for hidden incentives (e.g., insiders selling).",
+          "Use this to identify situations where your strategy exploits others' biases or constraints, not just information."
+        ]
+      }
+    ],
+    "risk_notes": "Game theory assumes rational players, but real humans are emotional, biased, and often irrational. The Nash equilibrium can be Pareto-inefficient (e.g., arms races, bank runs). Over-reliance on game theory can lead to cynicism, justifying unethical behavior as 'just strategy.' Also, real-world games are often incomplete information—you don't know others' payoffs or moves, leading to miscalculations. Always combine with behavioral finance insights and consider second-order effects.",
+    "sources": [
+      {
+        "title": "Prisoner's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb",
+        "url": "https://www.amazon.com/Prisoners-Dilemma-Neumann-Theory-Puzzle/dp/038541580X"
+      },
+      {
+        "title": "The Art of Strategy: A Game Theorist's Guide to Success in Business and Life",
+        "url": "https://www.amazon.com/Art-Strategy-Theorists-Success-Business/dp/0393062430"
+      }
+    ],
+    "meta": {
+      "id": "Game theory & strategic behavior",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Nash equilibrium",
+        "Prisoner's dilemma"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "9f88c6e8-81b4-4e52-bd70-c7318d0646ee",
     "date": "2026-07-13",
     "topic": "Market Structures: The Invisible Rules of Economic Power",
@@ -3702,65 +3770,6 @@
       "related": [
         "Wage determination",
         "Unemployment"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "711cebf2-a97b-4f2c-8d6f-75756db0433f",
-    "date": "2026-05-11",
-    "topic": "Externalities and Public Goods: The Hidden Forces Shaping Markets",
-    "teaser": "The streetlight you never pay for is silently making you money. Discover how invisible costs and free riders crash markets and create monopolies.",
-    "summary": "Picture this: you walk under a streetlight, never paying a dime, yet it guides your way home. That's a public good—non-excludable, non-rivalrous, and quietly boosting your property value. Now imagine a vaccine developed in secret, hoarded for profit. That's the tragedy of externalities: private decisions with public consequences.\n\nExternalities are costs or benefits that spill over to third parties. Pollution from a factory? Negative externality. Your neighbor's beautiful garden? Positive externality. Public goods, like clean air or national defense, are non-excludable and non-rivalrous. Both lead to market failure because prices don't tell the whole story.\n\nWhy should you care? Because externalities shape your investments. Regulations on carbon hit energy stocks; network effects create tech monopolies. Public goods like infrastructure determine the talent you hire. Ignoring them is like trading blind.\n\nConsider 2008: mortgage securitization spread risk so thin that no one felt the systemic risk externality—until the collapse. Or think of a carbon tax: by pricing pollution, it forces change. The Coase Theorem says that with clear property rights and low transaction costs, private parties can solve externalities without government. That's why cap-and-trade works. But the free rider problem means public goods get underfunded—everyone enjoys the benefit, few pay.\n\nMaster these concepts to see beyond surface signals. When a stock drops, ask: is this a rational correction or a mispricing of an ignored externality? Audit your portfolio for exposure to regulatory shifts. The hidden forces are everywhere—now you can spot them.",
-    "key_points": [
-      "**The Coase Theorem**: Clear property rights and low transaction costs let private parties internalize externalities without government. That's why cap-and-trade markets work—they assign ownership of pollution rights, turning a negative externality into a tradable asset.",
-      "**The Free Rider Problem**: Public goods are underprovided because individuals can benefit without paying. Your reluctance to fund public radio mirrors the dynamic that starves essential research—everyone waits for someone else to foot the bill.",
-      "**Systemic Risk Externalities**: The 2008 crisis wasn't just a negative externality; it was a systemic risk externality. Mortgage securitization spread risk so diffusely that no single actor bore the cost until the entire system collapsed. Such externalities are invisible until they become crises."
-    ],
-    "practice": [
-      {
-        "title": "Audit Your Portfolio for Externality Exposure",
-        "steps": [
-          "Identify industries in your portfolio that rely on public goods (e.g., tech using free spectrum) or generate negative externalities (e.g., fossil fuels).",
-          "Research regulatory trends: which externalities are likely to be internalized (e.g., carbon pricing, plastic bans)?",
-          "Adjust holdings to reduce exposure to negative externalities and increase exposure to positive ones."
-        ]
-      },
-      {
-        "title": "Question Price Drops with an Externality Lens",
-        "steps": [
-          "When a stock drops, ask: 'Is this a rational correction or a mispricing due to an ignored externality?'",
-          "Look for news about regulatory changes, lawsuits, or social movements that could internalize previously ignored costs.",
-          "If the drop is driven by potential externality internalization, assess if the market has fully priced it in or if further downside exists."
-        ]
-      },
-      {
-        "title": "Personal Carbon Tax Simulation",
-        "steps": [
-          "Calculate the hidden cost of each gallon of gas or plastic item using a social cost of carbon estimate (e.g., $50/ton CO2).",
-          "For one week, add these costs to your actual spending. Notice how your behavior changes when external costs become internal.",
-          "Reflect on how similar dynamics play out in companies you invest in—are they ignoring externalities that may soon be priced?"
-        ]
-      }
-    ],
-    "risk_notes": "The concept can be weaponized to justify excessive government intervention. Not every negative externality needs regulation—some are trivial or self-correcting. Also, defining something as a 'public good' can lead to free-rider mentalities where everyone expects others to pay. The biggest trap is using externalities as an excuse for rent-seeking: companies lobbying for subsidies under the guise of positive externalities.",
-    "sources": [
-      {
-        "title": "Search: Externalities and Public Goods: The Hidden Forces Shaping Markets",
-        "url": "https://www.google.com/search?q=Externalities%20and%20Public%20Goods%3A%20The%20Hidden%20Forces%20Shaping%20Markets"
-      }
-    ],
-    "meta": {
-      "id": "Externalities & public goods",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Market failure",
-        "Government intervention"
       ],
       "tags": [
         "Microeconomics Fundamentals",
