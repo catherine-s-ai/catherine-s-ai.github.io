@@ -1,5 +1,64 @@
 [
   {
+    "id": "cd85a300-7b7d-4048-a83e-14ea0bae353e",
+    "date": "2026-07-15",
+    "topic": "Externalities and Public Goods: The Invisible Forces Shaping Your Wealth",
+    "teaser": "Your neighbor's unkempt lawn is quietly draining your net worth. Here's how.",
+    "summary": "Imagine this: your neighbor lets their lawn go to seed. Weeds multiply, rats move in, and your property value drops 10%. You didn't buy that house next door, but you're paying for it. That's an **externality**—a cost (or benefit) that spills onto a third party. Now scale up: a factory pollutes a river, killing a fishing industry. The factory's profit is private, but the cost is shared. That's a market failure. \n\n**Public goods** are the flip side: streetlights, national defense, basic research. They're non-rivalrous (my use doesn't diminish yours) and non-excludable (can't stop freeloaders). So markets underproduce them. The result? We miss out on innovations that could have been—like a cure for a disease that wasn't profitable enough. \n\nWhy should you care? Because these invisible forces silently shift risk and opportunity in your portfolio. The tragedy of the commons—overfishing, congestion, climate change—destroys shared resources. Companies that ignore externalities (think BP's Deepwater Horizon or Volkswagen's emissions scandal) blow up. Those that internalize them (like Tesla betting on clean energy) create moats. And underfunded public goods—infrastructure, education, R&D—are where governments step in, creating investment booms. \n\nUnderstanding externalities isn't just economics—it's a lens to see hidden risks and asymmetric upside. Your neighbor's lawn is just the start.",
+    "key_points": [
+      "The tragedy of the commons is not just about overuse—it's a systematic failure of pricing. When a resource is free, it gets overused until it collapses. But the real insight? The solution isn't always privatization. Sometimes it's community management (like lobster fisheries in Maine). Don't assume markets or governments have the answer—look for systems that align incentives.",
+      "Internalizing externalities is often framed as a cost, but it's a source of alpha. Companies that proactively manage externalities (e.g., reducing carbon, improving labor practices) tend to have lower cost of capital and higher resilience. Why? Because they're pricing risks that others ignore. The market eventually catches up—but early movers win.",
+      "Free riders aren't just a problem—they're a signal. When public goods are underfunded, it creates a vacuum that can be filled by philanthropy or impact investing. For example, the Gates Foundation's work on malaria vaccines has massive social returns. Similarly, municipal bonds funding public schools offer tax-free income while building human capital. The counterintuitive insight: free rider problems create investment opportunities with asymmetric upside."
+    ],
+    "practice": [
+      {
+        "title": "Audit your portfolio for externality risks",
+        "steps": [
+          "Identify companies in your portfolio with large negative externalities (e.g., high carbon emissions, pollution, or waste).",
+          "Use specific data sources: check your portfolio's carbon footprint using the Carbon Disclosure Project (CDP) data, or review MSCI's ESG ratings for controversy flags.",
+          "Estimate potential regulatory costs or litigation risks: for example, if a company is in the fossil fuel sector, model a $50/ton carbon tax impact on earnings. Consider reducing exposure if the risk-adjusted return is unattractive."
+        ]
+      },
+      {
+        "title": "Calculate your personal externality footprint",
+        "steps": [
+          "Track your daily commute, energy use, and waste generation using a tool like the EPA's carbon footprint calculator.",
+          "Research potential future carbon taxes or regulations in your area (e.g., California's cap-and-trade, EU's carbon border adjustment).",
+          "Estimate how these could affect your cost of living: if a $100/ton carbon tax is implemented, your annual driving cost could rise by $200. Adjust habits (e.g., switch to an EV) or invest in carbon offsets."
+        ]
+      },
+      {
+        "title": "Support public goods with positive spillovers",
+        "steps": [
+          "Invest in a municipal bond funding public schools or infrastructure in your state—these offer tax-free income and strengthen your community.",
+          "Allocate a portion of your portfolio to impact funds focused on clean energy or public health, such as the Calvert Impact Fund or the IIGCC's Net Zero Investment Framework.",
+          "Recognize that these investments hedge against systemic risks: for example, investing in public health R&D reduces pandemic risk, which is good for all assets."
+        ]
+      }
+    ],
+    "risk_notes": "Overzealous regulation of externalities can stifle innovation and economic growth. Also, defining what is a 'public good' can be politically manipulated. The tragedy of the commons can lead to privatization that excludes the poor. And free rider problems may cause underinvestment even when collective benefit is huge.",
+    "sources": [
+      {
+        "title": "Search: Externalities and Public Goods: The Invisible Forces Shaping Your Wealth",
+        "url": "https://www.google.com/search?q=Externalities%20and%20Public%20Goods%3A%20The%20Invisible%20Forces%20Shaping%20Your%20Wealth"
+      }
+    ],
+    "meta": {
+      "id": "Externalities & public goods",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Market failure",
+        "Government intervention"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "61eab0c9-d385-413b-8bdf-7e435ac818d7",
     "date": "2026-07-14",
     "topic": "Game Theory in Finance",
@@ -3709,67 +3768,6 @@
       "related": [
         "Asymmetric information",
         "Moral hazard"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "27c0884d-b57a-4744-a3ec-57230fbf7bd9",
-    "date": "2026-05-12",
-    "topic": "Understanding Labor Markets: How Your Salary Is Really Determined",
-    "teaser": "Your salary is set by a hidden auction every day. But you're not bidding against other candidates—you're bidding against your employer's next best option. Here's why that changes everything.",
-    "summary": "Imagine walking into work tomorrow and discovering your salary is reset by a silent auction. That's not far from reality. Every day, your employer implicitly compares your output to the cost of replacing you. This is the labor market in action: a continuous, decentralized auction for human capital, where your wage is the price that clears the market for your specific skills.\n\nBut here's the twist: the auction is rigged. Employers hold the gavel. They set the reservation price—the minimum they'd pay to keep you—based on your **Value of Marginal Product (VMP)**. VMP is the extra revenue you generate or costs you save. If you're a software engineer, it's the value of the code you ship. If you're a barista, it's the revenue from the coffees you serve. Your salary floats near that number, but not because of fairness—because of competition. If your VMP is $100,000 and you ask for $80,000, your employer pockets the $20,000 surplus. If you ask for $120,000, they'll replace you with someone who costs $100,000.\n\nThis is where most people go wrong. They think salary is about effort, loyalty, or need. It's not. It's about your VMP and the **elasticity of labor supply** to your role. Elasticity measures how easily your employer can find a substitute. If your skills are rare (low elasticity), you have pricing power. If you're easily replaceable (high elasticity), you're a price taker. The key insight: **your bargaining power is inversely proportional to the elasticity of labor supply to your role.**\n\nUnemployment is the market's thermostat. High unemployment means a flood of substitutes, crushing wages. Low unemployment means employers scramble, bidding up pay. But institutional forces—unions, minimum wages, social norms—can override this thermostat. They create floors and ceilings that distort the auction.\n\nMastering this mental model transforms you from a passive employee into a strategic player. You stop hoping for a raise and start engineering your VMP. You stop fearing unemployment and start reading its signals. You stop accepting 'market rate' and start questioning whose market—and whose rate.",
-    "key_points": [
-      "Your bargaining power is inversely proportional to the elasticity of labor supply to your role. If your employer can replace you quickly and cheaply (high elasticity), you have little leverage. If finding a substitute takes months and costs a fortune (low elasticity), you set the terms.",
-      "Unemployment is not just a statistic—it's a measure of labor supply elasticity at the macro level. When unemployment is high, the elasticity of labor supply to almost every role increases, suppressing wages across the board. When it's low, workers gain pricing power.",
-      "Institutional power (unions, regulations, norms) can decouple wages from VMP in the short run, but the market always reasserts itself. Minimum wage laws create a floor, but they also reduce demand for low-VMP workers. Unions boost wages for members but can lower employment in covered sectors."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Replacement Cost",
-        "steps": [
-          "Identify your top 3 skills that are in the top 10% of your peer group.",
-          "Quantify the revenue impact of each skill (e.g., 'My Python optimization saved $500k/year').",
-          "Estimate the time and cost for your employer to hire someone with similar impact (e.g., 6 months, $50k in recruiter fees).",
-          "Use this total replacement cost as your negotiation floor."
-        ]
-      },
-      {
-        "title": "Check Your Occupational Unemployment Rate",
-        "steps": [
-          "Go to bls.gov and find the unemployment rate for your occupation and region.",
-          "Compare it to the national average. If yours is >2% below, you have strong bargaining power. If >2% above, focus on upskilling.",
-          "Also check the 'quit rate' for your industry—high quits mean workers have leverage."
-        ]
-      },
-      {
-        "title": "Simulate a Wage Negotiation",
-        "steps": [
-          "Write down your VMP in dollars: 'I generate $X in revenue or save $Y in costs annually.'",
-          "Calculate the elasticity of labor supply for your role: How many qualified candidates could your employer find in 3 months? If <5, you have low elasticity.",
-          "Practice stating: 'Given my VMP of $X and the difficulty of replacing me, I believe a salary of $Z is fair.'",
-          "Prepare counterarguments: 'If you can't meet this, what would it cost to replace me?'"
-        ]
-      }
-    ],
-    "risk_notes": "The VMP model assumes employers can measure your contribution precisely, which is often false. In team settings, your individual VMP is blurred. Also, focusing solely on replacement cost can backfire if you overestimate your uniqueness or if your employer has a strong 'no negotiation' policy. Networks, luck, and discrimination still play huge roles. Use these tools as a framework, not a formula.",
-    "sources": [
-      {
-        "title": "Search: Understanding Labor Markets: How Your Salary Is Really Determined",
-        "url": "https://www.google.com/search?q=Understanding%20Labor%20Markets%3A%20How%20Your%20Salary%20Is%20Really%20Determined"
-      }
-    ],
-    "meta": {
-      "id": "Labor markets & income distribution",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Wage determination",
-        "Unemployment"
       ],
       "tags": [
         "Microeconomics Fundamentals",

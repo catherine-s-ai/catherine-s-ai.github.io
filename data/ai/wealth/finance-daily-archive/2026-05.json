@@ -615,5 +615,66 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "27c0884d-b57a-4744-a3ec-57230fbf7bd9",
+    "date": "2026-05-12",
+    "topic": "Understanding Labor Markets: How Your Salary Is Really Determined",
+    "teaser": "Your salary is set by a hidden auction every day. But you're not bidding against other candidates—you're bidding against your employer's next best option. Here's why that changes everything.",
+    "summary": "Imagine walking into work tomorrow and discovering your salary is reset by a silent auction. That's not far from reality. Every day, your employer implicitly compares your output to the cost of replacing you. This is the labor market in action: a continuous, decentralized auction for human capital, where your wage is the price that clears the market for your specific skills.\n\nBut here's the twist: the auction is rigged. Employers hold the gavel. They set the reservation price—the minimum they'd pay to keep you—based on your **Value of Marginal Product (VMP)**. VMP is the extra revenue you generate or costs you save. If you're a software engineer, it's the value of the code you ship. If you're a barista, it's the revenue from the coffees you serve. Your salary floats near that number, but not because of fairness—because of competition. If your VMP is $100,000 and you ask for $80,000, your employer pockets the $20,000 surplus. If you ask for $120,000, they'll replace you with someone who costs $100,000.\n\nThis is where most people go wrong. They think salary is about effort, loyalty, or need. It's not. It's about your VMP and the **elasticity of labor supply** to your role. Elasticity measures how easily your employer can find a substitute. If your skills are rare (low elasticity), you have pricing power. If you're easily replaceable (high elasticity), you're a price taker. The key insight: **your bargaining power is inversely proportional to the elasticity of labor supply to your role.**\n\nUnemployment is the market's thermostat. High unemployment means a flood of substitutes, crushing wages. Low unemployment means employers scramble, bidding up pay. But institutional forces—unions, minimum wages, social norms—can override this thermostat. They create floors and ceilings that distort the auction.\n\nMastering this mental model transforms you from a passive employee into a strategic player. You stop hoping for a raise and start engineering your VMP. You stop fearing unemployment and start reading its signals. You stop accepting 'market rate' and start questioning whose market—and whose rate.",
+    "key_points": [
+      "Your bargaining power is inversely proportional to the elasticity of labor supply to your role. If your employer can replace you quickly and cheaply (high elasticity), you have little leverage. If finding a substitute takes months and costs a fortune (low elasticity), you set the terms.",
+      "Unemployment is not just a statistic—it's a measure of labor supply elasticity at the macro level. When unemployment is high, the elasticity of labor supply to almost every role increases, suppressing wages across the board. When it's low, workers gain pricing power.",
+      "Institutional power (unions, regulations, norms) can decouple wages from VMP in the short run, but the market always reasserts itself. Minimum wage laws create a floor, but they also reduce demand for low-VMP workers. Unions boost wages for members but can lower employment in covered sectors."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Replacement Cost",
+        "steps": [
+          "Identify your top 3 skills that are in the top 10% of your peer group.",
+          "Quantify the revenue impact of each skill (e.g., 'My Python optimization saved $500k/year').",
+          "Estimate the time and cost for your employer to hire someone with similar impact (e.g., 6 months, $50k in recruiter fees).",
+          "Use this total replacement cost as your negotiation floor."
+        ]
+      },
+      {
+        "title": "Check Your Occupational Unemployment Rate",
+        "steps": [
+          "Go to bls.gov and find the unemployment rate for your occupation and region.",
+          "Compare it to the national average. If yours is >2% below, you have strong bargaining power. If >2% above, focus on upskilling.",
+          "Also check the 'quit rate' for your industry—high quits mean workers have leverage."
+        ]
+      },
+      {
+        "title": "Simulate a Wage Negotiation",
+        "steps": [
+          "Write down your VMP in dollars: 'I generate $X in revenue or save $Y in costs annually.'",
+          "Calculate the elasticity of labor supply for your role: How many qualified candidates could your employer find in 3 months? If <5, you have low elasticity.",
+          "Practice stating: 'Given my VMP of $X and the difficulty of replacing me, I believe a salary of $Z is fair.'",
+          "Prepare counterarguments: 'If you can't meet this, what would it cost to replace me?'"
+        ]
+      }
+    ],
+    "risk_notes": "The VMP model assumes employers can measure your contribution precisely, which is often false. In team settings, your individual VMP is blurred. Also, focusing solely on replacement cost can backfire if you overestimate your uniqueness or if your employer has a strong 'no negotiation' policy. Networks, luck, and discrimination still play huge roles. Use these tools as a framework, not a formula.",
+    "sources": [
+      {
+        "title": "Search: Understanding Labor Markets: How Your Salary Is Really Determined",
+        "url": "https://www.google.com/search?q=Understanding%20Labor%20Markets%3A%20How%20Your%20Salary%20Is%20Really%20Determined"
+      }
+    ],
+    "meta": {
+      "id": "Labor markets & income distribution",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Wage determination",
+        "Unemployment"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
   }
 ]
