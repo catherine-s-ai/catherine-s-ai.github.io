@@ -676,5 +676,61 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "70890ec8-e59d-4aa0-8018-22128715d427",
+    "date": "2026-05-13",
+    "topic": "Information Economics: How Hidden Information Shapes Your Financial World",
+    "teaser": "The used car trick that's costing you thousands—and how to flip the game.",
+    "summary": "You walk onto a used car lot. The seller knows which car is a lemon. You don't. That gap—information asymmetry—is silently draining your wallet in every financial move you make. Buying a house? The seller knows the foundation cracks. Investing in a stock? Insiders know the quarterly miss. Choosing a credit card? The fine print hides fees. This isn't just unfair—it's a market breakdown. Nobel laureate George Akerlof showed that when buyers can't tell quality, bad products drive out good. The market for lemons isn't just about cars; it's about stocks, insurance, even dating. But here's the flip: you can master this game. Use signaling (costly actions that reveal truth) and screening (mechanisms to extract hidden info). A college degree signals ability, not knowledge. Insider buying signals confidence. Warranties signal quality. Once you see information flows, you stop being the sucker. You become the one who structures deals, sends credible signals, and spots lemons from a mile away. This is your superpower: turning hidden information into wealth.",
+    "key_points": [
+      "The Market for Lemons: When quality is hidden, bad drives out good. This principle explains why used cars are cheap, why some stocks tank, and why insurance markets need regulation. It's not just a theory—it's the reason you overpay for everything from mortgages to mechanic services.",
+      "Signaling vs. Screening: Two weapons against asymmetry. Signaling: you take a costly action to reveal your quality (e.g., getting a degree, offering a warranty). Screening: you design a test to extract truth (e.g., credit checks, probation periods). Master these, and you can flip any negotiation.",
+      "Moral Hazard: The hidden action after the deal. Once insured, people take more risks. This is why contracts have deductibles, why CEOs get performance bonuses, and why you should never fully trust a seller's promises. Structure incentives to align interests."
+    ],
+    "practice": [
+      {
+        "title": "Close the Information Gap Before Buying",
+        "steps": [
+          "Identify one specific unknown the seller knows (e.g., car accident history, property flood risk).",
+          "Get an independent inspection or third-party report. For stocks, check insider trading filings."
+        ]
+      },
+      {
+        "title": "Use Insider Trading Data as a Signal",
+        "steps": [
+          "Check SEC Form 4 filings for company insiders buying or selling.",
+          "Insider buying is a strong signal of undervaluation; selling may be for diversification, but heavy selling is a red flag."
+        ]
+      },
+      {
+        "title": "Apply Signaling to Your Own Life",
+        "steps": [
+          "Imagine you're selling a used phone. How would you prove it's high quality? (e.g., offer a warranty, show repair history).",
+          "Apply that logic to your resume: list measurable achievements, get certifications, offer a money-back guarantee on your service."
+        ]
+      }
+    ],
+    "risk_notes": "Over-reliance on signaling can lead to wasteful arms races (e.g., unnecessary degrees). Also, assuming all information is hidden paralyzes action. Balance skepticism with Bayesian updating—update your beliefs as new info arrives, but act on probabilities, not paranoia.",
+    "sources": [
+      {
+        "title": "Search: Information Economics: How Hidden Information Shapes Your Financial World",
+        "url": "https://www.google.com/search?q=Information%20Economics%3A%20How%20Hidden%20Information%20Shapes%20Your%20Financial%20World"
+      }
+    ],
+    "meta": {
+      "id": "Information economics",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Asymmetric information",
+        "Moral hazard"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
   }
 ]

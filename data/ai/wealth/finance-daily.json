@@ -1,5 +1,68 @@
 [
   {
+    "id": "8c876ceb-6f8c-4dc9-9076-314b64e5fce2",
+    "date": "2026-07-16",
+    "topic": "Labor Markets and Income Distribution",
+    "teaser": "The taxi driver vs. factory worker: why your effort doesn't determine your income.",
+    "summary": "You're a taxi driver in 1920s New York. You hustle 12-hour days, rain or shine. Yet your income barely budges. Meanwhile, a factory worker, doing repetitive tasks, sees their wages double in a decade. Why? Because labor markets don't reward sweat—they reward leverage to growing industries. Fast forward to today: gig drivers vs. AI engineers. Same story. \n\nAt first principles, your wage is set by the intersection of supply and demand for your skills. But demand isn't just about headcount—it's about the value you create per hour. A software engineer builds a tool used by millions; a cashier processes one transaction at a time. That difference in scalability drives income gaps. \n\nYour income is your biggest wealth-building lever. Understanding labor markets helps you spot rising industries, negotiate better, and avoid dead ends. Right now, remote work is globalizing supply, and AI is automating demand. If you don't see the forces shifting under your feet, you'll be the taxi driver of the 2020s.",
+    "key_points": [
+      "Your income is determined by your BATNA (Best Alternative to a Negotiated Agreement), not your effort. Bargaining power = how easily you can walk away. If you have unique skills, you have leverage; if you're replaceable, you don't.",
+      "Winner-take-most effects are amplified by technology: a slightly better programmer can build a product used by millions, while a slightly better barista serves a few more coffees. This power law distribution means a small fraction of workers capture most gains in high-value fields.",
+      "Unemployment isn't just a lack of jobs—it's a skills mismatch (structural unemployment). The 'natural rate' hides millions who have given up or are underemployed. The real risk is being in a shrinking industry without the skills to pivot."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Hourly Value",
+        "steps": [
+          "Divide your monthly salary by 160 to get your hourly wage.",
+          "List all tasks you perform in a typical week.",
+          "Identify tasks that generate value greater than your hourly wage—these are high-leverage activities.",
+          "Focus your energy on those high-leverage tasks and delegate or eliminate low-value ones."
+        ]
+      },
+      {
+        "title": "Assess Your Bargaining Power",
+        "steps": [
+          "Go to Indeed or LinkedIn and search for jobs in your field.",
+          "Note the number of vacancies and the salary ranges.",
+          "A high vacancy rate means employers are desperate—you have bargaining power.",
+          "Use this information to ask for a raise or consider switching jobs."
+        ]
+      },
+      {
+        "title": "Simulate a Wage Negotiation",
+        "steps": [
+          "Identify your next best alternative (e.g., another job offer, freelance income, or a skill upgrade).",
+          "Practice stating that alternative and the value you bring to the table.",
+          "Role-play with a friend, focusing on framing your request as a win-win.",
+          "If you lack a concrete alternative, build one (e.g., start a side project, earn a certification).",
+          "Beginner version: Just practice saying 'no' to lowball offers and asking for more time to decide."
+        ]
+      }
+    ],
+    "risk_notes": "The concept that wages reflect productivity can lead to victim-blaming: 'If you're poor, you're just not productive enough.' But productivity is heavily influenced by factors outside individual control—education access, discrimination, industry decline. Also, the 'efficiency wage theory' shows that paying above-market wages can boost productivity, so low wages can be a self-fulfilling prophecy. Beware of over-optimizing for individual action while ignoring systemic barriers.",
+    "sources": [
+      {
+        "title": "Thomas Piketty, 'Capital in the Twenty-First Century' (2014)",
+        "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674430006"
+      }
+    ],
+    "meta": {
+      "id": "Labor markets & income distribution",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Wage determination",
+        "Unemployment"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "cd85a300-7b7d-4048-a83e-14ea0bae353e",
     "date": "2026-07-15",
     "topic": "Externalities and Public Goods: The Invisible Forces Shaping Your Wealth",
@@ -3712,62 +3775,6 @@
       "related": [
         "Expected utility",
         "Risk aversion"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "70890ec8-e59d-4aa0-8018-22128715d427",
-    "date": "2026-05-13",
-    "topic": "Information Economics: How Hidden Information Shapes Your Financial World",
-    "teaser": "The used car trick that's costing you thousands—and how to flip the game.",
-    "summary": "You walk onto a used car lot. The seller knows which car is a lemon. You don't. That gap—information asymmetry—is silently draining your wallet in every financial move you make. Buying a house? The seller knows the foundation cracks. Investing in a stock? Insiders know the quarterly miss. Choosing a credit card? The fine print hides fees. This isn't just unfair—it's a market breakdown. Nobel laureate George Akerlof showed that when buyers can't tell quality, bad products drive out good. The market for lemons isn't just about cars; it's about stocks, insurance, even dating. But here's the flip: you can master this game. Use signaling (costly actions that reveal truth) and screening (mechanisms to extract hidden info). A college degree signals ability, not knowledge. Insider buying signals confidence. Warranties signal quality. Once you see information flows, you stop being the sucker. You become the one who structures deals, sends credible signals, and spots lemons from a mile away. This is your superpower: turning hidden information into wealth.",
-    "key_points": [
-      "The Market for Lemons: When quality is hidden, bad drives out good. This principle explains why used cars are cheap, why some stocks tank, and why insurance markets need regulation. It's not just a theory—it's the reason you overpay for everything from mortgages to mechanic services.",
-      "Signaling vs. Screening: Two weapons against asymmetry. Signaling: you take a costly action to reveal your quality (e.g., getting a degree, offering a warranty). Screening: you design a test to extract truth (e.g., credit checks, probation periods). Master these, and you can flip any negotiation.",
-      "Moral Hazard: The hidden action after the deal. Once insured, people take more risks. This is why contracts have deductibles, why CEOs get performance bonuses, and why you should never fully trust a seller's promises. Structure incentives to align interests."
-    ],
-    "practice": [
-      {
-        "title": "Close the Information Gap Before Buying",
-        "steps": [
-          "Identify one specific unknown the seller knows (e.g., car accident history, property flood risk).",
-          "Get an independent inspection or third-party report. For stocks, check insider trading filings."
-        ]
-      },
-      {
-        "title": "Use Insider Trading Data as a Signal",
-        "steps": [
-          "Check SEC Form 4 filings for company insiders buying or selling.",
-          "Insider buying is a strong signal of undervaluation; selling may be for diversification, but heavy selling is a red flag."
-        ]
-      },
-      {
-        "title": "Apply Signaling to Your Own Life",
-        "steps": [
-          "Imagine you're selling a used phone. How would you prove it's high quality? (e.g., offer a warranty, show repair history).",
-          "Apply that logic to your resume: list measurable achievements, get certifications, offer a money-back guarantee on your service."
-        ]
-      }
-    ],
-    "risk_notes": "Over-reliance on signaling can lead to wasteful arms races (e.g., unnecessary degrees). Also, assuming all information is hidden paralyzes action. Balance skepticism with Bayesian updating—update your beliefs as new info arrives, but act on probabilities, not paranoia.",
-    "sources": [
-      {
-        "title": "Search: Information Economics: How Hidden Information Shapes Your Financial World",
-        "url": "https://www.google.com/search?q=Information%20Economics%3A%20How%20Hidden%20Information%20Shapes%20Your%20Financial%20World"
-      }
-    ],
-    "meta": {
-      "id": "Information economics",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Asymmetric information",
-        "Moral hazard"
       ],
       "tags": [
         "Microeconomics Fundamentals",
