@@ -1,5 +1,65 @@
 [
   {
+    "id": "ec4315b5-ff23-4c9d-add8-62749c9d5fe8",
+    "date": "2026-07-17",
+    "topic": "Information Asymmetry: The Hidden Force That Shapes Your Financial Life",
+    "teaser": "Why the best deal on a used car is probably a lemon—and the same logic explains why your stock picks might be toxic.",
+    "summary": "Imagine you're buying a used car. The seller knows everything: the weird noise at 70 mph, the check engine light that comes and goes. You know nothing. So you offer a price that's average—a price that makes sense if the car could be good or bad. But here's the kicker: the owner of a great car won't sell at that average price. Only the lemon owners will. So the market fills with lemons, and you end up with a clunker. That's the 'market for lemons,' and it's not just about cars. It's about IPOs, insurance, job interviews, and even dating. Information asymmetry—when one party knows more than the other—distorts markets, often breaking them. But if you understand it, you can flip the script. You can avoid being the sucker, and even profit from the asymmetry. This isn't dry economics; it's the hidden force that shapes your financial life. Let's see how.",
+    "key_points": [
+      "Moral hazard isn't just about insurance; it's why extended warranties are rarely worth it—they make you careless, not safe. You subconsciously take more risks because you feel protected.",
+      "The 'market for lemons' explains why the best candidates often don't apply for jobs: they have better options, leaving you with desperate applicants. Hire carefully, or structure pay to attract the good ones.",
+      "Signaling is a double-edged sword. A college degree signals ability, but when everyone has one, it becomes noise. The real signal is the cost: the time and money spent. That's why expensive hobbies (like marathon running) can signal discipline more effectively than a degree.",
+      "Information asymmetry is the root of most financial bubbles. In the 2008 crisis, banks knew more about the junk mortgages they were selling than buyers did. The market for lemons, writ large."
+    ],
+    "practice": [
+      {
+        "title": "Reduce the Information Gap",
+        "steps": [
+          "Before any major purchase, ask: 'What does the seller know that I don't?' List three specific things.",
+          "Get an independent expert: a mechanic for a car, a home inspector for a house, a fiduciary advisor for investments.",
+          "Use warranties and guarantees as signals: if the seller offers a strong warranty, they're confident in the product."
+        ]
+      },
+      {
+        "title": "Align Incentives",
+        "steps": [
+          "Raise your insurance deductibles to reduce moral hazard—you'll claim less and pay lower premiums.",
+          "When hiring, offer performance-based pay to attract high-quality candidates and filter out lemons.",
+          "Structure deals so both parties gain from honest information: e.g., earnouts in acquisitions."
+        ]
+      },
+      {
+        "title": "Signal Smartly",
+        "steps": [
+          "When signaling, ensure the cost is higher for fakers than for you. A certification that requires years of study is a strong signal; a weekend course is not.",
+          "Avoid signaling arms races: if everyone has a degree, get a unique credential or experience that stands out.",
+          "Evaluate others by costly-to-fake signals: a portfolio of work beats a resume, a trial period beats an interview."
+        ]
+      }
+    ],
+    "risk_notes": "Overcoming information asymmetry is costly. You can waste time and money seeking perfect information. Also, signaling can become an arms race (e.g., over-education) where costs spiral. And sometimes, ignorance is bliss: knowing too much can lead to paralysis. Balance is key—apply the 80/20 rule: get 80% of the information with 20% of the effort.",
+    "sources": [
+      {
+        "title": "Search: Information Asymmetry: The Hidden Force That Shapes Your Financial Life",
+        "url": "https://www.google.com/search?q=Information%20Asymmetry%3A%20The%20Hidden%20Force%20That%20Shapes%20Your%20Financial%20Life"
+      }
+    ],
+    "meta": {
+      "id": "Information economics",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Asymmetric information",
+        "Moral hazard"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "8c876ceb-6f8c-4dc9-9076-314b64e5fce2",
     "date": "2026-07-16",
     "topic": "Labor Markets and Income Distribution",
@@ -3709,72 +3769,6 @@
       "related": [
         "Cognitive bias",
         "Prospect theory"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "b247ff6b-160b-428a-942a-7be839bec042",
-    "date": "2026-05-14",
-    "topic": "Decision Analysis Under Uncertainty",
-    "teaser": "Emperor Diocletian tried to fix inflation by decreeing maximum prices. The result? Empty markets, starvation, and a failed empire. You're making the same mistake with your money today—by assuming you can control the uncontrollable.",
-    "summary": "In 301 AD, Diocletian issued the Edict on Maximum Prices, capping the cost of goods across Rome. His logic was simple: if prices are too high, force them down. What he missed was that prices are signals, not dials to turn. The economy choked. Shops closed. Black markets boomed. The edict was a failure, and so is any financial plan that ignores uncertainty.\n\nFast forward to 1969: a 14-year-old Bill Gates buys a stock that tanks 50%. He later says, 'I learned that you should not buy a stock just because it's cheap.' Gates' lesson and Diocletian's folly share a core truth: **uncertainty isn't about being right—it's about how you handle being wrong.**\n\nDecision analysis under uncertainty is the art of making choices when the future is foggy. It’s not about predicting the next crash or the next boom; it’s about building a framework that works across many possible worlds. First principles: 1) Every decision has a set of possible outcomes. 2) Each outcome has a probability (your best guess). 3) Each outcome has a value to you (not just dollars, but happiness, security, regret). 4) The best decision maximizes expected utility—not expected wealth.\n\nWhy this matters now: Inflation is eating cash, stocks are whipsawing, and your job might not be safe. Every financial choice—invest, spend, save—is a bet on an unknown future. Without a framework, you're gambling on emotion. With decision analysis, you can cut through noise and make choices that align with your risk tolerance and long-term goals. Diocletian tried to command the economy; you can learn to navigate it.",
-    "key_points": [
-      "1. The flaw of averages: Planning for the average outcome is like crossing a river that is, on average, three feet deep. The range matters more than the mean. A 50% chance to double your money and 50% chance to lose half has an expected return of 25%, but the actual experience is either great or terrible. Always ask: 'What's the distribution?'",
-      "2. Losses hurt more than gains feel good: Losing $100 stings about twice as much as gaining $100 pleases (prospect theory). This asymmetry means a 50-50 bet to win $200 or lose $100 has positive expected value but negative expected utility for most people. Your brain is wired to avoid losses—respect that wiring.",
-      "3. Opportunity cost is the hidden tax of safety: Hoarding cash feels safe, but it's a slow bleed from inflation and missed growth. Decision analysis forces you to compare the full probability distributions of each option. Often, a moderately risky choice with high upside beats a safe one with low upside, especially over long horizons.",
-      "4. Probabilities are not facts: Your estimates are riddled with biases—overconfidence, anchoring, recency. To calibrate, use a 'pre-mortem': imagine your decision failed spectacularly a year from now. Write down why. This flips your brain from confirmation to critical thinking."
-    ],
-    "practice": [
-      {
-        "title": "Pre-mortem",
-        "steps": [
-          "Before any major financial decision, imagine it's 1 year later and it failed spectacularly.",
-          "Write down 3 reasons why it failed.",
-          "Use those reasons to identify hidden risks and improve your plan."
-        ]
-      },
-      {
-        "title": "Expected Utility Calculation (Simplified)",
-        "steps": [
-          "List possible outcomes with probabilities (e.g., 30% chance of +$10k, 70% chance of -$2k).",
-          "For each outcome, estimate how you'd feel on a scale of 1-10 (1=terrible, 10=great). This is your 'utility'.",
-          "Multiply each utility by its probability and sum them. That's your expected utility.",
-          "Compare to the expected utility of doing nothing. Choose the option with higher expected utility."
-        ]
-      },
-      {
-        "title": "Scenario Tree",
-        "steps": [
-          "For a decision (e.g., buy a house vs rent), draw a tree with 3 scenarios: boom, stagnation, crash.",
-          "Assign probabilities to each scenario (e.g., 30%, 50%, 20%).",
-          "Estimate net worth impact for each scenario.",
-          "Sum the probability-weighted outcomes to see which choice dominates."
-        ]
-      }
-    ],
-    "risk_notes": "Decision analysis can create a false sense of precision. Probabilities are often subjective and biased (overconfidence, anchoring). The model ignores tail risks that are rare but catastrophic (black swans). Also, focusing on expected utility can lead to paralysis by analysis—you may overcomplicate simple decisions. Finally, it assumes you can quantify utility, but real preferences are dynamic and context-dependent.",
-    "sources": [
-      {
-        "title": "Savage, L. J. (1954). The Foundations of Statistics. Dover Publications.",
-        "url": "https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage"
-      },
-      {
-        "title": "Hubbard, D. W. (2010). How to Measure Anything: Finding the Value of Intangibles in Business. Wiley.",
-        "url": "https://www.howtomeasureanything.com/"
-      }
-    ],
-    "meta": {
-      "id": "Decision analysis under uncertainty",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Expected utility",
-        "Risk aversion"
       ],
       "tags": [
         "Microeconomics Fundamentals",
