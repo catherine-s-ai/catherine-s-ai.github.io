@@ -1,5 +1,65 @@
 [
   {
+    "id": "034c43dc-7acd-47e3-84d0-76b09f21cd5c",
+    "date": "2026-07-18",
+    "topic": "Decision Analysis Under Uncertainty",
+    "teaser": "Your gut just cost you $100. Here's how to stop leaving money on the table.",
+    "summary": "Imagine I offer you $100 guaranteed, or a coin flip for $200. Most people grab the $100. But mathematically, the coin flip has the same expected value—$100. By playing it safe, you just passed up a 50% chance at an extra $100. That's the hidden tax of risk aversion.\n\nThis isn't about being reckless. It's about learning to think in probabilities, not certainties. Every financial decision—investing, buying a house, changing jobs—is a bet. The question is: are you making smart bets?\n\n**Expected value is your compass.** It tells you the average outcome if you could replay the decision a thousand times. But you only live once. That's where utility comes in: $1 million means more to someone with $10,000 than to a billionaire. Your personal utility curve maps money to happiness. A rational decision maximizes expected utility, not just dollars.\n\n**Risk aversion kept our ancestors alive, but it can wreck your portfolio.** It causes 'myopic loss aversion'—obsessing over short-term dips while ignoring long-term gains. The fix: zoom out. Ask yourself: 'If I could make this decision 100 times, would I take it?'\n\n**Your brain is inconsistent.** The Allais Paradox shows that people make different choices depending on how a problem is framed—gains vs. losses. Recognize this, and reframe decisions neutrally. When you strip away emotion, you see the math.\n\n**The bottom line:** Uncertainty is not your enemy. Ignorance of your own biases is. Master expected utility, and you'll stop leaving money on the table.",
+    "key_points": [
+      "Expected value is a compass, not a destination: It tells you the average outcome over many trials, but you only live once. Your personal utility curve transforms money into happiness, so a 50% chance of $1M may be worth less than a sure $400k if you're risk-averse.",
+      "Risk aversion is a feature, not a bug: It evolved to keep us alive, but in finance it often leads to 'myopic loss aversion'—focusing on short-term losses and ignoring long-term gains. The solution is to zoom out and think in probabilities, not certainties.",
+      "The 'Allais Paradox' shows we're inconsistent: People choose differently when the same problem is framed as gains vs. losses. Recognizing this bias allows you to reframe decisions neutrally and avoid emotional traps."
+    ],
+    "practice": [
+      {
+        "title": "Scenario Analysis",
+        "steps": [
+          "For any financial decision with uncertainty, write down the best-case, worst-case, and most likely outcomes with rough probabilities.",
+          "Then ask: 'If I could repeat this 100 times, would I take it?'"
+        ]
+      },
+      {
+        "title": "Calculate Your Risk Premium",
+        "steps": [
+          "Your risk premium is the extra return you demand for taking risk. For stocks vs. bonds, a common rule of thumb is: risk premium = expected stock return - risk-free rate. But personalize it.",
+          "Example: If a risky investment has a 60% chance to return 20% and 40% chance to lose 10%, its expected return is 8%. If the safe investment returns 3%, the risk premium is 5%. Would you take that? If not, your personal risk premium is higher than 5%."
+        ]
+      },
+      {
+        "title": "Pre-Mortem Simulation",
+        "steps": [
+          "Imagine your decision failed completely 5 years from now. Write down why.",
+          "Then imagine it succeeded wildly. This helps surface hidden assumptions and blind spots."
+        ]
+      }
+    ],
+    "risk_notes": "Over-reliance on models can create false precision. Probabilities are often guesses, and rare 'black swan' events can devastate portfolios. Also, the concept of 'rational' utility maximization ignores emotions like regret, which can be paralyzing. The trap is thinking you can eliminate uncertainty when you can only manage it.",
+    "sources": [
+      {
+        "title": "Thinking, Fast and Slow",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      },
+      {
+        "title": "The Black Swan",
+        "url": "https://www.amazon.com/Black-Swan-Impact-Highly-Improbable/dp/081297381X"
+      }
+    ],
+    "meta": {
+      "id": "Decision analysis under uncertainty",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Expected utility",
+        "Risk aversion"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "ec4315b5-ff23-4c9d-add8-62749c9d5fe8",
     "date": "2026-07-17",
     "topic": "Information Asymmetry: The Hidden Force That Shapes Your Financial Life",
@@ -3708,70 +3768,6 @@
       ],
       "tags": [
         "Macroeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "a636fd40-06b6-400d-8d20-7c6fe4044cc9",
-    "date": "2026-05-15",
-    "topic": "Behavioral Economics: Why Your Brain is Your Worst Financial Enemy",
-    "teaser": "You'd drive across town to save $10 on a $20 item, but not on a $200 one. That irrationality costs you thousands—and it's just the tip of the iceberg.",
-    "summary": "Imagine this: you need a new lamp. Store A sells it for $20, Store B for $10, a 10-minute drive away. You go to B. Now imagine a $200 TV: Store A $200, Store B $190. You stay put. Same $10 savings, different decision. Why? Because your brain thinks in percentages, not absolute value. This relative thinking is a cognitive bug that leaks money from your wallet daily.\n\nBehavioral economics isn't just a fancy term—it's the study of why you are not the rational investor you think you are. First principles: your brain evolved for survival on the savanna, not for navigating 401(k)s and IPOs. It uses mental shortcuts (heuristics) that worked for avoiding predators but fail spectacularly in modern finance. The result? Systematic errors like selling winners too early, holding losers too long, and treating a tax refund as 'free money' to blow on frivolities.\n\nIn a world of zero-commission trading and 24/7 news cycles, your biggest threat isn't market volatility—it's your own psychology. Understanding these biases isn't academic; it's a survival skill. Ignore them, and you leave thousands on the table. Master them, and you turn your brain from enemy to ally.",
-    "key_points": [
-      "**Loss Aversion and the Disposition Effect**: Losses hurt about 2.5x more than equivalent gains feel good (Kahneman & Tversky). This asymmetry directly causes the disposition effect: you sell winning stocks too early to 'lock in gains' (avoid the pain of a potential loss) and hold losing stocks too long hoping to break even (avoid realizing a loss). In a bull market, this means you miss out on further gains; in a bear market, you ride stocks to zero. The counterintuitive fix: set automatic stop-losses and take profits gradually, not emotionally.",
-      "**Mental Accounting and the House Money Effect**: You mentally segregate money into buckets (e.g., salary is 'serious,' bonus is 'fun money'). This leads to the 'house money effect'—you take more risks with windfalls because they feel like the casino's money, not yours. For example, you might gamble a tax refund on a penny stock you'd never buy with your paycheck. The insight: all money is fungible. Treat every dollar equally, regardless of source. A simple trick: immediately transfer any windfall to your long-term investment account.",
-      "**Anchoring and the Endowment Effect**: Your first impression of a price (anchor) skews all subsequent judgments. If a stock was $100, you anchor on that; at $80 it feels like a bargain, at $120 it feels expensive. Combine this with the endowment effect (you overvalue what you own), and you get a dangerous cocktail: you refuse to sell a stock that has dropped because you're anchored to its former high, and you overvalue it because you own it. The counterintuitive strategy: before any trade, ask 'If I didn't own this, would I buy it at today's price?' That breaks both anchors and endowment."
-    ],
-    "practice": [
-      {
-        "title": "Break the Endowment Effect",
-        "steps": [
-          "Before any investment decision, ask: 'If I didn't own this, would I buy it today?' This reframe detaches you from emotional ownership.",
-          "To overcome the emotional attachment itself, visualize the asset as cash. Imagine you sold it and now have that cash—would you repurchase the same asset? If not, sell."
-        ]
-      },
-      {
-        "title": "Reduce Overtrading",
-        "steps": [
-          "Set a rule: never check your portfolio more than once per quarter. Frequent checking triggers loss aversion and the urge to tinker.",
-          "To address the underlying need for control, create a 'trading journal' where you write down your emotional state before any trade. This builds awareness of when fear or greed drives decisions."
-        ]
-      },
-      {
-        "title": "Shift to Absolute Thinking",
-        "steps": [
-          "When considering a purchase, convert the price into hours of work. This shifts your frame from relative (percentages) to absolute (time), reducing mental accounting errors.",
-          "For larger decisions (e.g., buying a car), calculate the total cost of ownership in hours of work. This makes the true cost visceral and counteracts anchoring."
-        ]
-      }
-    ],
-    "risk_notes": "Behavioral economics is a double-edged sword. Marketers and financial firms exploit these biases daily—'limited time offer' triggers FOMO, 'free shipping' exploits mental accounting. Also, overcorrecting for biases can backfire: trying to be too rational can lead to analysis paralysis or ignoring genuine intuition. Not every irrational behavior is a mistake; sometimes gut feelings are valid (e.g., avoiding a stock because you sense fraud). The goal is not to eliminate emotion, but to understand when it helps and when it hurts.",
-    "sources": [
-      {
-        "title": "Thinking, Fast and Slow",
-        "url": "https://www.penguinrandomhouse.com/books/304477/thinking-fast-and-slow-by-daniel-kahneman/"
-      },
-      {
-        "title": "Predictably Irrational",
-        "url": "https://www.danariely.com/books/predictably-irrational/"
-      },
-      {
-        "title": "Misbehaving: The Making of Behavioral Economics",
-        "url": "https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/facts/"
-      }
-    ],
-    "meta": {
-      "id": "Behavioral economics",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Cognitive bias",
-        "Prospect theory"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
         "基础"
       ]
     }
