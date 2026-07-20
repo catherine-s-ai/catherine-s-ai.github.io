@@ -1,5 +1,65 @@
 [
   {
+    "id": "5911b34b-7ecb-4486-9e84-c5f68314a4e1",
+    "date": "2026-07-20",
+    "topic": "National Income Accounting: The GDP GPS",
+    "teaser": "Your GPS shows speed, not potholes. GDP is the same: it tells you how fast we're going, but not if we're headed for a cliff.",
+    "summary": "Imagine navigating with a GPS that only shows your speed. It tells you you're moving fast, but not that you're on a road full of potholes or heading toward a cliff. That's GDP. National income accounting is supposed to be our economic GPS, but it measures *flow*, not *stock*. It's like checking your car's speedometer while ignoring the fuel gauge, tire pressure, and destination. The circular flow of income is elegant: your spending is my income, and vice versa. But this elegance hides a dark secret: GDP can rise while national wealth falls. A country can liquidate its forests, deplete its fisheries, and burn through its social capital, and GDP will cheerfully report growth. The expenditure approach (C+I+G+(X-M)) and income approach must balance, but they only capture what's priced. Unpaid care work, environmental degradation, inequality—all invisible. So when you hear 'GDP grew 3%,' ask: *At what cost?* The GDP paradox is this: we worship a number that can go up while well-being goes down. Real GDP adjusts for inflation but not for quality, so your smartphone's price drops but its capability soars—GDP understates progress. GNP vs. GDP reveals who really benefits: if foreign workers send money home, GDP > GNP, meaning domestic income leaks abroad. The lesson? GDP is a useful number, but it's not the truth. It's a speedometer. You need a map, a compass, and a mechanic, too.",
+    "key_points": [
+      "GDP is a flow, not a stock: high GDP can coexist with declining national wealth if assets are being liquidated—the speedometer shows 100 mph while the gas tank is empty.",
+      "Expenditure and income approaches must balance; discrepancies reveal measurement errors or shadow economy activity, but also hide the true cost of growth (e.g., depletion of natural capital).",
+      "Real GDP adjusts for inflation but poorly captures quality improvements, understating true growth—your $500 smartphone today is vastly better than a $500 phone from 2010, but GDP treats them as equal.",
+      "GNP vs. GDP: GNP includes income earned by citizens abroad, so a country with many foreign workers may have GDP > GNP, hiding domestic income leakage—a reminder that aggregates don't tell you who gets the pie."
+    ],
+    "practice": [
+      {
+        "title": "Track Your Personal GDP and GNP",
+        "steps": [
+          "Using last year's tax return and bank statements, calculate your total income from all sources (salary, investments, side hustles) – this is your personal GDP.",
+          "Identify income earned outside your country of residence (e.g., foreign dividends, remote work for a foreign company) – this is part of your personal GNP.",
+          "Compare the two. If your GNP > GDP, you're a net earner from abroad. If GDP > GNP, your income is generated domestically but might be earned by non-residents. Reflect: does this match your perception of your economic footprint?"
+        ]
+      },
+      {
+        "title": "Decompose Your Spending into National Income Categories",
+        "steps": [
+          "List your monthly expenses and categorize them as Consumption (C) – groceries, rent, entertainment; Investment (I) – education, home improvement, stocks; Government (G) – taxes; and Net Exports (X-M) – purchases from abroad vs. sales abroad (if any).",
+          "Calculate the percentage of your spending in each category.",
+          "Reflect: How does your personal spending pattern align with national averages? If you invest a lot, you're boosting future GDP; if you consume a lot, you're driving current growth. Which is better for your personal well-being?"
+        ]
+      },
+      {
+        "title": "Simulate a Recession on Your Personal Circular Flow",
+        "steps": [
+          "Assume your income drops by 20% (e.g., job loss or pay cut). Let's say your current monthly income is $5,000, so it becomes $4,000.",
+          "Cut your spending by 20% across all categories. If you spent $3,000 on consumption, now spend $2,400. If you invested $500, now $400. If you paid $1,000 in taxes, now $800 (assuming progressive tax, but keep simple).",
+          "Trace how your reduced spending affects others: your landlord gets $600 less, your grocery store loses $120, etc. Then consider how those people might cut their own spending, potentially leading to layoffs that affect you. Write a paragraph describing this ripple effect and how it feels. Question: What non-monetary support (e.g., family help, bartering) could cushion this recession for you?"
+        ]
+      }
+    ],
+    "risk_notes": "National income accounting fails to capture unpaid work, environmental degradation, and income inequality. A country can have rising GDP while median wages stagnate—the 'GDP paradox' misleads policymakers and investors who rely solely on aggregates. Always complement GDP data with measures like median income, Gini coefficient, and environmental accounts. Remember: GDP is a tool, not a goal.",
+    "sources": [
+      {
+        "title": "Bureau of Economic Analysis (BEA). 'Concepts and Methods of the U.S. National Income and Product Accounts.'",
+        "url": "https://www.bea.gov/resources/methodologies/nipa-handbook"
+      }
+    ],
+    "meta": {
+      "id": "National income accounting",
+      "category": "Macroeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "GDP",
+        "GNP"
+      ],
+      "tags": [
+        "Macroeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "360beb24-c209-4214-9427-1571dcc1c22c",
     "date": "2026-07-19",
     "topic": "Behavioral Economics: Why Your Brain Sabotages Your Wealth",
@@ -3703,70 +3763,6 @@
       "related": [
         "Cash-flow management",
         "Income and expenses"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "c58ee87f-4144-4a67-9856-06e0614a1e87",
-    "date": "2026-05-17",
-    "topic": "Financial Planning: Building a Machine for Uncertainty",
-    "teaser": "Most financial plans are just wishful thinking dressed up in spreadsheets. Here's how to build one that survives a nuclear winter.",
-    "summary": "Financial planning isn't about predicting the future—it's about building a machine that works regardless of what the future throws at you. Think of it as engineering a bridge that can handle earthquakes, not as crystal ball gazing. Most people treat their finances like a weather forecast: they hope for sunshine and panic when it rains. The right approach is to design a system that thrives in any climate. At its core, financial planning is the process of aligning your current resources (income, assets) with your future goals (retirement, education, etc.) by managing cash flows, risks, and investments. It's a feedback loop: **set a goal → measure current state → create a plan → execute → monitor → adjust**. The first principle: you cannot manage what you do not measure. But here's the twist: the goal isn't to maximize returns—it's to minimize regret. In a world of inflation, job instability, and market volatility, the cost of financial chaos is compounding. Without a plan, you're leaving money on the table—missed investment growth, unnecessary taxes, and avoidable debt. But the real cost is psychological: the anxiety of not knowing whether you'll be okay. A solid plan turns that anxiety into quiet confidence. By automating savings and focusing on cash flow, you transform finance from a source of stress into a silent engine that builds wealth while you sleep. The best financial plan is the one you forget about.",
-    "key_points": [
-      "**Savings Rate > Investment Return**: Your savings rate is the single most controllable factor in wealth building. A 50% savings rate beats a 15% return on a 5% savings rate every time. The market is a wild horse; your savings rate is the reins.",
-      "**Spending Optimization Beats Earning More**: Every dollar saved from spending is tax-free and permanent. To earn an extra dollar after taxes, you need to earn $1.30 (assuming 30% tax). Cutting $100 from your monthly expenses is equivalent to a $1,560 annual raise—without the extra work.",
-      "**Cash Flow Over Net Worth**: Net worth is a vanity metric; cash flow is a health metric. You can't spend unrealized gains. A positive cash flow means you're winning the game. Focus on the gap between income and expenses, not the size of your portfolio."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Runway",
-        "steps": [
-          "Divide total liquid savings by monthly essential expenses.",
-          "If less than 6 months, prioritize building an emergency fund before investing.",
-          "For extra resilience, simulate a job loss by living on 60% of your income for 2 months. Track every shortfall and adjust."
-        ]
-      },
-      {
-        "title": "Cash Flow Audit",
-        "steps": [
-          "For one week, write down every dollar spent.",
-          "Categorize into 'needs', 'wants', and 'surprises'.",
-          "Identify leaks equivalent to 5-10% of income.",
-          "Then, for the next month, eliminate all 'wants' and see if you miss them. Most people don't."
-        ]
-      },
-      {
-        "title": "Stress Test: Simulate a Job Loss",
-        "steps": [
-          "Live on 60% of your normal income for two consecutive months.",
-          "Redirect the remaining 40% to savings or debt payoff.",
-          "Document every moment of discomfort—these are your true financial weak points."
-        ]
-      }
-    ],
-    "risk_notes": "Financial planning can lull you into false security. Plans based on historical averages ignore black swan events (pandemics, hyperinflation, personal emergencies). Over-optimization leads to 'paralysis by analysis'—endless tweaking of spreadsheets without action. Rigid plans fail when life changes (divorce, job loss, health crisis). The trap: mistaking the plan for reality. The antidote: build slack into your plan—extra cash, flexible goals, and a willingness to adapt. A good plan is a living document, not a tombstone.",
-    "sources": [
-      {
-        "title": "The Simple Path to Wealth by JL Collins",
-        "url": "https://jlcollinsnh.com/"
-      },
-      {
-        "title": "The Financial Planning Association",
-        "url": "https://www.plannersearch.org/"
-      }
-    ],
-    "meta": {
-      "id": "Financial planning basics",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Budget and cash-flow planning",
-        "Financial goal setting"
       ],
       "tags": [
         "Personal Finance Foundations",
