@@ -993,5 +993,63 @@
         "入门"
       ]
     }
+  },
+  {
+    "id": "5dc42f53-32eb-4586-ba47-8be0feac5a4b",
+    "date": "2026-05-18",
+    "topic": "The Art of Budgeting: Buying Back Your Future Time",
+    "teaser": "Most budgets fail because they feel like a diet. But the best budget is one you barely notice—it's a set of invisible rails that steer your money toward what you actually value.",
+    "summary": "Budgeting isn't about restriction; it's about consciously choosing your regrets. Every dollar is a vote for the future you want. The optimal budget is one you barely notice—a set of invisible rails that align spending with deep priorities. Forget 'pay yourself first'; instead, design a system where saving happens automatically and spending feels guilt-free because it's pre-approved. The real wealth killer isn't lattes—it's the slow drip of unexamined subscriptions and emotional spending. A budget is just a mirror for your cognitive biases: we systematically overestimate our discipline and underestimate our impulses.",
+    "key_points": [
+      "The optimal budget is one you barely notice—automated systems beat willpower every time.",
+      "Budgeting is about consciously choosing your regrets: every trade-off reveals what you truly value.",
+      "Most people have an optimism gap: they overestimate income by 20% and underestimate expenses by 30%. A budget is the reality check."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your True Hourly Wage",
+        "steps": [
+          "Compute after-tax income minus all work costs (commute, wardrobe, meals).",
+          "Divide by total hours spent on work (including prep and commute).",
+          "Before any non-essential purchase, ask: 'Is this worth X hours of my life?'"
+        ]
+      },
+      {
+        "title": "30-Day Expense Audit with Emotional Triggers",
+        "steps": [
+          "Track every expense for 30 days.",
+          "Categorize each by emotional trigger (boredom, stress, social pressure, etc.).",
+          "Identify top 3 triggers and design pre-commitments to avoid them."
+        ]
+      },
+      {
+        "title": "Simulate a Financial Shock",
+        "steps": [
+          "Live on 70% of your income for one month; automate the 30% into savings.",
+          "Note what you miss most—those are your true priorities."
+        ]
+      }
+    ],
+    "risk_notes": "Budgets can become obsessive, leading to burnout or rebellion. They fail when too rigid—life is uncertain. Also, focusing only on cutting costs ignores the income side; sometimes earning more is easier than saving a penny. Beware the 'license to splurge' effect: cutting in one area to justify overspending elsewhere.",
+    "sources": [
+      {
+        "title": "Your Money or Your Life by Vicki Robin",
+        "url": "https://www.yourmoneyoryourlife.com/"
+      }
+    ],
+    "meta": {
+      "id": "Managing income and budgets",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Cash-flow management",
+        "Income and expenses"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
   }
 ]

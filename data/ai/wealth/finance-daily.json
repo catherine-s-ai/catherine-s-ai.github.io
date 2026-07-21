@@ -1,5 +1,65 @@
 [
   {
+    "id": "d45312d1-2d25-4b09-bd22-4d65001c6078",
+    "date": "2026-07-21",
+    "topic": "Financial Planning",
+    "teaser": "Most people build their financial bridge backwards—and that's exactly why they fall.",
+    "summary": "Financial planning is not about spreadsheets. It's about building a bridge while walking on it, but most people make a critical mistake: they start with the numbers instead of the story. The real foundation isn't cash flow—it's clarity on what you're willing to sacrifice. Every financial plan is a series of trade-offs between who you are today and who you want to become. The best plans are not the most detailed; they are the most honest. They force you to admit that you can't have everything, and that's liberating. A rough plan that confronts your deepest priorities beats a perfect one that avoids them. The bridge you build doesn't need to be beautiful—it needs to hold your weight when you're halfway across.",
+    "key_points": [
+      "Your financial plan is only as good as your ability to say 'no' to something you want today. Cash flow is just a scoreboard; the game is about values. Most people optimize for the wrong thing—they cut lattes but ignore the soul-crushing job that costs them their health.",
+      "Goal setting is not about numbers; it's about identity. Don't ask 'How much do I need for retirement?' Ask 'Who do I want to be when I stop working?' The number is just the shadow of the person you're becoming. Work backward from that identity, not from a calculator.",
+      "The biggest risk in financial planning is not market volatility—it's the illusion of control. Life will break your spreadsheet. The only hedge is optionality: build slack into your plan so you can pivot without panic. A plan that can't bend will break."
+    ],
+    "practice": [
+      {
+        "title": "Conduct a 'sacrifice audit' for 30 days",
+        "steps": [
+          "List every non-essential expense and assign it an emotional weight (1-10).",
+          "Cut the bottom 20% for 30 days. Track how it feels. You'll learn more about your true priorities than any budget."
+        ]
+      },
+      {
+        "title": "Calculate your 'F-you number' (not financial freedom number)",
+        "steps": [
+          "Estimate the monthly income needed to survive (not thrive) without a job.",
+          "Multiply by 12 and divide by 0.035 (a conservative withdrawal rate that accounts for sequence risk). That's your independence threshold."
+        ]
+      },
+      {
+        "title": "Stress-test your plan with a 'black swan' scenario",
+        "steps": [
+          "Imagine a 50% market drop and simultaneous job loss. How many months can you survive?",
+          "If less than 12, adjust your emergency fund or spending. This forces you to face tail risks most ignore."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest trap is overconfidence in your plan's precision. A 4% withdrawal rule assumes historical returns will repeat—a dangerous bet. Sequence of returns risk can decimate a portfolio in early retirement. Also, beware of 'optimization addiction' where you tweak endlessly instead of living. The best plan is one you can stick to, not the one with the highest projected return.",
+    "sources": [
+      {
+        "title": "Die with Zero by Bill Perkins",
+        "url": "https://www.diewithzerobook.com/"
+      },
+      {
+        "title": "The Black Swan by Nassim Nicholas Taleb",
+        "url": "https://www.penguinrandomhouse.com/books/176226/the-black-swan-by-nassim-nicholas-taleb/"
+      }
+    ],
+    "meta": {
+      "id": "Financial planning basics",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Budget and cash-flow planning",
+        "Financial goal setting"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "5911b34b-7ecb-4486-9e84-c5f68314a4e1",
     "date": "2026-07-20",
     "topic": "National Income Accounting: The GDP GPS",
@@ -3705,64 +3765,6 @@
       "related": [
         "Financial planning basics",
         "Power of compounding"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "5dc42f53-32eb-4586-ba47-8be0feac5a4b",
-    "date": "2026-05-18",
-    "topic": "The Art of Budgeting: Buying Back Your Future Time",
-    "teaser": "Most budgets fail because they feel like a diet. But the best budget is one you barely notice—it's a set of invisible rails that steer your money toward what you actually value.",
-    "summary": "Budgeting isn't about restriction; it's about consciously choosing your regrets. Every dollar is a vote for the future you want. The optimal budget is one you barely notice—a set of invisible rails that align spending with deep priorities. Forget 'pay yourself first'; instead, design a system where saving happens automatically and spending feels guilt-free because it's pre-approved. The real wealth killer isn't lattes—it's the slow drip of unexamined subscriptions and emotional spending. A budget is just a mirror for your cognitive biases: we systematically overestimate our discipline and underestimate our impulses.",
-    "key_points": [
-      "The optimal budget is one you barely notice—automated systems beat willpower every time.",
-      "Budgeting is about consciously choosing your regrets: every trade-off reveals what you truly value.",
-      "Most people have an optimism gap: they overestimate income by 20% and underestimate expenses by 30%. A budget is the reality check."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your True Hourly Wage",
-        "steps": [
-          "Compute after-tax income minus all work costs (commute, wardrobe, meals).",
-          "Divide by total hours spent on work (including prep and commute).",
-          "Before any non-essential purchase, ask: 'Is this worth X hours of my life?'"
-        ]
-      },
-      {
-        "title": "30-Day Expense Audit with Emotional Triggers",
-        "steps": [
-          "Track every expense for 30 days.",
-          "Categorize each by emotional trigger (boredom, stress, social pressure, etc.).",
-          "Identify top 3 triggers and design pre-commitments to avoid them."
-        ]
-      },
-      {
-        "title": "Simulate a Financial Shock",
-        "steps": [
-          "Live on 70% of your income for one month; automate the 30% into savings.",
-          "Note what you miss most—those are your true priorities."
-        ]
-      }
-    ],
-    "risk_notes": "Budgets can become obsessive, leading to burnout or rebellion. They fail when too rigid—life is uncertain. Also, focusing only on cutting costs ignores the income side; sometimes earning more is easier than saving a penny. Beware the 'license to splurge' effect: cutting in one area to justify overspending elsewhere.",
-    "sources": [
-      {
-        "title": "Your Money or Your Life by Vicki Robin",
-        "url": "https://www.yourmoneyoryourlife.com/"
-      }
-    ],
-    "meta": {
-      "id": "Managing income and budgets",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Cash-flow management",
-        "Income and expenses"
       ],
       "tags": [
         "Personal Finance Foundations",
