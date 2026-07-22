@@ -1,5 +1,75 @@
 [
   {
+    "id": "3f1a82e3-c673-4484-b092-1cbbd7e94594",
+    "date": "2026-07-22",
+    "topic": "Income and Budget Management: The First Principles of Wealth Building",
+    "teaser": "The average millionaire has seven income streams. You have one. But that's not the real problem. The equation you've been taught is a lie.",
+    "summary": "**The lie:** Income – Expenses = Savings. That's not a wealth equation; it's a survival equation. It assumes your expenses are fixed and your income is the only lever. But the first principles of wealth building reveal a hidden variable: **control**. \n\nReal wealth comes from mastering the gap between what you earn and what you *need* to spend. That gap, your **'wealth spread'**, is the only thing that matters. The average millionaire doesn't have seven streams because they're smarter; they have them because they've optimized this spread to the point where they can take risks others can't.\n\n**Why it matters:** In a world of inflation and job uncertainty, your wealth spread is your buffer. Most people obsess over income, but the real leverage is in reducing the 'need' side—not just cutting lattes, but questioning every assumption about what you *must* spend. The person earning $50k with a $25k spread is wealthier than the one earning $150k with a $140k spread.\n\n**Key insights:** \n- **The Spread, Not the Income:** Your wealth is determined by (Income – Non-negotiable Expenses) / Time. Compress the denominator. \n- **Fixed Expenses Are a Choice:** Rent, car payments, insurance—most 'fixed' costs are actually decisions disguised as necessities. Rethink them annually. \n- **The Latte Factor Is a Red Herring:** Yes, small expenses add up. But they're a symptom, not the disease. The real leak is lifestyle inflation—the silent killer of wealth spreads.\n- **Pay Yourself First Is a Mindset Shift:** It's not about automation; it's about redefining 'expense.' Savings become a non-negotiable 'need,' and everything else adjusts. This flips the equation to: Income – Savings = Expenses, but only if you treat savings as a fixed cost.",
+    "key_points": [
+      "The Wealth Spread: Your wealth isn't what you earn; it's what you keep. Focus on the gap between income and non-negotiable expenses. This gap is your true financial engine.",
+      "Lifestyle Inflation Is the Silent Killer: Every raise is an invitation to expand your 'needs.' Fight it. The first dollar of a raise should go to savings, not lifestyle.",
+      "Fixed Costs Are Decisions, Not Destiny: Your rent, car payment, and insurance are choices. Review them annually. A $200/month reduction in fixed costs is worth a $3,000 raise (after tax).",
+      "Pay Yourself First as a Non-Negotiable: Automate savings before any spending. This forces your expenses to adapt. It's not a trick; it's a redefinition of necessity."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Wealth Spread",
+        "steps": [
+          "List all income sources (after tax) for one month.",
+          "List all 'non-negotiable' expenses: rent/mortgage, utilities, minimum debt payments, insurance, groceries (basic).",
+          "Subtract: Spread = Income – Non-negotiables. This is your real financial power.",
+          "Track this number monthly. Aim to increase it by 1% each month through income or reducing non-negotiables."
+        ]
+      },
+      {
+        "title": "Audit Your 'Fixed' Costs Annually",
+        "steps": [
+          "List all recurring bills: rent, insurance, subscriptions, phone, car payments.",
+          "Ask: 'Would I sign up for this today if I had to choose again?' If no, cancel or renegotiate.",
+          "Call providers to negotiate lower rates. Use competitor quotes as leverage.",
+          "Redirect savings directly to your wealth spread (investment account)."
+        ]
+      },
+      {
+        "title": "The 24-Hour Rule for Wants",
+        "steps": [
+          "For any non-essential purchase over $50, wait 24 hours before buying.",
+          "Write down the item and cost. Ask: 'Will this improve my wealth spread or just provide temporary pleasure?'",
+          "After 24 hours, decide. You'll often realize you don't need it."
+        ]
+      }
+    ],
+    "risk_notes": "The wealth spread mindset can lead to extreme frugality if taken too far. Remember: the goal is to maximize freedom, not to minimize spending. Also, don't neglect emergency savings—a spread of zero after an emergency is okay if you have a buffer. And avoid comparing spreads with others; your spread is personal to your goals.",
+    "sources": [
+      {
+        "title": "The Simple Path to Wealth by JL Collins",
+        "url": "https://jlcollinsnh.com/stock-series/"
+      },
+      {
+        "title": "Your Money or Your Life by Vicki Robin",
+        "url": "https://www.yourmoneyoryourlife.com/"
+      },
+      {
+        "title": "The Millionaire Next Door by Thomas Stanley",
+        "url": "https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474"
+      }
+    ],
+    "meta": {
+      "id": "Managing income and budgets",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Cash-flow management",
+        "Income and expenses"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "d45312d1-2d25-4b09-bd22-4d65001c6078",
     "date": "2026-07-21",
     "topic": "Financial Planning",
@@ -3706,65 +3776,6 @@
       "related": [
         "Debt management",
         "Credit cards and loans"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "116d8d3c-8805-49c9-92a1-893f491b9499",
-    "date": "2026-05-19",
-    "topic": "The Emergency Fund: Your Financial Shock Absorber",
-    "teaser": "Your emergency fund is a guaranteed loser. Here’s why you still need one—and how to stop it from bleeding you dry.",
-    "summary": "**Imagine this: You lose your job tomorrow. The market crashes 40%. Your portfolio is down, but you don't sell a single share. Why? Because you have six months of cash in a savings account earning 0.5% while inflation runs at 3%. That cash is a drag on your wealth, but it's the best insurance you'll ever buy.**\n\nAn emergency fund isn't an investment; it's an insurance premium you pay to protect your future returns. It's a buffer against the randomness of life—job loss, medical bills, car repairs—that ensures you never have to sell assets at the worst possible time or take on high-interest debt. **First principles**: Your future self is an optimist. You assume you'll never get sick, never get fired, never have a fender bender. The emergency fund is the antidote to that optimism bias.\n\nRight now, with inflation eroding purchasing power and job markets volatile, the cost of safety is higher than ever. But the alternative is worse: a single emergency can trigger a 'wealth spiral'—you sell stocks at a loss, incur capital gains taxes, miss the recovery, and then take on credit card debt at 20% interest. That debt compounds against you, destroying years of progress.\n\n**Your emergency fund is an expense, not an investment.** Accept that it will lose purchasing power to inflation. The optimal size is personal: a freelancer needs 9 months; a tenured professor may need 3. Think of it as a 'liquidity shield': it allows you to take more risk in your investment portfolio because you know you won't be forced to sell during a downturn. The real wealth creation happens in your stocks and bonds, not in your savings account.",
-    "key_points": [
-      "Your emergency fund is an insurance premium, not an investment. The loss to inflation is the cost of safety—it protects you from selling assets at a loss or taking on high-interest debt during a crisis.",
-      "The optimal size is personal: base it on your income volatility, not a generic 3-6 month rule. Freelancers need 9-12 months; stable employees may need 3. Use the 'survival number' formula: essential monthly expenses × months of income volatility.",
-      "An emergency fund is a 'liquidity shield' that enables higher risk-taking in your portfolio. Without it, you're forced to sell during downturns, locking in losses and missing recoveries. It's the foundation of aggressive investing."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Survival Number",
-        "steps": [
-          "List all essential monthly expenses: rent, food, utilities, minimum debt payments, insurance premiums. Exclude discretionary spending like dining out or Netflix.",
-          "Estimate your 'income volatility' in months: for a freelancer, use 9; for a stable employee, use 3. Multiply essential expenses by this number. Example: $3,000/month × 6 = $18,000 target.",
-          "Compare to your current savings. If you have $5,000, your gap is $13,000. Set a monthly savings goal to close it within 12 months."
-        ]
-      },
-      {
-        "title": "Set Up a Separate High-Yield Savings Account",
-        "steps": [
-          "Open a high-yield savings account (e.g., Ally Bank, Marcus by Goldman Sachs) that is not linked to your checking account to avoid impulse spending.",
-          "Automate a transfer of 10% of every paycheck to this account. If you can't afford 10%, start with 5% and increase by 1% every month.",
-          "Continue until you reach your survival number. Then, redirect the 10% to your investment account."
-        ]
-      },
-      {
-        "title": "Simulate an Emergency Using a Spreadsheet",
-        "steps": [
-          "Create a spreadsheet with columns: month, income, expenses, savings balance. Assume you lose your job and have zero income starting month 1.",
-          "Input your actual essential expenses. Calculate how many months your current emergency fund would last. For example, if you have $10,000 and spend $3,000/month, you have 3.3 months.",
-          "Now add a shock: a $2,000 medical bill in month 2. See how that changes your survival time. Adjust your fund size accordingly. Review and update this simulation annually."
-        ]
-      }
-    ],
-    "risk_notes": "Hoarding too much cash (e.g., 12+ months) can be a wealth destroyer in inflationary times. Psychologically, a large cash pile can make you complacent about earning income or taking calculated risks. Also, in a severe crisis, even 'safe' savings accounts can be frozen or lose value if the banking system falters (e.g., Cyprus 2013).",
-    "sources": [
-      {
-        "title": "Search: The Emergency Fund: Your Financial Shock Absorber",
-        "url": "https://www.google.com/search?q=The%20Emergency%20Fund%3A%20Your%20Financial%20Shock%20Absorber"
-      }
-    ],
-    "meta": {
-      "id": "Saving & emergency funds",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Financial planning basics",
-        "Power of compounding"
       ],
       "tags": [
         "Personal Finance Foundations",
