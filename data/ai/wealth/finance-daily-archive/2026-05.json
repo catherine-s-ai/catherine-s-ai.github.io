@@ -1175,5 +1175,73 @@
         "入门"
       ]
     }
+  },
+  {
+    "id": "890940ec-8cc9-4685-90f7-8dc7a000b1c4",
+    "date": "2026-05-21",
+    "topic": "Inflation: The Silent Thief of Purchasing Power",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "In 301 AD, Emperor Diocletian stood before a crumbling Roman economy. Prices had tripled in a decade. His solution? A maximum price law—death to anyone who charged more. Within months, markets vanished, goods rotted in warehouses, and the black market flourished. Diocletian had discovered a painful truth: you can't decree away inflation. Fast forward 1,700 years, and we're still making his mistake. We hoard cash, thinking it's 'safe,' while the government prints money and silently taxes our savings. Inflation isn't just a number on the news; it's the thief that steals your future, one penny at a time. But unlike Diocletian, you can fight back—not with price controls, but with understanding. This isn't about memorizing CPI. It's about seeing inflation as the hidden force that determines whether your nest egg grows or rots. Let's start with a story that will change how you see money.",
+    "key_points": [
+      "Your personal inflation rate is the only one that matters. The official CPI is a national average; your spending pattern may be wildly different. If you're a renter in a hot market, your housing costs may be rising 10% while CPI says 3%. Track your own expenses to know your true enemy.",
+      "Inflation is a regressive tax on the poor and the ignorant. The wealthy own assets that rise with inflation (real estate, stocks). The poor hold cash and pay the price. Knowledge is the only antidote to this silent wealth transfer.",
+      "Inflation isn't just about prices rising; it's about the value of money falling. This distinction is crucial: if you understand that inflation is a monetary phenomenon, you stop asking 'why are prices going up?' and start asking 'why is my money worth less?' The answer: too much money chasing too few goods.",
+      "Inflation compounds losses, not just gains. A 3% inflation rate over 30 years reduces the purchasing power of a dollar to just 40 cents. That's a 60% loss without you lifting a finger. The real risk isn't market volatility; it's the slow, silent erosion of cash."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Inflation Rate",
+        "steps": [
+          "List your top 5 spending categories (e.g., housing, food, transportation, healthcare, education).",
+          "For each category, note the amount you spent last month and this month. If you don't have records, estimate based on typical receipts or bank statements.",
+          "Calculate the percentage change: (this month - last month) / last month × 100. Do this for each category.",
+          "Weight each category by its share of your total spending. For example, if housing is 30% of your spending and it increased 5%, that contributes 1.5% to your personal inflation rate (0.30 × 5%).",
+          "Sum the weighted percentages. That's your personal inflation rate. Compare it to the official CPI (usually around 2-3%). If yours is higher, you're feeling more pain than the average."
+        ]
+      },
+      {
+        "title": "Check the Real Yield of Your Savings",
+        "steps": [
+          "Find the annual percentage yield (APY) on your savings account or money market fund. (Check online or call your bank.)",
+          "Look up the latest inflation rate (e.g., from the Bureau of Labor Statistics at bls.gov).",
+          "Subtract the inflation rate from your APY. For example: APY 0.5% - Inflation 3% = -2.5% real yield. That means your money is losing 2.5% of its purchasing power each year.",
+          "If your real yield is negative, consider moving excess cash to I-bonds (currently yielding ~4.3% above inflation) or a high-yield savings account (some offer 4-5% APY). Avoid holding more than 3-6 months of expenses in a low-yield account."
+        ]
+      },
+      {
+        "title": "Simulate a Purchase Delay",
+        "steps": [
+          "Pick a non-urgent item you want, say a $200 gadget. Imagine buying it today.",
+          "Assume inflation is 3% and you can earn 7% on investments. In one year, that gadget will cost $206 (200 × 1.03).",
+          "If you invest the $200 at 7%, you'll have $214 in a year. You can buy the gadget for $206 and have $8 left over. By delaying, you effectively got the item for $192.50 (200 - 8/1.03).",
+          "This exercise shows that spending now is more expensive than investing now. The longer you delay consumption, the more your money grows relative to inflation."
+        ]
+      }
+    ],
+    "risk_notes": "The concept fails when deflation occurs (prices fall), which can devastate debtors and economies. Also, hyperinflation makes all nominal assets worthless, but cash and bonds suffer most. Psychological trap: people hoard cash thinking it's 'safe' during uncertainty, not realizing inflation is eating it. Another trap: assuming real estate or stocks always hedge inflation—they don't, especially if bought at inflated prices.",
+    "sources": [
+      {
+        "title": "The Little Book of Common Sense Investing",
+        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
+      },
+      {
+        "title": "The Intelligent Investor",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      }
+    ],
+    "meta": {
+      "id": "Inflation & purchasing power",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Time value of money",
+        "Interest rates"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
   }
 ]
