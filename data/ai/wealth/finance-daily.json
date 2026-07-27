@@ -1,5 +1,64 @@
 [
   {
+    "id": "abdbd097-ae27-423b-ae7e-5cdd07315d23",
+    "date": "2026-07-27",
+    "topic": "Understanding Inflation and Protecting Your Purchasing Power",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "In 301 AD, Emperor Diocletian set maximum prices for goods across the Roman Empire. His punishment for violators? Death. Yet within years, the edict failed spectacularly—markets collapsed, goods disappeared, and inflation exploded. Diocletian learned the hard way: you cannot command prices when you print money. Today, we repeat his folly, not with price caps but with the quiet assumption that cash is safe.\n\nInflation isn't just rising prices; it's the erosion of trust in money. When central banks create money faster than we create value, each dollar buys less. This is not a bug—it's a feature. Inflation transfers wealth from savers (you) to borrowers (governments, corporations). Your salary is not your wealth; your purchasing power is. A 5% raise with 7% inflation is a 2% pay cut.\n\nThe most dangerous myth? That inflation is temporary. Once expectations embed—workers demanding higher wages, businesses raising prices preemptively—it becomes a self-fulfilling prophecy. The 1970s taught us that breaking inflation requires pain: recession, unemployment, and shattered confidence.\n\nTo protect yourself, think like a Roman merchant: diversify beyond cash. Own assets that produce or appreciate: stocks, real estate, commodities. But beware the trap of overreaction—buying speculative assets out of fear often leads to worse losses. The real hedge is discipline: know your personal inflation rate, adjust your spending, and earn returns that outpace the hidden tax.",
+    "key_points": [
+      "Inflation is a hidden tax that transfers wealth from savers to borrowers, not just a rise in prices.",
+      "Your salary is not your wealth; purchasing power is. A raise below inflation is a pay cut.",
+      "Inflation expectations become self-fulfilling: once people expect higher prices, they act in ways that cause them, creating a vicious cycle."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Inflation Rate",
+        "steps": [
+          "List 10–15 items you buy regularly (e.g., milk, rent, gas, Netflix).",
+          "Record their prices today and six months ago. Example: Milk was $3.50, now $3.85. Change = ($3.85 - $3.50) / $3.50 = 10%.",
+          "Average all percentage changes. That's your personal inflation rate. Compare to official CPI (e.g., 5%)—if yours is higher, you're hit harder."
+        ]
+      },
+      {
+        "title": "Check Your Savings Account Interest Rate",
+        "steps": [
+          "Find your savings APY (e.g., 0.5%).",
+          "Compare to current inflation (e.g., 5%). If APY < inflation, you lose 4.5% real value annually.",
+          "Move to a high-yield account (4.5%+ APY) or buy I-bonds (currently 9.62% for first 6 months)."
+        ]
+      },
+      {
+        "title": "Simulate a 10% Inflation Scenario",
+        "steps": [
+          "Take your monthly budget and cut each category by 10%. For example, if you spend $500 on groceries, limit to $450.",
+          "Live on this reduced budget for one month. Track where you felt the pinch most—those are your inflation vulnerabilities.",
+          "Use insights to prioritize inflation-proofing: e.g., bulk-buy essentials, negotiate rent, or switch to cheaper alternatives."
+        ]
+      }
+    ],
+    "risk_notes": "Deflation can be worse than inflation: falling prices lead to delayed spending, job losses, and debt deflation. Also, hyperinflation is rare but devastating—your money becomes worthless. The trap is overreacting: buying speculative assets or taking on too much debt to 'hedge' can backfire.",
+    "sources": [
+      {
+        "title": "Search: Understanding Inflation and Protecting Your Purchasing Power",
+        "url": "https://www.google.com/search?q=Understanding%20Inflation%20and%20Protecting%20Your%20Purchasing%20Power"
+      }
+    ],
+    "meta": {
+      "id": "Inflation & purchasing power",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Time value of money",
+        "Interest rates"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "c0f10e4b-f95b-4bd3-b8b2-7e8a915506d0",
     "date": "2026-07-24",
     "topic": "The Credit Score System: Why It Rewards Borrowing, Not Saving",
@@ -3695,72 +3754,6 @@
       "related": [
         "Time value of money",
         "Annualized & compound returns"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "770bc795-fb70-49f0-8be3-dca2cf29d169",
-    "date": "2026-05-22",
-    "topic": "The Time Value of Money: Why a Dollar Today Is Worth More Than a Dollar Tomorrow",
-    "teaser": "Most people think investing is about picking the right stocks. They're wrong. The single most powerful lever in your entire financial life has nothing to do with returns—it's the number of years you have left. Here's why.",
-    "summary": "Imagine two friends, Alice and Bob. Alice starts investing $200 a month at age 25, earning 7% annually. Bob starts the same plan at age 35. By age 65, Alice has nearly $525,000. Bob has just $244,000. Alice invested $24,000 more than Bob? No—she invested exactly the same amount ($96,000 total). Her only advantage: 10 extra years. That's the time value of money in action. It's not about timing the market; it's about time in the market.\n\nBut here's the part that will blow your mind: your savings rate matters far more than your investment return. A 25-year-old who saves 20% of her income and earns 5% will have more wealth at 65 than a peer who saves 10% and earns 10%. Yes, you read that right. The magic of compounding is powerful, but the amount you save is the engine. Returns are just the turbocharger.\n\nAnd yet, most financial advice obsesses over the turbocharger. They sell you on the 'Rule of 72' and fancy formulas, but the real insight is this: time is the only resource you can't buy more of. A dollar today is worth more than a dollar tomorrow not just because you can invest it, but because you can't get back the years you lost. Every year you delay saving, you're not just losing potential growth—you're losing the ability to ever get that time back.\n\nSo when you hear 'time value of money,' don't just think about discount rates. Think about Alice and Bob. Think about which one you want to be.",
-    "key_points": [
-      "**Savings rate beats investment return**: A 25-year-old saving 20% of income at 5% return ends up wealthier than one saving 10% at 10% return, due to the sheer volume of capital deployed early. This is counterintuitive because we're wired to chase high returns, but the math is undeniable.",
-      "**Time horizon is the most powerful lever**: Adding just 5 years to your investment horizon can more than double your final wealth, even with the same monthly contribution. This is because compounding grows exponentially with time, not linearly. Most people underestimate this by a factor of 10.",
-      "**The 'Rule of 72' is a trap**: It's a neat parlor trick, but it ignores the most important variable—your behavior. The real rule should be: 'Divide 72 by your savings rate to estimate how many years until you achieve financial independence.' That's a metric that actually changes your life."
-    ],
-    "practice": [
-      {
-        "title": "The Debt vs. Investment Decision",
-        "steps": [
-          "List your debts (credit card, student loan, mortgage) with interest rates.",
-          "List your expected investment returns (conservative: 5%, moderate: 7%, aggressive: 9%).",
-          "Use TVM to compare: pay off debt with rate > expected return; otherwise invest. But also consider liquidity and emotional peace.",
-          "Example: Credit card at 18% vs. expected market return 7% -> pay off debt first. Mortgage at 4% vs. 7% -> invest extra cash."
-        ]
-      },
-      {
-        "title": "The 'Start Now' Calculator",
-        "steps": [
-          "Estimate your monthly savings capacity (e.g., $500).",
-          "Assume a conservative 5% annual return.",
-          "Calculate future value if you start today vs. 5 years later vs. 10 years later.",
-          "Example: $500/month for 30 years = $416,000; for 25 years = $297,000; for 20 years = $206,000. The cost of waiting 5 years is $119,000."
-        ]
-      },
-      {
-        "title": "Retirement Reality Check",
-        "steps": [
-          "Determine your desired annual retirement income (e.g., $60,000 in today's dollars).",
-          "Estimate years in retirement (e.g., 30 years).",
-          "Calculate the lump sum needed at retirement using PV of annuity formula (or use online calculator).",
-          "Then calculate how much you need to save each month from now until retirement using FV formula. Adjust spending or time until the numbers work."
-        ]
-      }
-    ],
-    "risk_notes": "The biggest risk is not market volatility—it's your own behavior. People abandon plans during downturns, chase past returns, and underestimate their own future needs. TVM models assume constant returns, but reality is lumpy. The antidote is to focus on what you can control: savings rate, time horizon, and discipline. Also, beware of 'discounting the future' too aggressively—it can justify spending today at the expense of tomorrow. And remember, the most important number in any TVM calculation is the number of years you have left. Use them wisely.",
-    "sources": [
-      {
-        "title": "The Simple Path to Wealth by JL Collins",
-        "url": "https://www.amazon.com/Simple-Path-Wealth-financial-independence/dp/1533667926"
-      },
-      {
-        "title": "The Psychology of Money by Morgan Housel",
-        "url": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
-      }
-    ],
-    "meta": {
-      "id": "Time value of money",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Power of compounding",
-        "Discounting"
       ],
       "tags": [
         "Personal Finance Foundations",
