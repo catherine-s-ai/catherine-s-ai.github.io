@@ -1,5 +1,77 @@
 [
   {
+    "id": "a38b4275-c073-4e37-933b-af51bd0292d5",
+    "date": "2026-07-28",
+    "topic": "Time Value of Money: Why a Dollar Today Is Worth More Than a Dollar Tomorrow",
+    "teaser": "A dollar today is a seed; tomorrow it rots. But the real surprise? Debt flips TVM upside down—and that's why borrowing is dangerous.",
+    "summary": "A dollar today is a seed. Planted, it grows into a tree. Left in your pocket, it rots. That's the time value of money (TVM) in a nutshell. But here's the counterintuitive twist: TVM isn't just about growing money—it's about the hidden cost of waiting. Every day you delay saving, you're not just losing a day's growth; you're permanently destroying the potential of that money. The single biggest factor in your wealth isn't your investment return—it's your savings rate. Because money saved today has decades to compound, while money saved tomorrow has less time. The difference between starting at 25 vs. 35 isn't 10 years—it's hundreds of thousands of dollars. And here's a Dalio-style insight: debt is the opposite of TVM. When you borrow, future money is worth *more* today, which is why debt is a tax on your future self. Understanding TVM means recognizing that every financial choice is a trade-off between present and future—and most people systematically undervalue the future. The formula is simple: FV = PV × (1 + r)^n. But the mindset is everything: treat every dollar today as a worker that can labor for decades.",
+    "key_points": [
+      "The single biggest factor in your wealth is not your investment return but your savings rate. A high savings rate amplifies TVM; a low one negates it.",
+      "Debt is the opposite of TVM: future money is worth more today, which is why borrowing is dangerous. When you take out a loan, you're selling your future at a discount.",
+      "The most expensive mistake is delay. Starting to save at 25 vs. 35 can mean a difference of over $500,000 at retirement, assuming the same monthly contribution and return."
+    ],
+    "practice": [
+      {
+        "title": "Should You Buy a Car with Cash or Finance?",
+        "steps": [
+          "Step 1: Determine the car price ($30,000) and loan terms (5 years, 6% APR).",
+          "Step 2: Calculate the present value of the loan payments using PV formula. Monthly payment = $580; PV of all payments at 6% = $30,000 (the loan amount).",
+          "Step 3: Now consider your cash. If you have $30,000 cash, compare: pay cash and lose 7% annual investment return (opportunity cost). Future value of $30,000 invested at 7% for 5 years = $42,073.",
+          "Step 4: Decision: If you can earn more than 6% investing, finance the car and invest the cash. If not, pay cash. Use TVM to compare apples to apples.",
+          "Step 5: Behavioral nudge: Don't forget inflation and risk. If you pay cash, you lose liquidity. If you finance, you commit future income. Choose based on your personal discount rate."
+        ]
+      },
+      {
+        "title": "Calculate Future Value",
+        "steps": [
+          "Use the formula FV = PV × (1 + r)^n.",
+          "Let PV = $100, r = 8% (0.08), n = 10 years.",
+          "Compute: FV = 100 × (1.08)^10 = $215.89.",
+          "Interpret: $100 saved today grows to $215.89 in 10 years at 8% annual return."
+        ]
+      },
+      {
+        "title": "Discount Future Money",
+        "steps": [
+          "Use the formula PV = FV / (1 + r)^n.",
+          "Let FV = $1,000, r = 6% (0.06), n = 5 years.",
+          "Compute: PV = 1000 / (1.06)^5 = $747.26.",
+          "Interpret: $1,000 received in 5 years is worth only $747.26 today at a 6% discount rate."
+        ]
+      },
+      {
+        "title": "Apply the Rule of 72",
+        "steps": [
+          "Divide 72 by your annual return rate to find doubling time.",
+          "For a savings account earning 1%: 72 / 1 = 72 years to double.",
+          "For a stock investment earning 9%: 72 / 9 = 8 years to double.",
+          "Use this to compare investment options quickly."
+        ]
+      }
+    ],
+    "risk_notes": "TVM assumes constant returns and no risk. In reality, inflation erodes purchasing power, and investment returns are uncertain. The trap is over-optimism: using high discount rates can justify reckless spending today, while ignoring inflation can lead to underestimating future needs. Also, beware of the 'present bias'—our brains are wired to prefer now over later. Use TVM to make the future tangible, not to rationalize short-termism.",
+    "sources": [
+      {
+        "title": "Bodie, Z., Kane, A., & Marcus, A. J. (2014). Investments (10th ed.). McGraw-Hill Education.",
+        "url": "https://www.mheducation.com/highered/product/investments-bodie-kane/M9780077861674.html"
+      }
+    ],
+    "meta": {
+      "id": "Time value of money",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Power of compounding",
+        "Discounting"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "abdbd097-ae27-423b-ae7e-5cdd07315d23",
     "date": "2026-07-27",
     "topic": "Understanding Inflation and Protecting Your Purchasing Power",
@@ -3690,70 +3762,6 @@
       "related": [
         "Managing income and budgets",
         "Working capital"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "be5f1074-642f-4a8d-a2ab-ad34dda8eb76",
-    "date": "2026-05-23",
-    "topic": "The Exponential Power of Compounding: Why Time Beats Timing",
-    "teaser": "A penny doubled daily for 30 days grows to $5 million. Your savings can too—if you start now.",
-    "summary": "**A single penny doubled every day for 30 days grows to over $5 million.** That's not magic; it's the math of exponential growth hiding in plain sight. Compounding is the process where the returns on an investment themselves generate returns, creating a snowball effect. Mathematically, it's exponential growth: **A = P(1 + r)^t**, where **time (t) is the most critical variable**.\n\nIn a world of inflation and low savings rates, your money must work as hard as you do. Starting today vs. waiting 10 years can mean the difference between retirement and financial dependence. Every day you delay, you lose the exponential power of time.\n\nConsider this: if you invest $500 per month starting at age 25 with a 7% annual return, you'll have over $1.2 million by age 65. Wait until 35, and you'll have just $567,000—a gap of more than $600,000. That's the cost of procrastination.\n\nCompounding isn't just for money. Knowledge and trust compound similarly. The best investment may be in learning a high-value skill or building a network that pays compounding dividends. But remember: compounding works both ways. Debt compounds against you—credit card interest is the dark side of the same math. And a 50% loss requires a 100% gain to break even. Sequence-of-returns risk can decimate a portfolio if withdrawals happen during downturns.\n\n**The key insight?** Time is the lever, not the rate. A 1% improvement in annual return matters less than starting 5 years earlier. The early years are the most valuable because they have the most time to compound. The Rule of 72 is a rough estimate, but the real power is in the last few doublings—most of the wealth appears late in the timeline. Patience is not passive; it's the active ingredient.\n\nSo, start today. Automate your investments. Let time work its magic. The penny-doubling thought experiment isn't just a party trick—it's a blueprint for building wealth.",
-    "key_points": [
-      "**Time is the lever, not the rate.** A 1% improvement in annual return matters less than starting 5 years earlier. The early years are the most valuable because they have the most time to compound.",
-      "**The 'Doubling Rule' is misleading.** The Rule of 72 is a rough estimate, but the real power is in the last few doublings—most of the wealth appears late in the timeline. Patience is not passive; it's the active ingredient.",
-      "**Compounding applies to skills and relationships, not just money.** Knowledge and trust compound similarly. The best investment may be in learning a high-value skill or building a network that pays compounding dividends.",
-      "**Compounding works both ways.** Debt compounds against you: credit card interest is the dark side of the same math. Negative returns can destroy wealth faster than positive returns build it."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your 'Time Cost of Delay'",
-        "steps": [
-          "Use a compound interest calculator (e.g., Investor.gov).",
-          "Input $500 monthly investment, 7% annual return, starting at age 25 vs. 35.",
-          "Compare the final amounts at age 65. The gap is often >$500,000."
-        ]
-      },
-      {
-        "title": "Set Up Automatic Investments",
-        "steps": [
-          "Open a brokerage account and choose a low-cost index fund (e.g., VOO or IVV for S&P 500).",
-          "Set up a recurring transfer from your checking account to the investment account on payday.",
-          "Automate to remove emotion and ensure consistency."
-        ]
-      },
-      {
-        "title": "Run a 'Penny Doubling' Thought Experiment",
-        "steps": [
-          "Imagine you have two options: $1 million today or a penny that doubles every day for 30 days.",
-          "Use a spreadsheet to calculate the penny's value on each day (Day 1: $0.01, Day 2: $0.02, ... Day 30: $5,368,709.12).",
-          "Observe how most of the growth happens in the last few days. This illustrates the exponential curve."
-        ]
-      }
-    ],
-    "risk_notes": "Compounding fails when returns are negative or volatile. A 50% loss requires a 100% gain to break even. Sequence-of-returns risk can decimate a portfolio if withdrawals happen during downturns. The psychological trap is assuming past returns continue—compounding works best in stable, long-term growth, but markets are not guaranteed. Debt compounds against you: credit card interest is the dark side of the same math.",
-    "sources": [
-      {
-        "title": "The Little Book of Common Sense Investing by John C. Bogle",
-        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
-      },
-      {
-        "title": "The Wealth of Nations by Adam Smith (Chapter on Accumulation of Capital)",
-        "url": "https://www.gutenberg.org/ebooks/3300"
-      }
-    ],
-    "meta": {
-      "id": "Power of compounding",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Time value of money",
-        "Annualized & compound returns"
       ],
       "tags": [
         "Personal Finance Foundations",

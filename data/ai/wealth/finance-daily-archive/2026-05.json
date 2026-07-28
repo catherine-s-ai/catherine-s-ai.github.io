@@ -1309,5 +1309,69 @@
         "入门"
       ]
     }
+  },
+  {
+    "id": "be5f1074-642f-4a8d-a2ab-ad34dda8eb76",
+    "date": "2026-05-23",
+    "topic": "The Exponential Power of Compounding: Why Time Beats Timing",
+    "teaser": "A penny doubled daily for 30 days grows to $5 million. Your savings can too—if you start now.",
+    "summary": "**A single penny doubled every day for 30 days grows to over $5 million.** That's not magic; it's the math of exponential growth hiding in plain sight. Compounding is the process where the returns on an investment themselves generate returns, creating a snowball effect. Mathematically, it's exponential growth: **A = P(1 + r)^t**, where **time (t) is the most critical variable**.\n\nIn a world of inflation and low savings rates, your money must work as hard as you do. Starting today vs. waiting 10 years can mean the difference between retirement and financial dependence. Every day you delay, you lose the exponential power of time.\n\nConsider this: if you invest $500 per month starting at age 25 with a 7% annual return, you'll have over $1.2 million by age 65. Wait until 35, and you'll have just $567,000—a gap of more than $600,000. That's the cost of procrastination.\n\nCompounding isn't just for money. Knowledge and trust compound similarly. The best investment may be in learning a high-value skill or building a network that pays compounding dividends. But remember: compounding works both ways. Debt compounds against you—credit card interest is the dark side of the same math. And a 50% loss requires a 100% gain to break even. Sequence-of-returns risk can decimate a portfolio if withdrawals happen during downturns.\n\n**The key insight?** Time is the lever, not the rate. A 1% improvement in annual return matters less than starting 5 years earlier. The early years are the most valuable because they have the most time to compound. The Rule of 72 is a rough estimate, but the real power is in the last few doublings—most of the wealth appears late in the timeline. Patience is not passive; it's the active ingredient.\n\nSo, start today. Automate your investments. Let time work its magic. The penny-doubling thought experiment isn't just a party trick—it's a blueprint for building wealth.",
+    "key_points": [
+      "**Time is the lever, not the rate.** A 1% improvement in annual return matters less than starting 5 years earlier. The early years are the most valuable because they have the most time to compound.",
+      "**The 'Doubling Rule' is misleading.** The Rule of 72 is a rough estimate, but the real power is in the last few doublings—most of the wealth appears late in the timeline. Patience is not passive; it's the active ingredient.",
+      "**Compounding applies to skills and relationships, not just money.** Knowledge and trust compound similarly. The best investment may be in learning a high-value skill or building a network that pays compounding dividends.",
+      "**Compounding works both ways.** Debt compounds against you: credit card interest is the dark side of the same math. Negative returns can destroy wealth faster than positive returns build it."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your 'Time Cost of Delay'",
+        "steps": [
+          "Use a compound interest calculator (e.g., Investor.gov).",
+          "Input $500 monthly investment, 7% annual return, starting at age 25 vs. 35.",
+          "Compare the final amounts at age 65. The gap is often >$500,000."
+        ]
+      },
+      {
+        "title": "Set Up Automatic Investments",
+        "steps": [
+          "Open a brokerage account and choose a low-cost index fund (e.g., VOO or IVV for S&P 500).",
+          "Set up a recurring transfer from your checking account to the investment account on payday.",
+          "Automate to remove emotion and ensure consistency."
+        ]
+      },
+      {
+        "title": "Run a 'Penny Doubling' Thought Experiment",
+        "steps": [
+          "Imagine you have two options: $1 million today or a penny that doubles every day for 30 days.",
+          "Use a spreadsheet to calculate the penny's value on each day (Day 1: $0.01, Day 2: $0.02, ... Day 30: $5,368,709.12).",
+          "Observe how most of the growth happens in the last few days. This illustrates the exponential curve."
+        ]
+      }
+    ],
+    "risk_notes": "Compounding fails when returns are negative or volatile. A 50% loss requires a 100% gain to break even. Sequence-of-returns risk can decimate a portfolio if withdrawals happen during downturns. The psychological trap is assuming past returns continue—compounding works best in stable, long-term growth, but markets are not guaranteed. Debt compounds against you: credit card interest is the dark side of the same math.",
+    "sources": [
+      {
+        "title": "The Little Book of Common Sense Investing by John C. Bogle",
+        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
+      },
+      {
+        "title": "The Wealth of Nations by Adam Smith (Chapter on Accumulation of Capital)",
+        "url": "https://www.gutenberg.org/ebooks/3300"
+      }
+    ],
+    "meta": {
+      "id": "Power of compounding",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Time value of money",
+        "Annualized & compound returns"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
   }
 ]
