@@ -1,5 +1,68 @@
 [
   {
+    "id": "ec25b372-22bb-42d9-a077-e411f3cd8b98",
+    "date": "2026-07-29",
+    "topic": "The Power of Compounding",
+    "teaser": "Einstein's eighth wonder: most people quit just before the hockey stick.",
+    "summary": "Albert Einstein supposedly called compound interest the eighth wonder of the world. But here's the catch: it's not about getting rich slowly—it's about getting rich *inevitably*, if you survive the early flat part of the curve.\n\nCompound interest is interest on interest. Mathematically, it's exponential growth: A = P(1 + r)^t. But stripped to first principles: your money works, then the money your money earned also works. It's a self-reinforcing loop that feels like magic—except it's math.\n\nWhy most people never experience it: The exponential curve is a lie. Nearly all the growth happens in the final few periods. For the first 80% of the time, you see almost nothing. That's when people give up. They sell. They stop contributing. They mistake a flat line for failure. But that flat line is the foundation of the hockey stick.\n\nThe key insight: Patience is not passive. It's the active choice to let time do the heavy lifting while everyone else chases short-term thrills. Every day you delay investing is a day your future wealth doesn't compound. Standing still is moving backward because inflation eats cash. The sooner you start, the less effort you need later. Your future self will either thank you or curse you—the choice is yours.",
+    "key_points": [
+      "The exponential curve is a lie: Most of the growth happens in the last few periods. Patience is not passive; it's the active choice to let time do the heavy lifting. People quit just before the hockey stick because they can't see the invisible slope.",
+      "Compounding is a snowball, not a ladder: You don't climb step by step; you roll, gathering mass. Small advantages accumulate into massive outcomes. A 1% improvement in returns can shave years off your doubling time.",
+      "The real asset is your earning potential: Investing in yourself—skills, health, relationships—compounds at rates no stock can match. The ROI on learning is infinite, and it's the only investment with zero downside."
+    ],
+    "practice": [
+      {
+        "title": "Double the Rule of 72",
+        "steps": [
+          "Calculate how long to double your money at your current rate using the Rule of 72 (72 ÷ annual return rate = years to double).",
+          "Find a way to increase that rate by 1%: for example, switch from a 1% fee mutual fund to a 0.03% index fund.",
+          "Recompute the doubling time and see how much time you shave off."
+        ]
+      },
+      {
+        "title": "Run a 'lazy portfolio' comparison",
+        "steps": [
+          "Use a compound interest calculator (e.g., Investor.gov).",
+          "Compare investing $100/month starting at age 25 vs. 35, assuming 7% annual return.",
+          "Observe the difference in total wealth at retirement age 65."
+        ]
+      },
+      {
+        "title": "Automate and forget",
+        "steps": [
+          "Set up a recurring investment into a low-cost index fund (e.g., VOO or VTI).",
+          "Choose an amount you won't miss (e.g., $50/month).",
+          "Do not check the account for at least one year. Let compounding work without interference."
+        ]
+      }
+    ],
+    "risk_notes": "Compounding works both ways—debt compounds too. Credit card interest can snowball into a financial avalanche. Also, chasing high returns can lead to losses that break the compounding chain. And don't forget inflation: if your returns don't outpace inflation, you're compounding in reverse. The psychological trap is believing past returns guarantee future ones.",
+    "sources": [
+      {
+        "title": "The Little Book of Common Sense Investing by John C. Bogle",
+        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
+      },
+      {
+        "title": "The Psychology of Money by Morgan Housel",
+        "url": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
+      }
+    ],
+    "meta": {
+      "id": "Power of compounding",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Time value of money",
+        "Annualized & compound returns"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "a38b4275-c073-4e37-933b-af51bd0292d5",
     "date": "2026-07-28",
     "topic": "Time Value of Money: Why a Dollar Today Is Worth More Than a Dollar Tomorrow",
@@ -3699,69 +3762,6 @@
       "related": [
         "Behavioral finance basics",
         "Financial wellness"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "f0530729-4070-4e0c-8e56-59bfbfcd80ab",
-    "date": "2026-05-24",
-    "topic": "Cash Flow: The Circulatory System of Your Finances",
-    "teaser": "Most millionaires are one missed rent payment away from bankruptcy. Here's why cash flow, not net worth, is your true financial pulse.",
-    "summary": "**Cash flow is the circulatory system of your finances.** Ignore it, and you’ll have a heart attack even if your net worth looks healthy. From first principles: cash flow is the net of income minus expenses over time. Positive means you're building a surplus; negative means you're burning through savings or debt. But here's the counterintuitive truth: cash flow is not about how much you earn, but how much you keep and how efficiently it works.\n\n**Why does this matter?** Most people obsess over net worth, but cash flow is what keeps you solvent day-to-day. Without positive cash flow, even a millionaire can go bankrupt if their assets are illiquid. Consider the tale of two investors: Alice, who has a $5 million net worth tied up in a single rental property with negative cash flow, and Bob, who has $500,000 in dividend stocks yielding 6% cash flow. Bob is wealthier in the only metric that matters: cash flow. He can survive a market crash; Alice cannot.\n\nThink of your finances as a living organism. Net worth is the body mass, but cash flow is the blood. You can have a lot of mass but if the blood stops flowing, you die. The wealthy understand this: they build assets that generate positive cash flow (rentals, dividends) and use debt for leverage, while the poor focus on salary and savings. Meanwhile, lifestyle inflation is a cash flow cancer—every dollar of fixed expense reduces your flexibility and increases your required income floor. The fix? Treat every expense as a liability that must be justified by its return on life.\n\nIn short, cash flow is a timing game, not a math game. You can be profitable on paper but insolvent if your inflows don't align with outflows. Master cash flow, and you master your financial life. The goal is not to maximize net worth, but to maximize the cash flow your net worth generates.",
-    "key_points": [
-      "Cash flow is not about how much you earn, but how much you keep and how efficiently it works. The rich don't earn more; they keep more and make their money work harder.",
-      "Net worth is a vanity metric; cash flow is a viability metric. A negative cash flow millionaire is poorer than a positive cash flow janitor.",
-      "Lifestyle inflation is a cash flow cancer, but the cure is not frugality—it's intentionality. Every dollar of fixed expense must earn its keep by enabling a better life."
-    ],
-    "practice": [
-      {
-        "title": "Track Your Cash Flow",
-        "steps": [
-          "Use a tool like YNAB or a simple spreadsheet to list every inflow and outflow for one month.",
-          "Categorize expenses into fixed (rent, subscriptions), variable (groceries, utilities), and discretionary (dining out, entertainment).",
-          "Calculate your net cash flow: income minus expenses. Aim for at least 20% surplus."
-        ]
-      },
-      {
-        "title": "Calculate Your Runway",
-        "steps": [
-          "Add up all your liquid savings (cash, checking, savings).",
-          "Divide by your total monthly expenses. The result is your runway in months.",
-          "Target a runway of at least 6 months to weather job loss or emergency."
-        ]
-      },
-      {
-        "title": "Conduct a Cash Flow Stress Test",
-        "steps": [
-          "Simulate a 20% drop in income or a major unexpected expense (e.g., $5,000 car repair).",
-          "Adjust your spending or build a buffer to handle the scenario without debt.",
-          "Re-evaluate your budget to ensure you can withstand the shock. If not, cut fixed expenses first."
-        ]
-      }
-    ],
-    "risk_notes": "Over-optimizing for cash flow can lead to excessive frugality or hoarding cash, missing out on growth opportunities. Also, cash flow management can become obsessive, causing anxiety over small fluctuations. The trap is treating cash flow as a scoreboard rather than a tool. Remember: cash flow is a means to an end, not the end itself.",
-    "sources": [
-      {
-        "title": "Your Money or Your Life",
-        "url": "https://www.amazon.com/Your-Money-Your-Life-Transforming/dp/0143119496"
-      },
-      {
-        "title": "The Simple Path to Wealth",
-        "url": "https://www.amazon.com/Simple-Path-Wealth-financial-independence/dp/1533667926"
-      }
-    ],
-    "meta": {
-      "id": "Cash-flow management",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Managing income and budgets",
-        "Working capital"
       ],
       "tags": [
         "Personal Finance Foundations",
