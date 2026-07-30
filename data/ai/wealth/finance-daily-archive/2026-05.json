@@ -1436,5 +1436,67 @@
         "入门"
       ]
     }
+  },
+  {
+    "id": "cc0dbe1c-0d07-4725-ab3c-dfec6393afde",
+    "date": "2026-05-25",
+    "topic": "The Psychology of Spending: How Every Dollar Shapes Your Future Self",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "**Spending isn't about buying things; it's about buying versions of yourself. Every dollar is a vote for the person you want to become.**\n\nDiocletian, a Roman emperor, tried to fix inflation by capping prices. Smart, right? Nope. Black markets exploded, goods vanished, and the economy tanked. He treated the symptom (rising prices) instead of the cause (debased currency). Sound familiar? We obsess over the 'latte factor' while ignoring the real budget killers: your car, your housing, your subscriptions. These are the silent, creeping expenses—the Boiling Frog effect. You don't notice the water heating until you're cooked.\n\nThen there's hedonic adaptation. You buy a new phone, feel great for a week, then back to baseline. That's the Experience Treadmill—running hard, going nowhere. The fix? Spend on experiences, not stuff. But the deepest lever is identity. If you see yourself as 'frugal,' you'll naturally avoid waste. If you see yourself as 'deserving,' you'll justify splurges. Change your self-image, and your spending follows.\n\nThe bottom line: Money is a tool, not a goal. Every purchase is a choice about who you want to be. Make those choices consciously.",
+    "key_points": [
+      "The 'Latte Factor' is a distraction. The real drain is 'big, invisible expenses'—your car, your housing, your subscriptions. These are the silent budget killers, not your daily latte. Mental model: The Boiling Frog—small, repeated costs escalate unnoticed until they consume your budget.",
+      "Hedonic adaptation makes every purchase a temporary happiness boost. Mental model: The Experience Treadmill—buying stuff to feel better is like running on a treadmill; you stay in the same place emotionally while spending money. Spend on experiences instead.",
+      "Your spending mirrors your identity. If you see yourself as 'frugal,' you'll naturally avoid waste. If you see yourself as 'deserving,' you'll justify splurges. Mental model: Identity-Based Spending—change your self-image, and your habits follow."
+    ],
+    "practice": [
+      {
+        "title": "The 24-Hour Rule",
+        "steps": [
+          "For any non-essential purchase over $100, wait 24 hours before buying.",
+          "Write down why you want it and how it aligns with your values.",
+          "Most impulse buys dissolve overnight."
+        ]
+      },
+      {
+        "title": "The Subscription Audit",
+        "steps": [
+          "List every subscription (streaming, apps, gym, etc.).",
+          "Ask: 'Would I re-subscribe at full price today?'",
+          "Cancel at least one immediately."
+        ]
+      },
+      {
+        "title": "The 'Cost Per Use' Calculation",
+        "steps": [
+          "For any planned purchase, use the 50-Use Rule: If you can't confidently estimate 50 uses, don't buy it.",
+          "For example, a $200 jacket you'll wear 100 times costs $2 per use—great. A $50 kitchen gadget you'll use twice costs $25 per use—skip it."
+        ]
+      }
+    ],
+    "risk_notes": "Mindset shifts can backfire when taken to extremes. Over-optimization leads to deprivation, which triggers binge spending. The 'frugal mindset' can become a scarcity mentality that prevents necessary investments (e.g., health, education). Also, focusing too much on small wins may blind you to large structural issues (e.g., career income growth). The trap: using mindset as a band-aid for systemic income problems.",
+    "sources": [
+      {
+        "title": "Your Money or Your Life by Vicki Robin",
+        "url": "https://www.yourmoneyoryourlife.com/"
+      },
+      {
+        "title": "I Will Teach You to Be Rich by Ramit Sethi",
+        "url": "https://www.iwillteachyoutoberich.com/"
+      }
+    ],
+    "meta": {
+      "id": "Mindset & spending habits",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Behavioral finance basics",
+        "Financial wellness"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
   }
 ]

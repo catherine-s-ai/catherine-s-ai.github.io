@@ -1,5 +1,68 @@
 [
   {
+    "id": "b54edb7e-b698-49c2-b6a4-c4b6ce3b2696",
+    "date": "2026-07-30",
+    "topic": "Cash Flow as a Vital Sign: Mastering the Rhythm of Money",
+    "teaser": "You're probably treating your money like a garden hose. But cash flow is actually your financial respiration—and you might be suffocating on your own income.",
+    "summary": "Most people think cash flow is a pipe: water in, water out. But it's actually like breathing—a constant, rhythmic exchange. Hyperventilate on spending, and you'll faint when an emergency hits. Breathe too shallowly (hoarding cash), and you'll miss the oxygen of opportunity.\n\nThe richest people don't have the most money; they have the most controlled flow. They've mastered the art of matching their spending velocity to their earning velocity. At first principles, cash flow management is simply **timing**—ensuring your outflows never outpace your inflows, and that surplus is directed toward assets that generate future inflows.\n\nWhy does this matter now? Inflation is a silent tax on cash. Unexpected expenses are a wrecking ball. Without rhythm, you're always one missed paycheck or broken water heater away from debt. A high earner with poor cash flow is a Ferrari with a leaky gas tank—impressive for a mile, then stranded. A modest earner with excellent cash flow is a reliable sedan that never runs out of fuel.\n\nHere's the uncomfortable truth: your cash flow is a **lagging indicator of your lifestyle design**. Your spending pattern reveals what you truly value, often contradicting your stated priorities. That gym membership you never use? That's a subscription to guilt, not fitness. The car payment that eats 15% of your income? That's a monument to status, not transportation.\n\nThe best investment you can make is not a stock or a crypto token—it's the ability to delay consumption. Positive cash flow gives you **optionality**: the power to walk away from bad deals, to say yes to opportunities without hesitation, to sleep soundly during a recession.\n\nSo stop obsessing over the latte. That's a distraction from the real leaks: rent that's 35% of your income, insurance premiums for coverage you don't need, subscriptions you forgot about. Fix the big holes in the bucket first. Your financial health depends on the rhythm of your cash flow, not the volume. Breathe steady.",
+    "key_points": [
+      "The 'Latte Factor' is a trap—it's like worrying about a leaky faucet while your roof is missing shingles. Focus on the big-ticket recurring outflows: housing, transportation, insurance, subscriptions. These are the structural drivers of your cash flow, not the $4 coffee.",
+      "Cash flow is a lagging indicator of your lifestyle design. Your spending pattern reveals your true priorities, often exposing a gap between what you say you value and what you actually fund. Want to know what someone cares about? Look at their bank statement, not their vision board.",
+      "The best investment you can make is not a stock or a cryptocurrency—it's the ability to delay consumption. Positive cash flow gives you optionality: the power to say no to bad deals and yes to life-changing opportunities. Cash flow is the raw material of financial freedom."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Runway",
+        "steps": [
+          "Total your liquid savings (checking, savings, money market).",
+          "Add up your monthly essential expenses (housing, food, utilities, debt minimums).",
+          "Divide savings by expenses to get months of runway. Aim for 6–12 months."
+        ]
+      },
+      {
+        "title": "Audit Your Last 3 Months of Spending",
+        "steps": [
+          "Download bank and credit card statements for the last 3 months.",
+          "Categorize every outflow into 'essential', 'nice-to-have', and 'waste'.",
+          "Identify the top 3 waste categories and create a plan to cut them by 50%."
+        ]
+      },
+      {
+        "title": "Build a Buffer Account",
+        "steps": [
+          "Open a separate high-yield savings account (the 'buffer').",
+          "Set a target of one month of essential expenses.",
+          "Automate a fixed percentage (e.g., 10%) of every paycheck into the buffer before paying any bills."
+        ]
+      }
+    ],
+    "risk_notes": "Over-optimization of cash flow can lead to miserliness and missed life experiences. Also, focusing too much on cash flow might cause you to ignore long-term investments that require upfront cash but yield high returns later. Psychological trap: the 'scarcity mindset' where you hoard cash and fear spending, even on necessities.",
+    "sources": [
+      {
+        "title": "Rich Dad Poor Dad by Robert Kiyosaki",
+        "url": "https://www.richdad.com/"
+      },
+      {
+        "title": "I Will Teach You to Be Rich by Ramit Sethi",
+        "url": "https://www.iwillteachyoutoberich.com/"
+      }
+    ],
+    "meta": {
+      "id": "Cash-flow management",
+      "category": "Personal Finance Foundations",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Managing income and budgets",
+        "Working capital"
+      ],
+      "tags": [
+        "Personal Finance Foundations",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "ec25b372-22bb-42d9-a077-e411f3cd8b98",
     "date": "2026-07-29",
     "topic": "The Power of Compounding",
@@ -3700,68 +3763,6 @@
       "related": [
         "Consumer rights",
         "Online safety"
-      ],
-      "tags": [
-        "Personal Finance Foundations",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "cc0dbe1c-0d07-4725-ab3c-dfec6393afde",
-    "date": "2026-05-25",
-    "topic": "The Psychology of Spending: How Every Dollar Shapes Your Future Self",
-    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
-    "summary": "**Spending isn't about buying things; it's about buying versions of yourself. Every dollar is a vote for the person you want to become.**\n\nDiocletian, a Roman emperor, tried to fix inflation by capping prices. Smart, right? Nope. Black markets exploded, goods vanished, and the economy tanked. He treated the symptom (rising prices) instead of the cause (debased currency). Sound familiar? We obsess over the 'latte factor' while ignoring the real budget killers: your car, your housing, your subscriptions. These are the silent, creeping expenses—the Boiling Frog effect. You don't notice the water heating until you're cooked.\n\nThen there's hedonic adaptation. You buy a new phone, feel great for a week, then back to baseline. That's the Experience Treadmill—running hard, going nowhere. The fix? Spend on experiences, not stuff. But the deepest lever is identity. If you see yourself as 'frugal,' you'll naturally avoid waste. If you see yourself as 'deserving,' you'll justify splurges. Change your self-image, and your spending follows.\n\nThe bottom line: Money is a tool, not a goal. Every purchase is a choice about who you want to be. Make those choices consciously.",
-    "key_points": [
-      "The 'Latte Factor' is a distraction. The real drain is 'big, invisible expenses'—your car, your housing, your subscriptions. These are the silent budget killers, not your daily latte. Mental model: The Boiling Frog—small, repeated costs escalate unnoticed until they consume your budget.",
-      "Hedonic adaptation makes every purchase a temporary happiness boost. Mental model: The Experience Treadmill—buying stuff to feel better is like running on a treadmill; you stay in the same place emotionally while spending money. Spend on experiences instead.",
-      "Your spending mirrors your identity. If you see yourself as 'frugal,' you'll naturally avoid waste. If you see yourself as 'deserving,' you'll justify splurges. Mental model: Identity-Based Spending—change your self-image, and your habits follow."
-    ],
-    "practice": [
-      {
-        "title": "The 24-Hour Rule",
-        "steps": [
-          "For any non-essential purchase over $100, wait 24 hours before buying.",
-          "Write down why you want it and how it aligns with your values.",
-          "Most impulse buys dissolve overnight."
-        ]
-      },
-      {
-        "title": "The Subscription Audit",
-        "steps": [
-          "List every subscription (streaming, apps, gym, etc.).",
-          "Ask: 'Would I re-subscribe at full price today?'",
-          "Cancel at least one immediately."
-        ]
-      },
-      {
-        "title": "The 'Cost Per Use' Calculation",
-        "steps": [
-          "For any planned purchase, use the 50-Use Rule: If you can't confidently estimate 50 uses, don't buy it.",
-          "For example, a $200 jacket you'll wear 100 times costs $2 per use—great. A $50 kitchen gadget you'll use twice costs $25 per use—skip it."
-        ]
-      }
-    ],
-    "risk_notes": "Mindset shifts can backfire when taken to extremes. Over-optimization leads to deprivation, which triggers binge spending. The 'frugal mindset' can become a scarcity mentality that prevents necessary investments (e.g., health, education). Also, focusing too much on small wins may blind you to large structural issues (e.g., career income growth). The trap: using mindset as a band-aid for systemic income problems.",
-    "sources": [
-      {
-        "title": "Your Money or Your Life by Vicki Robin",
-        "url": "https://www.yourmoneyoryourlife.com/"
-      },
-      {
-        "title": "I Will Teach You to Be Rich by Ramit Sethi",
-        "url": "https://www.iwillteachyoutoberich.com/"
-      }
-    ],
-    "meta": {
-      "id": "Mindset & spending habits",
-      "category": "Personal Finance Foundations",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Behavioral finance basics",
-        "Financial wellness"
       ],
       "tags": [
         "Personal Finance Foundations",
