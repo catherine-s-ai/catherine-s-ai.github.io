@@ -1,5 +1,67 @@
 [
   {
+    "id": "d556deab-1486-43c5-b216-156253176a6d",
+    "date": "2026-08-02",
+    "topic": "Assets vs. Liabilities: The Cash-Flow Mindset",
+    "teaser": "The richest man in Babylon didn't count gold; he counted sheep. Are you counting the wrong things?",
+    "summary": "The richest man in Babylon didn't count his gold coins; he counted his income-producing sheep. In modern terms, your true wealth isn't what you own—it's what your assets own for you. This ancient wisdom holds a timeless truth: **an asset is something that puts money in your pocket, regardless of whether you work. A liability is something that takes money out of your pocket, regardless of whether you work.** Stripped to first principles, it's not about the object itself, but its net effect on your cash flow over time.\n\nIn an era of inflation and economic uncertainty, your financial survival depends on shifting from a 'stuff' mindset to a 'flow' mindset. Every purchase you make today either builds a future income stream or creates a future expense. The gap between those two determines your net worth and your freedom. Consider the 'House Illusion': your primary residence is not an asset unless it generates income. The moment you pay a mortgage, property tax, and maintenance, it's a liability. The equity is a potential asset, but only when realized—and until then, it's a cost center.\n\nSimilarly, the 'Liability Trap' catches many: a car that depreciates and requires insurance, fuel, and repairs is a liability, even if it's fully paid off. The same goes for a boat, a vacation home, or a luxury watch. The question is: does it generate cash or consume it? And the 'Zero-Sum Mistake' reveals that assets and liabilities are not opposites but two ends of a spectrum. A rental property is an asset when it produces positive cash flow, but a liability when it's vacant or needs repairs. Classification is dynamic, not static.\n\nYour mission: stop counting what you own, and start counting what your assets own for you. This shift in perspective is the first step toward true financial freedom.",
+    "key_points": [
+      "The 'House' Illusion: Your primary residence is not an asset unless it generates income. The moment you pay a mortgage, property tax, and maintenance, it's a liability. The equity is a potential asset, but only when realized—and until then, it's a cost center.",
+      "The 'Liability' Trap: Some things that feel like assets are actually liabilities in disguise. A car that depreciates and requires insurance, fuel, and repairs is a liability, even if it's fully paid off. The same goes for a boat, a vacation home, or a luxury watch. The question is: does it generate cash or consume it?",
+      "The 'Zero-Sum' Mistake: People often think of assets and liabilities as opposites, but they are two ends of a spectrum. A single item can be both—a rental property is an asset when it produces positive cash flow, but a liability when it's vacant or needs repairs. The classification is dynamic, not static."
+    ],
+    "practice": [
+      {
+        "title": "Classify Your Top 10 Possessions",
+        "steps": [
+          "List your top 10 possessions (by value or importance).",
+          "For each, estimate the monthly cash inflow or outflow (e.g., rental income, maintenance, insurance).",
+          "Classify each as asset (positive cash flow) or liability (negative cash flow).",
+          "Total the monthly inflows and outflows to create your personal cash-flow statement."
+        ]
+      },
+      {
+        "title": "Track Your Spending for a Month",
+        "steps": [
+          "Record every expense for one month (use an app or spreadsheet).",
+          "For each expense, ask: 'Did this purchase create an asset or a liability?'",
+          "Categorize each expense as asset-building or liability-creating.",
+          "Calculate the percentage of your income that goes to liabilities vs. assets."
+        ]
+      },
+      {
+        "title": "Reverse Budget: Eliminate a Liability",
+        "steps": [
+          "Choose one recurring liability (e.g., a subscription, a car payment).",
+          "Calculate the annual cost of that liability.",
+          "Using a 4% withdrawal rate, determine the asset amount needed to cover that cost forever (annual cost / 0.04).",
+          "Work backward: set a savings goal to acquire that asset and eliminate the liability."
+        ]
+      }
+    ],
+    "risk_notes": "The asset-liability framework can be weaponized for rationalization. People often call their expensive toys 'assets' because they might appreciate someday. The trap is the 'potential'—an asset only becomes an asset when it produces cash. Also, obsessing over cash flow can lead to neglecting net worth growth. A low-yield asset that appreciates might be better than a high-cash-flow asset that depreciates. The framework is a lens, not a law.",
+    "sources": [
+      {
+        "title": "Rich Dad Poor Dad",
+        "url": "https://www.richdad.com/"
+      }
+    ],
+    "meta": {
+      "id": "Assets vs. liabilities",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Balance sheet",
+        "Net worth"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "b8a5691a-f7f5-4ec6-8843-b29a436ab488",
     "date": "2026-08-01",
     "topic": "The Emotional Physics of Fraud: Why Smart People Get Scammed",
@@ -3688,71 +3750,6 @@
       "related": [
         "Savings account",
         "Checking account"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "d2e6f37a-5205-494c-9ec2-7271eaf10018",
-    "date": "2026-05-28",
-    "topic": "Balance Sheet vs. Cash Flow: The Photo and the Movie of Your Financial Life",
-    "teaser": "I once met a millionaire who couldn't pay his electric bill. His balance sheet was stunning. His cash flow? Zero.",
-    "summary": "I once met a millionaire who couldn't pay his electric bill. He owned a paid-off house worth $2 million, a vintage car collection, and a stock portfolio. But his cash flow was zero. He had to borrow from a friend to keep the lights on. That's when I learned: the balance sheet is a photograph—a frozen moment of supposed wealth. The cash-flow statement is the movie—the real story of how money moves.\n\nMost people fixate on the photo. They check their net worth quarterly and feel rich. But the movie reveals the plot: Are you generating enough cash to live? Can you survive a layoff? The balance sheet tells you what you own; the cash flow tells you if you can keep it.\n\nWhy do profitable businesses go bankrupt? Because profit is an opinion—subject to accounting estimates—while cash is a fact. You can't pay bills with accruals. In personal finance, your salary is your operating cash flow. Your investments are your investing cash flow. Your debt payments are financing cash flow. Ignore any of these, and you're watching a silent film with no subtitles.\n\nHere's the counterintuitive truth: A high net worth with negative cash flow is a ticking time bomb. Assets on your balance sheet are only valuable if they generate cash—or if you can sell them. A rental property that bleeds cash monthly is a liability, not an asset. Your cash-flow statement is the ultimate truth teller: it exposes your spending habits and saving discipline, no matter how you rationalize them.\n\nTo master your finances, you must watch both the photo and the movie. The balance sheet gives you a snapshot of wealth; the cash flow statement reveals the story of how you build—or destroy—that wealth over time. And remember: the millionaire with the unpaid bill learned this the hard way. Don't be that millionaire.",
-    "key_points": [
-      "Profit is an opinion; cash is a fact. Accounting rules can make profit look good while cash drains away.",
-      "A high net worth with negative cash flow is a ticking time bomb. You can be asset-rich and cash-poor, one missed paycheck from disaster.",
-      "Your personal cash-flow statement is the ultimate truth teller: it exposes your spending habits and saving discipline, no matter how you rationalize them.",
-      "Overemphasis on cash flow can lead to hoarding cash and missing investment opportunities; both statements must be read together."
-    ],
-    "practice": [
-      {
-        "title": "Create a Personal Balance Sheet",
-        "steps": [
-          "List all assets: cash, investments, home, car, etc.",
-          "List all liabilities: credit cards, loans, mortgage, etc.",
-          "Calculate net worth: total assets minus total liabilities.",
-          "Update quarterly to track progress."
-        ]
-      },
-      {
-        "title": "Track Your Cash Flow for One Month",
-        "steps": [
-          "Record every dollar coming in (income) and going out (expenses).",
-          "Categorize expenses: housing, food, transportation, entertainment, etc.",
-          "Compare actual spending to your budget. Identify variances.",
-          "Identify one 'leak' to plug (e.g., unused subscriptions, dining out).",
-          "Set a goal to reduce that leak by 20% next month."
-        ]
-      },
-      {
-        "title": "Simulate a 3-Month Income Loss",
-        "steps": [
-          "Assume your income drops to zero for three months.",
-          "List essential expenses you must cover (rent, food, utilities, etc.).",
-          "Calculate how long your current assets (cash, investments) can sustain you.",
-          "Adjust your emergency fund to cover at least 3-6 months of essential expenses.",
-          "After the simulation, identify one behavior change you will make (e.g., cut discretionary spending, increase savings rate)."
-        ]
-      }
-    ],
-    "risk_notes": "Overemphasis on cash flow can lead to hoarding cash and missing investment opportunities. The balance sheet may look weak if you have high liabilities for growth (e.g., student loans for a high-paying degree). Both statements must be read together; focusing on one can mislead.",
-    "sources": [
-      {
-        "title": "The Interpretation of Financial Statements by Benjamin Graham",
-        "url": "https://www.harpercollins.com/products/the-intelligent-investor-benjamin-graham?variant=32122886684710"
-      }
-    ],
-    "meta": {
-      "id": "Balance sheet & cash-flow statement",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Financial statements",
-        "Financial ratios"
       ],
       "tags": [
         "Basic Financial Knowledge",
