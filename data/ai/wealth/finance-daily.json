@@ -1,5 +1,81 @@
 [
   {
+    "id": "e67c05f6-a2e4-4829-9075-ebd0abcfcb7c",
+    "date": "2026-08-03",
+    "topic": "Balance Sheet vs. Cash Flow: Why Your Net Worth Is a Lie and Cash Is the Truth",
+    "teaser": "Your net worth is a frozen selfie; your cash flow is the live feed. Why the richest-looking people are often the most fragile.",
+    "summary": "Picture your finances as a living organism. The **balance sheet** is the skeleton—a static snapshot of what you own and owe, frozen at a moment in time. The **cash-flow statement** is the bloodstream—the ceaseless, life-giving movement of cash that keeps the organism alive. Most people admire the skeleton in the mirror, ignoring the blood, and wonder why they collapse when the economy sneezes.\n\nThe balance sheet is a snapshot of assets, liabilities, and equity at a specific point in time, governed by the equation: **Assets = Liabilities + Equity**. It tells you what you have, but not how you got there or where you're going. The cash-flow statement, on the other hand, records the actual inflows and outflows of cash over a period, segmented into **operating, investing, and financing activities**. This is the movie of your financial life—the plot twists of income, the cliffhangers of expenses, and the surprise cameos of debt payments.\n\nFirst principles: wealth is not a number on a spreadsheet; it's the ability to sustain your lifestyle and seize opportunities. The balance sheet can be a liar—assets overvalued, liabilities hidden, equity inflated by market whims. Cash flow, however, is brutally honest. It shows whether your income truly covers your outgoings, whether your business generates real cash or just paper profits, and whether you're one missed paycheck from disaster. In an era of rising interest rates and inflation, your net worth might look stellar—your house appreciated, your 401(k) is up—but if your cash flow is negative, you're a high-net-worth pauper, forced to sell assets at the worst possible time to pay the electric bill.\n\nConsider the dot-com bubble: companies with billion-dollar valuations and zero cash flow went bankrupt overnight. Or the 2008 housing crisis: homeowners with soaring net worths were foreclosed on because their cash flow couldn't handle adjustable-rate mortgages. The lesson is timeless: **liquidity is power**. A profitable business can go bankrupt if it runs out of cash, and a high-net-worth individual can be financially paralyzed if their assets are illiquid. The balance sheet shows you the mountain; the cash flow statement shows you whether you can climb it without suffocating.\n\nSo, don't be seduced by the static numbers. Dive into the dynamic flow of cash, because that's where your financial life truly resides. Your net worth is a lie if it's not backed by a healthy cash flow. The truth is in the flow.",
+    "key_points": [
+      "Wealth is a stock, not a flow. Your balance sheet is a stock (what you have), your cash flow is a flow (what you earn and spend). You can be rich on paper and poor in cash—and vice versa. The stock is a snapshot; the flow is the story.",
+      "The balance sheet can lie; cash flow tells the truth. Assets can be overvalued, liabilities hidden, but cash flow is hard to fake. It reveals the actual ability to generate and manage cash, cutting through accounting gimmicks.",
+      "Liquidity is power. A profitable business can go bankrupt if it runs out of cash. Personal finance is the same: you can have high net worth but be illiquid, forcing you to sell assets at bad times. Cash flow is the oxygen of your financial life.",
+      "The timing and sustainability of cash flows often matter more than the static picture of net worth. A positive cash flow over time builds true wealth, while a negative cash flow erodes even the most impressive balance sheet.",
+      "The balance sheet is a lagging indicator; cash flow is a leading one. You can't change the past, but you can influence the future by managing your cash flow today."
+    ],
+    "practice": [
+      {
+        "title": "Build Your Personal Balance Sheet",
+        "steps": [
+          "List all your assets: cash, investments, property, retirement accounts, etc. Use current market values, not purchase prices.",
+          "List all your liabilities: mortgage, loans, credit card debt, etc. Include the interest rates and minimum payments.",
+          "Compute your net worth: Assets - Liabilities. Do it now, not later. This is your baseline.",
+          "Set a target: aim to increase your net worth by 10% annually, driven by positive cash flow."
+        ]
+      },
+      {
+        "title": "Track Your Cash Flow for 30 Days",
+        "steps": [
+          "Record every dollar in and out for the next 30 days. Use a simple spreadsheet or app like Mint or YNAB.",
+          "Categorize transactions into operating (income/expenses), investing (purchases/sales of assets), and financing (debt payments/borrowing).",
+          "At the end of the month, calculate your net cash flow and identify patterns. Are you spending more than you earn? Are you investing enough?",
+          "Use the 50/30/20 rule as a benchmark: 50% needs, 30% wants, 20% savings/investing. Adjust to your situation."
+        ]
+      },
+      {
+        "title": "Stress-Test Your Cash Flow",
+        "steps": [
+          "Imagine you lost your job for 6 months. How many months of expenses could you cover with liquid assets (cash, savings, easily sold investments)?",
+          "If it's less than 6 months, start building a cash buffer immediately. Aim for 6-12 months of expenses in a high-yield savings account.",
+          "Revisit this stress test quarterly to ensure your liquidity remains robust. Adjust your savings rate if needed.",
+          "Also, test for a 20% drop in your investment portfolio. Can you still meet your obligations without selling at a loss?"
+        ]
+      },
+      {
+        "title": "Create a Cash Flow Forecast",
+        "steps": [
+          "Project your income and expenses for the next 3 months, including irregular expenses like insurance premiums or car repairs.",
+          "Identify any periods of negative cash flow and plan for them by building a buffer or adjusting spending.",
+          "Review your forecast monthly to improve accuracy and adapt to changes."
+        ]
+      }
+    ],
+    "risk_notes": "The trap is over-optimizing for cash flow at the expense of long-term wealth. For example, hoarding cash to avoid negative cash flow can cause you to miss investment opportunities. Also, the balance sheet can be manipulated by aggressive accounting (e.g., overvaluing assets), and cash flow can be gamed by timing (e.g., delaying payables). Psychologically, people focus on the balance sheet because it's a static number that feels controllable, but they ignore cash flow because it's messy and dynamic. This leads to a false sense of security or panic. Remember: the goal is not to maximize net worth at any cost, but to build a resilient financial life that can weather storms and seize opportunities.",
+    "sources": [
+      {
+        "title": "The Interpretation of Financial Statements",
+        "url": "https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135"
+      },
+      {
+        "title": "Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports",
+        "url": "https://www.amazon.com/Financial-Statements-Step-Step-Understanding/dp/1601630232"
+      }
+    ],
+    "meta": {
+      "id": "Balance sheet & cash-flow statement",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Financial statements",
+        "Financial ratios"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "d556deab-1486-43c5-b216-156253176a6d",
     "date": "2026-08-02",
     "topic": "Assets vs. Liabilities: The Cash-Flow Mindset",
@@ -3690,66 +3766,6 @@
       "related": [
         "Inflation & purchasing power",
         "Fixed income"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "651a4374-8543-47d0-897e-3dc324de56b8",
-    "date": "2026-05-29",
-    "topic": "Checking vs. Savings: The Liquidity Tax You Didn't Know You Were Paying",
-    "teaser": "Your checking account is a leaky bucket. Here's how to plug the holes and earn hundreds in interest.",
-    "summary": "Imagine you have two buckets: one with a hole at the bottom, the other sealed tight. You fill the leaky bucket to the brim every day, watching water trickle out, while the sealed bucket sits empty. That's your checking account versus your savings account. Most people keep their money in the leaky bucket—checking—because it's convenient. But convenience comes at a cost: inflation silently drains your purchasing power. In 2022, with inflation at 9%, a dollar in a 0% checking account lost 9% of its value. Meanwhile, a high-yield savings account (HYSA) paid 4-5%, cutting that loss in half. The difference is the 'convenience tax': the price you pay for instant access. The fix is simple: keep just enough in checking to cover immediate bills (1-2 months of expenses), and move the rest to a HYSA. That small shift can earn you hundreds per year, with only a minor inconvenience—like a 6-withdrawal-per-month limit. Think of it as paying yourself a 'liquidity premium' instead of a tax.",
-    "key_points": [
-      "**Liquidity is a tax, not a feature**: The ease of spending from checking is a hidden cost. Every dollar you keep there earns nothing while inflation eats away at it. A HYSA with 4.5% APY on $10,000 earns $450 per year—that's the opportunity cost of convenience. But don't just think of it as lost interest; think of it as a 'convenience tax' that compounds over time. The real insight: liquidity is a spectrum. Cash in your wallet is 100% liquid but earns 0%. A 1-year CD is 90% liquid but earns 5%. By matching your liquidity to your spending horizon, you can capture higher returns without sacrificing safety.",
-      "**The 'pay yourself first' trap is a cognitive illusion**: Automating transfers to savings is great, but if you treat savings as a slush fund, you're just moving money from one leaky bucket to another. The mental model is 'bucketing': assign each dollar a job. Your 'emergency fund' bucket should be off-limits except for true crises (job loss, medical emergency). Your 'sinking fund' bucket is for planned expenses (car repair, vacation). Your 'investment' bucket is for long-term growth. By separating these mentally and physically, you reduce the temptation to raid savings for everyday wants. The real practice: set up separate accounts for each goal, and automate transfers. Then forget they exist.",
-      "**Banking products are not investments; they are capital preservation vehicles**: Even the best savings account barely keeps pace with inflation. In the long run, stocks and bonds are the engines of wealth. But don't confuse safety with growth. Many people hoard cash in savings because they fear market volatility, not realizing that inflation is a slower, more insidious thief. The first principle: money has a time horizon. For money needed in <2 years, use savings or CDs. For 2-5 years, use short-term bonds. For >5 years, invest in stocks. The tax you pay for safety is lost growth. The wisdom is to accept that risk is the price of return."
-    ],
-    "practice": [
-      {
-        "title": "Audit Your Accounts",
-        "steps": [
-          "Log into your bank and check the interest rate on your checking and savings.",
-          "If your checking pays <0.1% and savings <0.5%, open a HYSA (e.g., Ally Bank at 4.25% APY, Marcus by Goldman Sachs at 4.15% APY) and move all but 1-2 months of expenses there."
-        ]
-      },
-      {
-        "title": "Set Up a 'Savings Moat'",
-        "steps": [
-          "Create a rule that you can only withdraw from savings for true emergencies (job loss, medical bills) or planned large purchases (car, down payment).",
-          "For everything else, use checking. Track your withdrawals for 3 months—you'll be shocked how many are avoidable."
-        ]
-      },
-      {
-        "title": "Simulate the Cost of Liquidity",
-        "steps": [
-          "Calculate how much interest you lost last year by keeping too much in checking.",
-          "Formula: (average checking balance - 1 month expenses) * (HYSA rate - checking rate). That's your 'convenience tax'. For example, $5,000 extra in checking at 0% vs 4.25% HYSA = $212.50 lost."
-        ]
-      }
-    ],
-    "risk_notes": "Over-optimizing for interest can backfire. If you keep too little in checking, you risk overdraft fees ($35 per transaction) or bounced payments, which can damage credit. Also, HYSA rates are variable—they can drop quickly when the Fed cuts rates. Finally, some people become obsessed with 'chasing yield', opening multiple accounts and losing track of their money, leading to missed payments or fraud.",
-    "sources": [
-      {
-        "title": "The Simple Path to Wealth",
-        "url": "https://jlcollinsnh.com/book/"
-      },
-      {
-        "title": "FDIC: Deposit Insurance",
-        "url": "https://www.fdic.gov/deposit/deposits/"
-      }
-    ],
-    "meta": {
-      "id": "Common banking products",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Savings account",
-        "Checking account"
       ],
       "tags": [
         "Basic Financial Knowledge",

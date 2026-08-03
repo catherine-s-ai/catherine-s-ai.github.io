@@ -1698,5 +1698,65 @@
         "入门"
       ]
     }
+  },
+  {
+    "id": "651a4374-8543-47d0-897e-3dc324de56b8",
+    "date": "2026-05-29",
+    "topic": "Checking vs. Savings: The Liquidity Tax You Didn't Know You Were Paying",
+    "teaser": "Your checking account is a leaky bucket. Here's how to plug the holes and earn hundreds in interest.",
+    "summary": "Imagine you have two buckets: one with a hole at the bottom, the other sealed tight. You fill the leaky bucket to the brim every day, watching water trickle out, while the sealed bucket sits empty. That's your checking account versus your savings account. Most people keep their money in the leaky bucket—checking—because it's convenient. But convenience comes at a cost: inflation silently drains your purchasing power. In 2022, with inflation at 9%, a dollar in a 0% checking account lost 9% of its value. Meanwhile, a high-yield savings account (HYSA) paid 4-5%, cutting that loss in half. The difference is the 'convenience tax': the price you pay for instant access. The fix is simple: keep just enough in checking to cover immediate bills (1-2 months of expenses), and move the rest to a HYSA. That small shift can earn you hundreds per year, with only a minor inconvenience—like a 6-withdrawal-per-month limit. Think of it as paying yourself a 'liquidity premium' instead of a tax.",
+    "key_points": [
+      "**Liquidity is a tax, not a feature**: The ease of spending from checking is a hidden cost. Every dollar you keep there earns nothing while inflation eats away at it. A HYSA with 4.5% APY on $10,000 earns $450 per year—that's the opportunity cost of convenience. But don't just think of it as lost interest; think of it as a 'convenience tax' that compounds over time. The real insight: liquidity is a spectrum. Cash in your wallet is 100% liquid but earns 0%. A 1-year CD is 90% liquid but earns 5%. By matching your liquidity to your spending horizon, you can capture higher returns without sacrificing safety.",
+      "**The 'pay yourself first' trap is a cognitive illusion**: Automating transfers to savings is great, but if you treat savings as a slush fund, you're just moving money from one leaky bucket to another. The mental model is 'bucketing': assign each dollar a job. Your 'emergency fund' bucket should be off-limits except for true crises (job loss, medical emergency). Your 'sinking fund' bucket is for planned expenses (car repair, vacation). Your 'investment' bucket is for long-term growth. By separating these mentally and physically, you reduce the temptation to raid savings for everyday wants. The real practice: set up separate accounts for each goal, and automate transfers. Then forget they exist.",
+      "**Banking products are not investments; they are capital preservation vehicles**: Even the best savings account barely keeps pace with inflation. In the long run, stocks and bonds are the engines of wealth. But don't confuse safety with growth. Many people hoard cash in savings because they fear market volatility, not realizing that inflation is a slower, more insidious thief. The first principle: money has a time horizon. For money needed in <2 years, use savings or CDs. For 2-5 years, use short-term bonds. For >5 years, invest in stocks. The tax you pay for safety is lost growth. The wisdom is to accept that risk is the price of return."
+    ],
+    "practice": [
+      {
+        "title": "Audit Your Accounts",
+        "steps": [
+          "Log into your bank and check the interest rate on your checking and savings.",
+          "If your checking pays <0.1% and savings <0.5%, open a HYSA (e.g., Ally Bank at 4.25% APY, Marcus by Goldman Sachs at 4.15% APY) and move all but 1-2 months of expenses there."
+        ]
+      },
+      {
+        "title": "Set Up a 'Savings Moat'",
+        "steps": [
+          "Create a rule that you can only withdraw from savings for true emergencies (job loss, medical bills) or planned large purchases (car, down payment).",
+          "For everything else, use checking. Track your withdrawals for 3 months—you'll be shocked how many are avoidable."
+        ]
+      },
+      {
+        "title": "Simulate the Cost of Liquidity",
+        "steps": [
+          "Calculate how much interest you lost last year by keeping too much in checking.",
+          "Formula: (average checking balance - 1 month expenses) * (HYSA rate - checking rate). That's your 'convenience tax'. For example, $5,000 extra in checking at 0% vs 4.25% HYSA = $212.50 lost."
+        ]
+      }
+    ],
+    "risk_notes": "Over-optimizing for interest can backfire. If you keep too little in checking, you risk overdraft fees ($35 per transaction) or bounced payments, which can damage credit. Also, HYSA rates are variable—they can drop quickly when the Fed cuts rates. Finally, some people become obsessed with 'chasing yield', opening multiple accounts and losing track of their money, leading to missed payments or fraud.",
+    "sources": [
+      {
+        "title": "The Simple Path to Wealth",
+        "url": "https://jlcollinsnh.com/book/"
+      },
+      {
+        "title": "FDIC: Deposit Insurance",
+        "url": "https://www.fdic.gov/deposit/deposits/"
+      }
+    ],
+    "meta": {
+      "id": "Common banking products",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Savings account",
+        "Checking account"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
   }
 ]
