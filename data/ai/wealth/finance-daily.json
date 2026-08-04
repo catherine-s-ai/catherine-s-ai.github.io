@@ -1,5 +1,68 @@
 [
   {
+    "id": "e489bad9-3443-4463-9c72-f1c290accbd1",
+    "date": "2026-08-04",
+    "topic": "Banking Basics: Savings vs. Checking Accounts",
+    "teaser": "Your bank is a time machine—but it's rigged. Learn how to stop paying for the privilege of lending them money.",
+    "summary": "Imagine you have a time machine. You could send money back to your past self to cover that stupid speeding ticket, or borrow from your future self to buy that shiny new gadget. But here's the catch: every time you use it, the machine charges you a toll. And the toll is designed to bleed you dry.\n\nYour bank is that time machine. It's not a vault; it's a toll booth. Every dollar you keep in a checking account is a dollar you're lending to the bank, and they pay you nothing for it. Meanwhile, they take that money, lend it to someone else at 20% interest, and pocket the difference. You're not a customer; you're a supplier. And you're paying them for the privilege.\n\nLet's get concrete. Say you keep $5,000 in your checking account because it feels safe. That's $5,000 earning 0% interest. If you moved it to a high-yield savings account earning 4%, you'd make $200 a year. That's $200 you're throwing away—equivalent to a 4% fee on your first $5,000. Would you pay a 4% fee to use your checking account? Of course not. But you are, every single day.\n\nAnd what about savings accounts? They're not investments; they're insurance. The real risk isn't that inflation eats your returns—it's that you lose access to cash when you need it most. That's the whole game. Your emergency fund isn't there to make you rich; it's there to keep you from going broke. Treat it like a life raft, not a yacht.\n\nHere's the kicker: your bank is not your friend. It's a for-profit business that profits every time you forget to read the fine print. Overdraft fees, minimum balance requirements, 'free' checking with strings attached—these aren't accidents. They're engineered to extract money from your inertia. The average American pays $200 a year in bank fees. That's $200 you could be investing, or spending on tacos.\n\nBut here's the good news: you can flip the script. Audit your accounts, set up a two-account system, and automate your savings. Stop paying the toll. Make the time machine work for you.\n\nLet's dive in.",
+    "key_points": [
+      "The real cost of a checking account isn't the monthly fee—it's the opportunity cost of idle cash. If you keep $5,000 in checking earning 0% instead of a HYSA earning 4%, you're losing $200 a year, which is equivalent to a 4% fee on the first $5,000.",
+      "Savings accounts are not investments; they are insurance against uncertainty. The real risk isn't losing money to inflation, but losing access to cash when you need it most.",
+      "Banks are not utilities; they are for-profit businesses engineered to profit from your inertia. Overdraft fees, minimum balance requirements, and 'free' checking with strings attached are all designed to extract fees. Read the fine print—it's a contract, not a courtesy."
+    ],
+    "practice": [
+      {
+        "title": "Audit your accounts",
+        "steps": [
+          "List all fees you've paid in the last 12 months on your checking and savings accounts.",
+          "Calculate the total and compare it to the interest you earned. If your fees exceed 1% of your average balance, you're overpaying.",
+          "Switch to a no-fee online bank or credit union if you're overpaying."
+        ]
+      },
+      {
+        "title": "Set up a two-account system",
+        "steps": [
+          "Keep exactly 1.5 months of expenses in your checking account for bills and daily spending—not 1 or 2—to balance liquidity and yield.",
+          "Move the rest to a high-yield savings account (HYSA) to earn interest while keeping it accessible.",
+          "Review your monthly expenses to determine the right amount to keep in checking."
+        ]
+      },
+      {
+        "title": "Automate your savings",
+        "steps": [
+          "Set up an automatic transfer to a separate 'savings goal' account on payday—this avoids the temptation to spend.",
+          "Treat it as a non-negotiable bill.",
+          "This 'pay yourself first' approach ensures you build a buffer without relying on willpower. Set a monthly review checklist to track your progress."
+        ]
+      }
+    ],
+    "risk_notes": "The shadow side is complacency. Banks rely on customer inertia—most people never switch accounts, even when better options exist. Also, the convenience of checking accounts can lead to overspending because money feels 'available.' And savings accounts, while safe, can lull you into a false sense of security if you keep too much cash, missing out on higher returns from investments. Finally, beware of 'high-yield' savings accounts with teaser rates that drop after a few months.",
+    "sources": [
+      {
+        "title": "The Simple Path to Wealth by JL Collins",
+        "url": "https://jlcollinsnh.com/books/"
+      },
+      {
+        "title": "FDIC's Guide to Bank Deposits",
+        "url": "https://www.fdic.gov/resources/deposit-insurance/brochures/deposits-at-a-glance/"
+      }
+    ],
+    "meta": {
+      "id": "Common banking products",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Savings account",
+        "Checking account"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "e67c05f6-a2e4-4829-9075-ebd0abcfcb7c",
     "date": "2026-08-03",
     "topic": "Balance Sheet vs. Cash Flow: Why Your Net Worth Is a Lie and Cash Is the Truth",
@@ -3703,69 +3766,6 @@
       "related": [
         "Stocks",
         "Bonds"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "945763fb-2e88-453c-b4a0-a889a0b4df8b",
-    "date": "2026-05-30",
-    "topic": "Understanding Interest Rates: The Silent Tax or Bonus on Your Cash",
-    "teaser": "In 1981, a CD paid 16%. Today, 5%. But in 2022, inflation ate 9.1%. Are your savings actually growing?",
-    "summary": "**Interest rates are the 'price of time'**—the cost of borrowing or reward for lending money, expressed as a percentage per year. From first principles: money today is worth more than the same amount in the future due to opportunity cost and inflation. The interest rate is the market's equilibrium between savers' desire to defer consumption and borrowers' need for immediate capital.\n\nBut most people treat rates like a random number on a bank sign. In 1981, a 1-year CD yielded 16%; today it's around 5%. The same 'safe' deposit lost you **9% real purchasing power** in 2022 when inflation hit 9.1%. Rates aren't boring—they're the silent tax or bonus on your cash.\n\n**Why it matters now:** With inflation at ~3% and deposit rates at ~4%, your 'safe' cash is barely treading water. In 2020, rates were near 0% while inflation averaged 1.2%—you were losing slowly. In 2022, rates rose fast, and many locked in low yields while inflation surged. Understanding the **real (inflation-adjusted) return** on your deposits is the difference between preserving wealth and silently losing it. With rate cuts potentially coming, locking in current yields could be a once-in-a-decade opportunity.",
-    "key_points": [
-      "**The 'Risk-Free Rate' is a myth**: Even T-bills have reinvestment risk and inflation risk. The true risk-free asset is a TIPS ladder that matches your spending horizon.",
-      "**Deposit rates are sticky**: Banks raise rates slowly when the Fed hikes, but drop them fast when cuts come. This asymmetry means you must act before the cycle turns.",
-      "**Your bank is not your friend**: The best deposit rates are often at online banks or credit unions, not the megabank on the corner. They pay you less because they can—loyalty is a liability."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Real Return",
-        "steps": [
-          "Find your current deposit rate (e.g., 4.5%).",
-          "Subtract the latest inflation rate (e.g., 3.2%) to get real return (1.3%).",
-          "Assess if that real return meets your financial goals."
-        ]
-      },
-      {
-        "title": "Shop for Rates",
-        "steps": [
-          "Visit Bankrate.com or NerdWallet to compare savings and CD rates.",
-          "Look for 'no-penalty' CDs to avoid lock-in regret.",
-          "Consider online banks or credit unions for higher yields."
-        ]
-      },
-      {
-        "title": "Build a CD Ladder",
-        "steps": [
-          "Divide your cash into 3-5 rungs with maturities from 6 months to 2 years.",
-          "As each CD matures, reinvest at the then-current rate.",
-          "This smooths out rate changes and provides liquidity."
-        ]
-      }
-    ],
-    "risk_notes": "Chasing yield can lead to 'rate risk': locking money into a long-term CD at 5% only to see rates rise to 6% later (opportunity loss). High-yield accounts may have teaser rates that drop after a few months. Psychologically, people anchor on nominal rates and ignore inflation—a 5% deposit feels good even if inflation is 6%. Finally, FDIC insurance protects nominal value, not purchasing power.",
-    "sources": [
-      {
-        "title": "Federal Reserve Historical Data",
-        "url": "https://www.federalreserve.gov/data.htm"
-      },
-      {
-        "title": "Bankrate.com Savings Rates",
-        "url": "https://www.bankrate.com/banking/savings/rates/"
-      }
-    ],
-    "meta": {
-      "id": "Interest rates & deposits",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Inflation & purchasing power",
-        "Fixed income"
       ],
       "tags": [
         "Basic Financial Knowledge",
