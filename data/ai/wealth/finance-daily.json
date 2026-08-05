@@ -1,5 +1,72 @@
 [
   {
+    "id": "4212760d-1fcf-4541-b51a-4a6ffdfd2871",
+    "date": "2026-08-05",
+    "topic": "Interest Rates on Deposits: The Price of Time",
+    "teaser": "Your bank is quietly robbing you. Here's the math they hope you never do.",
+    "summary": "Picture this: In 1981, you deposit $10,000 in a 1-year CD at 15%. Five years later, you have $20,000. In 2023, you deposit $10,000 in a 1-year CD at 1.5%. It takes 47 years to double. Same action, different era, vastly different outcome. But here's the twist: while the nominal rate has collapsed, the real rate—what you actually earn after inflation—has been negative for most of the last decade. You're not just earning less; you're losing money. Yet, most people keep their cash in checking accounts earning 0.01%, silently bleeding purchasing power.\n\nAn interest rate is the price of time—the compensation for delaying consumption. When you deposit money, you're lending to the bank, and the rate you earn is the bank's cost of borrowing your money. That cost is influenced by central bank policy, inflation expectations, and credit demand. But there's a deeper truth: your bank is not your friend. It's a business that profits from the spread between what it pays you and what it charges borrowers. In 2023, the average savings account yields 0.46%, while the average 30-year mortgage rate is 7.5%. That's a 7% spread—the bank's profit margin. They pay you as little as possible because your deposit is their raw material.\n\nNow, here's the contrarian angle: high rates are a gift, but they're also a trap. When rates are 5%, cash feels like a safe haven, but it's not a growth strategy—it's a parking lot. The real opportunity is to understand that you're not just a passive recipient of rates; you're a negotiator. You can demand more from your bank, or take your business elsewhere. Online banks with lower overhead often pay 10x the national average. The question is: are you going to be a passive victim of the spread, or an active participant in the market for your own capital?",
+    "key_points": [
+      "The Nominal vs. Real Rate Gap: The rate you see is not the rate you get. In 1981, a 15% CD with 10% inflation yielded a 5% real return. In 2023, a 5% CD with 4% inflation yields just 1% real. But the real kicker is that most people anchor on the nominal rate and ignore inflation, leading to a false sense of security. Behavioral finance calls this 'money illusion'—we think in nominal terms, but our wealth is measured in purchasing power. The smart move is to calculate your real return and compare it to your actual spending inflation, not just the CPI, which often understates your personal cost of living.",
+      "The Liquidity Premium Illusion: Longer-term deposits offer higher rates to compensate for locking your money away. But this premium is often not worth it in a rising rate environment. Consider this: if you lock in a 5% 5-year CD and rates rise to 7% next year, you're stuck at 5% while everyone else earns 7%. The yield curve is a forecast of market expectations, but it's often wrong. The term premium is compensation for interest rate risk, but it's usually small—maybe 0.5% per year. You're essentially betting against future rate hikes, and if you lose, you lose liquidity for years. Instead, consider a CD ladder: stagger maturities to capture higher rates while maintaining access to a portion of your money each year. That way, you're not betting on the future—you're hedging.",
+      "The Banker's Spread and the Hidden Cost of Convenience: Banks earn the difference between deposit rates and lending rates. Your deposit is their raw material. They pay you as little as possible while still keeping you. The national average savings rate is 0.46%, but online banks like Ally or Marcus offer 4.5%—a 10x difference. Why? Because brick-and-mortar banks have overhead: branches, tellers, and ATMs. They pass those costs on to you in the form of lower rates. But the hidden cost is inertia. We stick with our bank because it's convenient, even though we're losing hundreds of dollars a year. The behavioral bias is 'status quo bias'—we prefer the devil we know. But the math is clear: switching to a high-yield account can earn you an extra $400 a year on a $10,000 balance with zero risk. That's a 4% risk-free return just for making a phone call.",
+      "The Rate Cycle and the Psychology of Yield Chasing: Interest rates are cyclical, and so is our behavior. When rates are high, we feel rich and take on more risk. When rates drop, we panic and chase yield into risky assets. This is the 'anchoring effect'—we anchor on the high rates we once had and feel poor when they drop, leading to reckless moves. The antidote is to focus on real returns over a full cycle, not just the current rate. Historically, the average real return on cash is near zero. So, don't expect your deposit to make you rich—it's a parking lot, not a growth asset. The real value of cash is optionality: having the ability to act when opportunities arise. So, the best strategy is to keep a buffer of cash in a high-yield account, but invest the rest in assets that outpace inflation over the long term."
+    ],
+    "practice": [
+      {
+        "title": "Audit Your Current Yield",
+        "steps": [
+          "Log into your bank's app and find your current APY. If it's not prominently displayed, call customer service and ask directly.",
+          "Go to Bankrate.com or DepositAccounts.com and find the highest-yield savings accounts. Look for APY, minimum balance, and any fees.",
+          "If your current APY is below 4%, open a high-yield savings account at an online bank like Ally (currently 4.25%), Marcus (4.30%), or Discover (4.25%). Set up an automatic transfer to move your emergency fund there.",
+          "Set a reminder to re-check rates every quarter—banks can change APY at will."
+        ]
+      },
+      {
+        "title": "Calculate Your Real Return",
+        "steps": [
+          "Find the current inflation rate at the BLS website (bls.gov/cpi). For example, as of May 2023, it's 4.0%.",
+          "Subtract your deposit rate (e.g., 4.25%) from the inflation rate (4.0%) to get your real return: 0.25%.",
+          "But don't stop there—calculate your personal inflation rate. Track your spending on groceries, gas, rent, and healthcare. If your personal inflation is 6%, your real return is -1.75%.",
+          "If your real return is negative, you're losing money every day. This is your wake-up call to either find a higher rate or invest in assets that beat inflation."
+        ]
+      },
+      {
+        "title": "Simulate a Rate Change",
+        "steps": [
+          "If you have a CD, find its maturity date and current rate. Use a CD calculator (e.g., bankrate.com/calculators/cd-calculator.aspx) to project your earnings if you hold to maturity.",
+          "Now, assume rates rise 1% next year. Calculate what you'd earn if you broke the CD (paying an early withdrawal penalty, typically 3-6 months of interest) and reinvested at the new rate.",
+          "Compare the two scenarios. For example, if you have a $10,000 2-year CD at 4.5%, and rates rise to 5.5% after 1 year, breaking would cost you $150 in penalties, but you'd earn $550 in the second year (vs. $450 if you stayed). Net gain: $100. In this case, breaking is worth it.",
+          "This thought experiment trains you to think dynamically. Repeat it whenever rates change."
+        ]
+      }
+    ],
+    "risk_notes": "The trap is 'rate chasing'—constantly moving money for a few basis points, ignoring the time and mental energy spent. Also, high rates often signal a struggling economy, so don't get complacent; your deposit is not a growth strategy, it's a parking lot. The psychological trap is the 'anchoring effect'—once you see a 5% yield, you'll feel poor when rates drop, leading to risky moves to chase yield. Be aware of 'yield chasing' into riskier assets like junk bonds or crypto when rates fall. Stick to your real return and your long-term plan.",
+    "sources": [
+      {
+        "title": "The Little Book of Common Sense Investing",
+        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
+      },
+      {
+        "title": "A Random Walk Down Wall Street",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      }
+    ],
+    "meta": {
+      "id": "Interest rates & deposits",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Inflation & purchasing power",
+        "Fixed income"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "e489bad9-3443-4463-9c72-f1c290accbd1",
     "date": "2026-08-04",
     "topic": "Banking Basics: Savings vs. Checking Accounts",
@@ -3701,71 +3768,6 @@
       "related": [
         "Risk management",
         "Life insurance"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "b2d2e5c8-fd54-4508-88de-f17ec90db204",
-    "date": "2026-05-31",
-    "topic": "Stocks vs. Bonds: Ownership, Debt, and the Real Risks",
-    "teaser": "Are you using a Ferrari to haul bricks? Why treating stocks like lottery tickets and bonds like savings accounts is a recipe for disaster.",
-    "summary": "Imagine you own a rental property. A stock is like owning that property outright—you get the rent (profits) when times are good, but you also pay for repairs (losses) when things break. A bond is like being the bank that lent the owner money to buy the property: you get a fixed monthly payment regardless of whether the property is thriving or rotting. Same asset, completely different risk profiles. Yet most people treat stocks as lottery tickets (hoping for a quick win) and bonds as savings accounts (assuming they're safe). That's like using a Ferrari to haul bricks. \n\n**Ownership vs. Lending:** Stocks make you a partner; bonds make you a banker. Partners share in the upside and downside; bankers get paid first but cap their gains. In a booming economy, stocks soar; in a downturn, bonds provide a floor—unless the borrower defaults. \n\n**Risk isn't volatility; it's permanent loss.** Volatility is just a roller coaster; permanent loss is when the ride breaks down. Stocks can drop 50% and come back (think 2008). Bonds can default and never recover (think Lehman Brothers). But here's the nuance: market risk (price fluctuations) differs from credit risk (default). A high-quality bond might fluctuate in price but still pay back; a junk bond might offer high yield but carry default risk. Volatility is a feature, not a bug—it's the price of higher returns. \n\n**The yield curve** is the market's collective prediction about the future. When short-term bonds yield more than long-term (inverted curve), it's a red flag for recessions. Ignore it at your peril. In 2023, the inverted curve signaled a recession that hasn't fully materialized—yet. History says it's a matter of time. \n\n**The real job of stocks and bonds:** Stocks are for growth; bonds are for stability and income. But in 2022, both crashed together—stocks fell 20%, bonds fell 15%. That's the 'correlation breakdown' that blindsided many. The lesson: diversification isn't just about asset classes; it's about understanding how they behave in different economic regimes. \n\n**Mental model:** Think of your portfolio as a team. Stocks are the strikers—they score goals but are unreliable. Bonds are the defenders—they prevent losses but won't win the game. You need both, but the mix depends on your risk tolerance and time horizon. \n\n**First principles:** A stock is a claim on residual cash flows after all debts are paid. A bond is a legal contract for fixed payments. The difference is foundational: one is residual, the other is contractual. That's why stocks have higher expected returns—they bear more uncertainty. \n\n**Bottom line:** Don't treat stocks as lottery tickets or bonds as savings accounts. They are tools with distinct jobs. Misuse them, and your portfolio will break down faster than a Ferrari on a dirt road.",
-    "key_points": [
-      "Ownership vs. Lending: Stocks make you a partner; bonds make you a banker. Partners share upside and downside; bankers get paid first but cap gains. In a boom, stocks soar; in a bust, bonds provide a floor—unless the borrower defaults.",
-      "Risk isn't volatility; it's permanent loss. Volatility is a feature, not a bug—it's the price of higher returns. Distinguish market risk (price fluctuations) from credit risk (default). A high-quality bond can fluctuate but still pay back; a junk bond may default. Stocks can lose 50% and recover; bonds can default and never come back.",
-      "The yield curve is the market's collective prediction about the future. An inverted curve (short-term yields > long-term) has preceded every recession in the last 50 years. It's not a timing signal but a warning: ignore at your peril. In 2023, inversion signaled a recession that's still pending—history says it's a matter of time."
-    ],
-    "practice": [
-      {
-        "title": "Identify Your Holdings",
-        "steps": [
-          "Check your 401(k) or brokerage account.",
-          "Identify which holdings are stocks and which are bonds.",
-          "Write down their tickers and names.",
-          "For each bond holding, check the credit rating (e.g., AAA, BB). Is it investment-grade or junk? This tells you the default risk."
-        ]
-      },
-      {
-        "title": "Compare Yields and Interpret",
-        "steps": [
-          "Look up the yield on a 10-year Treasury bond.",
-          "Look up the dividend yield on the S&P 500.",
-          "Compare them: the stock dividend yield plus expected growth vs. the bond's fixed yield. Which offers a better risk-adjusted return? Ask: why would anyone buy one over the other?",
-          "Check the yield curve: compare 2-year and 10-year Treasury yields. Is it inverted? If so, consider reducing risk in your portfolio."
-        ]
-      },
-      {
-        "title": "Stress Test Your Portfolio with a Decision Framework",
-        "steps": [
-          "Simulate a 30% stock market drop on your portfolio. How much would you lose? If the loss exceeds your risk tolerance (e.g., more than 20%), you need to rebalance to more bonds.",
-          "Simulate a 10% rise in interest rates. How much would your bonds lose? Use duration: a bond with duration 5 loses ~5% per 1% rate increase. If the loss is too high, consider shorter-duration bonds.",
-          "Which scenario hurts more? That reveals your true risk exposure. Use the 'rebalancing checklist': if stocks drop, do you have the nerve to buy more? If rates rise, can you hold bonds to maturity? Adjust your asset allocation accordingly."
-        ]
-      }
-    ],
-    "risk_notes": "The greatest trap is false precision. People think stocks are 'risky' and bonds are 'safe.' In 2022, bonds had their worst year in decades, proving that safe isn't always safe. Also, complexity: derivatives, structured notes, and ETFs blur the lines. If you don't understand what you own, you don't own it. Beware of 'bond proxies' like utilities that behave like bonds but are actually stocks. And remember: inflation is the silent killer of bonds. A 3% bond yield with 5% inflation means you're losing purchasing power. Real returns matter more than nominal.",
-    "sources": [
-      {
-        "title": "The Intelligent Investor by Benjamin Graham",
-        "url": "https://www.amazon.com/Intelligent-Investor-Updated-Practical-Advice/dp/0061809449"
-      },
-      {
-        "title": "A Random Walk Down Wall Street by Burton Malkiel",
-        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
-      }
-    ],
-    "meta": {
-      "id": "Overview of financial instruments",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Stocks",
-        "Bonds"
       ],
       "tags": [
         "Basic Financial Knowledge",
