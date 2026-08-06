@@ -1,5 +1,76 @@
 [
   {
+    "id": "c0a3b646-1d92-4839-a932-71ce29fc2c52",
+    "date": "2026-08-06",
+    "topic": "Equity vs. Debt: The Ownership-Lending Divide",
+    "teaser": "When Rome debased its currency, it didn't just devalue money—it rewired the social contract. Today, your portfolio is making the same mistake. Here's how to stop it.",
+    "summary": "In 54 AD, Nero shaved the edges of Roman denarii, mixing in cheaper metals to stretch the treasury. It worked—temporarily. Prices rose, savings eroded, and the empire's promise of stable money quietly broke. That moment echoes in every modern portfolio, because inflation isn't just an economic statistic; it's a hidden tax on lenders. And most investors are unknowingly on the wrong side of that tax.\n\nAt its core, every financial instrument is a contract—a claim on future cash flows. But the terms of that contract split the world into two fundamental camps: **equity** (ownership) and **debt** (lending). A stock is a residual claim: you own a slice of a company's upside and downside. A bond is a contractual promise: you lend money for fixed interest and principal, with priority over shareholders in bankruptcy.\n\nThis divide is not just academic. It determines your risk, your returns, and your role in the economy. When you own equity, you ride the waves of innovation and disruption. When you hold debt, you're a creditor—stable but capped. And in an inflationary world, that stability can be an illusion. As Nero learned, when money loses value, lenders lose purchasing power. Equity, on the other hand, can adapt: companies raise prices, innovate, and grow real assets.\n\nBut the risk-return tradeoff is not a law; it's a price. Higher returns come with higher uncertainty. Over the last century, stocks have outperformed bonds by a wide margin, but they've also experienced gut-wrenching drawdowns. Bonds offer safety, but safety has a cost: the risk of not keeping up with inflation. The choice isn't about good or bad—it's about alignment with your goals and time horizon.\n\nYet there's a deeper layer: instruments are claims on human behavior. Stock prices are a collective bet on future expectations, while bond prices reflect trust in repayment. Fear and greed move markets more than math. Understanding this psychology is as crucial as understanding the numbers. The Roman mistake wasn't just fiscal; it was psychological. They overvalued short-term relief and undervalued long-term trust.\n\nSo, what's the modern takeaway? Don't be a lender in a world of debasement. But don't be a reckless owner either. The key is to understand the true nature of your investments—what they really are, and what they really claim. Hybrids like convertible bonds and preferred stocks blur the lines, but the fundamental distinction remains. Master this, and you'll navigate markets with clarity, not just confidence.",
+    "key_points": [
+      "Equity is a claim on human ingenuity; debt is a claim on human promises. Stocks align you with growth and innovation, while bonds align you with contractual reliability—but in an inflationary world, promises can be broken.",
+      "The risk-return tradeoff is a price, not a law. Stocks historically outperform bonds because they bear more uncertainty, but that premium is not guaranteed. In the 1970s, stocks lost real value for a decade, while bonds were 'certificates of confiscation.'",
+      "Inflation is a silent killer of lenders. When central banks debase currency—like Nero did—they transfer wealth from savers to borrowers. Equity can adapt because companies raise prices; debt cannot. This is why long-term investors need equity exposure.",
+      "Psychological traps are more dangerous than market volatility. Overconfidence in 'stocks always win' leads to reckless risk-taking, while loss aversion causes selling at the worst time. The Roman elite couldn't see their own debasement; you must see your own biases."
+    ],
+    "practice": [
+      {
+        "title": "Classify Your Assets with a Mindset Shift",
+        "steps": [
+          "List every investment you own, from savings accounts to 401(k)s.",
+          "For each, ask: 'Am I an owner or a lender?' Categorize as equity, debt, or hybrid.",
+          "Next, for each debt instrument, ask: 'What is my real return after inflation?' (Use the current inflation rate and subtract it from the nominal yield.)",
+          "Finally, write one sentence on how each investment would perform if inflation doubled. This forces you to see the true nature of your claims."
+        ]
+      },
+      {
+        "title": "Data-Driven Historical Comparison",
+        "steps": [
+          "Download monthly total returns for the S&P 500 and the Bloomberg U.S. Aggregate Bond Index from 1970 to 2023 (use data from Kenneth French's data library or the Federal Reserve's FRED).",
+          "Calculate the annualized return, standard deviation, and worst calendar year for each.",
+          "Now, adjust for inflation (use CPI data) to compute real returns. Notice how bonds' real returns shrink far more than stocks'.",
+          "Plot the growth of $1 invested in each over time. Observe the decades when bonds beat stocks (e.g., 2000-2020) and when stocks dominated. This nuance is crucial."
+        ]
+      },
+      {
+        "title": "Scenario Analysis with a Decision Framework",
+        "steps": [
+          "Use a Monte Carlo simulator (e.g., Portfolio Visualizer) to model a $10,000 investment over 10 years.",
+          "Run three scenarios: 100% stocks, 100% bonds, and 50/50. Assume historical return distributions, not fixed averages.",
+          "For each scenario, record the median outcome, the 5th percentile (worst case), and the 95th percentile (best case).",
+          "Now, apply a decision framework: ask yourself, 'If I needed this money in 5 years, which scenario would I choose?' This forces you to align your time horizon with your asset allocation."
+        ]
+      }
+    ],
+    "risk_notes": "Hybrid instruments (convertible bonds, preferred stocks) are not just 'middle ground'—they're complex bets that can magnify losses. Overconfidence in 'stocks always beat bonds' ignores periods like 2000-2010 where stocks returned negative real returns. Conversely, all-bond portfolios can fail to outpace inflation, as seen in the 1970s. The most insidious trap is loss aversion: the pain of a 20% loss is twice the pleasure of a 20% gain, leading to panic selling at market bottoms. Also, beware of recency bias—assuming recent performance predicts the future. Remember Nero: he thought he was fixing a short-term problem, but he created a long-term catastrophe. Your portfolio is no different.",
+    "sources": [
+      {
+        "title": "The Intelligent Investor",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "A Random Walk Down Wall Street",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      },
+      {
+        "title": "Stocks for the Long Run",
+        "url": "https://www.amazon.com/Stocks-Long-Run-Definitive-Strategies/dp/0071800514"
+      }
+    ],
+    "meta": {
+      "id": "Overview of financial instruments",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Stocks",
+        "Bonds"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "4212760d-1fcf-4541-b51a-4a6ffdfd2871",
     "date": "2026-08-05",
     "topic": "Interest Rates on Deposits: The Price of Time",
@@ -3701,73 +3772,6 @@
       "related": [
         "Tax planning",
         "Tax strategies"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "8840c594-4db3-4471-be34-ac135465f559",
-    "date": "2026-06-01",
-    "topic": "Insurance: The Lifeboat You Hope to Never Use",
-    "teaser": "You're not buying insurance. You're buying the ability to start over when life throws a grenade into your plans.",
-    "summary": "Imagine you're on a cruise ship that hits an iceberg. The crew hands out lifeboats. Most people grab the inflatable rafts because they're cheap and easy. But when the ship sinks, those rafts puncture on debris. The steel-hulled boats with engines—the ones that cost more—are the only ones that get you to shore. That's insurance.\n\nInsurance is a mechanism for transferring risk. You pay a known, affordable premium to an insurer, who pools your risk with thousands of others. The law of large numbers makes aggregate losses predictable, even though your individual loss is a coin flip. Without insurance, a single accident, illness, or death can vaporize years of savings. Insurance is the foundation of financial resilience—protecting your assets and income from catastrophic events so you can take calculated risks elsewhere.\n\nHere's the hard truth: insurance is not an investment. It's a hedge against tail risks—the low-probability, high-impact events that can destroy you. The best insurance is the one you never use. Yet most people insure trivial risks (extended warranties, rental car damage) while ignoring existential ones (disability, liability, health).\n\nFor life insurance, term life is pure protection. Whole life is a complex, expensive hybrid that usually underperforms a simple 'buy term and invest the difference' strategy. Don't confuse insurance with an investment. Your goal is to minimize the cost of protection, not to get your money back. The only way to win the insurance game is to not play—but you have to play because the stakes are your financial life.",
-    "key_points": [
-      "Disability insurance is more important than life insurance for most people because your ability to earn is your biggest asset. If you can't work, your savings vanish faster than you think.",
-      "Term life insurance is a commodity; buy the cheapest policy from a highly rated insurer. Whole life is a sales product, not a financial tool—avoid it unless you have a specific estate planning need.",
-      "Liability insurance is your first line of defense against lawsuits. An umbrella policy is cheap (a few hundred dollars a year) and covers catastrophic claims. Don't skip it to save $20 a month."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Life Insurance Needs",
-        "steps": [
-          "Multiply your annual income by 10 to 12. That's the death benefit your dependents need to replace your earnings.",
-          "Subtract any existing life insurance and savings you have.",
-          "Buy a 20- or 30-year level term policy for the difference. Compare quotes from 3-4 insurers online."
-        ]
-      },
-      {
-        "title": "Check Your Health Insurance Deductible",
-        "steps": [
-          "Find your plan's deductible and out-of-pocket maximum.",
-          "Build an emergency fund equal to your out-of-pocket maximum (not just 3-6 months of expenses).",
-          "Ensure you have enough cash flow to cover the deductible in a single month—consider setting aside a separate 'medical buffer' account."
-        ]
-      },
-      {
-        "title": "Simulate a Worst-Case Liability Scenario",
-        "steps": [
-          "Imagine you cause a car accident that results in $1 million in damages and injuries.",
-          "Check your auto insurance liability limits. If they're less than $500,000, increase them to at least $500,000.",
-          "Buy an umbrella policy for $1 million in coverage. It typically costs $150–$300 per year and covers you beyond auto and home insurance limits."
-        ]
-      }
-    ],
-    "risk_notes": "Insurance can create moral hazard—people take more risks because they feel protected. Also, over-insuring (e.g., buying many small policies) can drain cash flow without meaningful benefit. The psychological trap is the illusion of safety: having insurance doesn't mean you're fully prepared; you still need emergency funds and risk mitigation. Another risk: buying insurance from weak companies. Always check the insurer's financial strength rating (A.M. Best, S&P) before purchasing.",
-    "sources": [
-      {
-        "title": "Against the Gods: The Remarkable Story of Risk by Peter L. Bernstein",
-        "url": "https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639"
-      },
-      {
-        "title": "The Most Important Thing by Howard Marks",
-        "url": "https://www.amazon.com/Most-Important-Thing-Uncommon-Sense/dp/0231162847"
-      },
-      {
-        "title": "Insurance Information Institute",
-        "url": "https://www.iii.org"
-      }
-    ],
-    "meta": {
-      "id": "Insurance basics",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Risk management",
-        "Life insurance"
       ],
       "tags": [
         "Basic Financial Knowledge",

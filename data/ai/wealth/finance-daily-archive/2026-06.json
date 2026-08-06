@@ -1,0 +1,69 @@
+[
+  {
+    "id": "8840c594-4db3-4471-be34-ac135465f559",
+    "date": "2026-06-01",
+    "topic": "Insurance: The Lifeboat You Hope to Never Use",
+    "teaser": "You're not buying insurance. You're buying the ability to start over when life throws a grenade into your plans.",
+    "summary": "Imagine you're on a cruise ship that hits an iceberg. The crew hands out lifeboats. Most people grab the inflatable rafts because they're cheap and easy. But when the ship sinks, those rafts puncture on debris. The steel-hulled boats with engines—the ones that cost more—are the only ones that get you to shore. That's insurance.\n\nInsurance is a mechanism for transferring risk. You pay a known, affordable premium to an insurer, who pools your risk with thousands of others. The law of large numbers makes aggregate losses predictable, even though your individual loss is a coin flip. Without insurance, a single accident, illness, or death can vaporize years of savings. Insurance is the foundation of financial resilience—protecting your assets and income from catastrophic events so you can take calculated risks elsewhere.\n\nHere's the hard truth: insurance is not an investment. It's a hedge against tail risks—the low-probability, high-impact events that can destroy you. The best insurance is the one you never use. Yet most people insure trivial risks (extended warranties, rental car damage) while ignoring existential ones (disability, liability, health).\n\nFor life insurance, term life is pure protection. Whole life is a complex, expensive hybrid that usually underperforms a simple 'buy term and invest the difference' strategy. Don't confuse insurance with an investment. Your goal is to minimize the cost of protection, not to get your money back. The only way to win the insurance game is to not play—but you have to play because the stakes are your financial life.",
+    "key_points": [
+      "Disability insurance is more important than life insurance for most people because your ability to earn is your biggest asset. If you can't work, your savings vanish faster than you think.",
+      "Term life insurance is a commodity; buy the cheapest policy from a highly rated insurer. Whole life is a sales product, not a financial tool—avoid it unless you have a specific estate planning need.",
+      "Liability insurance is your first line of defense against lawsuits. An umbrella policy is cheap (a few hundred dollars a year) and covers catastrophic claims. Don't skip it to save $20 a month."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Life Insurance Needs",
+        "steps": [
+          "Multiply your annual income by 10 to 12. That's the death benefit your dependents need to replace your earnings.",
+          "Subtract any existing life insurance and savings you have.",
+          "Buy a 20- or 30-year level term policy for the difference. Compare quotes from 3-4 insurers online."
+        ]
+      },
+      {
+        "title": "Check Your Health Insurance Deductible",
+        "steps": [
+          "Find your plan's deductible and out-of-pocket maximum.",
+          "Build an emergency fund equal to your out-of-pocket maximum (not just 3-6 months of expenses).",
+          "Ensure you have enough cash flow to cover the deductible in a single month—consider setting aside a separate 'medical buffer' account."
+        ]
+      },
+      {
+        "title": "Simulate a Worst-Case Liability Scenario",
+        "steps": [
+          "Imagine you cause a car accident that results in $1 million in damages and injuries.",
+          "Check your auto insurance liability limits. If they're less than $500,000, increase them to at least $500,000.",
+          "Buy an umbrella policy for $1 million in coverage. It typically costs $150–$300 per year and covers you beyond auto and home insurance limits."
+        ]
+      }
+    ],
+    "risk_notes": "Insurance can create moral hazard—people take more risks because they feel protected. Also, over-insuring (e.g., buying many small policies) can drain cash flow without meaningful benefit. The psychological trap is the illusion of safety: having insurance doesn't mean you're fully prepared; you still need emergency funds and risk mitigation. Another risk: buying insurance from weak companies. Always check the insurer's financial strength rating (A.M. Best, S&P) before purchasing.",
+    "sources": [
+      {
+        "title": "Against the Gods: The Remarkable Story of Risk by Peter L. Bernstein",
+        "url": "https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639"
+      },
+      {
+        "title": "The Most Important Thing by Howard Marks",
+        "url": "https://www.amazon.com/Most-Important-Thing-Uncommon-Sense/dp/0231162847"
+      },
+      {
+        "title": "Insurance Information Institute",
+        "url": "https://www.iii.org"
+      }
+    ],
+    "meta": {
+      "id": "Insurance basics",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Risk management",
+        "Life insurance"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  }
+]
