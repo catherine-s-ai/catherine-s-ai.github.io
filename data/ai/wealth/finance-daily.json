@@ -1,5 +1,64 @@
 [
   {
+    "id": "8c376497-a3c7-415a-a839-3a3ba53390b7",
+    "date": "2026-08-07",
+    "topic": "Insurance: The Art of Certainty in an Uncertain World",
+    "teaser": "Most people think insurance is a bet against disaster. They're wrong. It's a bet against yourself—and that's the only bet you should ever make.",
+    "summary": "Imagine two worlds. In World A, you pay $2,000 a year for insurance, and nothing bad happens. You feel like you've wasted $2,000. In World B, you don't pay, and then one day, a medical emergency or a car accident wipes out your savings. You're bankrupt. Which world would you rather live in? The answer seems obvious, yet most people behave as if they're in World A, ignoring the reality of World B.\n\nInsurance is not a bet you win; it's a bet you make to lose. The only way to win is to lose. That's why it feels like a waste of money—until it isn't. At its core, insurance is a mechanism for transferring the financial risk of a rare, high-impact event from an individual to a collective pool, in exchange for a predictable, small premium. It's about replacing a catastrophic, uncertain loss with a certain, manageable cost. Think of it as a financial fire extinguisher: you hope you never need it, but if a fire breaks out, it's the only thing standing between you and total ruin.\n\nBut here's the twist: insurance is not for minor inconveniences. It's for catastrophic risks. Paying $20/month for phone insurance is a losing game; paying $200/year for umbrella liability is a strategic move. The premium is the price of certainty. You are buying peace of mind and the ability to take calculated risks. It's not an investment; it's an expense that protects your ability to invest.\n\nAnd remember: your human capital is your biggest asset. The most valuable insurance you can buy is often disability and life insurance, because they protect your ability to earn income—the engine of all future wealth. Insure what would financially devastate you, not what you can comfortably absorb. That's the art of certainty in an uncertain world.",
+    "key_points": [
+      "Insurance is a bet you make to lose: the only way to benefit is to suffer a loss. The premium is the price of certainty, and you're buying the ability to take risks without risking ruin.",
+      "Insure against catastrophes, not inconveniences. The threshold is your financial devastation point—the dollar amount that would derail your life. If you can absorb the loss without changing your lifestyle, don't insure it.",
+      "Your human capital is your most valuable asset. Disability and life insurance protect your ability to earn, which is the engine of all future wealth. Prioritize them over property or gadget insurance."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Catastrophic Threshold",
+        "steps": [
+          "Determine the dollar amount of loss that would derail your financial life (e.g., 6 months of expenses, your emergency fund, or a specific debt threshold). For example, if your emergency fund is $10,000 and a $5,000 loss would wipe it out, your threshold is $5,000.",
+          "Review your current insurance policies (health, auto, home, life, disability). For each, identify the maximum out-of-pocket exposure in a worst-case scenario.",
+          "Adjust coverage: increase deductibles on policies that cover small losses, and ensure you have coverage for risks above your threshold. Cancel or reduce coverage for risks below it."
+        ]
+      },
+      {
+        "title": "Stress-Test Your Health Insurance Deductible",
+        "steps": [
+          "Find your health insurance policy's deductible and out-of-pocket maximum. Calculate the worst-case annual out-of-pocket cost: deductible + coinsurance (up to the max).",
+          "Compare this to your emergency fund. If your emergency fund is less than that amount, increase your savings goal to cover at least the out-of-pocket max.",
+          "If your emergency fund is less than 3 months of expenses, consider a high-deductible health plan with a health savings account (HSA) to build tax-advantaged savings for medical expenses."
+        ]
+      },
+      {
+        "title": "Simulate a Worst-Case Scenario",
+        "steps": [
+          "Imagine you become disabled and cannot work for a year. Calculate how long you could survive on your current savings and any existing insurance (e.g., short-term disability).",
+          "If the answer is less than 3 months, consider disability insurance. Look for policies that cover at least 60% of your income and have an own-occupation definition (meaning you can still work in another field and collect).",
+          "Also, check if your employer offers group disability insurance. If so, understand the coverage and consider supplementing it with an individual policy to fill gaps."
+        ]
+      }
+    ],
+    "risk_notes": "Insurance can create a false sense of security. People often over-rely on policies, ignoring the fine print, exclusions, and inflation's erosion of coverage. The industry is complex and opaque; you can easily overpay for unnecessary coverage or be denied claims due to technicalities. The biggest psychological trap is the 'it won't happen to me' bias, leading to under-insuring, or the opposite—'insurance as a savings plan'—leading to overpaying for poor returns.",
+    "sources": [
+      {
+        "title": "Search: Insurance: The Art of Certainty in an Uncertain World",
+        "url": "https://www.google.com/search?q=Insurance%3A%20The%20Art%20of%20Certainty%20in%20an%20Uncertain%20World"
+      }
+    ],
+    "meta": {
+      "id": "Insurance basics",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Risk management",
+        "Life insurance"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "c0a3b646-1d92-4839-a932-71ce29fc2c52",
     "date": "2026-08-06",
     "topic": "Equity vs. Debt: The Ownership-Lending Divide",
@@ -3703,75 +3762,6 @@
       "related": [
         "Financial regulation",
         "Consumer protection"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
-      ]
-    }
-  },
-  {
-    "id": "82bd475c-a12d-4f73-88d1-6a2f5022ee1a",
-    "date": "2026-06-02",
-    "topic": "Taxes: Your Uninvited Portfolio Partner",
-    "teaser": "Think taxes are just a bill? You're leaving money on the table for an uninvited partner.",
-    "summary": "**Imagine you worked all year, and then a silent partner showed up at your door demanding a cut of your earnings—before you even saw the money.** That's taxes. But here's the twist: this partner doesn't follow your rules. They play by a complex rulebook full of loopholes, incentives, and traps. Most people hand over more than they need to because they don't bother reading the rulebook. \n\nLet's start with a story. Meet Sarah, a graphic designer earning $80,000. She thinks she's in the 22% tax bracket, so she expects to pay $17,600 in taxes. But after deductions and credits, her actual tax bill is only $9,500—an effective rate of 11.9%. She overwithheld and got a $3,000 refund. 'Great, free money!' she thought. Wrong. That $3,000 was an interest-free loan she gave the government. If she'd invested it, she could have earned $300 in a year. Over a career, that's tens of thousands lost. \n\n**First principles:** You earn money; the government takes a percentage; you can reduce that percentage through legal allowances. The tax code is not a moral guide; it's a set of incentives. Smart filers structure their financial lives to align with those incentives, not against them. Paying taxes later via deferral is like an interest-free loan—the longer you delay, the more you can invest. But beware: the trap is over-optimization. Spending $10 on tax advice to save $1, or buying a house you can't afford for the mortgage deduction, is losing the game. Complexity leads to errors; simple filing often beats aggressive strategies.",
-    "key_points": [
-      "Marginal vs. Effective Tax Rate: Your marginal rate is what you pay on the next dollar earned; your effective rate is the average. Many overestimate their tax burden by confusing the two. A tax refund is not a bonus; it's an interest-free loan you gave the government. Aim for zero refund.",
-      "Time Value of Tax Payments: Paying taxes later (via deferral) is like an interest-free loan from the government. The longer you delay, the more you can invest. But this only works if you actually invest the deferred amount—not spend it.",
-      "Tax Code as a Rulebook: The tax code is not a moral guide; it's a set of incentives. Smart filers structure their financial lives to align with those incentives, not against them. For example, earning long-term capital gains is taxed less than ordinary income—so investing for the long term is doubly rewarded."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Effective Tax Rate",
-        "steps": [
-          "Find your total tax paid from last year's return (line 24 on Form 1040).",
-          "Divide by your total income (from all sources, including wages, interest, and side hustles).",
-          "Be careful: exclude pre-tax deductions like 401(k) contributions from income for this calculation? Actually, use your AGI (Adjusted Gross Income) as the denominator for a more accurate effective rate.",
-          "Compare this effective rate to your marginal tax bracket. If they're far apart, you might be over-withholding."
-        ]
-      },
-      {
-        "title": "Optimize Your Withholding",
-        "steps": [
-          "Use the IRS Tax Withholding Estimator at irs.gov. Have your latest pay stub and last year's tax return handy.",
-          "Adjust your W-4 to get as close to zero refund as possible. The goal is not to get a big refund or owe a big amount—it's to break even.",
-          "Common pitfall: forgetting to update your W-4 after a major life change (marriage, child, new job). Set a calendar reminder to review annually."
-        ]
-      },
-      {
-        "title": "Find Missed Deductions or Credits",
-        "steps": [
-          "Review common deductions: student loan interest (up to $2,500), retirement savings contributions (Saver's Credit), educator expenses ($300).",
-          "Check for credits: Earned Income Tax Credit (if income below ~$57k), Child Tax Credit (up to $2,000 per child), American Opportunity Credit (up to $2,500 for college expenses).",
-          "Don't assume you don't qualify. Many people overlook the Saver's Credit because they think it's only for low income, but it phases out at higher levels than you'd think.",
-          "Use free tax software to check; they'll ask questions to find credits you might miss."
-        ]
-      }
-    ],
-    "risk_notes": "The trap is over-optimization: spending $10 on tax advice to save $1 in taxes, or making financial decisions solely for tax benefits (e.g., buying a house you can't afford for the mortgage deduction). Complexity leads to errors; simple filing is often better than aggressive strategies. Another risk: ignoring tax implications of investments. A high-turnover fund can generate taxable gains that eat into returns. Consider tax-efficient funds in taxable accounts.",
-    "sources": [
-      {
-        "title": "IRS Publication 17, Your Federal Income Tax",
-        "url": "https://www.irs.gov/publications/p17"
-      },
-      {
-        "title": "The Tax and Legal Playbook by Tom Wheelwright",
-        "url": "https://www.amazon.com/Tax-Legal-Playbook-Strategies-Entrepreneurs/dp/1939457244"
-      },
-      {
-        "title": "Khan Academy: Taxes (Basic)",
-        "url": "https://www.khanacademy.org/economics-finance-domain/core-finance/taxes"
-      }
-    ],
-    "meta": {
-      "id": "Tax basics & filing",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Tax planning",
-        "Tax strategies"
       ],
       "tags": [
         "Basic Financial Knowledge",

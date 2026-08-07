@@ -65,5 +65,74 @@
         "入门"
       ]
     }
+  },
+  {
+    "id": "82bd475c-a12d-4f73-88d1-6a2f5022ee1a",
+    "date": "2026-06-02",
+    "topic": "Taxes: Your Uninvited Portfolio Partner",
+    "teaser": "Think taxes are just a bill? You're leaving money on the table for an uninvited partner.",
+    "summary": "**Imagine you worked all year, and then a silent partner showed up at your door demanding a cut of your earnings—before you even saw the money.** That's taxes. But here's the twist: this partner doesn't follow your rules. They play by a complex rulebook full of loopholes, incentives, and traps. Most people hand over more than they need to because they don't bother reading the rulebook. \n\nLet's start with a story. Meet Sarah, a graphic designer earning $80,000. She thinks she's in the 22% tax bracket, so she expects to pay $17,600 in taxes. But after deductions and credits, her actual tax bill is only $9,500—an effective rate of 11.9%. She overwithheld and got a $3,000 refund. 'Great, free money!' she thought. Wrong. That $3,000 was an interest-free loan she gave the government. If she'd invested it, she could have earned $300 in a year. Over a career, that's tens of thousands lost. \n\n**First principles:** You earn money; the government takes a percentage; you can reduce that percentage through legal allowances. The tax code is not a moral guide; it's a set of incentives. Smart filers structure their financial lives to align with those incentives, not against them. Paying taxes later via deferral is like an interest-free loan—the longer you delay, the more you can invest. But beware: the trap is over-optimization. Spending $10 on tax advice to save $1, or buying a house you can't afford for the mortgage deduction, is losing the game. Complexity leads to errors; simple filing often beats aggressive strategies.",
+    "key_points": [
+      "Marginal vs. Effective Tax Rate: Your marginal rate is what you pay on the next dollar earned; your effective rate is the average. Many overestimate their tax burden by confusing the two. A tax refund is not a bonus; it's an interest-free loan you gave the government. Aim for zero refund.",
+      "Time Value of Tax Payments: Paying taxes later (via deferral) is like an interest-free loan from the government. The longer you delay, the more you can invest. But this only works if you actually invest the deferred amount—not spend it.",
+      "Tax Code as a Rulebook: The tax code is not a moral guide; it's a set of incentives. Smart filers structure their financial lives to align with those incentives, not against them. For example, earning long-term capital gains is taxed less than ordinary income—so investing for the long term is doubly rewarded."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Effective Tax Rate",
+        "steps": [
+          "Find your total tax paid from last year's return (line 24 on Form 1040).",
+          "Divide by your total income (from all sources, including wages, interest, and side hustles).",
+          "Be careful: exclude pre-tax deductions like 401(k) contributions from income for this calculation? Actually, use your AGI (Adjusted Gross Income) as the denominator for a more accurate effective rate.",
+          "Compare this effective rate to your marginal tax bracket. If they're far apart, you might be over-withholding."
+        ]
+      },
+      {
+        "title": "Optimize Your Withholding",
+        "steps": [
+          "Use the IRS Tax Withholding Estimator at irs.gov. Have your latest pay stub and last year's tax return handy.",
+          "Adjust your W-4 to get as close to zero refund as possible. The goal is not to get a big refund or owe a big amount—it's to break even.",
+          "Common pitfall: forgetting to update your W-4 after a major life change (marriage, child, new job). Set a calendar reminder to review annually."
+        ]
+      },
+      {
+        "title": "Find Missed Deductions or Credits",
+        "steps": [
+          "Review common deductions: student loan interest (up to $2,500), retirement savings contributions (Saver's Credit), educator expenses ($300).",
+          "Check for credits: Earned Income Tax Credit (if income below ~$57k), Child Tax Credit (up to $2,000 per child), American Opportunity Credit (up to $2,500 for college expenses).",
+          "Don't assume you don't qualify. Many people overlook the Saver's Credit because they think it's only for low income, but it phases out at higher levels than you'd think.",
+          "Use free tax software to check; they'll ask questions to find credits you might miss."
+        ]
+      }
+    ],
+    "risk_notes": "The trap is over-optimization: spending $10 on tax advice to save $1 in taxes, or making financial decisions solely for tax benefits (e.g., buying a house you can't afford for the mortgage deduction). Complexity leads to errors; simple filing is often better than aggressive strategies. Another risk: ignoring tax implications of investments. A high-turnover fund can generate taxable gains that eat into returns. Consider tax-efficient funds in taxable accounts.",
+    "sources": [
+      {
+        "title": "IRS Publication 17, Your Federal Income Tax",
+        "url": "https://www.irs.gov/publications/p17"
+      },
+      {
+        "title": "The Tax and Legal Playbook by Tom Wheelwright",
+        "url": "https://www.amazon.com/Tax-Legal-Playbook-Strategies-Entrepreneurs/dp/1939457244"
+      },
+      {
+        "title": "Khan Academy: Taxes (Basic)",
+        "url": "https://www.khanacademy.org/economics-finance-domain/core-finance/taxes"
+      }
+    ],
+    "meta": {
+      "id": "Tax basics & filing",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Tax planning",
+        "Tax strategies"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
   }
 ]
