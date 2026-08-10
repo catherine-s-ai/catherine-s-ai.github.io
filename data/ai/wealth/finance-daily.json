@@ -1,5 +1,76 @@
 [
   {
+    "id": "b453d6e8-5db3-4e08-856b-1be30e3364d3",
+    "date": "2026-08-10",
+    "topic": "Debt Prevention: The Firefighter's Guide to Personal Finance",
+    "teaser": "Debt is a fire that can either forge your future or consume it. Most people don't get burned by the flame—they get burned by not knowing when to run.",
+    "summary": "Imagine you're a firefighter. You don't fear fire; you respect it. You know that fire can cook your food, warm your home, and forge steel. But you also know that fire, unchecked, will burn down everything you love. Debt is exactly the same. It's a tool that can build wealth or destroy it. The difference isn't the fire—it's the rules you have for using it.\n\nIn personal finance, a debt crisis isn't an accident. It's a slow-motion car crash that you can see coming years in advance. It happens when your cash inflows and outflows become misaligned, often because you've used leverage (borrowed money) to buy things you couldn't afford, and you've ignored liquidity (your ability to access cash quickly). When a shock hits—a job loss, a medical emergency, a rate hike—the mismatch turns into a cascade of missed payments, wrecked credit, and bankruptcy. But here's the thing: you can prevent that.\n\nThe first rule of debt firefighting is: **Liquidity beats leverage**. It's not about how much you owe; it's about how easily you can cover your payments without selling assets at fire-sale prices. If you have to sell your car to pay your credit card, you're not in control—you're in a fire. The second rule is the **30% rule**: your total debt payments (excluding mortgage) should never exceed 30% of your take-home pay. This isn't arbitrary—it's a buffer that ensures you can survive a 20% income drop or a 5% interest rate hike without missing a beat. The third rule is the most profound: **Debt is a claim on your future income**. Every dollar you borrow is a mortgage on your future self. When you take on debt, you're saying, 'I'm willing to trade my future time for this purchase now.' Is that a trade you're willing to make?\n\nThese rules aren't just numbers—they're your fire escape plan. They give you the discipline to use debt as a tool, not a weapon. By internalizing them, you can harness the power of debt without getting burned. You can cook your food without burning down the house.",
+    "key_points": [
+      "Liquidity is your fire escape: The true risk of debt isn't the amount you owe, but your inability to cover payments without selling assets at fire-sale prices. If you can't access cash quickly, you're trapped in the fire.",
+      "The 30% rule is a buffer, not a ceiling: It's not about how much you can borrow; it's about how much you can survive. By keeping debt payments under 30% of take-home pay, you build a margin of safety that protects you from rate hikes, job loss, or unexpected expenses.",
+      "Debt is a claim on future income: Every dollar borrowed is a promise to work for someone else in the future. Before taking on debt, ask yourself: 'Am I willing to trade my future time for this purchase?' If the answer is no, don't borrow."
+    ],
+    "practice": [
+      {
+        "title": "Run a Fire Drill: Stress Test Your Finances",
+        "steps": [
+          "Simulate a job loss: Calculate how long you could cover your debt payments using only your emergency fund.",
+          "Simulate a 20% income cut: Reduce your monthly income by 20% and recalculate your debt-to-income ratio.",
+          "Simulate a 5% interest rate hike: Increase your variable-rate debt payments by 5% and see if you can still cover them.",
+          "If you fail any test, create a plan: cut expenses, build a larger emergency fund, or refinance to fixed rates."
+        ]
+      },
+      {
+        "title": "Calculate Your Debt-to-Income Ratio with a Twist",
+        "steps": [
+          "Sum all monthly debt payments (credit cards, loans, etc.).",
+          "Divide by your net monthly income.",
+          "If it's above 30%, don't just cut expenses—create a 'debt firebreak' by prioritizing high-interest debt and negotiating lower rates.",
+          "Set a goal to reduce your ratio by 1% each month until you're below 30%."
+        ]
+      },
+      {
+        "title": "Visualize Your Debt as a Fire Hazard",
+        "steps": [
+          "List every debt, its interest rate, and minimum payment.",
+          "Calculate the total interest you'll pay over the life of the debt.",
+          "Rank debts by 'fire risk' (highest interest rate = highest risk).",
+          "Create a 'burn down' plan: pay off the highest-risk debt first while making minimum payments on the rest.",
+          "Track your progress weekly—watch the fire shrink."
+        ]
+      }
+    ],
+    "risk_notes": "Prevention can become over-caution. Being too debt-averse may prevent you from taking reasonable leveraged investments (like a mortgage for a home) that build wealth. Also, the 30% rule is a blunt tool—it doesn't account for high-income stability or asset-backed debt. The trap is thinking that avoiding all debt is safe, but that can lead to opportunity cost and stagnation. The goal isn't to avoid fire; it's to become a skilled firefighter.",
+    "sources": [
+      {
+        "title": "The Intelligent Investor",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "The Total Money Makeover",
+        "url": "https://www.daveramsey.com/store/product/the-total-money-makeover"
+      },
+      {
+        "title": "How to Manage Your Debt Wisely",
+        "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/"
+      }
+    ],
+    "meta": {
+      "id": "Debt crisis prevention",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Debt management",
+        "Risk identification"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "6a83d593-cc8d-40e9-81d9-e8031968311f",
     "date": "2026-08-09",
     "topic": "Consumer Rights and Financial Regulation",
@@ -3718,73 +3789,6 @@
       "tags": [
         "Investment Concepts & Principles",
         "基础"
-      ]
-    }
-  },
-  {
-    "id": "ff0fb4eb-f9f3-44c6-bcdc-df51debc1ff9",
-    "date": "2026-06-06",
-    "topic": "Financial Goal Setting: The Blueprint for Your Money House",
-    "teaser": "Most people pick curtains before they have a blueprint. Don't be that person.",
-    "summary": "Imagine you're building a house. Most people start by picking out curtains—a new car, a vacation, the latest gadget—while the foundation crumbles. That's what financial goal setting without a blueprint is like. But a blueprint isn't just a list of rooms; it's a structural plan that ensures every beam and nail serves a purpose. **Financial goal setting is the process of defining specific, measurable, achievable, relevant, and time-bound (SMART) objectives for your financial life, based on your values and priorities.** It's the bridge between your current reality and your desired financial future.\n\nWhy does this matter? Without clear goals, your money has no direction. You'll drift from paycheck to paycheck, reacting to emergencies instead of building wealth. In a world of infinite consumption choices and constant financial noise, goals are your compass. They help you say 'no' to things that don't matter so you can say 'yes' to what does.\n\nThink of it this way: A goal like 'save $5,000 for a down payment by December 31st, 2024' is not about the money. It's about the security of owning a home, the pride of a stable foundation, and the freedom from rent hikes. **But here's the hard truth: your savings rate—not investment returns—is the single most controllable factor in building wealth.** A 50% savings rate can make you financially independent in 17 years, regardless of market returns. That's the power of a blueprint.\n\nThe best goals are boring. Consistency beats heroics. A goal to save 15% of income every month is more powerful than aiming for a 50% one-time windfall. And set goals that are 'just right' – not too easy (no growth) and not too hard (no hope). The Goldilocks principle applies to financial ambition.\n\nIn a world of noise, your goals are your signal. They filter out distractions and keep you focused. Without them, you're just wandering. With them, you're building a house, one brick at a time.",
-    "key_points": [
-      "Your savings rate is the single most controllable factor in building wealth, far more than investment returns. A 50% savings rate can achieve financial independence in 17 years, regardless of market performance.",
-      "The best goals are boring. Consistency beats heroics. Automating a 15% savings rate each month outperforms sporadic big wins.",
-      "Set goals that are 'just right' – not too easy (no growth) and not too hard (no hope). The Goldilocks principle applies to financial ambition.",
-      "Without clear goals, you drift from paycheck to paycheck, reacting to emergencies instead of building wealth."
-    ],
-    "practice": [
-      {
-        "title": "Write a SMART Goal Using This Template",
-        "steps": [
-          "Goal: [Action verb] [Amount] for [Purpose] by [Date].",
-          "Example: 'Save $5,000 for a down payment by December 31st, 2024.'",
-          "Break it down: How much per month? ($5,000 / 12 months = $416.67/month)",
-          "Automate it: Set up a recurring transfer to a separate savings account on payday."
-        ]
-      },
-      {
-        "title": "Calculate the Cost of Waiting",
-        "steps": [
-          "For your goal, calculate the monthly savings needed if you start now vs. one month from now.",
-          "Example: $5,000 in 12 months = $416.67/month. Start in 1 month: $5,000 in 11 months = $454.55/month.",
-          "The cost of waiting one month is an extra $37.88 per month.",
-          "Write down this number and reflect: procrastination has a price."
-        ]
-      },
-      {
-        "title": "Identify a Goal Killer",
-        "steps": [
-          "Common goal killers: daily coffee shop visits ($100+/month), unused gym memberships ($50/month), premium cable subscriptions ($100/month), eating out for lunch ($150/month).",
-          "Pick one goal killer from your spending that doesn't align with your goal.",
-          "Cut it for one week and redirect that money to your goal.",
-          "Track the amount saved and note how it feels to prioritize your goal."
-        ]
-      }
-    ],
-    "risk_notes": "Over-optimization and rigidity. Setting goals can lead to tunnel vision, causing you to miss better opportunities or ignore life changes. Also, the 'goal gradient effect' can make you slack off once you're close to the finish line. And if you fail to meet a goal, you might feel shame and give up entirely. Stay flexible and forgiving.",
-    "sources": [
-      {
-        "title": "Your Money or Your Life by Vicki Robin",
-        "url": "https://www.yourmoneyoryourlife.com/"
-      },
-      {
-        "title": "Principles by Ray Dalio",
-        "url": "https://www.principles.com/"
-      }
-    ],
-    "meta": {
-      "id": "Financial goal setting",
-      "category": "Basic Financial Knowledge",
-      "difficulty": 1,
-      "level": "1. Financial Basics",
-      "related": [
-        "Financial planning basics",
-        "Personal finance"
-      ],
-      "tags": [
-        "Basic Financial Knowledge",
-        "入门"
       ]
     }
   }
