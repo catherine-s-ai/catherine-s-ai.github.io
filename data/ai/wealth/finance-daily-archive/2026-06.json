@@ -324,5 +324,64 @@
         "入门"
       ]
     }
+  },
+  {
+    "id": "cf22a787-3864-43b3-9791-87e1acc4a375",
+    "date": "2026-06-07",
+    "topic": "The Risk-Return Trade-Off: Why You're Not Paid to Be Smart",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "In 64 AD, Emperor Nero faced a cash crunch. His solution? Clip the edges off gold coins, melt them, and mint more coins. For a time, it worked—more money, more spending. But citizens soon realized their coins were lighter. Prices rose. Trust eroded. Nero had discovered inflation, but not the trade-off: you can't create value by diluting value.\n\nThat's the risk-return trade-off in a nutshell. Every investment is a bet on future cash flows, but the future is uncertain. The trade-off isn't between safety and greed—it's between certainty and potential. Imagine two slot machines: one pays $100 every pull; the other pays $1 with 99% probability and $10,000 with 1% probability. The expected value of the risky machine is $100.99, higher than the safe $100. But would you pull the lever? Most people say no, because the risk of getting $1 feels like a loss. That feeling is the price of potential.\n\nAt first principles: every asset has a probability distribution of returns. The wider the distribution, the higher the risk. Investors demand a premium for bearing that uncertainty—otherwise, why bother? The equity risk premium (stocks beating bonds by ~4-6% annually) is not a gift; it's compensation for enduring 50% drawdowns every decade. Today, with inflation eroding cash and bonds yielding near zero, many chase returns without understanding the trade-off. Ignoring it leads to catastrophic losses or portfolios too conservative to build wealth. This principle is the bedrock of every portfolio decision.",
+    "key_points": [
+      "**Risk is not volatility; it's the probability of permanent loss.** Volatility is just the scoreboard; permanent loss is when you're forced to sell at a bad price. The real risk is buying an asset you don't understand or can't hold through a downturn. Charlie Munger said, 'The first rule of compounding is never interrupt it unnecessarily.' That means avoiding situations where you have to sell at the worst time.",
+      "**The equity risk premium is a pain premium, not a genius premium.** History shows stocks outperform bonds, but only because they punish you severely along the way. The 4-6% annual premium is the reward for enduring stomach-churning drawdowns. If you can't tolerate the pain, you won't get the gain. It's not about being smart; it's about being able to sit still when everyone else is panicking.",
+      "**Diversification is not about maximizing returns; it's about minimizing regret.** A concentrated portfolio can outperform, but it can also destroy wealth. Diversification trades some upside for a smoother ride, which helps you stay invested. The goal is to avoid the regret of selling at the bottom. As Harry Markowitz said, 'Diversification is the only free lunch'—but it's a lunch of insurance, not feast."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Risk Capacity",
+        "steps": [
+          "Calculate your annual living expenses and subtract any guaranteed income (salary, pension). That's your 'must-have' cash flow.",
+          "Estimate the maximum percentage loss you could endure in your portfolio without changing your lifestyle—say, 20%. This is your 'sleep-at-night' drawdown.",
+          "Use the rule of thumb: maximum equity allocation = tolerable drawdown / (historical worst equity drawdown). For example, if tolerable drawdown is 20% and worst equity drawdown is 50%, equities ≤ 40%. Adjust based on your risk tolerance."
+        ]
+      },
+      {
+        "title": "Stress-Test Your Portfolio",
+        "steps": [
+          "For each asset class, look up its worst historical drawdown (e.g., S&P 500: -50% in 2008; long-term bonds: -20% in 2022).",
+          "Write down the dollar loss for your portfolio if each asset hits that drawdown simultaneously (worst case).",
+          "Now, close your eyes and imagine seeing that loss on your screen. Would you panic sell? If yes, reduce exposure to that asset until you can honestly say 'No'. If no, consider that you might be overconfident—talk to someone who lived through 2008."
+        ]
+      },
+      {
+        "title": "Simulate a Market Crash Rebalance",
+        "steps": [
+          "Assume your portfolio drops by 50% overnight. Write down your new asset allocation (e.g., stocks fell more than bonds, so stocks become a smaller percentage).",
+          "Compare to your target allocation (if you don't have one, start with 60% stocks/40% bonds). Calculate how much you need to buy or sell to rebalance.",
+          "Now, ask yourself: 'Would I actually have the guts to buy stocks when they're crashing?' If the answer is no, your target allocation is too aggressive. If yes, you are ready for the next bear market."
+        ]
+      }
+    ],
+    "risk_notes": "The risk-return trade-off assumes rational investors and efficient markets. In reality, behavioral biases (loss aversion, recency bias) cause people to overestimate risk after a crash and underestimate it after a rally. Also, during tail events (like 2008 or COVID), correlations go to 1 and diversification fails. Finally, some risks are not rewarded—speculative bubbles, illiquid assets, or leverage—where you take risk without expected return. Beware of 'fake' risk premiums like lottery stocks or crypto.",
+    "sources": [
+      {
+        "title": "Aswath Damodaran, 'Investment Valuation' (Chapter on Risk and Return)",
+        "url": "http://pages.stern.nyu.edu/~adamodar/"
+      }
+    ],
+    "meta": {
+      "id": "Risk–return trade-off",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Portfolio diversification",
+        "Risk management"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
   }
 ]

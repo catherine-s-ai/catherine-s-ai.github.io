@@ -1,5 +1,68 @@
 [
   {
+    "id": "4ac963f0-5b63-4ee7-a299-fd56b78cec9b",
+    "date": "2026-08-11",
+    "topic": "Financial Goal Setting: The Art of Digging Up Buried Assumptions",
+    "teaser": "Your financial goals are built on someone else's blueprint. Excavate the buried assumptions before they collapse under you.",
+    "summary": "We think financial goal-setting is a discipline problem. It's not. It's an archaeological dig. Beneath every spreadsheet and savings target lies a stratum of inherited beliefs—money scripts etched into your psyche before you could speak. Your parents' anxieties, your culture's taboos, your past's scars—they form the bedrock on which you build your financial house. If you don't excavate them, your goals are just scaffolding over a fault line.\n\nConsider this: every financial decision you make is a vote for the person you're becoming. But whose ballot are you casting? The ads that tell you happiness is a new car? The social pressure to keep up with neighbors? Or the quiet voice of your own values, buried under decades of conditioning?\n\nMost goal-setting advice is a compass: 'Set SMART goals, track progress, stay disciplined.' That's not wrong—it's just shallow. It assumes you know where you want to go. But if your compass is calibrated by inherited fears or societal expectations, you'll walk confidently in the wrong direction.\n\nThe first principle: goals are not destinations; they are direction pointers. A compass, not a map. The terrain changes, the path twists, but the bearing keeps you from wandering. Yet even a compass needs calibration. That's where the archaeology comes in.\n\nStart by digging. Ask: What did money mean in my childhood? Was it scarce, abundant, a source of conflict? What scripts play in my head when I spend? 'Money is the root of evil'? 'Rich people are greedy'? 'I'll never be good with money'? These scripts are the artifacts of your financial psyche. Unearth them, examine them, and decide if they serve you.\n\nThen, define your values. Not your parents' values, not your culture's—yours. Goals tied to your deepest values have gravitational pull; they become part of your identity. 'I am a saver' is more durable than 'I want to save $500 a month.' The first is a being; the second is a doing.\n\nBut here's the contrarian twist: embrace anti-goals. Define what you're willing to give up. 'I won't buy a new car until I hit my savings target' is more powerful than 'I want to save more.' Scarcity clarifies. It forces trade-offs, and trade-offs reveal priorities.\n\nAnd beware the shadow side of goals. They can become cages. If you tie your self-worth to a number, you'll feel like a failure when life throws curveballs. Goals can cause tunnel vision, blinding you to health, relationships, and serendipity. And there's the arrival fallacy—the belief that happiness awaits at the finish line. It doesn't. The joy is in the becoming, not the arriving.\n\nSo approach goal-setting with curiosity, not rigidity. Let your goals evolve as you do. The goal is not just to reach a number; it's to become the person who can sustain that number—and the life it buys. That requires digging, not just planning.",
+    "key_points": [
+      "Goals are compasses, not maps. They set direction, not exact routes; adjust as circumstances change. The map is the illusion of control; the compass is the wisdom of adaptation.",
+      "Anti-goals are powerful: define what you're willing to give up. 'I won't buy a new car until I hit my savings target' beats 'I want to save more.' Scarcity clarifies priorities and forces trade-offs.",
+      "Identity-based goals stick: 'I am a saver' is more durable than 'I want to save $500 a month.' Your goals reflect who you are becoming, not just what you want to have."
+    ],
+    "practice": [
+      {
+        "title": "The Excavation: Unearth Your Money Scripts",
+        "steps": [
+          "Set a timer for 15 minutes and write down every money memory from childhood: a parent's panic over bills, a grandparent's hoarding, a friend's envy. Don't filter.",
+          "Identify recurring themes: scarcity, abundance, fear, shame, guilt. Label them as 'inherited scripts.'",
+          "For each script, ask: Is this true for me now? Does it serve my goals? If not, write a counter-script. Example: 'Money is scarce' → 'I create value, and value is abundant.'"
+        ]
+      },
+      {
+        "title": "Anti-Goal Declaration",
+        "steps": [
+          "List three things you are currently spending money on that do not align with your top values (e.g., daily lattes, unused gym memberships, impulse Amazon buys).",
+          "For each, write an anti-goal: 'I will not spend money on X until I have achieved Y.' Be specific and time-bound.",
+          "Post these anti-goals where you'll see them daily. Review weekly and celebrate the 'not buying' wins."
+        ]
+      },
+      {
+        "title": "Identity-Based Goal Setting",
+        "steps": [
+          "Write down three identities you want to embody: e.g., 'I am a person who invests in my future,' 'I am a mindful spender,' 'I am a generous person.'",
+          "For each identity, define one financial habit that reinforces it. Example: 'I am a person who invests in my future' → 'I automatically transfer 20% of my income to investments on payday.'",
+          "Track your habits, not just outcomes. At the end of each month, ask: Did I act like the person I want to become?"
+        ]
+      }
+    ],
+    "risk_notes": "Beware of tying self-worth to numbers. Goals can become anxiety-inducing and rigid. Watch for tunnel vision that neglects health and relationships. Avoid the arrival fallacy: happiness from hitting a goal is fleeting; focus on sustainable habits and identity shifts.",
+    "sources": [
+      {
+        "title": "Your Money or Your Life",
+        "url": "https://www.penguinrandomhouse.com/books/170647/your-money-or-your-life-by-vicki-robin-and-joe-dominguez/"
+      },
+      {
+        "title": "Atomic Habits",
+        "url": "https://jamesclear.com/atomic-habits"
+      }
+    ],
+    "meta": {
+      "id": "Financial goal setting",
+      "category": "Basic Financial Knowledge",
+      "difficulty": 1,
+      "level": "1. Financial Basics",
+      "related": [
+        "Financial planning basics",
+        "Personal finance"
+      ],
+      "tags": [
+        "Basic Financial Knowledge",
+        "入门"
+      ]
+    }
+  },
+  {
     "id": "b453d6e8-5db3-4e08-856b-1be30e3364d3",
     "date": "2026-08-10",
     "topic": "Debt Prevention: The Firefighter's Guide to Personal Finance",
@@ -3726,65 +3789,6 @@
       "related": [
         "Asset allocation",
         "Risk reduction"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "cf22a787-3864-43b3-9791-87e1acc4a375",
-    "date": "2026-06-07",
-    "topic": "The Risk-Return Trade-Off: Why You're Not Paid to Be Smart",
-    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
-    "summary": "In 64 AD, Emperor Nero faced a cash crunch. His solution? Clip the edges off gold coins, melt them, and mint more coins. For a time, it worked—more money, more spending. But citizens soon realized their coins were lighter. Prices rose. Trust eroded. Nero had discovered inflation, but not the trade-off: you can't create value by diluting value.\n\nThat's the risk-return trade-off in a nutshell. Every investment is a bet on future cash flows, but the future is uncertain. The trade-off isn't between safety and greed—it's between certainty and potential. Imagine two slot machines: one pays $100 every pull; the other pays $1 with 99% probability and $10,000 with 1% probability. The expected value of the risky machine is $100.99, higher than the safe $100. But would you pull the lever? Most people say no, because the risk of getting $1 feels like a loss. That feeling is the price of potential.\n\nAt first principles: every asset has a probability distribution of returns. The wider the distribution, the higher the risk. Investors demand a premium for bearing that uncertainty—otherwise, why bother? The equity risk premium (stocks beating bonds by ~4-6% annually) is not a gift; it's compensation for enduring 50% drawdowns every decade. Today, with inflation eroding cash and bonds yielding near zero, many chase returns without understanding the trade-off. Ignoring it leads to catastrophic losses or portfolios too conservative to build wealth. This principle is the bedrock of every portfolio decision.",
-    "key_points": [
-      "**Risk is not volatility; it's the probability of permanent loss.** Volatility is just the scoreboard; permanent loss is when you're forced to sell at a bad price. The real risk is buying an asset you don't understand or can't hold through a downturn. Charlie Munger said, 'The first rule of compounding is never interrupt it unnecessarily.' That means avoiding situations where you have to sell at the worst time.",
-      "**The equity risk premium is a pain premium, not a genius premium.** History shows stocks outperform bonds, but only because they punish you severely along the way. The 4-6% annual premium is the reward for enduring stomach-churning drawdowns. If you can't tolerate the pain, you won't get the gain. It's not about being smart; it's about being able to sit still when everyone else is panicking.",
-      "**Diversification is not about maximizing returns; it's about minimizing regret.** A concentrated portfolio can outperform, but it can also destroy wealth. Diversification trades some upside for a smoother ride, which helps you stay invested. The goal is to avoid the regret of selling at the bottom. As Harry Markowitz said, 'Diversification is the only free lunch'—but it's a lunch of insurance, not feast."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Personal Risk Capacity",
-        "steps": [
-          "Calculate your annual living expenses and subtract any guaranteed income (salary, pension). That's your 'must-have' cash flow.",
-          "Estimate the maximum percentage loss you could endure in your portfolio without changing your lifestyle—say, 20%. This is your 'sleep-at-night' drawdown.",
-          "Use the rule of thumb: maximum equity allocation = tolerable drawdown / (historical worst equity drawdown). For example, if tolerable drawdown is 20% and worst equity drawdown is 50%, equities ≤ 40%. Adjust based on your risk tolerance."
-        ]
-      },
-      {
-        "title": "Stress-Test Your Portfolio",
-        "steps": [
-          "For each asset class, look up its worst historical drawdown (e.g., S&P 500: -50% in 2008; long-term bonds: -20% in 2022).",
-          "Write down the dollar loss for your portfolio if each asset hits that drawdown simultaneously (worst case).",
-          "Now, close your eyes and imagine seeing that loss on your screen. Would you panic sell? If yes, reduce exposure to that asset until you can honestly say 'No'. If no, consider that you might be overconfident—talk to someone who lived through 2008."
-        ]
-      },
-      {
-        "title": "Simulate a Market Crash Rebalance",
-        "steps": [
-          "Assume your portfolio drops by 50% overnight. Write down your new asset allocation (e.g., stocks fell more than bonds, so stocks become a smaller percentage).",
-          "Compare to your target allocation (if you don't have one, start with 60% stocks/40% bonds). Calculate how much you need to buy or sell to rebalance.",
-          "Now, ask yourself: 'Would I actually have the guts to buy stocks when they're crashing?' If the answer is no, your target allocation is too aggressive. If yes, you are ready for the next bear market."
-        ]
-      }
-    ],
-    "risk_notes": "The risk-return trade-off assumes rational investors and efficient markets. In reality, behavioral biases (loss aversion, recency bias) cause people to overestimate risk after a crash and underestimate it after a rally. Also, during tail events (like 2008 or COVID), correlations go to 1 and diversification fails. Finally, some risks are not rewarded—speculative bubbles, illiquid assets, or leverage—where you take risk without expected return. Beware of 'fake' risk premiums like lottery stocks or crypto.",
-    "sources": [
-      {
-        "title": "Aswath Damodaran, 'Investment Valuation' (Chapter on Risk and Return)",
-        "url": "http://pages.stern.nyu.edu/~adamodar/"
-      }
-    ],
-    "meta": {
-      "id": "Risk–return trade-off",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Portfolio diversification",
-        "Risk management"
       ],
       "tags": [
         "Investment Concepts & Principles",
