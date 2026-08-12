@@ -383,5 +383,77 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "37b46d1b-6f78-4bcd-9e0a-b01322b6ab9d",
+    "date": "2026-06-08",
+    "topic": "Diversification: The Art of Not Betting the Farm",
+    "teaser": "Why the world's greatest investors admit they know nothing—and how you can profit from their humility.",
+    "summary": "Imagine a farmer in ancient Mesopotamia who plants only wheat. A drought comes—he starves. His neighbor plants wheat, barley, and lentils. He loses some, but survives. That’s diversification: not betting the farm on one thing. But here’s the deeper truth: diversification is an admission of ignorance. You don’t know which crop will thrive, which stock will soar, or which black swan will strike. So you hedge your bets. As Ray Dalio would say, you build a ‘risk parity’ portfolio—balancing assets so that no single shock wipes you out. Morgan Housel reminds us that the real value of diversification isn’t higher returns; it’s the ability to sleep at night during a crash. And Richard Feynman would ask: how do we know it works? Through the first principle of correlation—the statistical magic that makes 1+1 > 2. When stocks zig and bonds zag, your portfolio glides. But here’s the catch: correlation is a fickle lover. In a crisis, everything correlates to 1—stocks, bonds, even gold can fall together. That’s why true diversification requires assets with truly independent risk drivers: not just asset classes, but strategies, geographies, and time horizons. The S&P 500’s top 10 stocks now account for 30% of its value. If they tumble, your ‘diversified’ 401(k) could still get crushed. The antidote? Own the whole haystack—but also own insurance: long-duration bonds, trend-following commodities, and maybe a dash of cash. Because the only certainty is uncertainty.",
+    "key_points": [
+      "Diversification is an admission of ignorance: You don't know which asset will outperform, so you own them all—a humble acknowledgment of uncertainty.",
+      "The true benefit is not higher returns, but a smoother ride—reducing the chance of catastrophic loss. As Housel says, ‘Survival is the only way to compound.’",
+      "Correlation is the key, but it breaks down in crises: during panics, all correlations converge to 1. True diversification requires assets with independent risk drivers, not just historical low correlation.",
+      "Diversification can hurt during bubbles: owning everything means owning overvalued assets too. In 1999, a diversified portfolio still lost money when the dot-com bubble burst—because bonds and value stocks also suffered. The lesson: diversification is a long-term strategy, not a panic button."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Portfolio's Correlation to the S&P 500",
+        "steps": [
+          "Step 1: Download your portfolio's monthly returns for the past 3 years (or use a tool like Portfolio Visualizer).",
+          "Step 2: In Excel, use the CORREL function: =CORREL(your_returns, S&P_500_returns).",
+          "Step 3: If the result is above 0.9, you are heavily correlated. Add assets with low or negative correlation: long-term Treasuries (TLT), gold (GLD), or managed futures (DBMF).",
+          "Step 4: Recalculate after adding new assets to see the improvement."
+        ]
+      },
+      {
+        "title": "Check Your Top 5 Holdings",
+        "steps": [
+          "Step 1: List your top 5 positions by market value (stocks, ETFs, mutual funds).",
+          "Step 2: Add up their percentages. If they exceed 20% of your portfolio, you are concentrated.",
+          "Step 3: Trim the largest position by 50% and spread the proceeds equally into a small-cap index (IWM), an international fund (VXUS), and a REIT (VNQ).",
+          "Step 4: Set a rule: no single holding > 5% of portfolio."
+        ]
+      },
+      {
+        "title": "Simulate a 2008-Style Crash",
+        "steps": [
+          "Step 1: Go to Portfolio Visualizer's 'Stress Test' tool (free).",
+          "Step 2: Enter your portfolio tickers and weights.",
+          "Step 3: Select the '2008 Financial Crisis' scenario (S&P 500 -38%, 10yr Treasury +20%).",
+          "Step 4: Note the estimated loss. If > 30%, rebalance: increase bonds to 40% (e.g., TLT) and add a trend-following ETF (e.g., KMLM).",
+          "Step 5: Rerun the stress test. Aim for a loss < 20% in a 2008 repeat."
+        ]
+      }
+    ],
+    "risk_notes": "Over-diversification can dilute returns and lead to 'diworsification'—owning too many mediocre assets. It also creates complexity and higher costs. Psychologically, it can give a false sense of security, leading to complacency during bubbles. Diversification does not guarantee against loss; it only reduces the impact of any single event. In a systemic crisis, all correlations rise, so even a diversified portfolio can suffer. The key is to rebalance ruthlessly and include non-correlated assets like trend-following strategies or catastrophe bonds.",
+    "sources": [
+      {
+        "title": "The Intelligent Investor by Benjamin Graham",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "The Black Swan by Nassim Taleb",
+        "url": "https://www.amazon.com/Black-Swan-Impact-Highly-Improbable/dp/081297381X"
+      },
+      {
+        "title": "Portfolio Visualizer",
+        "url": "https://www.portfoliovisualizer.com/"
+      }
+    ],
+    "meta": {
+      "id": "Portfolio diversification",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Asset allocation",
+        "Risk reduction"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
   }
 ]
