@@ -1,5 +1,69 @@
 [
   {
+    "id": "1ba9570b-7a3c-4e40-b3cb-a57d55cc3886",
+    "date": "2026-08-13",
+    "topic": "Diversification",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "In 301 AD, Emperor Diocletian, desperate to curb runaway prices, issued an edict fixing maximum wages and prices across the Roman Empire. The result? Markets froze, goods vanished, and inflation spiraled even further. He tried to control the uncontrollable by imposing rigid rules on a chaotic system. Today, you might be making a similar mistake—not by fixing prices, but by clinging to a rigid, concentrated portfolio that assumes you can predict which asset will win. That's not investing; that's gambling with your future.\n\nThink of a pilot flying a single-engine plane across the ocean. You'd call it reckless. Yet many investors fly their financial lives with one stock, one sector, or one asset class. In 2008, the S&P 500 lost 37%. A diversified portfolio of 60% stocks and 40% bonds lost about 20%. That's the difference between a crash landing and a bumpy ride.\n\nDiversification is not about owning many assets; it's about owning assets that don't move in lockstep. It's an admission of ignorance—a humble acknowledgment that you don't know which asset will outperform, so you own them all. The magic lies not in the number of assets, but in their correlation. When stocks zig, bonds zag. When tech crashes, healthcare might hold steady. By combining assets with low or negative correlations, you smooth the ride without sacrificing long-term returns. It's the only free lunch in finance.\n\nBut here's the catch: diversification is a dynamic act, not a static one. Without regular rebalancing, your winners grow and your portfolio drifts into overconcentration, silently undoing your safety net. Right now, with markets at record highs, geopolitical tensions, and inflation uncertainty, the temptation to chase recent winners—tech, crypto, whatever's hot—is overwhelming. Yet concentration is the silent killer of wealth. A single black swan—a market crash, a sector disruption, a scandal—can erase years of savings. Diversification is your seatbelt: you hope you never need it, but when you do, it saves your financial life. And with volatility expected to remain high, it's not about avoiding risk; it's about staying in the game long enough to let compounding work its magic.",
+    "key_points": [
+      "Diversification is an admission of ignorance: You don't know which asset will outperform, so you own them all. It's humility in action, not a lack of conviction.",
+      "Correlation is the hidden variable: The real benefit comes not from the number of assets, but from how they move relative to each other. Two assets that both crash together don't reduce risk.",
+      "Diversification is a free lunch—but only if you rebalance: Without periodic rebalancing, your portfolio drifts into overconcentration as winners grow, undermining the very diversification you sought."
+    ],
+    "practice": [
+      {
+        "title": "Calculate your current concentration risk",
+        "steps": [
+          "List your top 5 holdings and their current market values.",
+          "Compute the percentage each represents of your total portfolio.",
+          "If any single stock exceeds 5% of your total, you're taking on uncompensated risk. Consider trimming it back.",
+          "Example: If your portfolio is $100,000 and you hold $10,000 of Apple, that's 10%—twice the recommended limit."
+        ]
+      },
+      {
+        "title": "Check your correlation",
+        "steps": [
+          "Use a tool like Morningstar or Portfolio Visualizer to analyze your holdings.",
+          "Look at the 10-year correlation matrix. If most assets have a correlation of 0.8 or higher, you're not as diversified as you think.",
+          "Example: If you own two S&P 500 index funds from different providers, their correlation is 1.0—you're actually 100% concentrated in the same market."
+        ]
+      },
+      {
+        "title": "Simulate a 50% crash",
+        "steps": [
+          "Use a retirement calculator like FIREcalc or Personal Capital to model a 50% stock market drop.",
+          "See how your portfolio would fare. Would you still meet your long-term goals?",
+          "If the numbers keep you up at night, adjust your allocation. For example, shift from 80/20 stocks/bonds to 60/40 to reduce drawdown."
+        ]
+      }
+    ],
+    "risk_notes": "Diversification can lead to 'diworsification'—over-diversifying into assets you don't understand or that have high fees, diluting returns. It also creates a false sense of security: even a diversified portfolio can lose 20-30% in a severe bear market. Psychologically, it can cause 'regret aversion'—watching a concentrated winner outperform your diversified portfolio can tempt you to abandon your strategy at the worst time. Moreover, in a crisis, correlations tend to converge to 1, meaning everything falls together, so diversification offers less protection exactly when you need it most. Finally, excessive diversification can lead to analysis paralysis, preventing you from making decisive moves.",
+    "sources": [
+      {
+        "title": "The Intelligent Investor",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "A Random Walk Down Wall Street",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      }
+    ],
+    "meta": {
+      "id": "Portfolio diversification",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Asset allocation",
+        "Risk reduction"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "679bcb9f-483b-4c5b-926d-59d395dd4056",
     "date": "2026-08-12",
     "topic": "The Risk-Return Trade-Off: Pricing Uncertainty, Not Avoiding It",
@@ -3719,68 +3783,6 @@
       "related": [
         "Long-term investing",
         "Trading"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "2785be75-e620-43eb-809c-c71d83f5ba9b",
-    "date": "2026-06-09",
-    "topic": "Annualized Return: The True Measure of Investment Growth",
-    "teaser": "Your money is reproducing. Are you accidentally killing its offspring?",
-    "summary": "**Compound interest isn't math; it's biology. Like cells dividing, money reproduces—but only if you don't kill the offspring.**\n\nImagine a colony of bacteria that doubles every hour. If one hour you kill 50% of the colony, the next hour they must grow 100% just to get back to the original size. That's the brutal math of volatility. **Annualized return** is the geometric average rate of return per year, accounting for compounding. It answers: *If your investment grew at a constant rate each year, what would that rate be?* First principles: if you earn r% each year for n years, your initial $1 becomes $(1+r)^n$. The annualized return is the single rate that, compounded over n years, equals the total growth.\n\n**Why it matters:** Most investors focus on total returns, ignoring the devastating effect of volatility. A 50% loss requires a 100% gain to break even—annualized returns expose the real growth rate. For example, a fund that gains 20% one year and loses 20% the next has a cumulative return of -4%, not 0%. The annualized return is about -2.02%, revealing the true cost of volatility. Understanding this prevents you from being misled by headline returns and helps you set realistic expectations for wealth accumulation. It's the difference between thinking you're on track and actually being on track.\n\n**The Investor's Dilemma:** In 2008, the S&P 500 fell 37%. By 2012, it had recovered. But an investor who panicked and sold at the bottom locked in losses, while another who stayed invested broke even. The annualized return over that period was about -1.5% for the stayer—a sobering reminder that volatility kills compounding.",
-    "key_points": [
-      "Volatility decay: A 20% gain followed by a 20% loss results in a -4% cumulative return, not 0%. Sequence of returns matters more than average returns. The damage is asymmetric: losses hurt more than equivalent gains help.",
-      "Annualized return hides the risk of ruin: a 99% gain followed by a 100% loss wipes you out, but the annualized return doesn't capture that. The geometric mean is always less than the arithmetic mean; the gap is a measure of volatility drag.",
-      "The Rule of 72 is a rough mental model, but precision matters less than the insight: small differences in return compound to huge differences over decades. At 1% it takes 70 years to double; at 10% it takes 7.2 years. The real insight: time is the multiplier of return, and volatility is the subtractor."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Personal Annualized Return",
-        "steps": [
-          "Find your portfolio's ending value and starting value over the past 5 years.",
-          "Divide ending value by starting value.",
-          "Raise the result to the power of (1/5).",
-          "Subtract 1 and multiply by 100 to get percentage.",
-          "Compare to S&P 500's annualized return over the same period. If yours is lower, ask: Did I panic-sell? Did I add money at the wrong time? Consider rebalancing or changing your strategy."
-        ]
-      },
-      {
-        "title": "Simulate a Market Drop Recovery",
-        "steps": [
-          "Assume your portfolio drops 50%.",
-          "Calculate the future value needed to break even: starting value * 2.",
-          "Using a 10% annual return, solve for years: log(2)/log(1.10) ≈ 7.27 years.",
-          "Now simulate a scenario: you have $100,000, drop to $50,000, then earn 10% annually. After 7.27 years you're back to $100,000. But if you had avoided the drop, $100,000 at 10% for 7.27 years would be $200,000. The drop cost you $100,000 in future value."
-        ]
-      },
-      {
-        "title": "Compare Time-Weighted vs Money-Weighted Return",
-        "steps": [
-          "Locate your brokerage statement for both return types.",
-          "Note the difference: time-weighted measures manager performance, money-weighted measures your timing.",
-          "If money-weighted is lower, you likely added money before drops or withdrew after gains. Decision: If your personal return lags the fund's return by more than 2% annually, consider automating contributions to avoid emotional timing."
-        ]
-      }
-    ],
-    "risk_notes": "Annualized returns assume reinvestment of all gains, which is unrealistic (taxes, spending). They also smooth out volatility, hiding the emotional pain of drawdowns. Psychologically, investors overestimate future returns by extrapolating recent high annualized returns, leading to risk-taking just before reversals.",
-    "sources": [
-      {
-        "title": "Search: Annualized Return: The True Measure of Investment Growth",
-        "url": "https://www.google.com/search?q=Annualized%20Return%3A%20The%20True%20Measure%20of%20Investment%20Growth"
-      }
-    ],
-    "meta": {
-      "id": "Annualized & compound returns",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Compound interest",
-        "Return metrics"
       ],
       "tags": [
         "Investment Concepts & Principles",
