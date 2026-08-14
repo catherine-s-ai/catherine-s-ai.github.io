@@ -1,5 +1,70 @@
 [
   {
+    "id": "d62e61ff-7802-46ee-ab12-ebc74d2e236c",
+    "date": "2026-08-14",
+    "topic": "The Power of Compound Returns",
+    "teaser": "Einstein called compound interest the eighth wonder. But the real wonder is how our brains underestimate it. 10% over 30 years isn't 300%—it's 1,745%. Your intuition is lying.",
+    "summary": "Albert Einstein allegedly called compound interest the eighth wonder of the world. But the real wonder isn't the math—it's that we systematically underestimate it, even when we know it. A 10% annual return over 30 years isn't a 300% gain; it's a 1,745% gain. Your intuition is not your friend here.\n\nAt its core, **annualized return** is the geometric average rate of return per year that would produce the same cumulative result as the actual volatile returns. It's the constant growth rate that connects your starting and ending wealth. Compound returns are the mathematical engine of wealth: returns on returns. First principles: if you have a 50% loss, you need a 100% gain to break even. The arithmetic average is a lie; the geometric average is truth.\n\nWhy does this matter? In a world of 3% inflation, 7% nominal returns, and 40-year investment horizons, the difference between a 7% and 8% annualized return is the difference between retiring with $1.5M and $2.2M. That 1% is not trivial—it's the difference between freedom and dependence. Understanding this today shapes every saving and investing decision you make.\n\nThe key is to grasp the **volatility drag**: arithmetic mean overstates true growth. A 20% gain followed by a 20% loss is a 4% loss, not a 0% return. The more volatile your returns, the lower your compound return for the same arithmetic average. This is why 'steady' beats 'flashy'.\n\nTime is a multiplier, not an adder. The compound interest formula is exponential, so the last decade of your investment horizon does the heavy lifting. For a 30-year horizon, the final 10 years contribute more than the first 20 combined. This means starting early is important, but staying invested is non-negotiable.\n\nThe 'Rule of 72' is a mental shortcut, but it hides the true power of compounding. It assumes continuous compounding and ignores taxes, fees, and inflation. The real magic is in the reinvestment of dividends and capital gains, not just the rate.",
+    "key_points": [
+      "Volatility drag: The arithmetic average overstates true growth. A 20% gain followed by a 20% loss is a 4% loss, not a 0% return. Steady portfolios beat flashy ones over time.",
+      "Time is a multiplier: The exponential nature of compounding means the last decade of your horizon does the heavy lifting. Staying invested is non-negotiable.",
+      "The Rule of 72 is a rough shortcut: It ignores taxes, fees, and inflation. The real magic is in reinvestment of dividends and capital gains.",
+      "Annualized return is the geometric average, not the arithmetic average. It's the only honest measure of your true growth rate."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal Annualized Return",
+        "steps": [
+          "Find the beginning and ending values of your 401(k) or brokerage account over the last 5 years.",
+          "Use the formula: (Ending Value / Beginning Value)^(1/Years) - 1.",
+          "Compare this to the average annual return you see quoted. You'll likely find it's lower."
+        ]
+      },
+      {
+        "title": "Run a Volatility Drag Simulation",
+        "steps": [
+          "Take two hypothetical portfolios: one with steady 8% returns, another with alternating 30% gains and 15% losses (arithmetic average ~7.5%).",
+          "Calculate the ending wealth after 20 years for each.",
+          "Observe that the steady portfolio wins despite similar arithmetic averages."
+        ]
+      },
+      {
+        "title": "Project Your Future with a Compound Calculator",
+        "steps": [
+          "Use a free online compound interest calculator.",
+          "Input a 30-year horizon with a starting amount and annual contribution.",
+          "Compare the ending wealth at 7% vs. 8% annual return.",
+          "Ask yourself: 'Is paying a 1% annual fee worth it?' The answer will shock you."
+        ]
+      }
+    ],
+    "risk_notes": "The concept fails when applied to short-term or non-reinvested returns. It also assumes reinvestment and no taxes. Psychologically, it can lead to overconfidence: 'I just need 10% a year' ignores the reality of bear markets. The trap is focusing on the long-term average while ignoring the emotional pain of drawdowns, which often causes investors to sell at the worst time. Also, annualized returns hide the sequence of returns risk—the order of gains and losses matters enormously for those withdrawing funds.",
+    "sources": [
+      {
+        "title": "Benjamin Graham, 'The Intelligent Investor'",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "William Bernstein, 'The Four Pillars of Investing'",
+        "url": "https://www.amazon.com/Four-Pillars-Investing-Building-Portfolio/dp/0071744924"
+      }
+    ],
+    "meta": {
+      "id": "Annualized & compound returns",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Compound interest",
+        "Return metrics"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "1ba9570b-7a3c-4e40-b3cb-a57d55cc3886",
     "date": "2026-08-13",
     "topic": "Diversification",
@@ -3719,70 +3784,6 @@
       "related": [
         "Market anomalies",
         "CAPM"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "24ee09a1-3254-4eea-b5fc-dc2f7378c2f2",
-    "date": "2026-06-10",
-    "topic": "Investing vs. Speculation",
-    "teaser": "Newton lost a fortune in 1720. Are you making the same mistake?",
-    "summary": "In 1720, Sir Isaac Newton, the man who unraveled the laws of gravity, fell for the greatest financial illusion of his era: the South Sea Company. He poured his savings into a stock that promised riches from trade with South America—a venture that had almost no actual business. When the bubble burst, Newton lost £20,000 (millions today). His lament, 'I can calculate the motion of heavenly bodies, but not the madness of people,' is a timeless warning. Newton confused **investing** with **speculation**. Investing means owning a piece of a business that generates cash flows—profits, dividends, growth. Speculation means betting on price changes driven by crowd psychology, with no regard for underlying value. It's the difference between buying a farm for its crops and buying a lottery ticket for its potential resale. Today, millions of new investors are repeating Newton's error, piling into meme stocks and cryptocurrencies that lack fundamental earnings. The urgency? Inflation is eating cash savings. But the real danger is mistaking a gamble for a strategy. **Investing compounds your capital over decades; speculation can vaporize it in weeks.** Understand the line, or risk joining Newton in the annals of financial folly.",
-    "key_points": [
-      "The 'greater fool theory' is the engine of speculation: you buy an overvalued asset hoping to sell it to someone even more foolish. Investing assumes the asset itself generates value over time. The difference is not just semantics—it's the difference between owning a cash-flow machine and hoping for a greater fool.",
-      "Volatility is not risk for investors; it is risk for speculators. An investor who bought the S&P 500 at the 2007 peak saw a 50% drawdown but recovered within 5 years—because the underlying businesses kept earning. A speculator who bought at the same peak likely sold at the bottom, locking in losses. Volatility is the price of entry for investors; it's the endgame for speculators.",
-      "Time horizon is a red herring. Holding a meme stock for 10 years is still speculation if the business has no earnings power—you're just a patient gambler. Conversely, a one-day trade in a bond can be investing if it's based on a known interest payment—the source of return is fundamental, not price action. The classification depends on the *source of return*, not the holding period."
-    ],
-    "practice": [
-      {
-        "title": "Articulate the Source of Return",
-        "steps": [
-          "Before any purchase, write down the specific source of expected return (e.g., dividends, earnings growth, interest).",
-          "If you cannot articulate a fundamental source, you are speculating."
-        ]
-      },
-      {
-        "title": "Check Portfolio Turnover",
-        "steps": [
-          "Calculate your portfolio's annual turnover ratio (total trades divided by average portfolio value).",
-          "If it exceeds 50% annually, you are likely speculating, not investing."
-        ]
-      },
-      {
-        "title": "Simulate a 50% Crash",
-        "steps": [
-          "Imagine any asset you hold drops 50% overnight.",
-          "If your plan is to sell, you are speculating. If your plan is to buy more or hold, you are investing."
-        ]
-      }
-    ],
-    "risk_notes": "The line between investing and speculation is blurry. Many successful investors (e.g., Buffett) have made speculative bets (e.g., options on indexes). Conversely, speculation can be part of a disciplined strategy (e.g., trend following). The psychological trap is overconfidence: investors often rationalize speculation as 'strategic investing' during bubbles. Also, pure investing ignores opportunities in momentum or arbitrage that can generate alpha.",
-    "sources": [
-      {
-        "title": "The Intelligent Investor",
-        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
-      },
-      {
-        "title": "A Random Walk Down Wall Street",
-        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
-      },
-      {
-        "title": "Security Analysis",
-        "url": "https://www.amazon.com/Security-Analysis-Foreword-Buffett-Editions/dp/0071592539"
-      }
-    ],
-    "meta": {
-      "id": "Investing vs. speculating",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Long-term investing",
-        "Trading"
       ],
       "tags": [
         "Investment Concepts & Principles",
