@@ -581,5 +581,64 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "8a9f6354-6bde-4df0-94cc-58a8f0660e79",
+    "date": "2026-06-11",
+    "topic": "Efficient Market Hypothesis (EMH)",
+    "teaser": "If the market knows everything, how do some investors win? The truth will surprise you.",
+    "summary": "**Imagine you're at a poker table where every player can see everyone else's cards.** That's the stock market according to the **Efficient Market Hypothesis (EMH)**. But if that were true, why do some players consistently win?\n\nThe **Efficient Market Hypothesis** states that asset prices fully reflect all available information. In its strongest form, it implies that it's impossible to consistently achieve higher returns than the overall market through stock picking or market timing, because any new information is instantly priced in. From first principles: markets are informationally efficient; prices follow a random walk; past performance doesn't predict future returns.\n\n**Why it matters:** If EMH holds, your active trading or fund picking is likely a waste of time and money. In a world of index funds and robo-advisors, understanding EMH helps you decide whether to 'beat the market' or join it. With millions of algorithms and analysts competing, the edge is razor-thin—your wealth depends on not fighting a losing battle.\n\nYet, EMH isn't perfect. It fails in the presence of market anomalies (e.g., momentum, value, small-cap effects) and during bubbles/crashes when collective irrationality overrides efficiency. The key is to recognize that markets are efficient *on average* and *over time*, but not always. By understanding EMH, you can avoid the trap of overconfidence and make smarter decisions about when to index and when to seek active strategies.\n\n**The bottom line:** Accept market returns through low-cost index funds unless you have a verifiable edge. And if you think you do, test it rigorously against the EMH benchmark.",
+    "key_points": [
+      "1. **No Free Lunch**: Any information you have is already priced in. Your edge must come from information others don't have or can't act on.",
+      "2. **Index Fund Paradox**: By accepting market returns, you actually outperform most active managers. The more people index, the more pricing inefficiencies may appear—a self-correcting cycle.",
+      "3. **Behavioral EMH**: Markets are efficient not because all investors are rational, but because irrational traders cancel each other out and arbitrageurs correct mispricings—though limits to arbitrage can allow anomalies to persist."
+    ],
+    "practice": [
+      {
+        "title": "Compare Your Performance",
+        "steps": [
+          "Calculate your portfolio's annualized return over the last 5 years (after fees and taxes).",
+          "Find the annualized return of a low-cost total market index fund (e.g., VTSAX) over the same period.",
+          "If your return is not at least 2% higher than the index, consider switching to index funds."
+        ]
+      },
+      {
+        "title": "Test Your Stock-Picking Edge",
+        "steps": [
+          "Pick a stock you believe is undervalued.",
+          "List three pieces of public information supporting your view.",
+          "Search for news articles from weeks or months ago that contain the same information. If found, your edge is likely gone."
+        ]
+      },
+      {
+        "title": "Simulate Randomness",
+        "steps": [
+          "Create a 'random portfolio' by throwing darts at a stock list to pick 10 stocks.",
+          "Track the portfolio's performance for one year (use a paper trading account).",
+          "Compare its return to a total market index fund. Observe how randomness plays out."
+        ]
+      }
+    ],
+    "risk_notes": "EMH fails during extreme market events (bubbles, crashes) where collective irrationality dominates. Psychological traps: overconfidence in your ability to beat the market, and using EMH as an excuse to stop learning. Markets are efficient on average, not always—so stay vigilant.",
+    "sources": [
+      {
+        "title": "Malkiel, B. G. (2019). A Random Walk Down Wall Street. W. W. Norton & Company.",
+        "url": "https://www.randomwalk.com"
+      }
+    ],
+    "meta": {
+      "id": "Efficient market theory",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Market anomalies",
+        "CAPM"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
   }
 ]
