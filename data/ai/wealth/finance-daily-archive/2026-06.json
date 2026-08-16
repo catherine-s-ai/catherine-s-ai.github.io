@@ -640,5 +640,69 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "9c062a16-5408-49d3-abd5-620162d3d572",
+    "date": "2026-06-12",
+    "topic": "Behavioral Finance: The Psychology of Money",
+    "teaser": "The $100 bill you'd pay $150 for—why your brain sabotages your wealth.",
+    "summary": "In 1995, a man named Dick Fuld bid $100 for a $100 bill at a charity auction. Then he bid $200. Then $300. He ended up paying $400, and the crowd cheered. Fuld later became the CEO of Lehman Brothers. That story isn't just ironic—it's a perfect metaphor for how our brains sabotage our wealth. We are not rational calculators. We are emotional creatures who hate losing more than we love winning. Behavioral finance isn't about memorizing biases; it's about understanding the hidden wiring that makes us buy high and sell low. It's the study of why you hold onto a losing stock because you 'want to break even'—even when the fundamentals are garbage. It's why you sell a winner too early because 'it's better to lock in gains.' And right now, with markets swinging wildly, those instincts are screaming at you. Ignore them, and you'll lose. Understand them, and you'll have an edge.",
+    "key_points": [
+      "**Loss aversion is asymmetric, but the real insight is that it's reference-dependent**: You don't evaluate gains and losses in absolute terms; you measure them against a personal reference point—usually the price you paid. This 'endowment effect' means you overvalue what you own. The counterintuitive twist: You can exploit this by setting a reference point based on current fundamentals, not your cost basis. That turns a bias into a tool.",
+      "**Confirmation bias isn't just seeking confirming evidence; it's actively dismissing contradictory evidence—and it's amplified by social media and echo chambers. The deeper insight: The best investors seek disconfirmation. They ask 'What would make me wrong?' and then try to prove themselves wrong. This is the mental model of 'strong opinions, loosely held.' It's not about being humble; it's about being right more often.",
+      "**Anchoring is often taught as a pricing bias, but its most dangerous form is narrative anchoring**: You lock onto a story (e.g., 'Tech stocks always rebound') and then interpret all new data to fit that story. The twist: To break the anchor, you must replace the story, not just the number. Instead of 'I bought at $100, so it's worth $100,' ask 'If I didn't own this, would I buy it today at the current price?' That reframes the decision from loss/gain to opportunity cost."
+    ],
+    "practice": [
+      {
+        "title": "Counter Confirmation Bias",
+        "steps": [
+          "Before buying any investment, write down three reasons it might fail.",
+          "Seek out one credible source that argues against your thesis and summarize their best point."
+        ]
+      },
+      {
+        "title": "Combat Loss Aversion & Anchoring",
+        "steps": [
+          "For each position, define a 'fundamental stop-loss' based on a change in the business's competitive advantage, not a fixed percentage. For example, if revenue growth falls below 10% for two quarters, sell.",
+          "Re-evaluate positions using the 'zero-based budgeting' approach: imagine you sold everything today—would you buy the same portfolio at current prices? If not, adjust."
+        ]
+      },
+      {
+        "title": "Start a Trading Journal with a Twist",
+        "steps": [
+          "Record every decision, your emotional state, and the outcome.",
+          "Add a 'counterfactual' column: what would have happened if you had done the opposite? This forces you to confront your biases."
+        ]
+      }
+    ],
+    "risk_notes": "Overcorrecting for biases can lead to paralysis—you might avoid all risk, missing out on gains. Also, behavioral finance can be used against you: marketers and financial advisors may exploit your biases to sell products. Knowing the biases doesn't make you immune; it just makes you aware of the battle. The real risk is thinking you've conquered your biases—that's the overconfidence bias.",
+    "sources": [
+      {
+        "title": "Thinking, Fast and Slow by Daniel Kahneman",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      },
+      {
+        "title": "Misbehaving: The Making of Behavioral Economics by Richard Thaler",
+        "url": "https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/039335279X"
+      },
+      {
+        "title": "The Little Book of Behavioral Investing by James Montier",
+        "url": "https://www.amazon.com/Little-Behavioral-Investing-James-Montier/dp/0470685024"
+      }
+    ],
+    "meta": {
+      "id": "Introduction to behavioral finance",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Cognitive bias",
+        "Emotional bias"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
   }
 ]

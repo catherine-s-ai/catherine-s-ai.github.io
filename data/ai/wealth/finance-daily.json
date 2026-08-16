@@ -1,5 +1,76 @@
 [
   {
+    "id": "6e868eb7-c852-40f8-ae87-25c8b8eddfd3",
+    "date": "2026-08-16",
+    "topic": "Efficient Market Hypothesis (EMH)",
+    "teaser": "A blindfolded monkey throws darts at stock pages—and beats 90% of fund managers. The market isn't just smart; it's a collective superintelligence that makes your 'edge' obsolete. But here's the twist: the real money isn't in beating the market—it's in understanding why you can't.",
+    "summary": "In 1973, Burton Malkiel threw a gauntlet at Wall Street: a blindfolded monkey throwing darts at the financial pages could pick a portfolio as well as the pros. Decades later, that monkey remains undefeated—not because it's lucky, but because the market is a collective superintelligence that has already priced in everything you know, everything you don't, and everything you think you know. This is the **Efficient Market Hypothesis (EMH)**: asset prices fully reflect all available information. In its strongest form, it means no amount of analysis can give you a consistent edge, because any informational advantage is instantly arbitraged away by faster, smarter, and better-capitalized participants.\n\nFirst principles: if everyone has access to the same information, then prices are the collective wisdom of millions of minds—a wisdom that is far greater than any individual's. Your only edges are luck or risk-taking. The moment you think you've found a mispriced stock, ask: 'Why hasn't someone else already exploited this?' If you can't answer, you're not a genius; you're a gambler.\n\nWhy does this matter today? With retail trading apps and AI-generated tips, the illusion of control is stronger than ever. But EMH is not a surrender—it's a strategic awakening. It redirects your focus from trying to outsmart the market to what actually builds wealth: **time in the market, not timing the market**. The market is an information-processing machine; every price tag is a consensus of all known data. When you buy a stock, you're not buying a company—you're buying the crowd's opinion, which is already reflected in the price.\n\nBut here's the nuance: EMH isn't a law; it's a lens. It fails in the presence of behavioral biases, information asymmetry, and market frictions. Bubbles and crashes—like 2008 and GameStop—are glaring exceptions. The psychological trap is to use EMH as an excuse for complacency: 'The market is efficient, so I'll just index'—while ignoring that markets can be irrational longer than you can stay solvent. The wise investor respects the market's efficiency but remains humble before its irrationality. Passive investing is not a surrender; it's the ultimate 'humble brag'—it says, 'I know I can't beat the game, so I'll join the house.'",
+    "key_points": [
+      "The market is a superintelligence, not a dumb machine. Every price is a weighted average of all available information, so buying a stock is buying the crowd's consensus—not an undervalued gem.",
+      "The only sustainable edge is risk, not insight. Higher returns come from taking on more beta or exploiting inefficiencies too small or illiquid for big players—but these are rare and fleeting.",
+      "EMH is a spectrum, not a binary. Markets are efficient in the long run but irrational in the short run; the wise investor respects both—using index funds for the core, but never dismissing the possibility of mania.",
+      "The real wealth killer is not missing out on a stock; it's the illusion of control. Believing you can beat the market leads to overtrading, high fees, and emotional decisions—all of which erode returns."
+    ],
+    "practice": [
+      {
+        "title": "The Information Edge Test",
+        "steps": [
+          "Before buying any stock, write down one specific piece of information you believe the market hasn't priced in.",
+          "Ask yourself: 'Why hasn't the market already adjusted to this? What do I know that millions of professionals don't?'",
+          "If you can't provide a concrete, verifiable answer, don't buy—put that money into a low-cost index fund instead.",
+          "If you do have an edge, quantify it: How long will it take for the market to catch up? What will happen when it does?"
+        ]
+      },
+      {
+        "title": "Track Your Performance with Brutal Honesty",
+        "steps": [
+          "Open a spreadsheet and record every stock purchase you make over the next year, including the date, price, and fees.",
+          "Calculate your net return (including dividends) after subtracting all fees, taxes, and the opportunity cost of your time.",
+          "Compare your net return to the S&P 500's return over the same period. Be brutally honest: are you beating the market? Most likely, you're not.",
+          "If you're underperforming, ask yourself: 'What am I doing that I could automate or eliminate?' The answer might be 'everything.'"
+        ]
+      },
+      {
+        "title": "The Monkey Portfolio Experiment",
+        "steps": [
+          "Randomly pick 5 stocks from today's financial news headlines (or use a random number generator).",
+          "Track their performance over the next six months, including dividends and price changes.",
+          "Compare their returns to your own stock picks over the same period. You might be humbled—and that's a valuable lesson.",
+          "But go deeper: analyze *why* the monkey's picks performed as they did. Was it luck, or did they happen to be in a sector that rallied? This will help you distinguish skill from luck in your own process."
+        ]
+      }
+    ],
+    "risk_notes": "EMH is a theory, not a law. It fails in the presence of behavioral biases, information asymmetry, and market frictions. Bubbles and crashes (like 2008 or GameStop) are glaring exceptions. The psychological trap is to use EMH as an excuse for complacency—'the market is efficient, so I'll just index'—while ignoring that markets can be irrational longer than you can stay solvent. Also, EMH doesn't protect you from systemic risk; diversification doesn't help when everything falls together. The key is to respect the market's efficiency in the long run, but stay humble in the short run—and never assume you're smarter than the crowd.",
+    "sources": [
+      {
+        "title": "Malkiel, Burton G. A Random Walk Down Wall Street. W.W. Norton & Company, 2019.",
+        "url": "https://www.randomwalk.com/"
+      },
+      {
+        "title": "Fama, Eugene F. 'Efficient Capital Markets: A Review of Theory and Empirical Work.' Journal of Finance, 1970.",
+        "url": "https://www.jstor.org/stable/2325486"
+      },
+      {
+        "title": "Shiller, Robert J. Irrational Exuberance. Princeton University Press, 2015.",
+        "url": "https://press.princeton.edu/books/paperback/9780691173122/irrational-exuberance"
+      }
+    ],
+    "meta": {
+      "id": "Efficient market theory",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Market anomalies",
+        "CAPM"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "d68a8eca-d2bf-434f-a3fc-edb36429a021",
     "date": "2026-08-15",
     "topic": "Investing vs. Speculating: The Anchor That Determines Your Fate",
@@ -3727,70 +3798,6 @@
       "related": [
         "Fear & greed",
         "Overconfidence"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "9c062a16-5408-49d3-abd5-620162d3d572",
-    "date": "2026-06-12",
-    "topic": "Behavioral Finance: The Psychology of Money",
-    "teaser": "The $100 bill you'd pay $150 for—why your brain sabotages your wealth.",
-    "summary": "In 1995, a man named Dick Fuld bid $100 for a $100 bill at a charity auction. Then he bid $200. Then $300. He ended up paying $400, and the crowd cheered. Fuld later became the CEO of Lehman Brothers. That story isn't just ironic—it's a perfect metaphor for how our brains sabotage our wealth. We are not rational calculators. We are emotional creatures who hate losing more than we love winning. Behavioral finance isn't about memorizing biases; it's about understanding the hidden wiring that makes us buy high and sell low. It's the study of why you hold onto a losing stock because you 'want to break even'—even when the fundamentals are garbage. It's why you sell a winner too early because 'it's better to lock in gains.' And right now, with markets swinging wildly, those instincts are screaming at you. Ignore them, and you'll lose. Understand them, and you'll have an edge.",
-    "key_points": [
-      "**Loss aversion is asymmetric, but the real insight is that it's reference-dependent**: You don't evaluate gains and losses in absolute terms; you measure them against a personal reference point—usually the price you paid. This 'endowment effect' means you overvalue what you own. The counterintuitive twist: You can exploit this by setting a reference point based on current fundamentals, not your cost basis. That turns a bias into a tool.",
-      "**Confirmation bias isn't just seeking confirming evidence; it's actively dismissing contradictory evidence—and it's amplified by social media and echo chambers. The deeper insight: The best investors seek disconfirmation. They ask 'What would make me wrong?' and then try to prove themselves wrong. This is the mental model of 'strong opinions, loosely held.' It's not about being humble; it's about being right more often.",
-      "**Anchoring is often taught as a pricing bias, but its most dangerous form is narrative anchoring**: You lock onto a story (e.g., 'Tech stocks always rebound') and then interpret all new data to fit that story. The twist: To break the anchor, you must replace the story, not just the number. Instead of 'I bought at $100, so it's worth $100,' ask 'If I didn't own this, would I buy it today at the current price?' That reframes the decision from loss/gain to opportunity cost."
-    ],
-    "practice": [
-      {
-        "title": "Counter Confirmation Bias",
-        "steps": [
-          "Before buying any investment, write down three reasons it might fail.",
-          "Seek out one credible source that argues against your thesis and summarize their best point."
-        ]
-      },
-      {
-        "title": "Combat Loss Aversion & Anchoring",
-        "steps": [
-          "For each position, define a 'fundamental stop-loss' based on a change in the business's competitive advantage, not a fixed percentage. For example, if revenue growth falls below 10% for two quarters, sell.",
-          "Re-evaluate positions using the 'zero-based budgeting' approach: imagine you sold everything today—would you buy the same portfolio at current prices? If not, adjust."
-        ]
-      },
-      {
-        "title": "Start a Trading Journal with a Twist",
-        "steps": [
-          "Record every decision, your emotional state, and the outcome.",
-          "Add a 'counterfactual' column: what would have happened if you had done the opposite? This forces you to confront your biases."
-        ]
-      }
-    ],
-    "risk_notes": "Overcorrecting for biases can lead to paralysis—you might avoid all risk, missing out on gains. Also, behavioral finance can be used against you: marketers and financial advisors may exploit your biases to sell products. Knowing the biases doesn't make you immune; it just makes you aware of the battle. The real risk is thinking you've conquered your biases—that's the overconfidence bias.",
-    "sources": [
-      {
-        "title": "Thinking, Fast and Slow by Daniel Kahneman",
-        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
-      },
-      {
-        "title": "Misbehaving: The Making of Behavioral Economics by Richard Thaler",
-        "url": "https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/039335279X"
-      },
-      {
-        "title": "The Little Book of Behavioral Investing by James Montier",
-        "url": "https://www.amazon.com/Little-Behavioral-Investing-James-Montier/dp/0470685024"
-      }
-    ],
-    "meta": {
-      "id": "Introduction to behavioral finance",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Cognitive bias",
-        "Emotional bias"
       ],
       "tags": [
         "Investment Concepts & Principles",
