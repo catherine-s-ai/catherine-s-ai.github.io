@@ -1,5 +1,72 @@
 [
   {
+    "id": "1ef6c3f5-46d7-401f-b12e-84b862f527d8",
+    "date": "2026-08-17",
+    "topic": "Behavioral Finance: The Psychology of Money Mistakes",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "In 1987, the stock market crashed 22.6% in a single day—not because of a war or a natural disaster, but because a handful of investors panicked and sold, and the panic spread like a virus. Your brain is wired to do the same thing, even when you think you're rational.\n\nBehavioral finance is the study of how psychological influences—like emotions, cognitive errors, and social pressures—affect financial decisions. At its core, it challenges the assumption that investors are rational, showing that we often act on biases rather than logic, leading to systematic mistakes like buying high and selling low.\n\nRight now, market volatility is high, and fear is contagious. If you don't understand your own behavioral biases, you'll likely make decisions that destroy wealth, like selling at the bottom or chasing hype. Understanding behavioral finance can save you from costly mistakes and help you build long-term wealth, even in uncertain times.\n\nThe 1987 crash wasn't caused by fundamentals; it was a cascade of human emotion. Similarly, your own financial decisions are often driven by deep-seated psychological patterns. By recognizing these patterns, you can step back, think clearly, and act in your own best interest. This isn't about becoming a robot; it's about understanding the quirks of the human mind so you can outsmart them.\n\nIn the following sections, we'll explore three key biases—loss aversion, mental accounting, and herd behavior—and provide practical exercises to help you identify and mitigate them. The goal isn't to eliminate emotion, but to make it a tool rather than a trap.",
+    "key_points": [
+      "Loss aversion: The pain of losing $100 is about twice as strong as the pleasure of gaining $100. This asymmetry makes you hold onto losers too long and sell winners too early.",
+      "Mental accounting: You treat money differently depending on its source or intended use, like spending a tax refund frivolously while being frugal with your salary. This leads to suboptimal allocation of your total wealth.",
+      "Herd behavior: You feel compelled to follow the crowd, especially in times of uncertainty, but by the time you notice a trend, it's often already priced in. The crowd is often late to the party."
+    ],
+    "practice": [
+      {
+        "title": "Emotion-Market Journal",
+        "steps": [
+          "Write down your portfolio's value and your emotional state (1-10) before checking the market each day.",
+          "After a week, review: did your emotions lead to any impulsive trades?",
+          "Identify triggers and plan responses to avoid emotional decisions."
+        ]
+      },
+      {
+        "title": "Investment Thesis Test",
+        "steps": [
+          "Before buying a stock, write a one-paragraph 'investment thesis' explaining why you're buying.",
+          "If you can't write it without using words like 'everyone' or 'hot', it's likely a herd-driven decision.",
+          "Revisit your thesis after a month to see if it still holds."
+        ]
+      },
+      {
+        "title": "Crash Simulation",
+        "steps": [
+          "Simulate a 20% market drop: calculate how your portfolio would look, and write down what you would do.",
+          "Compare your reaction to your long-term plan.",
+          "If your reaction differs, adjust your risk tolerance now, not during a real crash."
+        ]
+      }
+    ],
+    "risk_notes": "Behavioral finance can become an excuse for inaction or overconfidence. Knowing about biases doesn't make you immune—it can lead to 'bias blindness' where you think you're rational but still act on emotion. Also, overemphasizing psychology can make you ignore fundamental analysis, leading to poor investment choices based on feelings rather than data.",
+    "sources": [
+      {
+        "title": "Thinking, Fast and Slow",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      },
+      {
+        "title": "Misbehaving: The Making of Behavioral Economics",
+        "url": "https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/0393352797"
+      },
+      {
+        "title": "Investor Behavior: The Psychology of Financial Planning and Investing",
+        "url": "https://www.wiley.com/en-us/Investor+Behavior%3A+The+Psychology+of+Financial+Planning+and+Investing-p-9781118498927"
+      }
+    ],
+    "meta": {
+      "id": "Introduction to behavioral finance",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Cognitive bias",
+        "Emotional bias"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "6e868eb7-c852-40f8-ae87-25c8b8eddfd3",
     "date": "2026-08-16",
     "topic": "Efficient Market Hypothesis (EMH)",
@@ -3739,65 +3806,6 @@
       "related": [
         "Sharpe ratio",
         "Sortino ratio"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "3071a744-4abc-4b12-9f80-194775b8c5b2",
-    "date": "2026-06-13",
-    "topic": "Investment Psychology: Navigating the Fog of Biases",
-    "teaser": "Your brain is wired for the savanna, not the stock market. Here's how to stop it from sabotaging your wealth.",
-    "summary": "In 1720, Sir Isaac Newton—one of the greatest minds in history—invested in the South Sea Company. He made a tidy profit early, sold, and watched the stock soar. Then, driven by FOMO, he bought back at the peak. When the bubble burst, he lost £20,000 (over $3 million today). His lament: 'I can calculate the motion of heavenly bodies, but not the madness of people.'\n\nThat madness is the fog of biases—systematic errors in thinking that our brains evolved for survival on the savanna, not for navigating modern financial markets. On the savanna, a rustle in the bushes could be a predator; hesitation meant death. So we developed heuristics: fast, automatic mental shortcuts. Today, those same heuristics cause us to see patterns where none exist (confirmation bias), overreact to recent events (recency bias), and cling to losing positions because selling feels like admitting failure (loss aversion).\n\nRight now, the market is a cacophony of recession fears and AI euphoria. Your amygdala is screaming 'danger' or 'opportunity,' drowning out the rational voice in your prefrontal cortex. The result? You buy at the peak of hype and sell at the bottom of panic—the surest way to destroy wealth. Your biggest risk isn't the market; it's your own brain.\n\nThe key isn't to eliminate emotion—that's impossible—but to build a system that checks your impulses. Awareness alone is insufficient; you need actionable rules. This lesson will arm you with mental models to identify biases and practices to counteract them, so you can decide based on evidence, not instinct.",
-    "key_points": [
-      "**Loss aversion asymmetry**: Losing $100 hurts about twice as much as gaining $100 feels good. This leads to the 'disposition effect': selling winners too early to lock in gains and holding losers too long to avoid realizing a loss. The counterintuitive insight: loss aversion is not constant; it's amplified when you can mentally 'undo' the loss (e.g., by waiting). But waiting rarely reverses the loss—it usually deepens it. The best investors treat realized losses as a tax deduction, not a failure.",
-      "**Narrative fallacy**: We prefer compelling stories over cold statistics. A stock with a great story (Tesla, crypto) can command a premium not justified by fundamentals, creating bubbles. The deeper insight: narratives are self-reinforcing. As the story spreads, it attracts more buyers, which pushes up the price, which validates the story. This feedback loop can detach price from value for years. The antidote: ask 'What would have to be true for this narrative to be wrong?' and 'What is the price of the story?'",
-      "**Anchoring on irrelevant numbers**: Your purchase price for a stock is an arbitrary anchor, yet you treat it as a reference point for decisions. The market doesn't care what you paid. The counterintuitive twist: anchoring is so powerful that it affects even experts. A study showed that real estate agents given a high listing price for a property appraised it higher than those given a low listing price—even though they denied being influenced. To break the anchor, ask 'If I didn't own this stock, would I buy it today at the current price?'"
-    ],
-    "practice": [
-      {
-        "title": "Pre-Trade Rationale Check",
-        "steps": [
-          "Before any trade, write down one sentence explaining why you're buying/selling.",
-          "If the reason includes 'I think,' 'I feel,' or 'everyone says,' stop and reconsider.",
-          "Rewrite the rationale using only factual data (e.g., P/E ratio < 15, earnings growth > 10% for 3 years, debt-to-equity < 0.5)."
-        ]
-      },
-      {
-        "title": "Stress Test Your Portfolio",
-        "steps": [
-          "Simulate a 30% drop in your portfolio's value.",
-          "If your plan would be to sell, you're overexposed. Adjust your allocation now, while calm.",
-          "Rebalance to a level where you could stomach a 50% decline without panic-selling. For example, if you're 100% stocks, shift to 70% stocks / 30% bonds, or set a rule: 'If any single stock exceeds 5% of my portfolio, I sell the excess.'"
-        ]
-      },
-      {
-        "title": "Break the Anchor",
-        "steps": [
-          "Check your portfolio's performance over the last year.",
-          "Identify the one position you're most emotionally attached to (e.g., a stock you inherited or bought at a high).",
-          "Sell 10% of it today to break the anchor and remind yourself that the market doesn't care about your cost basis. Then, each month, sell another 10% until you're free."
-        ]
-      }
-    ],
-    "risk_notes": "Awareness of biases can create overconfidence in your ability to overcome them. You might think you're immune and take bigger risks. Also, trying to eliminate all emotion can lead to paralysis by analysis. Some biases (like overconfidence) can actually be beneficial in certain contexts (e.g., starting a business). The goal is not to be perfectly rational, but to have a system that checks your impulses.",
-    "sources": [
-      {
-        "title": "Thinking, Fast and Slow",
-        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
-      }
-    ],
-    "meta": {
-      "id": "Investment psychology biases",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Fear & greed",
-        "Overconfidence"
       ],
       "tags": [
         "Investment Concepts & Principles",
