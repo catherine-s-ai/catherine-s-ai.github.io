@@ -763,5 +763,68 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "1540c253-e497-48e2-b0d2-f388f8f731a9",
+    "date": "2026-06-14",
+    "topic": "Sharpe vs Sortino Ratio: Which Risk Metric Actually Protects Your Portfolio?",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "Imagine you’re a Roman emperor in 301 AD. Prices are soaring, so you issue an edict: maximum prices on everything. Sounds smart? It wasn’t. The result: shortages, black markets, economic chaos. You, dear investor, are making the same mistake when you judge investments by raw returns. You’re ignoring the hidden inflation of risk.\n\nThat’s where the Sharpe and Sortino ratios come in. They’re like inflation-adjusted returns for volatility. But here’s the twist: the Sharpe ratio penalizes all volatility—even the good kind. A stock that surges 20% then dips 10% has high total volatility, but you’re still up. The Sortino ratio ignores those upside swings, focusing only on the downside that keeps you awake at night.\n\nWhy does this matter? Because investors don’t fear all risk—they fear loss. A fund manager who delivers smooth returns with occasional big drops might look safe on Sharpe, but the Sortino ratio reveals the hidden tail risk. The emperor thought he was fixing inflation; instead, he broke the economy. Don’t let a flawed metric break your portfolio.\n\nHere’s the kicker: both ratios are backward-looking and assume markets behave like a bell curve. They don’t. Black swans happen. But used together, they’re your best defense against the illusion of safety. The Sharpe ratio tells you overall efficiency; the Sortino ratio tells you who can survive a storm. And in investing, survival is everything.",
+    "key_points": [
+      "The Sharpe ratio penalizes upside volatility equally to downside, but investors actually welcome upside—the Sortino ratio corrects this by focusing only on downside deviation.",
+      "A high Sharpe ratio can be artificially inflated by strategies that hide tail risk, such as selling out-of-the-money options or using leverage that amplifies returns without revealing hidden crash risk.",
+      "Both ratios are backward-looking and assume normally distributed returns, but markets have fat tails; they reveal consistency of past performance, not future safety."
+    ],
+    "practice": [
+      {
+        "title": "Calculate the Sharpe Ratio of Your Largest Holding",
+        "steps": [
+          "Obtain monthly returns for the past 3 years for your largest stock or fund.",
+          "Calculate the annualized return (geometric mean) and annualized standard deviation of returns.",
+          "Subtract the risk-free rate (e.g., 3-month T-bill yield) from the annualized return.",
+          "Divide the excess return by the standard deviation. That's the Sharpe ratio. Compare to the S&P 500's Sharpe (around 0.5-0.7).",
+          "Simplified example: If a fund returned 12% annually with 15% volatility and risk-free rate is 2%, Sharpe = (12-2)/15 = 0.67. For quick calculation, use online tools like Portfolio Visualizer."
+        ]
+      },
+      {
+        "title": "Compare Sortino Ratios of Two Similar ETFs",
+        "steps": [
+          "Pick two ETFs in the same category (e.g., large-cap growth).",
+          "Find their Sortino ratios on Morningstar or Portfolio Visualizer (use 3-year, monthly data).",
+          "Identify which has a higher Sortino ratio—that ETF delivered better return per unit of downside risk.",
+          "Check the drawdowns during a bear market (e.g., 2022) to see if the Sortino ratio aligns with actual protection."
+        ]
+      },
+      {
+        "title": "Simulate the 2008 Crisis: High Sharpe vs High Raw Return",
+        "steps": [
+          "Find two funds: one with a high Sharpe ratio (e.g., 1.2) and one with high raw return (e.g., 20% annual) but lower Sharpe (e.g., 0.6).",
+          "Use a backtesting tool (Portfolio Visualizer) to simulate a $10,000 investment from Jan 2007 to Dec 2009.",
+          "Compare the maximum drawdown and final portfolio value. The high Sharpe fund likely lost less and recovered faster.",
+          "Reflect: Would you have stayed invested in the high-return fund during a 50% drop?"
+        ]
+      }
+    ],
+    "risk_notes": "Both ratios assume normal distribution of returns, but markets have fat tails. They also ignore liquidity risk and can be manipulated by smoothing returns. Over-reliance may lead to ignoring qualitative factors like management quality.",
+    "sources": [
+      {
+        "title": "Search: Sharpe vs Sortino Ratio: Which Risk Metric Actually Protects Your Portfolio?",
+        "url": "https://www.google.com/search?q=Sharpe%20vs%20Sortino%20Ratio%3A%20Which%20Risk%20Metric%20Actually%20Protects%20Your%20Portfolio%3F"
+      }
+    ],
+    "meta": {
+      "id": "Risk-adjusted performance measures",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Sharpe ratio",
+        "Sortino ratio"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
   }
 ]

@@ -1,5 +1,73 @@
 [
   {
+    "id": "f6310990-9b73-4e52-b239-060d5585e86d",
+    "date": "2026-08-18",
+    "topic": "Investment Psychology: How Your Brain Sabotages Your Portfolio",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "Picture this: It's 301 AD, and Emperor Diocletian, in a desperate bid to stabilize the empire's economy, issues a decree fixing maximum prices for goods. The result? Markets collapse, goods vanish, and inflation spirals out of control. Why? Because he ignored human nature. Thousands of years later, we still make the same mistake—not with price controls, but with our own portfolios. We think we can outsmart the market by controlling our reactions, but our brains are wired for survival, not for compound interest.\n\nMeet Sarah. She's a smart, successful engineer who started investing five years ago. She bought a tech stock at $100, watched it soar to $150, then crash to $80. She didn't sell at $150 because she thought it would go higher. She didn't sell at $80 because she couldn't bear to lock in a loss. Now, she's stuck, hoping it will bounce back. Sarah is a victim of **loss aversion**—the pain of a loss is twice as powerful as the pleasure of an equivalent gain. But here's the twist: the pain isn't just about money; it's about the story she tells herself. Selling at $80 would mean admitting she was wrong. So she holds, and the market moves on without her.\n\nThen there's Tom, a retired teacher who's convinced he has a knack for picking winners. He's made a few lucky bets, and he's sure it's skill. He reads articles that confirm his views and ignores those that don't. This is **overconfidence**, fueled by confirmation bias and the illusion of control. Tom doesn't realize that in a complex adaptive system like the market, his track record is often just luck dressed up as skill. The narrative fallacy—our tendency to weave stories from random events—makes him believe he's the next Warren Buffett.\n\nAnd what about anchoring? Imagine you're at a flea market, and a vendor asks $100 for a vase. You negotiate down to $80, and you feel like you've won. But the vase is actually worth $20. In investing, we anchor to arbitrary prices—the stock's all-time high, the price we paid, or the price our friend mentioned. These numbers have no bearing on intrinsic value, but they distort our decisions. Once you see a stock at $100, $80 feels cheap, but the stock doesn't know its history. The only anchor that matters is the company's fundamentals, which are invisible to the naked eye.\n\nThese biases are not just quirks; they are the reason most investors underperform the market. In a world where information is instant and algorithms dominate, your only edge is understanding your own psychology. The good news? You can train your brain to make better decisions. It starts with awareness, but it must be followed by action.\n\nSo, how do you fight back? First, write your investment thesis for every stock you own. When the market drops and your heart races, read it. If the reasons haven't changed, do nothing. Second, calculate your personal 'pain threshold'—the maximum drawdown you can stomach without panic-selling. If it's less than 20%, you're overexposed to equities; rebalance to match your psychology, not just your risk tolerance. Third, simulate a 50% crash in vivid detail. Write down exactly what you'd do, then share it with a friend who will hold you to it. If your plan makes you uncomfortable, adjust your portfolio now, not in the heat of the moment.\n\nRemember, the market is the lion, and your emotions are the legs. Don't run. Instead, build a cage of rules and processes that keep you safe. The investor who masters their mind is the one who builds lasting wealth.",
+    "key_points": [
+      "**Loss aversion** is not just about pain; it's about the asymmetry in how we frame gains and losses. This leads to the disposition effect: selling winners too early to lock in gains and holding losers too long to avoid realizing losses. The key is to reframe your reference point—focus on future prospects, not past prices.",
+      "**Overconfidence** is not just confirmation bias; it's the illusion of control and the narrative fallacy. We weave stories from random events to make sense of the world, but the market is chaotic. To separate skill from luck, keep a decision journal and review it ruthlessly. Ask: Was my reasoning sound, or was I just lucky?",
+      "**Anchoring** is not just about price tags; it's about mental shortcuts that distort value perception. The classic example is the 'peanut butter' problem: you see a jar at $2.99, and a smaller jar at $2.49, so you buy the bigger one, but the unit price is higher. In investing, you anchor to arbitrary numbers—like the price you paid or the 52-week high—without considering the company's intrinsic value. The antidote is to compute a range of intrinsic value and ignore the market's noise.",
+      "**Mental accounting** is not just about 'house money'; it's about the failure to treat all money as fungible. We categorize funds into mental buckets—'safe' money, 'play' money, 'retirement' money—and apply different risk tolerances to each. But a dollar is a dollar, and risk should be assessed at the portfolio level, not in isolation. The insight: your total risk is what matters, not the risk of any single bucket."
+    ],
+    "practice": [
+      {
+        "title": "Write Your Investment Thesis",
+        "steps": [
+          "For each stock you own, write a one-page thesis using a structured template: (a) The core thesis: why this company will grow (e.g., market tailwinds, competitive advantage). (b) The key metrics you'll track (e.g., revenue growth, margins). (c) The emotional triggers: what market events might make you want to sell (e.g., a 20% drop, a bad news headline). (d) The pre-defined response for each trigger (e.g., if the stock drops 20% but the thesis is intact, buy more; if a key metric deteriorates, sell).",
+          "When you feel the urge to sell due to market drops, read your thesis. If the underlying reasons haven't changed, do nothing. If the thesis is broken, sell without hesitation.",
+          "Review your thesis quarterly and update it if fundamentals change. This forces you to think in terms of evidence, not emotions."
+        ]
+      },
+      {
+        "title": "Calculate Your Pain Threshold",
+        "steps": [
+          "Estimate the maximum portfolio drawdown you can tolerate without panic-selling (e.g., 20%, 30%, 50%). Be brutally honest—imagine your portfolio losing that much in a month.",
+          "If your threshold is less than 20%, you're likely overexposed to equities. Use the following guide: If threshold < 20%, reduce equities to 40% or less; if 20-30%, keep equities at 60%; if >30%, you can handle a 80% equity allocation.",
+          "Set automatic rebalancing rules based on your threshold. For example, if your portfolio drops by your threshold, automatically rebalance to your target allocation, which forces you to buy low and sell high."
+        ]
+      },
+      {
+        "title": "Simulate a Market Crash",
+        "steps": [
+          "Imagine the market drops 50% tomorrow. Write down exactly what you would do—buy, hold, or sell. Be specific: which assets would you buy, how much, and when?",
+          "Conduct a 'pre-mortem': assume the crash happened and it's now a year later. What did you do? What were the consequences? This helps you anticipate your emotional reactions and plan for them.",
+          "Share your crash plan with a trusted friend or advisor and ask them to hold you accountable. If your plan makes you uncomfortable, adjust your portfolio now so that you can honestly stick to it. After the crash (or a simulated one), conduct a 'post-mortem' to evaluate your decisions and refine your plan."
+        ]
+      }
+    ],
+    "risk_notes": "This framework can fail when you mistake self-awareness for control. Knowing you're biased doesn't stop you from being biased—it just makes you a more confident fool. Also, 'behavioral finance' can become an excuse for inaction: 'I'll wait for my biases to calm down' is just procrastination. And over-optimizing for psychology might lead you to avoid sensible risks, like staying in cash while inflation eats your purchasing power. The goal is not to eliminate biases, but to build systems that work despite them.",
+    "sources": [
+      {
+        "title": "Thinking, Fast and Slow",
+        "url": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow"
+      },
+      {
+        "title": "The Psychology of Money",
+        "url": "https://www.amazon.com/Psychology-Money-Timeless-lessons-wealth/dp/0857197681"
+      },
+      {
+        "title": "Misbehaving: The Making of Behavioral Economics",
+        "url": "https://en.wikipedia.org/wiki/Misbehaving_(book)"
+      }
+    ],
+    "meta": {
+      "id": "Investment psychology biases",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Fear & greed",
+        "Overconfidence"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "1ef6c3f5-46d7-401f-b12e-84b862f527d8",
     "date": "2026-08-17",
     "topic": "Behavioral Finance: The Psychology of Money Mistakes",
@@ -3743,69 +3811,6 @@
       "related": [
         "Index investing",
         "Active management"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "1540c253-e497-48e2-b0d2-f388f8f731a9",
-    "date": "2026-06-14",
-    "topic": "Sharpe vs Sortino Ratio: Which Risk Metric Actually Protects Your Portfolio?",
-    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
-    "summary": "Imagine you’re a Roman emperor in 301 AD. Prices are soaring, so you issue an edict: maximum prices on everything. Sounds smart? It wasn’t. The result: shortages, black markets, economic chaos. You, dear investor, are making the same mistake when you judge investments by raw returns. You’re ignoring the hidden inflation of risk.\n\nThat’s where the Sharpe and Sortino ratios come in. They’re like inflation-adjusted returns for volatility. But here’s the twist: the Sharpe ratio penalizes all volatility—even the good kind. A stock that surges 20% then dips 10% has high total volatility, but you’re still up. The Sortino ratio ignores those upside swings, focusing only on the downside that keeps you awake at night.\n\nWhy does this matter? Because investors don’t fear all risk—they fear loss. A fund manager who delivers smooth returns with occasional big drops might look safe on Sharpe, but the Sortino ratio reveals the hidden tail risk. The emperor thought he was fixing inflation; instead, he broke the economy. Don’t let a flawed metric break your portfolio.\n\nHere’s the kicker: both ratios are backward-looking and assume markets behave like a bell curve. They don’t. Black swans happen. But used together, they’re your best defense against the illusion of safety. The Sharpe ratio tells you overall efficiency; the Sortino ratio tells you who can survive a storm. And in investing, survival is everything.",
-    "key_points": [
-      "The Sharpe ratio penalizes upside volatility equally to downside, but investors actually welcome upside—the Sortino ratio corrects this by focusing only on downside deviation.",
-      "A high Sharpe ratio can be artificially inflated by strategies that hide tail risk, such as selling out-of-the-money options or using leverage that amplifies returns without revealing hidden crash risk.",
-      "Both ratios are backward-looking and assume normally distributed returns, but markets have fat tails; they reveal consistency of past performance, not future safety."
-    ],
-    "practice": [
-      {
-        "title": "Calculate the Sharpe Ratio of Your Largest Holding",
-        "steps": [
-          "Obtain monthly returns for the past 3 years for your largest stock or fund.",
-          "Calculate the annualized return (geometric mean) and annualized standard deviation of returns.",
-          "Subtract the risk-free rate (e.g., 3-month T-bill yield) from the annualized return.",
-          "Divide the excess return by the standard deviation. That's the Sharpe ratio. Compare to the S&P 500's Sharpe (around 0.5-0.7).",
-          "Simplified example: If a fund returned 12% annually with 15% volatility and risk-free rate is 2%, Sharpe = (12-2)/15 = 0.67. For quick calculation, use online tools like Portfolio Visualizer."
-        ]
-      },
-      {
-        "title": "Compare Sortino Ratios of Two Similar ETFs",
-        "steps": [
-          "Pick two ETFs in the same category (e.g., large-cap growth).",
-          "Find their Sortino ratios on Morningstar or Portfolio Visualizer (use 3-year, monthly data).",
-          "Identify which has a higher Sortino ratio—that ETF delivered better return per unit of downside risk.",
-          "Check the drawdowns during a bear market (e.g., 2022) to see if the Sortino ratio aligns with actual protection."
-        ]
-      },
-      {
-        "title": "Simulate the 2008 Crisis: High Sharpe vs High Raw Return",
-        "steps": [
-          "Find two funds: one with a high Sharpe ratio (e.g., 1.2) and one with high raw return (e.g., 20% annual) but lower Sharpe (e.g., 0.6).",
-          "Use a backtesting tool (Portfolio Visualizer) to simulate a $10,000 investment from Jan 2007 to Dec 2009.",
-          "Compare the maximum drawdown and final portfolio value. The high Sharpe fund likely lost less and recovered faster.",
-          "Reflect: Would you have stayed invested in the high-return fund during a 50% drop?"
-        ]
-      }
-    ],
-    "risk_notes": "Both ratios assume normal distribution of returns, but markets have fat tails. They also ignore liquidity risk and can be manipulated by smoothing returns. Over-reliance may lead to ignoring qualitative factors like management quality.",
-    "sources": [
-      {
-        "title": "Search: Sharpe vs Sortino Ratio: Which Risk Metric Actually Protects Your Portfolio?",
-        "url": "https://www.google.com/search?q=Sharpe%20vs%20Sortino%20Ratio%3A%20Which%20Risk%20Metric%20Actually%20Protects%20Your%20Portfolio%3F"
-      }
-    ],
-    "meta": {
-      "id": "Risk-adjusted performance measures",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Sharpe ratio",
-        "Sortino ratio"
       ],
       "tags": [
         "Investment Concepts & Principles",
