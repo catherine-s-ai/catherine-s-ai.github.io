@@ -895,5 +895,65 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "1fc99fae-c586-4a18-9460-cd465796a1c2",
+    "date": "2026-06-16",
+    "topic": "Ethics in Investing: Fiduciary Duty and Professional Standards",
+    "teaser": "Your client's trust is a fragile asset. One undisclosed conflict can shatter it faster than any market crash. Here's how to protect it.",
+    "summary": "In 2008, a Wall Street banker sold mortgage-backed securities he knew were toxic. He didn't break any rules—just exploited a loophole. That's the difference between legality and ethics. Ethics in investing isn't about following the letter of the law; it's about respecting the spirit of trust. It's the quiet promise that you'll put your client's interests above your own, even when no one is watching. This isn't just moral fluff—it's the bedrock of long-term wealth. Every hidden fee, every conflicted recommendation, is a slow leak in the portfolio. The math is simple: a 1% undisclosed cost over 30 years eats up nearly 30% of returns. But the real damage is to reputation. In a world where trust is the new currency, ethical lapses are bankrupting. This lesson isn't about compliance checklists. It's about building a mental framework that makes integrity automatic. We'll explore the psychology of rationalization, the asymmetry of knowledge, and how to run a pre-mortem on your own decisions. You'll walk away with drills that turn abstract principles into daily habits.",
+    "key_points": [
+      "**The Asymmetry of Trust** is not just about information—it's about power. When you know more, you have the power to exploit. Silence isn't neutral; it's a choice. The real test: If your client knew what you know, would they still agree? If not, you're breaching trust.",
+      "**Ethics as a Pre-mortem** is a mental model where you imagine your decision being scrutinized by a regulator, your grandmother, and the press. If any of them would raise an eyebrow, pause. This isn't about fear; it's about clarity. Pre-mortems force you to see the unseen consequences.",
+      "**The Slippery Slope of Rationalization** starts with 'just this once.' A small conflict today normalizes a bigger one tomorrow. The antidote is to define your red lines before you're in the gray zone. Ask: What's the one thing I will never do? Write it down.",
+      "**Fiduciary Duty vs. Suitability** is the difference between a guardian and a salesperson. Suitability allows you to recommend a product that's 'not bad' for the client but great for you. Fiduciary duty demands you recommend the best option, even if it costs you. The mental model: Act as if your client's money is your grandmother's life savings."
+    ],
+    "practice": [
+      {
+        "title": "Conflict Disclosure Drill",
+        "steps": [
+          "Before each recommendation, fill out a 'Conflict Disclosure Template' that lists: (1) any fees or commissions you receive, (2) any personal holdings in the investment, (3) any relationships with the product provider. Email this to your client before executing.",
+          "Use the 'Newspaper Test': If this disclosure appeared on the front page of your local paper, would you be proud or embarrassed? If embarrassed, don't proceed.",
+          "Verbally walk the client through the template in simple terms: 'I earn X from this fund, and I own shares too. Here's why I still think it's best for you.'"
+        ]
+      },
+      {
+        "title": "Self-Audit Your Recent Trades",
+        "steps": [
+          "Pick three recent trades. For each, write a paragraph explaining why it was in the client's best interest, including all conflicts and how you mitigated them.",
+          "Grade yourself: Did you fully disclose? Did you prioritize the client? Be brutally honest.",
+          "Share one audit with a colleague for feedback. You'll spot blind spots."
+        ]
+      },
+      {
+        "title": "Simulate a Regulatory Audit",
+        "steps": [
+          "Choose a complex decision you made (e.g., recommending a high-fee active fund over a low-fee index).",
+          "Write a mock letter to the SEC justifying your decision. Include: client's goals, risk tolerance, alternatives considered, conflicts disclosed, and how you ensured the recommendation was in their best interest.",
+          "Read it aloud. Does it sound convincing? If not, rethink your process."
+        ]
+      }
+    ],
+    "risk_notes": "Ethical frameworks can become 'ethics theater' if you focus on compliance over genuine moral reasoning. Also, cultural differences matter—what's a conflict in one country may be standard practice in another. Finally, awareness of bias doesn't eliminate it. Use structured decision-making tools (like checklists) to reduce reliance on intuition.",
+    "sources": [
+      {
+        "title": "Thinking, Fast and Slow by Daniel Kahneman",
+        "url": "https://www.penguinrandomhouse.com/books/178588/thinking-fast-and-slow-by-daniel-kahneman/"
+      }
+    ],
+    "meta": {
+      "id": "Ethics & professional standards",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Disclosure",
+        "Conflicts of interest"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
   }
 ]

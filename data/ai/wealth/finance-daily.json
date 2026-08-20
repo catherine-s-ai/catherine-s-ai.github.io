@@ -1,5 +1,63 @@
 [
   {
+    "id": "ea27d994-301b-4f28-90ff-3621bb4356fd",
+    "date": "2026-08-20",
+    "topic": "Passive Investing vs. Active Investing",
+    "teaser": "Buffett bet a million that a dumb index fund would beat the smartest hedge funds. He won by 5% a year. The real lesson isn't humility—it's the brutal arithmetic of fees.",
+    "summary": "In 2007, Warren Buffett issued a challenge: over the next decade, a boring S&P 500 index fund would trounce a basket of elite hedge funds. The billionaires and quants took the bet, and lost spectacularly. The index fund returned 7.1% annually; the hedge funds averaged 2.2%. That's a 4.9% annual gap—compounding into a fortune. But this wasn't luck. It was math.\n\nHere's the uncomfortable truth: active investing is a zero-sum game before costs. For every dollar one active manager wins, another loses. But after fees, taxes, and trading costs, the average active dollar must underperform the market. The arithmetic is brutal: if the market returns 7% and the average active fund charges 1% in fees and incurs 1% in trading costs, the average active investor nets just 5%. The index fund investor nets the full 7%. Over 30 years, that 2% annual difference turns a $100,000 portfolio into $761,000 versus $574,000—a $187,000 penalty for trying to be clever.\n\nWhy do we keep trying? Because we're wired to believe we're above average. We see a hot fund and think, 'That could be me.' But the evidence is overwhelming: past performance is not a predictor of future results. The SPIVA Scorecard shows that over 15 years, over 90% of large-cap active funds underperform their benchmark. The few that beat it are often just lucky, and their outperformance tends to evaporate.\n\nPassive investing isn't about being lazy. It's about recognizing that the market is a complex adaptive system with millions of participants, all competing for the same information. You can't outsmart it consistently. But you can harness it. By owning the entire market at rock-bottom cost, you're guaranteed to capture the market's return, which over time has been remarkably strong. The real risk isn't market volatility—it's the certainty of underperformance from high fees and emotional mistakes.\n\nSo, what's the counterintuitive insight? The average investor's return is not the market return. It's the market return minus their behavior. The best way to beat the average is to not try. Embrace the humility of the index, and let compounding do the heavy lifting.",
+    "key_points": [
+      "The Arithmetic of Active Management: Active investing is a zero-sum game before costs, but a loser's game after costs. The market return is the benchmark; every dollar of fees and trading costs directly reduces your share of that return. If the market returns 7% and you pay 2% in costs, you get 5%—guaranteed underperformance. The only way to win is to not play the game.",
+      "Costs are the only reliable predictor of future returns: Decades of data show that low-cost funds outperform high-cost funds in every asset class and time period. The reason is simple: every dollar paid in fees is a dollar that can't compound. Over 30 years, a 1% fee difference can cost you hundreds of thousands of dollars. In investing, you get what you don't pay for.",
+      "Reversion to the Mean: The few active funds that beat the market in one period rarely repeat. Performance is mean-reverting—today's winners become tomorrow's laggards. The SPIVA Scorecard shows that the top-quartile funds from the past decade are no more likely than average to outperform in the next. Chasing past performance is a fool's errand.",
+      "Passive investing is an admission of ignorance, not a lack of ambition: It acknowledges that you can't predict the future or outsmart millions of other investors. This humility is a strategic advantage, freeing you from the exhausting and futile chase for alpha. The market is a complex adaptive system; the most rational response is to accept its wisdom and focus on what you control: costs, diversification, and discipline."
+    ],
+    "practice": [
+      {
+        "title": "Calculate your all-in investment costs",
+        "steps": [
+          "List every fee you pay: expense ratios, trading commissions, advisory fees, and any hidden costs like bid-ask spreads.",
+          "Convert that to a dollar amount over 20 years using a compound interest calculator. Use a 7% annual return assumption.",
+          "Compare your total costs to a low-cost index fund (e.g., 0.03% expense ratio). The difference is often six figures.",
+          "Benchmark: If your all-in costs exceed 0.5% annually, you're paying too much. For every 1% in fees, you lose about 30% of your potential retirement savings over 30 years."
+        ]
+      },
+      {
+        "title": "Evaluate your active funds",
+        "steps": [
+          "Pick any active fund you own and look up its 10-year performance versus its benchmark (e.g., S&P 500 for large-cap funds).",
+          "Count how many years it beat the index. Then calculate the average annual difference.",
+          "Check its expense ratio and turnover rate. High turnover means high trading costs, which are a drag on returns.",
+          "Ask: Is the extra cost justified? If the fund underperformed or barely matched the index, switch to a low-cost index fund."
+        ]
+      },
+      {
+        "title": "Simulate a 'do-nothing' portfolio",
+        "steps": [
+          "Imagine you invested $10,000 in a total stock market index fund 10 years ago and never touched it.",
+          "Use a backtesting tool (like Portfolio Visualizer) to see what you would have today.",
+          "Compare that to what you actually made in your active investments over the same period.",
+          "Now, add a twist: simulate the same $10,000 invested in a high-fee active fund (e.g., 1.5% expense ratio) and see the difference over 30 years. You'll likely find a gap of hundreds of thousands of dollars."
+        ]
+      }
+    ],
+    "risk_notes": "Passive investing assumes market efficiency and long-term discipline. It fails if you panic-sell during a downturn—selling low locks in losses. To mitigate this, set a pre-committed asset allocation that matches your risk tolerance and rebalance only annually. It also fails if you chase past performance by switching index funds or tilting to hot sectors. Stick to a total market index fund. Additionally, in less efficient markets (like small-cap or emerging markets), skilled active managers can add value, but identifying them in advance is nearly impossible. If you must tilt, do it with a low-cost factor fund, not a high-fee active manager. Finally, passive investing can become a trap if it lulls you into ignoring your risk tolerance or asset allocation—a passive index fund doesn't guarantee you won't lose money. Use a target-date fund or a simple three-fund portfolio to maintain discipline. The key is to set a plan and stick to it, regardless of market noise.",
+    "sources": [],
+    "meta": {
+      "id": "Active vs. passive investing",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Index investing",
+        "Active management"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "c5daca73-8f60-49c6-9a83-32a8470cab3a",
     "date": "2026-08-19",
     "topic": "Risk-Adjusted Performance: The Sharpe Ratio and Beyond",
@@ -3745,66 +3803,6 @@
       ],
       "tags": [
         "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "1fc99fae-c586-4a18-9460-cd465796a1c2",
-    "date": "2026-06-16",
-    "topic": "Ethics in Investing: Fiduciary Duty and Professional Standards",
-    "teaser": "Your client's trust is a fragile asset. One undisclosed conflict can shatter it faster than any market crash. Here's how to protect it.",
-    "summary": "In 2008, a Wall Street banker sold mortgage-backed securities he knew were toxic. He didn't break any rules—just exploited a loophole. That's the difference between legality and ethics. Ethics in investing isn't about following the letter of the law; it's about respecting the spirit of trust. It's the quiet promise that you'll put your client's interests above your own, even when no one is watching. This isn't just moral fluff—it's the bedrock of long-term wealth. Every hidden fee, every conflicted recommendation, is a slow leak in the portfolio. The math is simple: a 1% undisclosed cost over 30 years eats up nearly 30% of returns. But the real damage is to reputation. In a world where trust is the new currency, ethical lapses are bankrupting. This lesson isn't about compliance checklists. It's about building a mental framework that makes integrity automatic. We'll explore the psychology of rationalization, the asymmetry of knowledge, and how to run a pre-mortem on your own decisions. You'll walk away with drills that turn abstract principles into daily habits.",
-    "key_points": [
-      "**The Asymmetry of Trust** is not just about information—it's about power. When you know more, you have the power to exploit. Silence isn't neutral; it's a choice. The real test: If your client knew what you know, would they still agree? If not, you're breaching trust.",
-      "**Ethics as a Pre-mortem** is a mental model where you imagine your decision being scrutinized by a regulator, your grandmother, and the press. If any of them would raise an eyebrow, pause. This isn't about fear; it's about clarity. Pre-mortems force you to see the unseen consequences.",
-      "**The Slippery Slope of Rationalization** starts with 'just this once.' A small conflict today normalizes a bigger one tomorrow. The antidote is to define your red lines before you're in the gray zone. Ask: What's the one thing I will never do? Write it down.",
-      "**Fiduciary Duty vs. Suitability** is the difference between a guardian and a salesperson. Suitability allows you to recommend a product that's 'not bad' for the client but great for you. Fiduciary duty demands you recommend the best option, even if it costs you. The mental model: Act as if your client's money is your grandmother's life savings."
-    ],
-    "practice": [
-      {
-        "title": "Conflict Disclosure Drill",
-        "steps": [
-          "Before each recommendation, fill out a 'Conflict Disclosure Template' that lists: (1) any fees or commissions you receive, (2) any personal holdings in the investment, (3) any relationships with the product provider. Email this to your client before executing.",
-          "Use the 'Newspaper Test': If this disclosure appeared on the front page of your local paper, would you be proud or embarrassed? If embarrassed, don't proceed.",
-          "Verbally walk the client through the template in simple terms: 'I earn X from this fund, and I own shares too. Here's why I still think it's best for you.'"
-        ]
-      },
-      {
-        "title": "Self-Audit Your Recent Trades",
-        "steps": [
-          "Pick three recent trades. For each, write a paragraph explaining why it was in the client's best interest, including all conflicts and how you mitigated them.",
-          "Grade yourself: Did you fully disclose? Did you prioritize the client? Be brutally honest.",
-          "Share one audit with a colleague for feedback. You'll spot blind spots."
-        ]
-      },
-      {
-        "title": "Simulate a Regulatory Audit",
-        "steps": [
-          "Choose a complex decision you made (e.g., recommending a high-fee active fund over a low-fee index).",
-          "Write a mock letter to the SEC justifying your decision. Include: client's goals, risk tolerance, alternatives considered, conflicts disclosed, and how you ensured the recommendation was in their best interest.",
-          "Read it aloud. Does it sound convincing? If not, rethink your process."
-        ]
-      }
-    ],
-    "risk_notes": "Ethical frameworks can become 'ethics theater' if you focus on compliance over genuine moral reasoning. Also, cultural differences matter—what's a conflict in one country may be standard practice in another. Finally, awareness of bias doesn't eliminate it. Use structured decision-making tools (like checklists) to reduce reliance on intuition.",
-    "sources": [
-      {
-        "title": "Thinking, Fast and Slow by Daniel Kahneman",
-        "url": "https://www.penguinrandomhouse.com/books/178588/thinking-fast-and-slow-by-daniel-kahneman/"
-      }
-    ],
-    "meta": {
-      "id": "Ethics & professional standards",
-      "category": "Investment Concepts & Principles",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Disclosure",
-        "Conflicts of interest"
-      ],
-      "tags": [
-        "Investment Concepts & Principles",
         "基础"
       ]
     }
