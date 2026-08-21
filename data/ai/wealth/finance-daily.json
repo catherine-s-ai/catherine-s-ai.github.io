@@ -1,5 +1,67 @@
 [
   {
+    "id": "3dc16641-a11a-44c8-bf7b-92112f159aab",
+    "date": "2026-08-21",
+    "topic": "The Hidden Traps of Investing: Why Ethics Is Your First Line of Defense",
+    "teaser": "In 301 AD, Emperor Diocletian fixed prices to stop inflation. His edict failed so badly it caused famine. Today, investors make the same mistake: trusting rules over incentives. Here's how to see the trap before it sees you.",
+    "summary": "Imagine a doctor who prescribes a drug because they own stock in the company making it—and never tells you. Your health is on the line. In investing, this isn't hypothetical; it's a daily reality. Ethics isn't about being a saint; it's about surviving the market's hidden traps.\n\nThink of the market as a game where information is power. If the seller knows more than you—and they always do—how can you trust the price? The answer is ethics: a set of rules that, when followed, levels the playing field. But here's the twist: rules are just the floor. The real protection comes from understanding the game at a first-principles level.\n\nStart with the principal-agent problem: your advisor's incentive is to earn fees, not necessarily to make you rich. That's not evil—it's human nature. But if you don't align incentives, you'll bleed wealth slowly. Then there's information asymmetry: the seller always knows more than the buyer. Ethical standards are the only bridge across this gap. Without them, you're navigating blind.\n\nBut here's the counterintuitive part: relying on rules alone is like trusting a broken compass. Rules are reactive; they lag behind innovation. The Roman Emperor Diocletian tried to fix inflation by decree—and caused famine. The lesson? Systems based on coercion fail. Markets work because of trust, and trust is built on ethical behavior that goes beyond the letter of the law.\n\nSo, how do you protect yourself? First, understand that ethical investing isn't about being moral—it's about being rational. It's about recognizing that your counterparty might not share your interests, and building safeguards. Second, remember that reputation is a currency. In finance, trust compounds like interest. A single ethical lapse can destroy decades of reputation, but consistently ethical behavior attracts better opportunities and partners.\n\nFinally, beware the false security of 'ethical' labels. Just because something is legal doesn't mean it's ethical. And sometimes, the ethical choice is more expensive—but that's the price of integrity. As an investor, your first line of defense isn't regulation; it's your own vigilance.",
+    "key_points": [
+      "The Principal-Agent Trap: Your advisor's incentives are not aligned with yours. Always ask: 'How is this person compensated?' But go deeper—look at the entire fee structure, including hidden commissions, soft-dollar arrangements, and trailing fees. The real question is: 'Would they recommend this if they didn't get paid extra?'",
+      "Information Asymmetry is Unavoidable—But Ethical Standards Can Bridge It. The seller always knows more than the buyer. Ethical standards are the only bridge across this gap. But don't just trust the label; verify the substance. For example, when a company's auditor is also a consultant, the conflict is real. Look for signs of ethical culture: whistleblower policies, board independence, and transparent disclosures.",
+      "Reputation Premium is Real, and It Compounds. In finance, trust is the ultimate currency. A single ethical lapse can destroy decades of reputation, but more subtly, ethical behavior compounds like interest—it attracts better opportunities and partners. This isn't just moralizing; it's a practical strategy. Companies with strong ethical cultures often outperform over the long term because they avoid scandals, lawsuits, and regulatory fines."
+    ],
+    "practice": [
+      {
+        "title": "Scrutinize Your Advisor's Compensation",
+        "steps": [
+          "Obtain your broker's or advisor's Form ADV Part 2 (or equivalent) from the SEC's Investment Adviser Public Disclosure (IAPD) website.",
+          "Read the 'Compensation' section carefully. Note any fees, commissions, or revenue-sharing arrangements.",
+          "Look for red flags: high front-end loads, 12b-1 fees, or incentives for recommending proprietary products.",
+          "Ask directly: 'Do you earn more if I buy product A over product B?' If they hesitate, that's a red flag."
+        ]
+      },
+      {
+        "title": "Analyze Insider Behavior Before Buying",
+        "steps": [
+          "Check the company's proxy statement (DEF 14A) on SEC EDGAR for executive compensation and related-party transactions.",
+          "Look for patterns of insider selling while they are publicly recommending the stock. Use insider transaction databases like OpenInsider.",
+          "If insiders are selling heavily, consider that a red flag—especially if they are selling while the company is buying back stock.",
+          "Also check for 'going private' transactions or management-led buyouts, which can signal conflicts."
+        ]
+      },
+      {
+        "title": "Run a Conflict-of-Interest Simulation",
+        "steps": [
+          "Imagine you are an advisor with two products: one pays you a high commission, the other is best for the client.",
+          "Write down which you would recommend and why.",
+          "Now, switch perspectives: imagine you are the client. What would you want the advisor to do?",
+          "Identify the gap between the two answers. This gap is your conflict-of-interest exposure. Adjust your decision-making by seeking advice from fee-only fiduciaries or by using a checklist to remove emotional biases."
+        ]
+      }
+    ],
+    "risk_notes": "Ethical standards can create a false sense of security. Regulations don't guarantee ethical behavior—they just set minimums. Over-reliance on 'ethical' labels can lead to complacency. The real trap is believing that because something is legal, it's ethical. Also, ethical investing can underperform if you're not careful—sometimes the 'ethical' choice is the more expensive one, but that's a price for integrity. Remember: the market is a game of trust, and the biggest risk is trusting blindly.",
+    "sources": [
+      {
+        "title": "CFA Institute Ethics Standards",
+        "url": "https://www.cfainstitute.org/en/ethics-standards"
+      }
+    ],
+    "meta": {
+      "id": "Ethics & professional standards",
+      "category": "Investment Concepts & Principles",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Disclosure",
+        "Conflicts of interest"
+      ],
+      "tags": [
+        "Investment Concepts & Principles",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "ea27d994-301b-4f28-90ff-3621bb4356fd",
     "date": "2026-08-20",
     "topic": "Passive Investing vs. Active Investing",
@@ -3736,70 +3798,6 @@
       "related": [
         "Stock markets & trading mechanics",
         "Equity valuation"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "6b6a938e-f160-486a-a887-596b2901fd17",
-    "date": "2026-06-17",
-    "topic": "Fixed Income: Beyond the 'Safe' Label",
-    "teaser": "Your 'safe' bonds lost 15% in 2022. That's more than the S&P 500 dropped in 2020. What the heck happened? And how do you make sure it doesn't happen again?",
-    "summary": "Imagine you're a landlord. You rent out your apartment for $1,000 a month. Then, suddenly, new apartments in your building start renting for $1,200. Your tenant says, 'I'll move unless you cut the rent to $800.' That's what happened to bonds in 2022. You lent money at 2% interest, but new bonds now pay 5%. Your old bond's price had to drop to compete.\n\nIn 2022, the Federal Reserve raised rates at the fastest pace in decades. The result? The Bloomberg US Aggregate Bond Index fell 13%. Some long-term bond funds dropped over 30%. This wasn't a 'safe' investment—it was a trip to the dentist.\n\nFixed income isn't just one thing. It's a spectrum: from ultra-safe T-bills to junk bonds that yield like lottery tickets. The price of any bond moves inversely with interest rates. When rates rise, bond prices fall. Why? Because your fixed coupon becomes less attractive compared to new bonds paying more. Think of a seesaw: rates go up, prices go down. The longer the bond's maturity, the heavier the seesaw.\n\nBut here's the twist: if you hold a bond to maturity, you get your principal back (assuming no default). So a 10-year Treasury bought at a discount will still pay you $1,000 at the end. The price volatility is only a problem if you sell early. That's why understanding your time horizon is crucial.\n\nNow, with yields at 15-year highs, bonds are actually attractive again. But the lesson of 2022 is clear: 'safe' doesn't mean 'no volatility.' It means you know what you're getting into. Duration, yield to maturity, and the yield curve are your tools. Let's unpack them.",
-    "key_points": [
-      "**Duration: Your Risk Thermostat** — Duration is not time to maturity. It's a measure of interest rate sensitivity. A bond with a duration of 5 years will drop roughly 5% for every 1% rise in rates. Think of it as financial leverage. If you own a bond fund with a duration of 7 years, you're essentially taking on the risk of a 7% loss per 1% rate hike. In 2022, the 10-year Treasury yield rose from 1.5% to 4.0%, so a duration of 8 would mean a 20% loss. That's why long-term bond funds were crushed. Tip: Check your bond fund's duration before you buy.",
-      "**Yield to Maturity: The Flawed Crystal Ball** — YTM is the total return you'll earn if you hold a bond to maturity, but it assumes you can reinvest all coupon payments at the same YTM. In a falling rate environment, that's impossible. In a rising rate environment, you actually benefit from reinvesting at higher rates. So YTM is a static estimate, not a guarantee. For example, a 10-year bond bought at par with a 5% coupon has a YTM of 5%, but if rates rise to 6% after a year, your reinvested coupons will earn less than 5% (if you hold to maturity) or you'll sell at a loss. The real return is path-dependent.",
-      "**The Yield Curve: The Recession Crystal Ball** — The yield curve plots yields of bonds with different maturities. Normally, longer-term bonds yield more to compensate for risk. When short-term yields exceed long-term yields (an inverted curve), it's a powerful recession signal. Every US recession since 1960 has been preceded by an inverted curve. In 2022, the curve inverted sharply. Why? Because the market expected the Fed's rate hikes to cause an economic slowdown, pushing future rates down. This is exactly what happened: by late 2023, the market was pricing in rate cuts. The inversion was a warning that worked. For investors, an inverted curve suggests it's time to shorten duration and lock in high short-term yields."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Current Yield and YTM",
-        "steps": [
-          "Take a specific bond: a 10-year Treasury with a 2% coupon, currently trading at $90 (per $100 face value).",
-          "Current yield = annual coupon / current price = $2 / $90 = 2.22%. That's your income return.",
-          "Use a YTM calculator (e.g., on Investopedia) to find YTM. For this bond, YTM is about 3.1% because you also get $10 capital gain at maturity. But note: YTM assumes reinvesting the $2 coupons at 3.1%—unlikely if rates change. So YTM is a rough guide, not a promise."
-        ]
-      },
-      {
-        "title": "Check Duration of Your Bond ETFs",
-        "steps": [
-          "Find the duration of a bond ETF like BND (Vanguard Total Bond Market) or AGG (iShares Core US Aggregate Bond). As of early 2024, BND's duration is about 6.5 years. That means a 1% rate rise could cause a ~6.5% drop.",
-          "Warning: Bond fund duration is an average, and it can change as the fund's holdings change. Also, if you hold individual bonds, the duration decreases over time. For funds, it stays roughly constant because they replace maturing bonds.",
-          "If you expect rates to rise, consider short-term bond funds (duration < 3 years) or floating-rate notes. If rates are falling, long-term funds (duration > 10) can offer big gains."
-        ]
-      },
-      {
-        "title": "Build a Bond Ladder",
-        "steps": [
-          "If you have $10,000, buy $2,000 each of bonds maturing in 1, 2, 3, 4, and 5 years. Use Treasury bonds or high-quality corporate bonds.",
-          "When the 1-year bond matures, reinvest the $2,000 into a new 5-year bond. This keeps your ladder rolling.",
-          "If you don't have enough for individual bonds (minimums are often $1,000-$5,000), use a bond ladder ETF like iShares iBonds or Invesco BulletShares. These are ETFs that hold bonds maturing in a specific year, giving you the ladder effect with a single purchase.",
-          "A ladder provides regular cash flow and reduces interest rate risk because you always have money coming due soon. During 2022, a 5-year ladder of Treasuries would have lost only about 5%, much less than a long-term fund."
-        ]
-      }
-    ],
-    "risk_notes": "The biggest trap is assuming 'fixed income' means 'no risk.' In reality, bonds have three main risks: (1) Interest rate risk: prices fall when rates rise. (2) Credit risk: the issuer defaults. (3) Inflation risk: your returns may not keep up with inflation. In 2022, inflation hit 9%, so even bonds yielding 5% lost purchasing power. Psychological trap: reaching for yield by buying long-term or low-quality bonds when rates are low, only to see prices crash when rates rise. Also, beware of callable bonds—issuers can repay early, leaving you to reinvest at lower rates. Always read the fine print.",
-    "sources": [
-      {
-        "title": "Fabozzi, Frank J. Bond Markets, Analysis, and Strategies. Pearson.",
-        "url": "https://www.pearson.com/store/p/bond-markets-analysis-and-strategies/P100000005348"
-      },
-      {
-        "title": "Bodie, Zvi, Alex Kane, and Alan J. Marcus. Investments. McGraw-Hill.",
-        "url": "https://www.mheducation.com/highered/product/investments-bodie-kane/M9781264412662.html"
-      }
-    ],
-    "meta": {
-      "id": "Fixed income & interest-rate products",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Bond valuation",
-        "Yield curve"
       ],
       "tags": [
         "Asset Classes & Products",
