@@ -1,5 +1,71 @@
 [
   {
+    "id": "bce8588f-8c4b-4463-aa1a-41853cacc9fd",
+    "date": "2026-08-22",
+    "topic": "Fixed Income: The Silent Killer of Wealth",
+    "teaser": "The Roman Emperor who accidentally invented inflation—and why you're repeating his mistake.",
+    "summary": "In 301 AD, the Roman Emperor Diocletian faced a crisis: prices were soaring, and the denarius, the empire's currency, was losing value. His solution? A price-fixing edict, setting maximum prices for goods and services—with the death penalty for violators. It failed spectacularly, as such controls always do, because the root cause was not greedy merchants but the empire's relentless debasement of the coinage. The denarius had been minted with ever less silver, and as the money supply grew, each coin bought less. The people experienced a slow, silent theft of their purchasing power—an inflation tax. Diocletian didn't invent inflation, but his story illuminates a timeless truth: the most dangerous threats to wealth are often the ones that creep up quietly, eroding value without a dramatic collapse.\n\nToday, we face a similar silent killer in the world of fixed income. Bonds are often called 'safe'—the bedrock of conservative portfolios, the refuge for retirees and risk-averse investors. But in 1946, the U.S. 10-year Treasury yielded about 2%. By 1981, it had soared to nearly 16%. If you had bought a 30-year bond at 2% in 1946, you would have lost more than 60% of its real value by 1981. That's not a crash; it's a slow bleed. The biggest risk in fixed income isn't default—it's the erosion of purchasing power through inflation and the opportunity cost of locking in low yields.\n\nLet's break down the mechanics. A bond is a loan: you lend money to a government or corporation in exchange for regular interest payments and the return of principal at maturity. The price of a bond is the present value of its future cash flows, discounted at the prevailing interest rate. When rates rise, bond prices fall; when rates fall, prices rise. This inverse relationship is the first principle of bond investing. **Duration** measures sensitivity: a bond with a duration of 5 years will lose approximately 5% of its value for every 1% increase in yields. But duration is not just a risk metric—it's a tool. If you think rates will fall, long-duration bonds give you capital gains. If you think rates will rise, short-duration bonds protect you and let you reinvest at higher yields. And here's a counterintuitive twist: because of convexity, the gains from falling rates are larger than the losses from rising rates for the same magnitude of move. This asymmetry is often ignored, but it can work in your favor if you position correctly.\n\nNow, the yield curve is a crystal ball. An inverted curve—short-term rates higher than long-term—has preceded every major recession in the last 50 years. It's not a timing tool, but it tells you what bond traders expect about growth and inflation. When the curve inverts, it's a signal that the market believes a slowdown is coming, and history says to listen.\n\nToday, central banks are hiking rates to fight inflation. If you hold bonds or bond funds, their prices are falling. Meanwhile, cash is yielding more than it has in over a decade. This is a rare moment: you can earn a real return on cash without taking on interest-rate risk. But that won't last forever. Understanding fixed income is crucial for preserving capital and locking in higher yields before the next rate cycle turns. Ignorance could cost you thousands in missed opportunities or hidden losses in your 'safe' bond allocation.\n\nSo, bonds are not 'safe'—they are 'less risky' than stocks, but they carry their own risks: interest-rate risk, inflation risk, and reinvestment risk. The safety myth comes from the fact that default risk is low for governments, but the real risk is that your purchasing power declines. Diocletian's citizens learned this the hard way. Will you?",
+    "key_points": [
+      "The safety myth: Bonds are not 'safe'—they are 'less risky' than stocks, but they carry their own risks: interest-rate risk, inflation risk, and reinvestment risk. The real danger is the slow erosion of purchasing power, not default. In 1946, a 30-year Treasury yielded 2%; by 1981, the real value of that bond had fallen by over 60% due to inflation. This is the silent killer.",
+      "The yield curve is a contrarian crystal ball: An inverted yield curve (short-term rates higher than long-term) has preceded every major recession in the last 50 years. But here's the nuance: it's not a timing tool, and it doesn't predict the magnitude or duration of the recession. It's a market forecast that says 'growth is slowing,' and it's often wrong in timing but never wrong in direction. When the curve inverts, it's time to reduce risk, not ignore it.",
+      "Duration is a double-edged sword with a hidden asymmetry: Duration measures sensitivity to interest rates, but it also measures opportunity. Most investors fear duration when rates rise, but they fail to realize that convexity creates an asymmetric payoff: for large rate moves, gains from falling rates are larger than losses from rising rates. This means that long-duration bonds can be a powerful hedge against deflation or a sharp economic downturn—a counterintuitive tool for portfolio insurance."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Bond Fund's Duration Risk",
+        "steps": [
+          "Find the duration of any bond fund you own (check the fund's fact sheet or website).",
+          "If the duration is 6, a 1% rise in rates means a ~6% loss. Ask yourself: can I tolerate that?",
+          "If not, switch to a shorter-duration fund (duration < 3) to reduce sensitivity.",
+          "Example: If you have $100,000 in a fund with duration 6, a 1% rate hike means a $6,000 loss. That's like losing a year's worth of interest on a 6% bond. Would you rather have that loss or the opportunity to reinvest at higher rates later?"
+        ]
+      },
+      {
+        "title": "Build a Bond Ladder",
+        "steps": [
+          "Buy bonds with maturities of 1, 2, 3, 4, and 5 years.",
+          "As each bond matures, reinvest the principal in a new 5-year bond.",
+          "This smooths out interest-rate risk and provides liquidity at regular intervals.",
+          "Example: Suppose you have $50,000 to invest. You buy $10,000 each of 1, 2, 3, 4, and 5-year Treasuries. After one year, the 1-year bond matures, and you buy a new 5-year bond with the proceeds. Now you have a ladder of 2, 3, 4, 5, and 5-year bonds. This way, you're not locked into one rate for too long, and you can take advantage of rising rates as each bond matures."
+        ]
+      },
+      {
+        "title": "Check the Yield Curve Today",
+        "steps": [
+          "Look up the current yields on 3-month, 2-year, 10-year, and 30-year Treasuries.",
+          "If the curve is inverted (short-term yields higher than long-term), take note—it's a signal that recession may be coming.",
+          "Consider tilting your fixed income toward short-term Treasuries or high-quality corporate bonds with low duration.",
+          "Example: As of late 2023, the 3-month Treasury yields around 5.5%, while the 10-year yields around 4.2%. That's an inversion. Historically, this has preceded recessions by 6-24 months. It doesn't tell you when the recession will hit, but it tells you to be cautious. If you're worried about a downturn, you might increase your allocation to cash or short-term bonds to preserve capital and be ready to buy longer-term bonds at higher yields later."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest trap is 'reaching for yield': buying long-duration or junk bonds when rates are low, ignoring the risk. Another trap is ignoring inflation: a 5% nominal yield with 6% inflation means you're losing purchasing power. Also, beware of 'recency bias'—because bonds have done well for 40 years (falling rates), you assume they always will. But rates can't fall forever; they can rise from here, and the next 40 years may be different. Finally, don't confuse 'risk-free' with 'risk-less.' U.S. Treasuries are risk-free in nominal terms, but they are not risk-free in real terms. Inflation can destroy their value, and if you hold them to maturity, you still face reinvestment risk when they mature in a lower-rate environment.",
+    "sources": [
+      {
+        "title": "The Bond Book by Annette Thau",
+        "url": "https://www.mheducation.com/cover-images/Jpeg_400-high/0071661192.jpeg"
+      },
+      {
+        "title": "Stigum's Money Market by Marcia Stigum and Anthony Crescenzi",
+        "url": "https://www.mheducation.com/cover-images/Jpeg_400-high/0071448456.jpeg"
+      }
+    ],
+    "meta": {
+      "id": "Fixed income & interest-rate products",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Bond valuation",
+        "Yield curve"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "3dc16641-a11a-44c8-bf7b-92112f159aab",
     "date": "2026-08-21",
     "topic": "The Hidden Traps of Investing: Why Ethics Is Your First Line of Defense",
@@ -3734,70 +3800,6 @@
       "related": [
         "Currency risk",
         "Commodity futures"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "6bc21114-80b9-4d2b-9fbf-d4e764533561",
-    "date": "2026-06-18",
-    "topic": "Stocks: Ownership in Real Businesses, Not Just Tickers",
-    "teaser": "What if your stock portfolio could survive a 50% crash and still make you rich? The secret lies in thinking like an owner.",
-    "summary": "In 1973, the S&P 500 lost nearly half its value. Gas was $0.39 a gallon, and the economy was a mess. But here's the kicker: investors who bought stocks that year saw a 10x return over the next decade. Why? Because they understood that stocks aren't just tickers—they're ownership in real businesses. When you buy a stock, you own a piece of a company's assets, earnings, and future. The market price is just a mood ring. Over time, the business's performance is what drives returns. With inflation eating away at cash at ~3% per year, stocks have historically returned 6-10% after inflation. Not owning them means your savings silently shrink. So forget the noise. Think like an owner.",
-    "key_points": [
-      "**Ownership vs. Speculation:** Most people buy stocks hoping the price goes up. That's speculation. Real investors buy businesses. When you own a piece of a company, you care about its earnings, its competitive advantage, and its ability to grow. You ignore the daily noise and focus on the business's long-term value creation. This shift in mindset is the difference between gambling and investing.",
-      "**Mr. Market is Your Servant, Not Your Guide:** The market is a manic-depressive who offers to buy or sell you a piece of a business every day. Some days he's euphoric and offers a high price; other days he's terrified and offers a low price. Your job is to take advantage of his mood swings, not be controlled by them. Buy when he's fearful, sell when he's greedy. This counterintuitive approach—being greedy when others are fearful—is the hallmark of great investors.",
-      "**The Power of Reinvestment: The Eighth Wonder of the World:** Einstein supposedly called compound interest the eighth wonder. When you reinvest dividends and let earnings compound, the growth is exponential. A stock that grows earnings at 10% per year for 20 years turns $10,000 into $67,000—even if the P/E ratio stays flat. But here's the kicker: most people underestimate the power of time. The longer you stay invested, the more magical compounding becomes."
-    ],
-    "practice": [
-      {
-        "title": "Find a Bargain Business",
-        "steps": [
-          "Go to a stock screener (like Finviz) and filter for P/E below 15 and 10 years of rising earnings per share. (A P/E below 15 is a rough starting point; adjust based on industry norms.)",
-          "Write down why you'd buy it as if you were buying the whole business. What is its competitive advantage? How does it make money? Is the management trustworthy?"
-        ]
-      },
-      {
-        "title": "Track Intrinsic Value",
-        "steps": [
-          "Open your brokerage account and check your portfolio's 'cost basis' column.",
-          "Calculate how much your holdings have grown in intrinsic value over the past year: sum up the earnings per share of each stock and multiply by the number of shares you own. Compare this to the market price change. This trains you to focus on business performance, not stock price."
-        ]
-      },
-      {
-        "title": "Stress Test Your Emotions",
-        "steps": [
-          "Simulate a 50% market drop: take your current portfolio value, halve it.",
-          "Write a paragraph explaining why you would or wouldn't sell. This prepares your mind for volatility and helps you avoid panic selling when the market actually crashes."
-        ]
-      }
-    ],
-    "risk_notes": "Stocks fail when you confuse a great company with a great stock (paying too high a price). They also fail when you cannot hold through drawdowns—human psychology often sells at the worst time. Hidden risks include dilution from stock options, accounting fraud, and sector obsolescence (e.g., Kodak).",
-    "sources": [
-      {
-        "title": "The Intelligent Investor by Benjamin Graham",
-        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
-      },
-      {
-        "title": "Common Stocks and Uncommon Profits by Philip Fisher",
-        "url": "https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509"
-      },
-      {
-        "title": "The Little Book of Common Sense Investing by John C. Bogle",
-        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
-      }
-    ],
-    "meta": {
-      "id": "Equity investments (stocks)",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Stock markets & trading mechanics",
-        "Equity valuation"
       ],
       "tags": [
         "Asset Classes & Products",

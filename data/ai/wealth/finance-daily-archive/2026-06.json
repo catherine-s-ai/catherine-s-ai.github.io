@@ -1019,5 +1019,69 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "6bc21114-80b9-4d2b-9fbf-d4e764533561",
+    "date": "2026-06-18",
+    "topic": "Stocks: Ownership in Real Businesses, Not Just Tickers",
+    "teaser": "What if your stock portfolio could survive a 50% crash and still make you rich? The secret lies in thinking like an owner.",
+    "summary": "In 1973, the S&P 500 lost nearly half its value. Gas was $0.39 a gallon, and the economy was a mess. But here's the kicker: investors who bought stocks that year saw a 10x return over the next decade. Why? Because they understood that stocks aren't just tickers—they're ownership in real businesses. When you buy a stock, you own a piece of a company's assets, earnings, and future. The market price is just a mood ring. Over time, the business's performance is what drives returns. With inflation eating away at cash at ~3% per year, stocks have historically returned 6-10% after inflation. Not owning them means your savings silently shrink. So forget the noise. Think like an owner.",
+    "key_points": [
+      "**Ownership vs. Speculation:** Most people buy stocks hoping the price goes up. That's speculation. Real investors buy businesses. When you own a piece of a company, you care about its earnings, its competitive advantage, and its ability to grow. You ignore the daily noise and focus on the business's long-term value creation. This shift in mindset is the difference between gambling and investing.",
+      "**Mr. Market is Your Servant, Not Your Guide:** The market is a manic-depressive who offers to buy or sell you a piece of a business every day. Some days he's euphoric and offers a high price; other days he's terrified and offers a low price. Your job is to take advantage of his mood swings, not be controlled by them. Buy when he's fearful, sell when he's greedy. This counterintuitive approach—being greedy when others are fearful—is the hallmark of great investors.",
+      "**The Power of Reinvestment: The Eighth Wonder of the World:** Einstein supposedly called compound interest the eighth wonder. When you reinvest dividends and let earnings compound, the growth is exponential. A stock that grows earnings at 10% per year for 20 years turns $10,000 into $67,000—even if the P/E ratio stays flat. But here's the kicker: most people underestimate the power of time. The longer you stay invested, the more magical compounding becomes."
+    ],
+    "practice": [
+      {
+        "title": "Find a Bargain Business",
+        "steps": [
+          "Go to a stock screener (like Finviz) and filter for P/E below 15 and 10 years of rising earnings per share. (A P/E below 15 is a rough starting point; adjust based on industry norms.)",
+          "Write down why you'd buy it as if you were buying the whole business. What is its competitive advantage? How does it make money? Is the management trustworthy?"
+        ]
+      },
+      {
+        "title": "Track Intrinsic Value",
+        "steps": [
+          "Open your brokerage account and check your portfolio's 'cost basis' column.",
+          "Calculate how much your holdings have grown in intrinsic value over the past year: sum up the earnings per share of each stock and multiply by the number of shares you own. Compare this to the market price change. This trains you to focus on business performance, not stock price."
+        ]
+      },
+      {
+        "title": "Stress Test Your Emotions",
+        "steps": [
+          "Simulate a 50% market drop: take your current portfolio value, halve it.",
+          "Write a paragraph explaining why you would or wouldn't sell. This prepares your mind for volatility and helps you avoid panic selling when the market actually crashes."
+        ]
+      }
+    ],
+    "risk_notes": "Stocks fail when you confuse a great company with a great stock (paying too high a price). They also fail when you cannot hold through drawdowns—human psychology often sells at the worst time. Hidden risks include dilution from stock options, accounting fraud, and sector obsolescence (e.g., Kodak).",
+    "sources": [
+      {
+        "title": "The Intelligent Investor by Benjamin Graham",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "Common Stocks and Uncommon Profits by Philip Fisher",
+        "url": "https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509"
+      },
+      {
+        "title": "The Little Book of Common Sense Investing by John C. Bogle",
+        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
+      }
+    ],
+    "meta": {
+      "id": "Equity investments (stocks)",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Stock markets & trading mechanics",
+        "Equity valuation"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
   }
 ]
