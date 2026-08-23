@@ -1083,5 +1083,64 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "23ca357c-2e47-46d0-9e69-ceb8a260f9d4",
+    "date": "2026-06-19",
+    "topic": "Forex and Commodities: The Hidden Forces Shaping Your Wealth",
+    "teaser": "Your portfolio might be bleeding without you buying a single foreign stock. Discover the silent wealth eroder.",
+    "summary": "Imagine you're a Japanese investor in 1990. Your Nikkei stocks crash 80%, but your US dollar bonds triple in yen terms. Currency isn't just a medium of exchange—it's a hidden asset class that can make or break your portfolio without you buying a single foreign stock. \n\n**Foreign exchange (forex)** is the price of one country's money in terms of another's. **Commodities** are raw materials with intrinsic use value, like oil or wheat. Their prices are driven by supply/demand and, crucially, by the value of the dollar because they're priced in dollars. First principles: exchange rates are relative prices of national purchasing power; commodity futures are contracts to buy/sell a physical good at a future date, used for hedging or speculation.\n\nToday, with global supply chains and inflation, your purchasing power is directly tied to currency fluctuations. If you buy imported goods, travel, or invest in multinational companies, currency risk is already affecting you. Commodities like oil and food impact your real costs. Ignoring them leaves you exposed to silent wealth erosion.",
+    "key_points": [
+      "**The Dollar Smile:** The US dollar tends to strengthen in times of extreme global fear (flight to safety) and in times of strong US growth, but weakens during moderate risk-on periods. This inverse relationship means forex moves can offset equity losses in crises.",
+      "**Commodities are not all alike:** Precious metals (gold) act as monetary hedges, while industrial metals (copper) are economic bellwethers. Oil is geopolitically sensitive. Treat them as distinct risk factors, not one asset class.",
+      "**Carry trade as a mental model:** Borrowing in low-interest currencies (like yen) to invest in high-yield ones (like Brazilian real) can generate returns, but it's 'picking up nickels in front of a steamroller'—the crash when the trade reverses is brutal."
+    ],
+    "practice": [
+      {
+        "title": "Check your portfolio's currency exposure",
+        "steps": [
+          "List all holdings denominated in foreign currencies (e.g., ADRs, foreign bonds).",
+          "Calculate what happens if the dollar strengthens 10% against each currency.",
+          "Assess whether you need to hedge using currency ETFs or forward contracts."
+        ]
+      },
+      {
+        "title": "Simulate a commodity shock",
+        "steps": [
+          "Estimate your monthly spending on gasoline and heating.",
+          "If oil doubles, calculate the additional cost.",
+          "Adjust your emergency fund to cover at least 3 months of such elevated expenses."
+        ]
+      },
+      {
+        "title": "Track the DXY index weekly",
+        "steps": [
+          "Monitor the US Dollar Index (DXY) as a barometer for global risk.",
+          "When DXY spikes, consider hedging currency risk via ETFs like UUP or shorting emerging market currencies.",
+          "Review your portfolio's correlation with DXY to identify hidden risks."
+        ]
+      }
+    ],
+    "risk_notes": "Forex and commodities are highly volatile and can be manipulated by central banks or OPEC. Leverage in futures can wipe out accounts. Psychological traps: anchoring to past prices (e.g., 'oil should be $50'), overconfidence in macro predictions, and treating hedging as speculation.",
+    "sources": [
+      {
+        "title": "The New Trading for a Living by Alexander Elder",
+        "url": "https://www.amazon.com/New-Trading-Living-Psychology-Discipline/dp/1118443926"
+      }
+    ],
+    "meta": {
+      "id": "Foreign exchange & commodities",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Currency risk",
+        "Commodity futures"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
   }
 ]

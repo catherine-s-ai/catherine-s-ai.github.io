@@ -1,5 +1,69 @@
 [
   {
+    "id": "79372111-9ede-4a77-9168-17c6ad0122d0",
+    "date": "2026-08-23",
+    "topic": "Understanding Stocks: Ownership, Value, and the Psychology of Investing",
+    "teaser": "The stock market is the only store where customers run out when prices drop. Learn why—and how to profit from it.",
+    "summary": "Imagine owning a tiny slice of every Coca-Cola bottle sold, every iPhone shipped, and every Amazon package delivered—without lifting a finger. That's what stocks are: a claim on future cash flows. But here's the twist: the stock market is the only store where, when the merchandise goes on sale, customers run out of the store. At its core, a stock is a fractional ownership in a company. When you buy a share, you're buying a piece of the company's future profits and assets. The price of a stock is determined by supply and demand in the market, but its intrinsic value is the present value of all future cash flows the company will generate. First principle: a stock is a claim on future cash flows, and its price is what you pay for that claim today. In an era of low interest rates and rising inflation, cash loses purchasing power. Equities have historically been the best-performing asset class over long periods, but they are also volatile. Understanding equities is crucial because your retirement, your wealth-building, and your financial independence depend on making informed decisions about where to put your money. With the rise of commission-free trading apps, the barrier to entry is lower than ever—but so is the risk of making uninformed choices. **Price is what you pay; value is what you get.** The market is a voting machine in the short term and a weighing machine in the long term. Don't confuse the two. **Volatility is not risk.** Risk is the permanent loss of capital. Volatility is just the price of admission for higher returns. If you can't stomach a 50% drop, you don't deserve a 10% return. The stock market is a giant distraction machine. It rewards patience and punishes impulsiveness. The best investors are often the most boring ones—they buy good companies and do nothing. By understanding these principles, you can navigate the market with confidence and build lasting wealth.",
+    "key_points": [
+      "Price vs. Value: The market is a voting machine in the short term and a weighing machine in the long term. Focus on intrinsic value, not short-term price fluctuations.",
+      "Volatility ≠ Risk: Volatility is the price of admission for higher returns; permanent loss of capital is the real risk. Stay invested through downturns.",
+      "Patience is a Superpower: The market rewards patient investors and punishes impulsive ones. The best investors often do the least.",
+      "Diversification is Survival: Individual stocks can go to zero; diversification protects you from your own mistakes and market unpredictability."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Number",
+        "steps": [
+          "Estimate your retirement goal (e.g., $1 million).",
+          "Assume a 7% annual return and your time horizon (e.g., 30 years).",
+          "Use a compound interest calculator to find the monthly investment needed."
+        ]
+      },
+      {
+        "title": "First Purchase: Index Fund",
+        "steps": [
+          "Open a brokerage account (e.g., Fidelity, Vanguard).",
+          "Fund your account with an amount you're comfortable with.",
+          "Buy a low-cost index fund like VTI or VOO for instant diversification."
+        ]
+      },
+      {
+        "title": "Bear Market Simulation",
+        "steps": [
+          "Imagine your portfolio drops 30% tomorrow.",
+          "Write down your emotional reaction (fear, panic, calm).",
+          "Look at historical data (e.g., S&P 500) to see recovery times, then reflect on how you'd respond rationally."
+        ]
+      }
+    ],
+    "risk_notes": "Equities can fail you if you overpay for growth, fall for hype, or lack a long-term horizon. Psychological traps include loss aversion, herding, and overconfidence. Individual stocks can go to zero, so diversification is not just a suggestion—it's a survival tactic. Remember, the market can stay irrational longer than you can stay solvent.",
+    "sources": [
+      {
+        "title": "The Intelligent Investor",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "A Random Walk Down Wall Street",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      }
+    ],
+    "meta": {
+      "id": "Equity investments (stocks)",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Stock markets & trading mechanics",
+        "Equity valuation"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "bce8588f-8c4b-4463-aa1a-41853cacc9fd",
     "date": "2026-08-22",
     "topic": "Fixed Income: The Silent Killer of Wealth",
@@ -3741,65 +3805,6 @@
       "related": [
         "Property investment",
         "REIT structure"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "23ca357c-2e47-46d0-9e69-ceb8a260f9d4",
-    "date": "2026-06-19",
-    "topic": "Forex and Commodities: The Hidden Forces Shaping Your Wealth",
-    "teaser": "Your portfolio might be bleeding without you buying a single foreign stock. Discover the silent wealth eroder.",
-    "summary": "Imagine you're a Japanese investor in 1990. Your Nikkei stocks crash 80%, but your US dollar bonds triple in yen terms. Currency isn't just a medium of exchange—it's a hidden asset class that can make or break your portfolio without you buying a single foreign stock. \n\n**Foreign exchange (forex)** is the price of one country's money in terms of another's. **Commodities** are raw materials with intrinsic use value, like oil or wheat. Their prices are driven by supply/demand and, crucially, by the value of the dollar because they're priced in dollars. First principles: exchange rates are relative prices of national purchasing power; commodity futures are contracts to buy/sell a physical good at a future date, used for hedging or speculation.\n\nToday, with global supply chains and inflation, your purchasing power is directly tied to currency fluctuations. If you buy imported goods, travel, or invest in multinational companies, currency risk is already affecting you. Commodities like oil and food impact your real costs. Ignoring them leaves you exposed to silent wealth erosion.",
-    "key_points": [
-      "**The Dollar Smile:** The US dollar tends to strengthen in times of extreme global fear (flight to safety) and in times of strong US growth, but weakens during moderate risk-on periods. This inverse relationship means forex moves can offset equity losses in crises.",
-      "**Commodities are not all alike:** Precious metals (gold) act as monetary hedges, while industrial metals (copper) are economic bellwethers. Oil is geopolitically sensitive. Treat them as distinct risk factors, not one asset class.",
-      "**Carry trade as a mental model:** Borrowing in low-interest currencies (like yen) to invest in high-yield ones (like Brazilian real) can generate returns, but it's 'picking up nickels in front of a steamroller'—the crash when the trade reverses is brutal."
-    ],
-    "practice": [
-      {
-        "title": "Check your portfolio's currency exposure",
-        "steps": [
-          "List all holdings denominated in foreign currencies (e.g., ADRs, foreign bonds).",
-          "Calculate what happens if the dollar strengthens 10% against each currency.",
-          "Assess whether you need to hedge using currency ETFs or forward contracts."
-        ]
-      },
-      {
-        "title": "Simulate a commodity shock",
-        "steps": [
-          "Estimate your monthly spending on gasoline and heating.",
-          "If oil doubles, calculate the additional cost.",
-          "Adjust your emergency fund to cover at least 3 months of such elevated expenses."
-        ]
-      },
-      {
-        "title": "Track the DXY index weekly",
-        "steps": [
-          "Monitor the US Dollar Index (DXY) as a barometer for global risk.",
-          "When DXY spikes, consider hedging currency risk via ETFs like UUP or shorting emerging market currencies.",
-          "Review your portfolio's correlation with DXY to identify hidden risks."
-        ]
-      }
-    ],
-    "risk_notes": "Forex and commodities are highly volatile and can be manipulated by central banks or OPEC. Leverage in futures can wipe out accounts. Psychological traps: anchoring to past prices (e.g., 'oil should be $50'), overconfidence in macro predictions, and treating hedging as speculation.",
-    "sources": [
-      {
-        "title": "The New Trading for a Living by Alexander Elder",
-        "url": "https://www.amazon.com/New-Trading-Living-Psychology-Discipline/dp/1118443926"
-      }
-    ],
-    "meta": {
-      "id": "Foreign exchange & commodities",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Currency risk",
-        "Commodity futures"
       ],
       "tags": [
         "Asset Classes & Products",
