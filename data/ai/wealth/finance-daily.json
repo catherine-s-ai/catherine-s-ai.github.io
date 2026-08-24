@@ -1,5 +1,68 @@
 [
   {
+    "id": "5220218e-0004-4b08-8927-519a99196f95",
+    "date": "2026-08-24",
+    "topic": "The Silent Referendum: How Currencies and Commodities Shape Your Wealth",
+    "teaser": "In 1933, FDR confiscated gold and devalued the dollar by 40% overnight. Your savings are next—unless you understand the silent game.",
+    "summary": "In 1992, George Soros 'broke the Bank of England' by betting against the pound, making $1 billion in a day. But the real lesson isn't about currency speculation—it's that the price of your morning coffee is a silent referendum on global trust. **Foreign exchange (FX)** is the price of one currency in terms of another, determined by supply and demand. **Commodities** are raw materials (oil, gold, wheat) that are fungible and tradeable. Both are asset classes that reflect the collective expectations of global economic health, inflation, and geopolitical stability.\n\nWhy should you care? Your purchasing power is directly tied to FX rates: if your home currency weakens, your imported goods cost more, and your overseas investments shrink in real terms. Commodities drive the cost of food, energy, and materials—so their price swings hit your wallet daily. Understanding these markets helps you hedge against inflation and currency risk, which is crucial in a world of volatile central bank policies and supply chain shocks.\n\nConsider the 'Impossible Trinity': No country can have free capital flows, a fixed exchange rate, and independent monetary policy simultaneously. This means currency stability is always a trade-off, and governments will sacrifice one to achieve the other—often with consequences for your investments. Commodities are not an investment; they're a barometer. Their prices reflect real-time supply constraints and geopolitical fears. When copper rallies, it's not about copper—it's a signal that global manufacturing is picking up. Use them as a gauge, not a portfolio staple.\n\nPurchasing Power Parity (PPP) is a lie in the short run: Exchange rates can deviate from economic fundamentals for years due to sentiment and capital flows. This is why carry trades (borrowing in low-rate currencies to invest in high-rate ones) can work until they don't—the 'unwind' is violent and unpredictable. By understanding these dynamics, you can make informed decisions about your exposure and protect your wealth from the silent forces that move markets.",
+    "key_points": [
+      "The Impossible Trinity is not just a theoretical concept—it's a ticking time bomb for your wealth. When a country pegs its currency, it surrenders control of its interest rates. The moment capital flows reverse, the peg breaks, and your purchasing power evaporates. The 1997 Asian Financial Crisis was a mass casualty event of this trinity. The lesson: never assume your government will choose your interests over political expediency.",
+      "Commodities are the canary in the coal mine for inflation. They are not an investment; they're a barometer of real-world scarcity. When copper rallies, it's not about copper—it's a signal that global manufacturing is picking up. When oil spikes, it's not just at the pump—it's a tax on consumption that ripples through every supply chain. Use them as an early warning system, not a get-rich-quick scheme.",
+      "PPP is a lie in the short run—but a compass in the long run. Exchange rates can deviate from fundamentals for years, driven by sentiment and capital flows. The carry trade is a classic example: it works until it doesn't, and the unwind is violent. The real insight: currency valuation is a pendulum that swings between fear and greed. Your job is not to predict the swing, but to ensure you're not on the wrong side when it reverses."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Currency Exposure",
+        "steps": [
+          "List any foreign assets, income, or upcoming large purchases in other currencies.",
+          "Estimate what a 10% move would do to your net worth.",
+          "This quantifies your hidden risk. If the number makes you uncomfortable, consider a hedge."
+        ]
+      },
+      {
+        "title": "Check PPP for Your Home Currency",
+        "steps": [
+          "Check the 'Big Mac Index' for fun, but then check the real PPP for your home currency vs. your top trading partners.",
+          "Identify if your currency is over/undervalued by 20%+—that's a long-term signal.",
+          "If your currency is overvalued, expect a future depreciation. Position your assets accordingly."
+        ]
+      },
+      {
+        "title": "Simulate a Commodity Shock",
+        "steps": [
+          "Pick a commodity you use daily (oil, wheat, etc.) and assume its price doubles.",
+          "Track the knock-on effects on your monthly budget and your investments.",
+          "This thought experiment builds intuition for supply-driven inflation. Then, ask: which of your assets would benefit? Which would suffer? Rebalance to be more resilient."
+        ]
+      }
+    ],
+    "risk_notes": "The trap is thinking you can predict FX or commodity prices. Even Soros lost billions later. These markets are driven by herd behavior, central bank surprises, and black swan events. Overconfidence leads to leveraged bets and margin calls. Also, 'hedging' can become speculation if you overdo it—the cost of insurance can eat your returns. The real game is not to predict, but to prepare: build a portfolio that can survive the next currency crisis or commodity shock without you having to lift a finger.",
+    "sources": [
+      {
+        "title": "George Soros, 'The Alchemy of Finance'",
+        "url": "https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495"
+      },
+      {
+        "title": "Robert J. Shiller, 'Irrational Exuberance'",
+        "url": "https://www.amazon.com/Irrational-Exuberance-3rd-Robert-Shiller/dp/0691173125"
+      }
+    ],
+    "meta": {
+      "id": "Foreign exchange & commodities",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Currency risk",
+        "Commodity futures"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "79372111-9ede-4a77-9168-17c6ad0122d0",
     "date": "2026-08-23",
     "topic": "Understanding Stocks: Ownership, Value, and the Psychology of Investing",
@@ -3739,72 +3802,6 @@
       "related": [
         "Index funds",
         "Active funds"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "28c42b59-51a0-4d88-aff1-b49922bfc889",
-    "date": "2026-06-20",
-    "topic": "Real Estate Investing: The Inflation-Fighting Bond",
-    "teaser": "Real estate isn't a physical asset; it's a claim on future rent—like a bond that fights inflation.",
-    "summary": "Imagine owning a bond that not only pays you more when prices rise but also has the power to raise its own payments. That's real estate. At its core, real estate investing is about buying a stream of future rents—a claim on the cash flows that people and businesses generate by occupying space. And the best way to do it passively? REITs (Real Estate Investment Trusts), which are legally required to pay out 90% of taxable income as dividends. Think of them as toll roads on the economy: data centers, cell towers, and healthcare properties are essential, so they have pricing power even in a recession.\n\nWhy now? Inflation is the silent thief of purchasing power, and real estate has historically been one of the best hedges. While stocks wobble and bonds offer paltry yields, real estate provides a tangible asset that tends to appreciate with inflation and generates income that can grow. For example, during the 1970s stagflation, REITs delivered positive real returns while stocks and bonds struggled. Today, with the 10-year Treasury yield around 4% and REIT dividend yields averaging 4-6%, the spread is telling you something: the market is pricing in risk, but also opportunity.\n\nThe core insight is that real estate is a leveraged bet on human geography. You're betting that people will want to live, work, or shop in a specific location for decades. But REITs are not 'real estate lite'—they are a different beast: stock-like volatility with bond-like cash flows. The best REITs are monopolies on necessity: data centers, cell towers, and healthcare properties have pricing power regardless of the economy. For instance, a data center REIT like Equinix has customers locked into long-term contracts, and its revenue grows as data usage explodes. That's a bond that fights inflation.\n\nActionable takeaway: Don't just buy a REIT ETF blindly. Compare the dividend yield of VNQ to the 10-year Treasury yield—the spread tells you the risk premium. Then pick one sector (e.g., industrial) and analyze its top 3 tenants' credit ratings and lease expiration schedules. Finally, calculate the 'cap rate' of a local rental property using online data and compare it to the dividend yield of a REIT in the same sector. This will ground you in the real economics of real estate.",
-    "key_points": [
-      "Real estate is a leveraged bet on human geography: you're betting people will want to live, work, or shop in a specific location for decades.",
-      "REITs are not 'real estate lite'—they combine stock-like volatility with bond-like cash flows, and the best ones are monopolies on necessity.",
-      "The spread between REIT dividend yields and Treasury yields reveals the market's risk premium—a wider spread signals opportunity, a narrow one warns of froth."
-    ],
-    "practice": [
-      {
-        "title": "Compare Risk Premiums",
-        "steps": [
-          "Look up the current dividend yield of VNQ (Vanguard Real Estate ETF) – say 4.5%.",
-          "Find the current 10-year U.S. Treasury yield – say 4.0%.",
-          "Subtract: 4.5% - 4.0% = 0.5% spread.",
-          "Interpret: A 0.5% spread is slim, suggesting REITs are relatively expensive. Historically, spreads above 2% signal undervaluation."
-        ]
-      },
-      {
-        "title": "Analyze a REIT Sector",
-        "steps": [
-          "Choose one REIT sector (e.g., industrial).",
-          "Identify top 3 REITs: Prologis (PLD), Duke Realty (DRE), Rexford Industrial (REXR).",
-          "Check tenant credit ratings: Amazon (AA), FedEx (BBB), etc.",
-          "Examine lease expirations: Prologis has a weighted average lease term of 5 years, providing stable income."
-        ]
-      },
-      {
-        "title": "Calculate Cap Rate vs. REIT Yield",
-        "steps": [
-          "Find a local rental property: price $500,000, annual rent $60,000, expenses $20,000 → NOI = $40,000.",
-          "Cap rate = $40,000 / $500,000 = 8%.",
-          "Compare to industrial REIT yield: say Prologis yields 2.5%.",
-          "Note: The 8% cap rate compensates for illiquidity, management hassle, and leverage; the REIT offers liquidity and diversification at a lower yield."
-        ]
-      }
-    ],
-    "risk_notes": "Real estate is illiquid and highly sensitive to interest rates. REITs can crash 40% in a rate hike cycle, as they did in 2022. The psychological trap: mistaking a dividend for a bond, when REIT dividends can be cut. Also, leverage magnifies losses in downturns. Always check the debt maturity profile and interest coverage ratio of any REIT you own.",
-    "sources": [
-      {
-        "title": "The Intelligent REIT Investor by Stephanie Krewson-Kelly and R. Brad Thomas",
-        "url": "https://www.wiley.com/en-us/The+Intelligent+REIT+Investor-p-9781119200734"
-      },
-      {
-        "title": "NAREIT – REIT Performance Data and Education",
-        "url": "https://www.reit.com"
-      }
-    ],
-    "meta": {
-      "id": "Real estate & REITs",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Property investment",
-        "REIT structure"
       ],
       "tags": [
         "Asset Classes & Products",
