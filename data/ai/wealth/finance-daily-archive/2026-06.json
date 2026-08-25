@@ -1208,5 +1208,64 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "3f030740-cee7-4d32-af77-9b028357431b",
+    "date": "2026-06-21",
+    "topic": "Mutual Funds vs ETFs: Which One Sinks Your Wealth Faster?",
+    "teaser": "You're paying for a cruise ship but getting a life raft. The difference between mutual funds and ETFs could cost you 60% of your returns. But the real trap isn't the fees—it's your own brain.",
+    "summary": "**The Fee Illusion: Why Your Brain Ignores the Obvious**\n\nImagine two identical portfolios. One charges 1% in fees, the other 0.03%. Over 30 years, the 1% fund eats 30% of your returns. Yet millions choose the expensive option. Why? Because humans are wired to discount the future. Present bias makes us overvalue today's convenience and undervalue tomorrow's costs. It's the same reason we eat junk food now and regret it later.\n\n**The Tax Mirage: ETFs' Secret Weapon**\n\nMutual funds are like a restaurant that charges you for the meal and then sends you the bill for the kitchen's mistakes. When a fund manager sells a winner, you pay capital gains taxes—even if you didn't sell. ETFs, thanks to their in-kind creation/redemption mechanism, avoid most of these distributions. Over time, this 'hidden alpha' can add 0.5-1% annually to after-tax returns. That's free money, but it's invisible unless you look.\n\n**The Liquidity Trap: Why Speed Can Kill**\n\nETFs trade all day, which feels safe. But during the 2010 Flash Crash, some ETFs traded at 80% of their value. Mutual funds always trade at NAV, protecting you from panic-induced discounts. The illusion of liquidity can trick you into selling at the worst moment. Your behavior, not the vehicle, is the real risk.\n\n**First Principles: What Are You Really Buying?**\n\nA mutual fund is a managed portfolio; an ETF is a basket that trades like a stock. The core question: Do you need active management or a low-cost index? For 90% of investors, the answer is the latter. But the industry has spent decades convincing you otherwise. Remember: the best fund is the one you don't trade.",
+    "key_points": [
+      "**Present bias blinds you to fee impact.** A 1% fee difference costs 30% of your returns over 30 years, but humans underestimate compounding losses because they feel distant. The real insight: your brain is the enemy of long-term wealth.",
+      "**Tax efficiency is hidden alpha.** ETFs' in-kind creation avoids capital gains distributions, adding 0.5-1% annually to after-tax returns. This is a structural advantage, not a marketing gimmick.",
+      "**Liquidity is a double-edged sword.** ETFs trade at market prices that can deviate from NAV during stress; mutual funds always trade at NAV. The illusion of liquidity can trigger panic selling, destroying wealth."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Fee Drag with a Concrete Example",
+        "steps": [
+          "Find your fund's expense ratio (e.g., 1.2%).",
+          "Search for an equivalent ETF (e.g., VTI at 0.03%).",
+          "Use an online calculator: $100k invested for 20 years at 7% return. The 1.2% fund grows to $350k; the ETF grows to $420k. You lose $70k—a down payment on a house."
+        ]
+      },
+      {
+        "title": "Check Turnover Ratio for Tax Leakage",
+        "steps": [
+          "Look up your mutual fund's turnover ratio (e.g., 80% means high trading).",
+          "Estimate tax drag: if 80% turnover generates 10% capital gains, and you're in a 20% tax bracket, that's 2% lost annually.",
+          "Switch to an ETF with turnover <10% (most index ETFs). Your after-tax returns will improve significantly."
+        ]
+      },
+      {
+        "title": "Stress-Test Your Behavior",
+        "steps": [
+          "Imagine a 20% market drop in one day.",
+          "Write down your plan: 'I will not sell any ETFs for 30 days. I will only rebalance if my equity allocation drifts more than 5%.'",
+          "Email this plan to a trusted friend. Behavioral anchoring prevents panic."
+        ]
+      }
+    ],
+    "risk_notes": "The real risk isn't the product—it's your behavior. Mutual funds encourage complacency (set-and-forget), while ETFs tempt overtrading. Both fail if you chase past performance. Remember: diversification is not a number of ETFs; it's exposure to global asset classes. A portfolio of 100 sector ETFs is not diversified—it's concentrated risk.",
+    "sources": [
+      {
+        "title": "Ferri, Richard A. 'The ETF Book: All You Need to Know About Exchange-Traded Funds.' Wiley, 2009.",
+        "url": "https://www.wiley.com/en-us/The+ETF+Book%3A+All+You+Need+to+Know+About+Exchange+Traded+Funds-p-9780470287040"
+      }
+    ],
+    "meta": {
+      "id": "Mutual funds & ETFs",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Index funds",
+        "Active funds"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
   }
 ]

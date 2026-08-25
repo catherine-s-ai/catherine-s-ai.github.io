@@ -1,5 +1,72 @@
 [
   {
+    "id": "d2a68779-f64e-42f8-9a35-b3cbafa9ee07",
+    "date": "2026-08-25",
+    "topic": "Real Estate vs. REITs: The Tangible Illusion",
+    "teaser": "You don't live in a stock. But that doesn't make real estate safer. It might make it worse.",
+    "summary": "In 2008, the S&P 500 lost 37%. The Dow Jones U.S. Real Estate Index lost 40%. Yet, ask anyone on the street which is safer, and they'll point to the house. Why? Because they can touch it, paint it, and host Thanksgiving in it. But that's not investing; that's emotional attachment. The illusion of tangibility—the belief that physical presence equals safety—is one of the most dangerous cognitive biases in finance. It's the same bias that made people believe home prices never fall, right up until they did.\n\nLet's strip this down to first principles. Real estate is not a thing; it's a claim on future cash flows. Whether you own a duplex or a share of a REIT, you're buying a stream of rents and the hope of appreciation. The difference is the wrapper. Direct ownership gives you a deed, a roof, and a maintenance bill. A REIT gives you a stock ticker, daily liquidity, and a professional management team. But here's the kicker: that wrapper changes the risk profile entirely.\n\nDirect ownership is illiquid. Your home equity is not cash; it's a chunk of a house that takes months to sell, with transaction costs eating 6% of the proceeds. You can't rebalance your portfolio by selling a bathroom. This illiquidity is a hidden risk, especially in a downturn. When you need cash, you can't just click a button. You're stuck. REITs, on the other hand, trade like stocks. You can exit in seconds. But that liquidity comes with a price: volatility. REITs fell 60% in 2008, far more than the broader market. Why? Because they're leveraged, they're bond proxies, and they're subject to the whims of interest rates.\n\nNow, the contrarian angle: we're told to diversify into real estate to hedge inflation. But REITs are not a pure inflation hedge. They're a hybrid—part stock, part bond, part property. When inflation spikes, central banks raise rates, and REITs get hammered. In 2022, the VNQ dropped over 25% as rates rose. Meanwhile, direct real estate held up better on paper, but that's because the market is opaque and slow. The price of your house is a guess; the price of a REIT is a fact. I'd rather know the truth, even if it's ugly.\n\nSo, what's the takeaway? Don't buy real estate because you can touch it. Buy it because you understand the cash flows. If you want passive income and liquidity, REITs are your tool. If you want a place to live and are willing to be a landlord, direct ownership might make sense—but understand you're taking on a part-time job. The key is to stop thinking of real estate as a monolith. It's a spectrum. On one end, you have a single-family rental that eats your weekends. On the other, you have a REIT ETF that pays dividends while you sleep. The smart investor picks the point on that spectrum that fits their life, not their ego.\n\nBefore you pour your savings into a down payment or chase the latest dividend yield, ask yourself: What am I actually buying? A lifestyle, a job, or a cash flow? The answer will save you from the tangible illusion.",
+    "key_points": [
+      "**The 'House as ATM' fallacy is a liquidity trap.** Home equity is not cash; it's a chunk of a house. In a downturn, you can't sell a bathroom to pay bills. REITs offer daily liquidity, which is a feature, not a bug—but it comes with volatility.",
+      "**Direct ownership is a job, not an investment.** You're not just buying a building; you're buying a property management business. REITs let you own the business without the work. The question is whether you want to be a passive investor or an active landlord.",
+      "**REITs are bond proxies, not pure real estate plays.** They're leveraged and sensitive to interest rates. When rates rise, they fall. But not all REITs are equal: net lease REITs can thrive in a rising rate environment, while others get crushed. It's a nuanced asset class, not a monolith."
+    ],
+    "practice": [
+      {
+        "title": "Assess Your Real Estate Exposure",
+        "steps": [
+          "Calculate the current market value of your primary residence and any other direct real estate holdings.",
+          "Add the value of any REIT holdings (stocks, ETFs, mutual funds) to get your total real estate exposure.",
+          "Divide this by your total net worth (assets minus liabilities) to get your real estate percentage.",
+          "If it's over 50%, you are undiversified. Consider rebalancing—but remember, selling a house takes months, so plan ahead."
+        ]
+      },
+      {
+        "title": "Compare Yields: REIT ETF vs. Local Rental",
+        "steps": [
+          "Find the current dividend yield of a broad REIT ETF like VNQ (Vanguard Real Estate ETF).",
+          "Research the average rental yield in your area (annual rent / property price).",
+          "Subtract the REIT yield from the rental yield. The difference is the 'price of liquidity'—what you give up for the ability to sell quickly.",
+          "Now add the cost of being a landlord: maintenance (1% of property value annually), vacancy (5-10%), property taxes, and your time. If the rental yield doesn't beat the REIT yield by at least 2-3%, you're better off in the ETF."
+        ]
+      },
+      {
+        "title": "Stress Test for Rising Rates",
+        "steps": [
+          "Identify the duration of your REIT holdings (a measure of interest rate sensitivity; often available from the fund provider).",
+          "Estimate a 2% increase in interest rates.",
+          "Multiply the duration by 2% to estimate the potential percentage drop in your REIT investment.",
+          "Decide if you can stomach that volatility, and consider diversifying into sectors less sensitive to rates (e.g., net lease REITs).",
+          "If you own direct real estate, stress test your cash flow: can you cover mortgage payments if rates rise and a tenant leaves?"
+        ]
+      }
+    ],
+    "risk_notes": "The 'Home Bias' trap is real: people overvalue the comfort of physical property, ignoring maintenance costs, vacancy risk, and illiquidity. REITs are not immune to crashes—they fell 60% in 2008 and 25% in 2022. Also, the 'Yield Trap': a high dividend yield may signal distress, not opportunity. Always research the underlying fundamentals, and remember that past performance is not a guarantee of future results.",
+    "sources": [
+      {
+        "title": "The Intelligent Investor by Benjamin Graham",
+        "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661"
+      },
+      {
+        "title": "NAREIT (National Association of Real Estate Investment Trusts)",
+        "url": "https://www.reit.com"
+      }
+    ],
+    "meta": {
+      "id": "Real estate & REITs",
+      "category": "Asset Classes & Products",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Property investment",
+        "REIT structure"
+      ],
+      "tags": [
+        "Asset Classes & Products",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "5220218e-0004-4b08-8927-519a99196f95",
     "date": "2026-08-24",
     "topic": "The Silent Referendum: How Currencies and Commodities Shape Your Wealth",
@@ -3743,65 +3810,6 @@
       "related": [
         "Options",
         "Futures"
-      ],
-      "tags": [
-        "Asset Classes & Products",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "3f030740-cee7-4d32-af77-9b028357431b",
-    "date": "2026-06-21",
-    "topic": "Mutual Funds vs ETFs: Which One Sinks Your Wealth Faster?",
-    "teaser": "You're paying for a cruise ship but getting a life raft. The difference between mutual funds and ETFs could cost you 60% of your returns. But the real trap isn't the fees—it's your own brain.",
-    "summary": "**The Fee Illusion: Why Your Brain Ignores the Obvious**\n\nImagine two identical portfolios. One charges 1% in fees, the other 0.03%. Over 30 years, the 1% fund eats 30% of your returns. Yet millions choose the expensive option. Why? Because humans are wired to discount the future. Present bias makes us overvalue today's convenience and undervalue tomorrow's costs. It's the same reason we eat junk food now and regret it later.\n\n**The Tax Mirage: ETFs' Secret Weapon**\n\nMutual funds are like a restaurant that charges you for the meal and then sends you the bill for the kitchen's mistakes. When a fund manager sells a winner, you pay capital gains taxes—even if you didn't sell. ETFs, thanks to their in-kind creation/redemption mechanism, avoid most of these distributions. Over time, this 'hidden alpha' can add 0.5-1% annually to after-tax returns. That's free money, but it's invisible unless you look.\n\n**The Liquidity Trap: Why Speed Can Kill**\n\nETFs trade all day, which feels safe. But during the 2010 Flash Crash, some ETFs traded at 80% of their value. Mutual funds always trade at NAV, protecting you from panic-induced discounts. The illusion of liquidity can trick you into selling at the worst moment. Your behavior, not the vehicle, is the real risk.\n\n**First Principles: What Are You Really Buying?**\n\nA mutual fund is a managed portfolio; an ETF is a basket that trades like a stock. The core question: Do you need active management or a low-cost index? For 90% of investors, the answer is the latter. But the industry has spent decades convincing you otherwise. Remember: the best fund is the one you don't trade.",
-    "key_points": [
-      "**Present bias blinds you to fee impact.** A 1% fee difference costs 30% of your returns over 30 years, but humans underestimate compounding losses because they feel distant. The real insight: your brain is the enemy of long-term wealth.",
-      "**Tax efficiency is hidden alpha.** ETFs' in-kind creation avoids capital gains distributions, adding 0.5-1% annually to after-tax returns. This is a structural advantage, not a marketing gimmick.",
-      "**Liquidity is a double-edged sword.** ETFs trade at market prices that can deviate from NAV during stress; mutual funds always trade at NAV. The illusion of liquidity can trigger panic selling, destroying wealth."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Fee Drag with a Concrete Example",
-        "steps": [
-          "Find your fund's expense ratio (e.g., 1.2%).",
-          "Search for an equivalent ETF (e.g., VTI at 0.03%).",
-          "Use an online calculator: $100k invested for 20 years at 7% return. The 1.2% fund grows to $350k; the ETF grows to $420k. You lose $70k—a down payment on a house."
-        ]
-      },
-      {
-        "title": "Check Turnover Ratio for Tax Leakage",
-        "steps": [
-          "Look up your mutual fund's turnover ratio (e.g., 80% means high trading).",
-          "Estimate tax drag: if 80% turnover generates 10% capital gains, and you're in a 20% tax bracket, that's 2% lost annually.",
-          "Switch to an ETF with turnover <10% (most index ETFs). Your after-tax returns will improve significantly."
-        ]
-      },
-      {
-        "title": "Stress-Test Your Behavior",
-        "steps": [
-          "Imagine a 20% market drop in one day.",
-          "Write down your plan: 'I will not sell any ETFs for 30 days. I will only rebalance if my equity allocation drifts more than 5%.'",
-          "Email this plan to a trusted friend. Behavioral anchoring prevents panic."
-        ]
-      }
-    ],
-    "risk_notes": "The real risk isn't the product—it's your behavior. Mutual funds encourage complacency (set-and-forget), while ETFs tempt overtrading. Both fail if you chase past performance. Remember: diversification is not a number of ETFs; it's exposure to global asset classes. A portfolio of 100 sector ETFs is not diversified—it's concentrated risk.",
-    "sources": [
-      {
-        "title": "Ferri, Richard A. 'The ETF Book: All You Need to Know About Exchange-Traded Funds.' Wiley, 2009.",
-        "url": "https://www.wiley.com/en-us/The+ETF+Book%3A+All+You+Need+to+Know+About+Exchange+Traded+Funds-p-9780470287040"
-      }
-    ],
-    "meta": {
-      "id": "Mutual funds & ETFs",
-      "category": "Asset Classes & Products",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Index funds",
-        "Active funds"
       ],
       "tags": [
         "Asset Classes & Products",
