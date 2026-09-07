@@ -1570,5 +1570,64 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "e46fb140-03c1-4f0c-833e-679fca888b63",
+    "date": "2026-06-28",
+    "topic": "Primary vs. Secondary Markets: Where the Real Money Moves",
+    "teaser": "Your neighbor's kitchen smells like profit, but the bakery is just the beginning. Here's why the real money moves when you least expect it.",
+    "summary": "**Imagine a bakery that sells fresh bread every morning. That's the primary market—companies issuing new shares to raise capital. But the real action is next door, where neighbors resell slices. That's the secondary market.**\n\nMost people think investing is about buying the fresh loaf (the IPO). They line up, hoping for a taste. But the baker already sold the loaf to insiders at a discount. By the time you get a slice, the price has popped—and the easy money is gone.\n\n**Here's the first principle:** Primary markets create securities; secondary markets trade them. The primary market is where companies get funded. The secondary market is where you build (or lose) wealth. But here's the kicker: secondary markets feel safe because you can sell anytime—until you can't.\n\n**The liquidity illusion** is a silent wealth killer. In March 2020, bid-ask spreads on ETFs like SPY widened from pennies to dollars. If you had to sell, you'd pay a panic premium. The market is a voting machine in the short run, a weighing machine in the long run. When everyone votes fear, the machine breaks.\n\n**IPO underpricing** is not your friend. Companies intentionally leave money on the table to reward early investors. The first-day pop is a wealth transfer from the company to institutional buyers. Retail investors who buy on day one are buying hype, not value. **Never buy an IPO on the first day.**\n\n**Secondary markets are zero-sum for traders** (before costs) but positive-sum for long-term holders. Economic growth lifts all boats, but only if you don't capsize in the liquidity storm. The primary market is where companies get their seed; the secondary market is where you grow your tree—or get chopped.\n\n**Your move:** Ignore the IPO frenzy. Focus on secondary markets with discipline. Use limit orders, avoid panic selling, and remember: the neighbor's kitchen might smell good, but the real feast is in patient, long-term holding.",
+    "key_points": [
+      "**Liquidity Illusion**: Secondary markets feel safe because you can sell anytime, but during panics liquidity evaporates. The market is a voting machine in the short run, a weighing machine in the long run. Action: Use limit orders, not market orders, especially during volatility.",
+      "**IPO Underpricing**: Companies intentionally leave money on the table to reward early investors. The first-day pop is a wealth transfer from company to institutional buyers, not a signal for retail to buy. Action: Never buy an IPO on the first day. Wait at least 6 months for the lock-up expiration to pass.",
+      "**Zero-Sum vs. Positive-Sum**: Secondary markets are zero-sum for traders (before costs) but positive-sum for long-term holders due to economic growth. Primary markets fund companies; secondary markets build (or destroy) wealth. Action: Invest for the long term in diversified index funds to capture economic growth, not trade IPOs."
+    ],
+    "practice": [
+      {
+        "title": "Check Lock-Up Periods",
+        "steps": [
+          "Find the lock-up expiration date for any recent IPO on SEC.gov (search EDGAR for the company's S-1 filing, look for 'lock-up' section).",
+          "On Yahoo Finance, look up the stock's price 1 day before, on, and 1 week after the expiration date for the last 5 IPOs.",
+          "Note how often prices drop when insiders are allowed to sell. This will cure you of IPO FOMO."
+        ]
+      },
+      {
+        "title": "Simulate a Liquidity Crisis",
+        "steps": [
+          "Go to Yahoo Finance and download daily data for SPY from March 2020.",
+          "Calculate the average bid-ask spread (ask minus bid) during the crash week (Mar 16-20) vs. the prior month. Use historical quotes if available.",
+          "Multiply that spread by a hypothetical $10,000 trade. That's your panic cost. It will make you use limit orders forever."
+        ]
+      },
+      {
+        "title": "Track Follow-On Offerings",
+        "steps": [
+          "Pick a company that had an IPO and later a secondary offering (e.g., Tesla, but check any). Use SEC.gov EDGAR to find filing dates.",
+          "On Yahoo Finance, compare stock price 6 months after each event.",
+          "Calculate the percentage change. If the secondary offering caused a drop, that's dilution in action. Ask yourself: would I have bought before or after?"
+        ]
+      }
+    ],
+    "risk_notes": "The primary-secondary distinction can lull you into thinking secondary markets are 'safe' because they're liquid. But liquidity can vanish, and IPOs can create a false sense of scarcity. Psychological trap: anchoring to IPO price, ignoring that the market constantly reprices assets. The biggest risk is acting on the illusion of safety.",
+    "sources": [
+      {
+        "title": "Larry Harris, Trading and Exchanges: Market Microstructure for Practitioners (Oxford University Press).",
+        "url": "https://global.oup.com/academic/product/trading-and-exchanges-9780195144703"
+      }
+    ],
+    "meta": {
+      "id": "Primary & secondary markets",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "IPOs",
+        "Secondary trading"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
   }
 ]
