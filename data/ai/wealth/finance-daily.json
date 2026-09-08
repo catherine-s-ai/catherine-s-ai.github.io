@@ -1,5 +1,68 @@
 [
   {
+    "id": "9bf30c02-bbd0-4663-a5ec-a072daf168b4",
+    "date": "2026-09-08",
+    "topic": "Primary vs. Secondary Markets: Where Your Money Actually Goes",
+    "teaser": "You're not investing in the farmer—you're buying from your neighbor. Discover why that changes everything about your returns.",
+    "summary": "Imagine you're at a farmers' market. You can buy a tomato from the farmer who grew it, or from your neighbor who bought it yesterday. The farmer's stand is the **primary market**; your neighbor's resale is the **secondary market**. Most people think they're investing in the farmer, but they're actually buying from their neighbor—and that distinction changes everything about how you make money.\n\nThe primary market is where securities are born. When a company goes public via an IPO, it sells shares to investors, and the proceeds go to the company. That's the farmer getting paid for the tomato. But once the IPO is done, those shares enter the secondary market—where you and I trade them. When you buy Apple stock on the NYSE, you're not giving Apple a dime. You're handing money to another investor who owns those shares. That's buying the tomato from your neighbor.\n\nFrom first principles, every financial asset has an issuance event (primary) and a lifetime of trading (secondary). The primary sets the initial price; the secondary determines the ongoing value. But here's the kicker: the secondary market is not just a side effect—it's the engine of wealth creation. Without it, you'd be locked into illiquid investments, unable to exit or price your holdings. The secondary market provides liquidity, price discovery, and the ability to diversify. It's what makes investing possible.\n\nBut this reality has a dark side. Because you're not funding companies, your returns depend on the collective psychology of millions of other investors. The price you see is not truth; it's a continuous auction of opinions, fears, and hopes. That means the stock market is not a direct reflection of economic growth—it's a voting machine, as Benjamin Graham said, and in the short run, it votes on emotions.\n\nSo what does this mean for you? It means you need to stop thinking like an IPO investor and start thinking like a secondary market operator. You're not 'supporting' companies; you're buying claims on future cash flows. Your edge comes from understanding the auction dynamics, not from hoping the company does well. That's a shift that can save you from the IPO hype trap and focus you on what truly drives long-term wealth: buying mispriced claims when others are desperate to sell.",
+    "key_points": [
+      "The IPO is a marketing event, not an investment signal. Companies time IPOs when valuations are high, and insiders often sell—so buying at IPO can be like buying a used car from a salesman who knows the engine's about to fail. The real money is made in the secondary market, where fear and greed create mispricings.",
+      "Liquidity is a feature of the secondary market, not the primary. The ability to sell your shares anytime is what makes stocks investable; without it, you'd be locked into a private illiquid asset. Respect liquidity—it's a privilege, not a right. And remember: liquidity can vanish in a crisis, so don't confuse it with safety.",
+      "Price discovery is a continuous auction in the secondary market, reflecting collective wisdom and folly. The price you see is not the 'true' value; it's the equilibrium of millions of opinions. Your edge comes from knowing when the auction is mispriced—when emotions have driven prices far from intrinsic value."
+    ],
+    "practice": [
+      {
+        "title": "Audit Your Holdings",
+        "steps": [
+          "For each stock you own, check the IPO date. If you bought after the IPO, you're a secondary market buyer, not a primary investor.",
+          "Ask yourself: 'What am I actually buying?'—you're buying a claim on future cash flows, not funding the company's growth.",
+          "Reflect on whether your investment thesis is based on the company's fundamentals or on other investors' expectations. Write down your answer."
+        ]
+      },
+      {
+        "title": "Mental IPO Test",
+        "steps": [
+          "Pick a company you currently own or are considering.",
+          "Imagine it just went public today. Would you buy at the offer price?",
+          "If you hesitate, your conviction may be based on FOMO or recent price action, not true value. Force yourself to articulate the intrinsic value."
+        ]
+      },
+      {
+        "title": "Measure Liquidity Costs",
+        "steps": [
+          "Look up the average daily volume and bid-ask spread of a stock you hold.",
+          "If the spread is wide (e.g., more than 0.5% of the price), you're paying a hidden cost every time you trade.",
+          "Calculate the round-trip cost (spread + commissions) as a percentage of your investment. If it's more than 1%, consider whether the trade is worth it. Track this over a year to see the drag."
+        ]
+      }
+    ],
+    "risk_notes": "The primary/secondary distinction can lull you into thinking secondary markets are 'safe' because they're liquid. But liquidity can vanish in a crisis, and secondary prices can be detached from fundamentals for years. Also, the existence of secondary markets encourages overtrading—the illusion that you can always exit. In reality, you're always a price-taker, and the market can gap down before you react. The secondary market is a double-edged sword: it gives you freedom, but it also tests your discipline.",
+    "sources": [
+      {
+        "title": "A Random Walk Down Wall Street",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      },
+      {
+        "title": "One Up On Wall Street",
+        "url": "https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403"
+      }
+    ],
+    "meta": {
+      "id": "Primary & secondary markets",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "IPOs",
+        "Secondary trading"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "f0fa249a-1ea8-4e3b-bdc6-03f19da4ffcc",
     "date": "2026-09-07",
     "topic": "Tax-Advantaged Accounts: The Legal Loophole That Can Make You $1.2M Richer",
@@ -3786,67 +3849,6 @@
       "related": [
         "Corporate actions",
         "Dividend policy"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "456071e3-a77f-49f9-a01c-bb252a1fd19f",
-    "date": "2026-06-30",
-    "topic": "Stock Exchanges vs. Trading Platforms: The Infrastructure of Your Trades",
-    "teaser": "Your broker isn't the market. Here's how the real plumbing works—and why it matters for your returns.",
-    "summary": "Imagine you want to buy a rare baseball card. You don't go to the card's owner; you go to an auction house. The auction house doesn't own the card, it just provides the room, the gavel, and the rules. That's a stock exchange. It's not the market—it's the venue where the market happens. The real market is the negotiation between buyers and sellers, a constant tug-of-war over price. The exchange is just the stadium; the game is played by millions of invisible participants.\n\nNow, your trading platform (like Robinhood or E*TRADE) is your ticket to the stadium. It's the app you use to place your bids. But here's the kicker: the platform decides which entrance you use, which seats you get, and sometimes even whether the game is real or simulated. In the old days, you'd call a broker who'd shout at the exchange floor. Today, your click travels through a labyrinth of servers, dark pools, and market makers before reaching the exchange—if it ever does.\n\n**Liquidity is the lifeblood.** But high volume doesn't mean you can exit easily. Real liquidity is depth: how many shares are waiting at each price level. A stock can trade millions of shares a day but have a thin order book—one large sell can crash the price. That's the liquidity illusion. It's like a lake that's wide but shallow; you can't dive without hitting bottom.\n\n**The exchange is a memory machine.** Every trade is recorded, creating a public ledger of supply and demand. This transparency is why technical analysis sometimes works—it's reading the collective behavior of all participants. It's like studying the footprints of a crowd to predict where they're heading.\n\n**Dark pools and fragmentation:** Over 40% of US stock trades now occur off-exchange, in dark pools or internalized by market makers. This reduces transparency and can disadvantage retail traders who see only lit exchange data. It's like playing poker where some players' cards are hidden.\n\n**Your platform is your gatekeeper.** With zero-commission brokers, you pay in order flow (PFOF) and slippage. The platform routes your order to the highest bidder—a market maker who may fill it at a slightly worse price. Over a lifetime, that tiny slippage compounds to tens of thousands of dollars. Understanding the plumbing can save you 0.5% per trade—a small edge that compounds into real wealth.",
-    "key_points": [
-      "Liquidity illusion: High volume ≠ easy exit. Real liquidity is depth—the number of shares at each price level. Low-volume stocks can crash on small sells.",
-      "The exchange is a memory machine: Every trade is recorded, creating a public ledger of supply and demand. This transparency is why technical analysis sometimes works—it reads collective behavior.",
-      "Dark pools and fragmentation: Over 40% of US trades occur off-exchange, reducing transparency and potentially disadvantaging retail traders who see only lit exchange data.",
-      "The platform is your gatekeeper: Your broker's order routing and payment for order flow (PFOF) directly affect your execution price and costs."
-    ],
-    "practice": [
-      {
-        "title": "Check Your Broker's Order Routing",
-        "steps": [
-          "Locate your broker's SEC Rule 606 report (usually on their website under 'Disclosures' or 'Order Routing').",
-          "Identify which market makers receive your orders and how much they pay for them (PFOF).",
-          "Compare execution quality across brokers using FINRA's Trade Reporting Facility."
-        ]
-      },
-      {
-        "title": "Simulate a Low-Liquidity Trade",
-        "steps": [
-          "Open a paper trading account (e.g., Thinkorswim, TradingView).",
-          "Find a penny stock with very low average volume (under 10,000 shares/day).",
-          "Place a market order to buy 100 shares, then immediately try to sell. Observe the spread and slippage.",
-          "Document the difference between expected price and actual fill price."
-        ]
-      },
-      {
-        "title": "Compare Limit vs. Market Orders",
-        "steps": [
-          "For one week, use only limit orders for all trades. Record how many fill within the day vs. expire.",
-          "The following week, use market orders for similar trades. Calculate the average price improvement or loss compared to the limit order fills.",
-          "Compute the cost difference over a year if you trade weekly."
-        ]
-      }
-    ],
-    "risk_notes": "Exchanges and platforms create a false sense of immediacy. The 'trade now' button exploits your emotional brain, leading to overtrading and chasing momentum. High-frequency traders (HFTs) can front-run your orders if you use market orders on lit exchanges. The platform's gamification (confetti, leaderboards) turns investing into gambling. Always use limit orders to control execution price and avoid slippage.",
-    "sources": [
-      {
-        "title": "Trading and Exchanges by Larry Harris",
-        "url": "https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708"
-      }
-    ],
-    "meta": {
-      "id": "Stock exchanges & trading platforms",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Market participants",
-        "Clearing"
       ],
       "tags": [
         "Market Operations",
