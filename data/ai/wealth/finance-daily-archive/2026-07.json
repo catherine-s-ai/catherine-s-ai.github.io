@@ -1,0 +1,62 @@
+[
+  {
+    "id": "edf33b1c-e6ae-431f-a2db-51407be69e14",
+    "date": "2026-07-01",
+    "topic": "Dividends vs. Buybacks: Which Actually Builds Wealth?",
+    "teaser": "The vending machine test that reveals if your stock's dividend or buyback is actually creating value—or just a corporate mirage.",
+    "summary": "Imagine you own a vending machine business. Each month, it spits out cash. You can either pocket that cash (dividend) or use it to buy another vending machine (buyback). But here’s the twist: buying another machine only works if the new machine earns more than the cash you could have pocketed. Most investors ignore this simple test.\n\nIn today's low-yield environment, dividends provide a tangible income stream, while buybacks can boost earnings per share (EPS) and potentially share price. But here's the raw truth: dividends are a tax event you can't escape; buybacks let you defer taxes until you sell. And that deferral, compounded over decades, is a massive wealth builder. Yet most investors cling to dividends because they're tangible—they feel like real money. That's a behavioral trap.\n\nThe 'dividend irrelevance' theory says that in a perfect market, dividends don't affect total shareholder wealth—only the mix of cash and shares. But taxes and behavioral biases make them matter hugely in reality. Buybacks can be a signal of undervaluation or a cover for executive stock options. A buyback that increases EPS while total earnings fall is a red flag. The 'yield on cost' fallacy: Investors often celebrate high dividend yields on their original investment, ignoring that the same capital could be redeployed elsewhere at a higher yield. That's like bragging about the rent on an apartment you bought in 1990, while inflation has silently eaten your purchasing power.",
+    "key_points": [
+      "**Dividend Irrelevance vs. Reality**: In a perfect world, dividends don't matter. But in our world, taxes and behavior distort everything. Dividends force a taxable event; buybacks defer taxes until sale. The behavioral bias: investors love the 'bird in hand' of a dividend, even when the 'two in the bush' of a buyback would leave them richer after taxes.",
+      "**Buyback Signals**: A buyback can signal management's belief that shares are undervalued. But if funded by debt, it may indicate desperation. Rising net debt/EBITDA alongside buybacks is a warning. Worse: buybacks that merely offset dilution from stock options are not returning capital—they're just treading water.",
+      "**Total Shareholder Yield**: The sum of dividends and buybacks relative to market cap. Compare to cost of capital. If total yield exceeds return on capital, the company is liquidating itself. That's not 'returning capital to shareholders'—that's eating the seed corn.",
+      "**Yield on Cost Trap**: High dividend yield on your original purchase price is irrelevant. The relevant metric is current yield vs. alternative investments. Don't let sunk cost anchor you. Your vending machine's rent in 1990 doesn't matter; what matters is what you could get by selling it and buying a better one today."
+    ],
+    "practice": [
+      {
+        "title": "Evaluate Total Shareholder Yield",
+        "steps": [
+          "Find the company's total dividends paid and buyback amount over the last 12 months.",
+          "Divide by the current market capitalization to get total shareholder yield.",
+          "Compare to the company's cost of equity (e.g., using CAPM). If total yield > cost of equity, the company is destroying value."
+        ]
+      },
+      {
+        "title": "Check Buyback Funding",
+        "steps": [
+          "Look at the company's net debt (total debt minus cash).",
+          "Calculate net debt to EBITDA ratio for the last 3 years.",
+          "If net debt/EBITDA is rising while buybacks are active, the company is borrowing to buy shares—a red flag."
+        ]
+      },
+      {
+        "title": "Simulate After-Tax Returns",
+        "steps": [
+          "Assume a company with $1,000 profit per share. It can pay a $30 dividend (3% yield) or buy back 3% of shares.",
+          "Calculate after-tax dividend: $30 * (1 - 0.20) = $24. For buyback, if shares rise 3% due to EPS boost, after-tax gain: $30 * (1 - 0.15) = $25.50.",
+          "Compare: buyback yields higher after-tax return in this scenario. Repeat with your tax rates."
+        ]
+      }
+    ],
+    "risk_notes": "Dividends create a 'tax drag' in taxable accounts, and companies often cut dividends during downturns, shocking income-dependent investors. Buybacks can be timed poorly (buying high) and may indicate a lack of profitable investment opportunities, stifling long-term growth. Psychological trap: investors cling to 'dividend aristocrats' without questioning if the business model is deteriorating.",
+    "sources": [
+      {
+        "title": "Brealey, Myers, and Allen, 'Principles of Corporate Finance' (Ch. 16 on Dividend Policy)",
+        "url": "https://www.mheducation.com/highered/product/principles-corporate-finance-brealey-myers/M9781260013900.html"
+      }
+    ],
+    "meta": {
+      "id": "Dividends & buybacks",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Corporate actions",
+        "Dividend policy"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  }
+]
