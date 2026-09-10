@@ -1,5 +1,67 @@
 [
   {
+    "id": "38aa82d3-431c-4279-9af8-91d494dd1404",
+    "date": "2026-09-10",
+    "topic": "Dividends vs. Buybacks: The Signal and the Noise",
+    "teaser": "Apple burned $75B on buybacks and yielded 1.3%. AT&T paid 5.5% and bled. The market wasn't confused—it was speaking a language most investors never learn.",
+    "summary": "In 2019, Apple spent $75 billion repurchasing its own shares—more than the entire GDP of Sri Lanka—while paying a dividend yield of just 1.3%. AT&T, by contrast, offered a fat 5.5% yield. The market's verdict? Apple's stock soared. AT&T's flatlined. Most investors saw a paradox. But it wasn't a paradox. It was a signal—two signals, in fact, pointing in opposite directions.\n\nHere's the first principle: Every dollar a company returns to shareholders is a dollar it cannot reinvest. So the method of return is a confession. A dividend says, 'We are a utility. Our best days are behind us, but we are reliable.' A buyback says, 'We are a compounding machine. Our stock is the best investment we can make.' The market prices these confessions accordingly. Dividends are taxed immediately—a drag on total return. Buybacks defer taxes until you sell—a free option on future gains. Dividends are sticky; cutting one is a public admission of failure. Buybacks are flexible; pausing one is a shrug. In other words, a dividend is a marriage proposal. A buyback is a first date.\n\nThe dark side is where it gets interesting. Buybacks can be financial engineering—a cosmetic fix for stagnant earnings. When a company buys back shares while net income flatlines, EPS rises artificially. That's not value creation; it's value illusion. The acid test: compare EPS growth to net income growth. If EPS outpaces net income, buybacks are the driver—and if they're debt-funded, the illusion is unsustainable. Dividends have their own dark side: they are a commitment device that can force companies to cut R&D or borrow during downturns just to maintain the payout. AT&T is the cautionary tale. In 2022, after years of debt-fueled dividends, it slashed its payout by nearly half. Income investors who chased the yield lost both income and capital.\n\nWhy does this matter now? Because the era of free money is over. With interest rates at multi-decade highs, the 'Fed put' is gone, and cash return policies are the new differentiator between resilient and fragile businesses. The old playbook—chase the highest yield—is a trap. The new playbook is total shareholder yield: dividends plus net buybacks, divided by market cap. But even that isn't enough. You must ask: Is the yield funded by free cash flow or by debt? Is the buyback executed below intrinsic value or above it? A 2% dividend plus a 4% buyback yield from free cash flow is worth more than an 8% dividend yield funded by borrowed money. The quality of the yield matters more than the quantity. Always.",
+    "key_points": [
+      "Buybacks are often a confession of limited imagination, not a signal of undervaluation. When a company repurchases shares while its net income stagnates, EPS rises artificially—a cosmetic fix. The acid test: if EPS growth outpaces net income growth, buybacks are the driver. If they're debt-funded, the illusion will eventually collapse. The real question isn't 'Are they buying back stock?' but 'What else could they do with that capital?' If the answer is 'nothing better,' that's a red flag, not a green light.",
+      "Dividends are a tax-inefficient commitment device that can quietly destroy value. For most investors, dividends are taxed immediately, while buybacks defer taxes until sale—a free option on future gains. Worse, dividends are sticky: once initiated, they are expected to be maintained or increased. This rigidity can force companies to cut R&D, delay maintenance, or borrow during downturns just to preserve the payout. The mental model: a dividend is a marriage—easy to enter, costly to exit. A buyback is a first date—flexible, non-committal, and often smarter.",
+      "Total shareholder yield is a better metric than dividend yield, but only if you adjust for quality. Add buyback yield (net buybacks / market cap) to dividend yield. But beware: buybacks funded by debt or executed at inflated prices destroy value. A company with a 2% dividend and 4% buyback yield from free cash flow is healthier than one with an 8% dividend yield funded by debt. The acid test: compare the total yield to free cash flow. If it exceeds FCF, the yield is unsustainable—and the market will eventually figure it out."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Total Shareholder Yield for Three Stocks—and Stress-Test It",
+        "steps": [
+          "Select three stocks in your portfolio. Use a screener like Finviz or your broker's platform to find dividend yield and buyback yield (or calculate buyback yield as net buybacks / market cap).",
+          "For each, compute total shareholder yield = dividend yield + buyback yield. Compare it to the sector average (available on Finviz or YCharts).",
+          "Now stress-test: Look at the company's cash flow statement. Is total shareholder yield less than free cash flow? If not, the yield is debt-funded or unsustainable.",
+          "Finally, check the buyback price. Find the average price paid for buybacks in the last year (from the 10-K or cash flow statement). Compare it to the current price and a simple intrinsic value estimate (e.g., earnings yield = 1 / P/E). If the buyback price was above intrinsic value, management destroyed value."
+        ]
+      },
+      {
+        "title": "Simulate a Dividend Cut—Using a Real Example",
+        "steps": [
+          "Pick a stock you own for its dividend. Imagine the dividend is cut by 50%, just as AT&T did in 2022.",
+          "Ask yourself: How would the market react? Would I still hold? If the answer is 'I'd sell,' you're investing for income, not total return—and you're vulnerable.",
+          "Look up what actually happened to AT&T's stock price after its cut. (It fell ~20% initially, then underperformed for years.) Use this as a visceral reminder of the risk.",
+          "Write down your sell criteria in advance. For example: 'I will sell if the dividend is cut and free cash flow doesn't cover the new payout.' This prevents panic selling."
+        ]
+      },
+      {
+        "title": "Check the Buyback Price vs. Intrinsic Value—Step by Step",
+        "steps": [
+          "Go to the company's 10-K (annual report) or cash flow statement. Find the line item 'Repurchases of common stock' or 'Payments for repurchase of common stock.'",
+          "Divide that total dollar amount by the number of shares repurchased (often disclosed in the same section) to get the average buyback price.",
+          "Estimate intrinsic value using a simple method: Take the company's earnings per share (EPS) and divide by your required rate of return (e.g., 8%). For example, if EPS is $5 and you require 8%, intrinsic value = $5 / 0.08 = $62.50. (This is a simplified DCF—use a calculator like the one at Calculator.net for more precision.)",
+          "Compare the average buyback price to your intrinsic value estimate. If the buyback price is above intrinsic value, management may be destroying shareholder value. If it's below, they're creating it."
+        ]
+      }
+    ],
+    "risk_notes": "Dividends and buybacks are psychological traps. Investors often chase high yields, falling into 'yield traps' where the dividend is unsustainable—AT&T's 2022 cut is a case study. Buybacks can signal management's lack of better investment opportunities—a red flag for growth companies. Moreover, buybacks are often executed at cyclical peaks, destroying capital. The hidden risk: companies may cut dividends or halt buybacks precisely when you need cash flow most (during recessions), forcing you to sell at depressed prices. Also, buybacks can be used to offset dilution from stock-based compensation, effectively transferring wealth from shareholders to employees without transparency. Finally, buybacks can be a form of 'financial engineering' that masks deteriorating fundamentals—always compare EPS growth to net income growth.",
+    "sources": [
+      {
+        "title": "The Essays of Warren Buffett: Lessons for Corporate America",
+        "url": "https://www.amazon.com/Essays-Warren-Buffett-Corporate-America/dp/1611637589"
+      }
+    ],
+    "meta": {
+      "id": "Dividends & buybacks",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Corporate actions",
+        "Dividend policy"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "15e2cbba-81a5-4bef-96d6-a319f04dd4f9",
     "date": "2026-09-09",
     "topic": "Stock Exchanges & Trading Platforms",
@@ -3791,71 +3853,6 @@
       "related": [
         "T+2 settlement",
         "Custody"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "6af68897-d415-4f5c-853b-29d048fe863b",
-    "date": "2026-07-02",
-    "topic": "Order Types: Market, Limit, and Stop Orders",
-    "teaser": "Your order type is silently draining 1-5% per trade. Are you paying the slippage tax?",
-    "summary": "**Order types are the steering wheel of your portfolio—yet most traders treat them like a horn, honking randomly at the market.**\n\nThink of order types as your car's controls. A market order is like flooring the accelerator: you get immediate movement, but you lose control over the exact price. A limit order is like setting cruise control: you'll only move at your desired speed, but you might never arrive if traffic (the market) doesn't cooperate. A stop order is like an airbag: it deploys automatically when you hit a certain speed, but it can also be triggered by a pothole (volatility) when you least expect it.\n\n**Why it matters:** In today's high-frequency trading landscape, the difference between a market and limit order can mean the difference between profit and loss. The hidden tax of slippage on market orders is especially brutal in thin markets—think of it as a toll you pay for speed. Limit orders, on the other hand, let you play the role of a market maker, capturing the bid-ask spread, but you risk non-execution if the price never reaches your level. Stop orders automate discipline but can trigger cascade sells during flash crashes (e.g., 2010 Flash Crash). By mastering order types, you turn a random horn into a precise steering wheel, navigating the market's chaos with intention.\n\n**The counterintuitive truth:** Most traders think market orders are for when you need to get in or out quickly. But the real cost isn't the commission—it's the slippage. And the best way to avoid it? Use limit orders even when you think you need speed, especially in volatile markets. The few seconds it takes to set a limit can save you hundreds of dollars over a year.",
-    "key_points": [
-      "**Market orders are a tax on impatience**—you're paying for speed, but the real cost is hidden in slippage, which can be 1-5% in thin markets.",
-      "**Limit orders turn you into a market maker**—you capture the bid-ask spread, but the risk of non-execution is a feature, not a bug; it forces you to be patient and disciplined.",
-      "**Stop orders are a double-edged sword**—they automate discipline but can trigger cascade sells during flash crashes (e.g., 2010 Flash Crash); use them with a volatility buffer (like ATR) to avoid being stopped out by noise.",
-      "**Over-reliance on any order type breeds rigidity**—markets adapt, but your order instructions don't; the best traders use a mix, switching between order types based on market conditions."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Slippage Tax",
-        "steps": [
-          "Review your last 10 market order trade confirmations.",
-          "For each trade, note the expected price at order placement and the actual fill price.",
-          "Calculate the difference (in dollars or percentage) for each trade.",
-          "Sum the differences and divide by 10 to get your average slippage per trade.",
-          "Multiply by your annual trade frequency to estimate your yearly slippage tax. Example: If you trade 100 times a year and average $10 slippage per trade, you're losing $1,000 annually to slippage."
-        ]
-      },
-      {
-        "title": "Simulate a Stop-Loss Placement",
-        "steps": [
-          "Identify a stock you currently hold or plan to trade.",
-          "Determine a stop-loss level based on acceptable loss (e.g., 2% of your account), not on where you think the market will reverse.",
-          "Place a simulated stop order in a paper trading account and monitor if it would have been triggered by noise or a genuine move.",
-          "Adjust your stop level to avoid being stopped out by normal volatility. Use the Average True Range (ATR) indicator: set your stop at 1.5 to 2 times the ATR below your entry price."
-        ]
-      },
-      {
-        "title": "Speed vs. Price Decision Framework",
-        "steps": [
-          "Before placing any trade, ask: 'Am I optimizing for speed (market) or price (limit)?'",
-          "If speed is critical (e.g., news event, fast-moving stock), use a market order but be aware of slippage. Consider using a limit order with a small premium to the current price to reduce slippage.",
-          "If price is critical (e.g., adding to a position, capturing spread), use a limit order and be patient. Set your limit at a price that gives you a favorable entry, and walk away.",
-          "Write down your answer and reasoning before clicking the order button. Over time, this will train your brain to choose the right order type automatically."
-        ]
-      }
-    ],
-    "risk_notes": "Stop orders can amplify panic selling in a crash (cascading stop hunts). Limit orders can create a false sense of control, leading to missed opportunities when prices gap through your limit. Over-reliance on any order type breeds rigidity—markets adapt, but your order instructions don't. Always consider market conditions (volatility, liquidity) before choosing an order type.",
-    "sources": [
-      {
-        "title": "Search: Order Types: Market, Limit, and Stop Orders",
-        "url": "https://www.google.com/search?q=Order%20Types%3A%20Market%2C%20Limit%2C%20and%20Stop%20Orders"
-      }
-    ],
-    "meta": {
-      "id": "Order types",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Market order",
-        "Limit order",
-        "Stop order"
       ],
       "tags": [
         "Market Operations",
