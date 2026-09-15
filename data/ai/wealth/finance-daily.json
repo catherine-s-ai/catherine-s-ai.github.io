@@ -1,5 +1,70 @@
 [
   {
+    "id": "baf63662-b5ff-40ea-8aa4-283b0c027ed9",
+    "date": "2026-09-15",
+    "topic": "Settlement and Custody: The Plumbing of Your Portfolio",
+    "teaser": "The £120 billion Lehman settlement failure almost broke the system. But the real danger isn't a market crash—it's the invisible chain of intermediaries holding your assets. Here's how to protect yourself.",
+    "summary": "In 2008, a single missed settlement instruction left Lehman Brothers' London subsidiary with £120 billion in unsettled trades. When the bank failed, those trades were stuck in limbo, triggering a global scramble that nearly brought down the financial system. But the real lesson isn't about settlement failures—it's about custody. Your broker doesn't own your shares; you do. But you're not the registered shareholder. You're a beneficial owner, and that distinction can mean the difference between calm and chaos when the music stops.\n\nThink of the settlement system as a high-speed relay race. When you buy a stock, the trade is the starting gun. The baton—legal ownership—must be passed from seller to buyer through a chain of intermediaries: your broker, the clearinghouse, the custodian. In the US, the baton is passed on T+2: two business days after the trade. Custody is the bank or broker that holds the baton until you sell. Without settlement, you have a promise; with custody, you have legal title. But here's the rub: your brokerage statement shows your positions, yet those shares are likely held in 'street name'—the broker's name, not yours. If the broker fails, your shares could be tied up in bankruptcy proceedings. You're not the owner on paper; you're a creditor in line.\n\nThis isn't theoretical. During the 2008 crisis, clients of Lehman's prime brokerage found their assets frozen because they were commingled. The 1987 crash was exacerbated by settlement backlogs. The plumbing is invisible until it breaks. Settlement is a trust fall: you rely on a chain of intermediaries. The shorter the cycle, the less time for something to go wrong. But custody is not ownership—you are a beneficial owner, not a registered shareholder. This distinction matters in bankruptcies, proxy voting, and tax reporting. T+2 is a liquidity buffer, but it also ties up your capital. In fast markets, this delay can cost you. So check your agreements, simulate a trade, and consider diversifying custodians. The system works—until it doesn't.",
+    "key_points": [
+      "Your broker's failure is a bigger risk than a market crash. In a market crash, you still own your shares. In a broker failure, your shares may be frozen in bankruptcy proceedings—and SIPC coverage is limited.",
+      "Settlement speed is a hidden tax on active trading. T+2 ties up your capital for two days, but the real cost is the inability to react to fast-moving markets. High-frequency traders pay millions for faster settlement; you pay in opportunity cost.",
+      "Custody is not ownership: you are a beneficial owner, not a registered shareholder. This means you don't appear in the company's books, you may not get proxy materials directly, and your shares can be lent out without your explicit consent.",
+      "The plumbing is invisible until it breaks: settlement failures are rare but systemic. The 1987 crash was exacerbated by settlement backlogs, and the 2008 crisis showed that even sophisticated prime brokerage clients can find their assets frozen."
+    ],
+    "practice": [
+      {
+        "title": "Audit Your Brokerage Agreement for Securities Lending",
+        "steps": [
+          "Log into your brokerage account and locate the account agreement or disclosures. Search for terms like 'securities lending,' 'hypothecation,' or 'rehypothecation.'",
+          "Determine if your account is a cash account or margin account. Margin accounts typically allow the broker to lend your securities.",
+          "Identify the custodian (the entity holding your securities) and whether your account is SIPC-insured. Check the SIPC website to verify your broker's membership and coverage limits.",
+          "If you find clauses about securities lending, contact your broker to opt out if possible. If not, consider moving to a broker that doesn't lend shares."
+        ]
+      },
+      {
+        "title": "Simulate a Trade to Understand T+2 and Custody",
+        "steps": [
+          "Buy a stock on a Monday (or simulate a buy order in a practice account).",
+          "Note the trade date and calculate the settlement date (T+2 business days later).",
+          "Check when the shares appear in your account and when you can sell them. Note that the shares may show as 'held' but not yet settled.",
+          "Sell the stock and observe when the cash becomes available for withdrawal or reinvestment.",
+          "Document the timeline to internalize the liquidity delay. Also, check your account statement to see how the shares are held (street name vs. direct registration)."
+        ]
+      },
+      {
+        "title": "Diversify Custodians with SIPC Limits in Mind",
+        "steps": [
+          "Calculate the total value of your investment accounts. If you have over $500,000, you're above SIPC's per-account limit.",
+          "Research at least two reputable brokers with strong balance sheets. Look for brokers with high capital ratios and low leverage.",
+          "Open a second brokerage account and transfer a portion of your assets. But note: SIPC covers up to $500,000 per account, so splitting may not help if both brokers fail simultaneously in a systemic crisis.",
+          "To truly diversify, consider using a direct registration system (DRS) to hold shares in your own name, or use a custodian that segregates assets.",
+          "Periodically review your custodians' financial health and rebalance if necessary."
+        ]
+      }
+    ],
+    "risk_notes": "Settlement and custody create a false sense of security. During the 2008 crisis, clients of Lehman's prime brokerage found their assets frozen because they were commingled. Also, T+2 can encourage over-trading because you think you have cash you don't. Psychologically, investors ignore custody until a crisis hits—then it's too late. Diversifying custodians may not protect you in a systemic crisis, as SIPC coverage is limited and both brokers could fail simultaneously.",
+    "sources": [
+      {
+        "title": "The Bank for International Settlements: Principles for Financial Market Infrastructures",
+        "url": "https://www.bis.org/cpmi/publ/d101a.pdf"
+      }
+    ],
+    "meta": {
+      "id": "Settlement & custody",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "T+2 settlement",
+        "Custody"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "388d7eb2-3390-4d29-bbf5-7bb49c2cac38",
     "date": "2026-09-11",
     "topic": "The Hidden Levers of the Market: How Order Types Shape Your Trading Destiny",
@@ -3796,70 +3861,6 @@
       "related": [
         "Efficient market",
         "Anomalies"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "ab75f12e-de58-4193-a144-b05640c3025b",
-    "date": "2026-07-04",
-    "topic": "Understanding Market Regulation: The Rules That Protect (and Trap) Investors",
-    "teaser": "The stock market is a casino where the house doesn't let you count cards. But what if the bouncers are also the ones rigging the game?",
-    "summary": "Imagine a casino where you can't count cards—the bouncers ensure the game is fair. That's the stock market with regulations. In 1929, there were no bouncers, and insiders traded on secret info, crashing the market. Today, we have rules like insider trading bans. But here's the twist: regulations are written after the disaster, not before. The SEC was born from the 1929 crash; Reg BI from 2008. They're like band-aids on a bullet wound. And disclosure? Companies must list risks, but who reads 100-page filings? The real danger is that disclosure lulls you into a false sense of security. You see the warning, but you invest anyway because everyone else does. Market structure rules, like circuit breakers, can even amplify panic during flash crashes—trading halts cause a logjam of sell orders that flood the market when trading resumes. So regulations are a double-edged sword: they protect you from the worst, but they can also make you complacent. The smart investor respects the rules but never trusts them blindly.",
-    "key_points": [
-      "Regulation is a lagging indicator: it follows scandals, not prevents them. The SEC was created after the 1929 crash; Reg BI after 2008. Expect new rules after the next crisis—never before. This is because regulators are reactive, not proactive, due to political and industry pressure.",
-      "Disclosure creates an illusion of safety. Companies disclose risks, but the act of disclosure shifts responsibility to investors. It's a 'cover your ass' tactic: 'We told you so.' The real risk isn't the disclosed risk; it's that you think you're protected because you read it. Behavioral finance shows that warning labels can actually increase risk-taking (the 'it won't happen to me' bias).",
-      "Market structure rules can backfire. Circuit breakers were designed to prevent panic, but they can cause a 'magnet effect'—traders rush to sell before the halt, accelerating the crash. In 2010, the flash crash saw a 9% drop in minutes; halts didn't help. The underlying incentive: exchanges want to avoid liability, not necessarily stabilize markets.",
-      "Regulations create moral hazard. When investors believe the SEC has their back, they take more risk. This is the same dynamic that caused the 2008 crisis: banks thought they were 'too big to fail.' The incentive for regulators is to appear tough, but enforcement is underfunded. The SEC charges less than 1% of insider trading cases. So the rules are there, but the chance of getting caught is low—unless you're a whale."
-    ],
-    "practice": [
-      {
-        "title": "Check your broker's regulatory status",
-        "steps": [
-          "Go to FINRA's BrokerCheck website (brokercheck.finra.org).",
-          "Enter your broker's name or CRD number.",
-          "Review any disclosures, complaints, or regulatory actions.",
-          "If you find red flags, consider switching brokers.",
-          "Challenge: Compare your broker's disclosure history with two competitors. Which one has the cleanest record? Which has the most complaints? Write a short paragraph on what this tells you about their culture."
-        ]
-      },
-      {
-        "title": "Read one 10-K filing and compare risk factors",
-        "steps": [
-          "Pick a company you own shares in.",
-          "Go to sec.gov and search for the company's 10-K filing.",
-          "Scroll to the 'Risk Factors' section.",
-          "Note three risks you didn't know about and assess how they affect your investment.",
-          "Challenge: Now find a competitor's 10-K. Compare their risk factors. Which company faces more regulatory risk? Which has more operational risk? Write a 100-word analysis."
-        ]
-      },
-      {
-        "title": "Simulate a SEC investigation and identify the incentive mismatch",
-        "steps": [
-          "Imagine you accidentally received non-public information about a stock (e.g., from a friend).",
-          "Write down the steps you must take: (1) Do not trade on the information. (2) Do not share it with anyone. (3) Report the incident to your legal or compliance department (or the SEC if you have no internal process).",
-          "Now think: Why would you report it? The incentive: if you don't report, you could go to jail. But if you do report, you might still be investigated. The SEC's incentive is to make an example of someone. So the rational actor might stay silent. This is the 'prisoner's dilemma' of compliance."
-        ]
-      }
-    ],
-    "risk_notes": "Regulations create moral hazard: investors trust that rules make markets safe, so they take excessive risks. Overregulation can stifle innovation (e.g., high compliance costs hurt small IPOs). Psychologically, the 'rules are for others' trap: you might think you're too small to be caught, but insider trading cases include retail traders who acted on tips. The key insight: rules exist, but enforcement is a game of probabilities. The smart investor doesn't rely on rules—they rely on their own due diligence.",
-    "sources": [
-      {
-        "title": "Book: 'The Man Who Solved the Market' by Gregory Zuckerman",
-        "url": "https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/073521798X"
-      }
-    ],
-    "meta": {
-      "id": "Regulation & trading rules",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Securities law",
-        "Disclosure"
       ],
       "tags": [
         "Market Operations",
