@@ -1,5 +1,68 @@
 [
   {
+    "id": "aa767c50-3aed-495f-9bd3-21c23b722cd8",
+    "date": "2026-09-16",
+    "topic": "The Hidden Lever: How Trading Rules Shape Your Wealth",
+    "teaser": "The 1987 crash was triggered by a rule meant to prevent crashes. Here's how today's rules are quietly taxing your portfolio.",
+    "summary": "On October 19, 1987, the Dow fell 22.6% in a single day. The culprit wasn't a bubble or a panic—it was a rule. The SEC's short-sale rule, designed to stabilize markets, created a feedback loop: as prices fell, short sellers were forced to cover, but the rule prevented them from selling into the decline, amplifying the crash. This is the hidden lever: regulation is not a shield, but a lever that can cut both ways.\n\nAt first principles, markets are coordination mechanisms for strangers to trade. Without rules, trust collapses due to information asymmetry and fraud. Regulations set disclosure requirements, trading halts, insider trading bans, and circuit breakers. They aim to level the playing field and prevent systemic risk. But rules are designed by humans, often with unintended consequences.\n\nToday, your wealth is directly affected by rules you never voted for. The PDT rule limits day trading for small accounts, while Reg NMS affects how your orders are routed. Understanding these rules helps you avoid penalties, exploit inefficiencies, and anticipate market-wide shocks. Ignorance is not bliss; it's a tax.\n\nConsider Reg NMS, enacted in 2005 to ensure investors get the best price. In practice, it fragmented markets and increased complexity, leading to higher spreads for retail investors. Or take disclosure: Enron's 10-K was filled with footnotes that obscured its true risks. The lesson? Compliance is not safety. Rules create arbitrage: whenever a regulation draws a line, it creates a gray area. Those who understand the boundaries can legally exploit them, from tax loopholes to regulatory arbitrage.\n\nBut regulation can fail spectacularly due to regulatory capture, where agencies become beholden to the industries they regulate. Also, rules can be gamed: companies lobby for regulations that create barriers to entry, entrenching incumbents. Psychologically, investors often over-trust 'approved' investments (e.g., AAA-rated securities) and ignore underlying risks. The biggest trap is believing that compliance equals safety.\n\nTo navigate this landscape, you must become a student of the rules. Start by checking the SEC's EDGAR database for the latest 10-K of a company you own. Find one risk factor that seems boilerplate but could actually be material. Ask: What if this happens? Simulate a trading halt: Pick a volatile stock and look at its historical halts. Note what triggered them and how the price behaved after. Would you have been able to sell? Review your brokerage agreement for arbitration clauses. Understand that by signing, you may have waived your right to sue. Calculate the cost of this in terms of potential disputes. The rules of the game are not static; they evolve, and so must your understanding.",
+    "key_points": [
+      "Regulation is a tax on transactions: Every rule adds friction, which is passed on to you as higher spreads or lower returns. For example, Reg NMS was intended to improve execution quality but led to increased market fragmentation and higher costs for retail investors. The question is whether the benefit (trust) outweighs the cost (efficiency).",
+      "Disclosure is not transparency: Companies comply with the letter of the law, not the spirit. Enron's 10-K used complex footnotes to hide debt, and Lehman Brothers used Repo 105 to window-dress its balance sheet. Learn to read between the lines of 10-Ks; the real risks are often in footnotes or omitted entirely.",
+      "Rules create arbitrage: Whenever a regulation draws a line, it creates a gray area. Those who understand the boundaries can legally exploit them, from tax loopholes to regulatory arbitrage. For instance, hedge funds use the 'carried interest' loophole to pay lower taxes, and banks use off-balance-sheet entities to circumvent capital requirements.",
+      "Regulatory capture is the shadow side: Agencies can become beholden to the industries they regulate, leading to rules that entrench incumbents and stifle competition. The revolving door between the SEC and Wall Street, and the CFTC and commodity firms, often results in watered-down rules. The biggest trap is believing that compliance equals safety."
+    ],
+    "practice": [
+      {
+        "title": "Read a 10-K Like a Detective",
+        "steps": [
+          "Go to the SEC's EDGAR database and find the latest 10-K for a company you own.",
+          "Locate the 'Risk Factors' section. Identify one risk that seems boilerplate but could actually be material.",
+          "Ask yourself: What if this risk materializes? How would it affect the company's earnings and your investment?",
+          "Write down your thoughts and monitor whether the company addresses this risk in future filings."
+        ]
+      },
+      {
+        "title": "Analyze a Regulatory Arbitrage",
+        "steps": [
+          "Choose a recent regulation (e.g., the Volcker Rule, MiFID II).",
+          "Research how financial institutions have adapted their business models to comply or exploit it.",
+          "Identify one specific strategy that exploits a gray area. For example, how do banks use proprietary trading desks under the Volcker Rule?",
+          "Assess the risks and potential returns of such strategies. Could you invest in a fund that employs them?"
+        ]
+      },
+      {
+        "title": "Review Your Brokerage Agreement",
+        "steps": [
+          "Find your brokerage agreement (often online in your account settings).",
+          "Locate the arbitration clause. Understand what disputes it covers and what rights you may have waived.",
+          "Research the cost of arbitration: The American Arbitration Association charges filing fees that can range from $1,000 to $10,000 or more, depending on the claim size. Would you be able to afford this if you had a dispute?",
+          "Consider whether the convenience of the brokerage outweighs the loss of legal recourse."
+        ]
+      }
+    ],
+    "risk_notes": "Regulation can fail spectacularly due to regulatory capture, where agencies become beholden to the industries they regulate. Also, rules can be gamed: companies lobby for regulations that create barriers to entry, entrenching incumbents. Psychologically, investors often over-trust 'approved' investments (e.g., AAA-rated securities) and ignore underlying risks. The biggest trap is believing that compliance equals safety.",
+    "sources": [
+      {
+        "title": "The Financial Crisis Inquiry Report",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf"
+      }
+    ],
+    "meta": {
+      "id": "Regulation & trading rules",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Securities law",
+        "Disclosure"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "baf63662-b5ff-40ea-8aa4-283b0c027ed9",
     "date": "2026-09-15",
     "topic": "Settlement and Custody: The Plumbing of Your Portfolio",
@@ -3802,65 +3865,6 @@
       "related": [
         "Leverage",
         "Risk management"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "8fe95b5b-1350-4bfa-a4f4-120fcd021b68",
-    "date": "2026-07-05",
-    "topic": "Market Efficiency and Anomalies",
-    "teaser": "What if the market is a poker game where some players see marked cards? Here's how to spot the tells.",
-    "summary": "Imagine a poker table where every player sees everyone else's cards. That's the **Efficient Market Hypothesis (EMH)**—but real markets are more like a poker game where some players are bluffing with marked cards. **Anomalies** are the tells.\n\nAt its core, market efficiency means asset prices fully reflect all available information. From first principles: if everyone knows everything, no one can beat the market. Anomalies are persistent patterns (like the **January effect** or **momentum**) that seem to contradict efficiency, suggesting information isn't always perfectly priced.\n\n**Why does this matter?** If markets are truly efficient, active trading is a waste of time and money—you're better off with low-cost index funds. But if anomalies exist, you might profit from them. Understanding this tension helps you avoid overconfidence and costly mistakes, especially in today's information-overloaded world.\n\nYet, efficiency is a spectrum. Markets can be highly efficient for large-cap stocks but less so for small caps or crypto. And anomalies often disappear once discovered and published—they're like fish that learn to avoid the net. The real insight? **Behavioral biases** are the true anomalies: the market may be efficient at pricing information, but inefficient at pricing human emotion.",
-    "key_points": [
-      "Efficiency is a spectrum, not a binary: markets can be efficient for large-cap stocks but less so for small caps or crypto.",
-      "Anomalies often disappear once discovered and published—they're like fish that learn to avoid the net.",
-      "The market prices information efficiently but misprices human emotion—exploit that."
-    ],
-    "practice": [
-      {
-        "title": "Backtest a Well-Known Anomaly",
-        "steps": [
-          "Pick an anomaly like the January effect or momentum.",
-          "Use a free platform like Portfolio Visualizer to backtest it on a specific asset class (e.g., small-cap stocks from 2000-2020).",
-          "Compare the strategy's performance to a benchmark and note if the anomaly persists after transaction costs."
-        ]
-      },
-      {
-        "title": "Evaluate Your Active Fund",
-        "steps": [
-          "Select an active mutual fund you own or are considering.",
-          "Find its 10-year total return and compare to its benchmark index (e.g., S&P 500 for large-cap funds), adjusting for fees and survivorship bias.",
-          "Assess whether the fund's performance justifies its higher expense ratio."
-        ]
-      },
-      {
-        "title": "Question 'Sure Thing' Tips",
-        "steps": [
-          "Whenever you receive a hot stock tip, pause.",
-          "Ask yourself: 'If this information were truly valuable, why is it being shared with me for free?'",
-          "Consider the source and their incentives before acting."
-        ]
-      }
-    ],
-    "risk_notes": "The biggest risk is assuming you can exploit anomalies consistently. Many anomalies are statistical flukes, data-mined, or vanish after publication. Psychological trap: overconfidence from a few lucky trades, leading to a false belief in your ability to beat the market.",
-    "sources": [
-      {
-        "title": "A Random Walk Down Wall Street",
-        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
-      }
-    ],
-    "meta": {
-      "id": "Market efficiency & anomalies",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Efficient market",
-        "Anomalies"
       ],
       "tags": [
         "Market Operations",

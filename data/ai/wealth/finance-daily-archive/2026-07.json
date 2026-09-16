@@ -246,5 +246,64 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "8fe95b5b-1350-4bfa-a4f4-120fcd021b68",
+    "date": "2026-07-05",
+    "topic": "Market Efficiency and Anomalies",
+    "teaser": "What if the market is a poker game where some players see marked cards? Here's how to spot the tells.",
+    "summary": "Imagine a poker table where every player sees everyone else's cards. That's the **Efficient Market Hypothesis (EMH)**—but real markets are more like a poker game where some players are bluffing with marked cards. **Anomalies** are the tells.\n\nAt its core, market efficiency means asset prices fully reflect all available information. From first principles: if everyone knows everything, no one can beat the market. Anomalies are persistent patterns (like the **January effect** or **momentum**) that seem to contradict efficiency, suggesting information isn't always perfectly priced.\n\n**Why does this matter?** If markets are truly efficient, active trading is a waste of time and money—you're better off with low-cost index funds. But if anomalies exist, you might profit from them. Understanding this tension helps you avoid overconfidence and costly mistakes, especially in today's information-overloaded world.\n\nYet, efficiency is a spectrum. Markets can be highly efficient for large-cap stocks but less so for small caps or crypto. And anomalies often disappear once discovered and published—they're like fish that learn to avoid the net. The real insight? **Behavioral biases** are the true anomalies: the market may be efficient at pricing information, but inefficient at pricing human emotion.",
+    "key_points": [
+      "Efficiency is a spectrum, not a binary: markets can be efficient for large-cap stocks but less so for small caps or crypto.",
+      "Anomalies often disappear once discovered and published—they're like fish that learn to avoid the net.",
+      "The market prices information efficiently but misprices human emotion—exploit that."
+    ],
+    "practice": [
+      {
+        "title": "Backtest a Well-Known Anomaly",
+        "steps": [
+          "Pick an anomaly like the January effect or momentum.",
+          "Use a free platform like Portfolio Visualizer to backtest it on a specific asset class (e.g., small-cap stocks from 2000-2020).",
+          "Compare the strategy's performance to a benchmark and note if the anomaly persists after transaction costs."
+        ]
+      },
+      {
+        "title": "Evaluate Your Active Fund",
+        "steps": [
+          "Select an active mutual fund you own or are considering.",
+          "Find its 10-year total return and compare to its benchmark index (e.g., S&P 500 for large-cap funds), adjusting for fees and survivorship bias.",
+          "Assess whether the fund's performance justifies its higher expense ratio."
+        ]
+      },
+      {
+        "title": "Question 'Sure Thing' Tips",
+        "steps": [
+          "Whenever you receive a hot stock tip, pause.",
+          "Ask yourself: 'If this information were truly valuable, why is it being shared with me for free?'",
+          "Consider the source and their incentives before acting."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest risk is assuming you can exploit anomalies consistently. Many anomalies are statistical flukes, data-mined, or vanish after publication. Psychological trap: overconfidence from a few lucky trades, leading to a false belief in your ability to beat the market.",
+    "sources": [
+      {
+        "title": "A Random Walk Down Wall Street",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      }
+    ],
+    "meta": {
+      "id": "Market efficiency & anomalies",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Efficient market",
+        "Anomalies"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
   }
 ]
