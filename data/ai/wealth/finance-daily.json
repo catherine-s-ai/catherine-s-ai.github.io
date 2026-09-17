@@ -1,5 +1,69 @@
 [
   {
+    "id": "745857ca-d839-48e7-80df-8589efa58eca",
+    "date": "2026-09-17",
+    "topic": "Market Efficiency and Anomalies: Why $100 Bills Don't Stay on the Sidewalk for Long",
+    "teaser": "The $100 bill that shouldn't exist—and what it reveals about the limits of beating the market.",
+    "summary": "In 1980, economist Richard Thaler was walking with a colleague when he spotted a $100 bill on the sidewalk. \"It's not real,\" his colleague said. \"If it were, someone would have picked it up already.\" Thaler picked it up anyway. That moment—and the tension it exposed—helped launch behavioral finance.\n\nThe Efficient Market Hypothesis (EMH) says asset prices already reflect all available information. If true, you can't consistently beat the market because any edge gets arbitraged away instantly. But anomalies—like value stocks outperforming growth, or small caps beating large caps in January—suggest otherwise. The truth is nuanced: markets are mostly efficient, but pockets of inefficiency persist due to behavioral biases, limits to arbitrage (the costs and constraints of exploiting mispricing), and structural frictions.\n\nEvery time you buy a stock, you're implicitly betting on market efficiency. If you think you can beat the market, you trade actively—incurring fees, taxes, and timing errors that erode returns. If you believe markets are efficient, you index. But knowing anomalies exist means you can tilt toward known factors (value, momentum, quality) without fooling yourself into thinking you're a genius. The goal is to be smart, not lucky.\n\nEfficiency is a spectrum. Large-cap US stocks are highly efficient; micro-caps and emerging markets less so. The cost of information and the ease of arbitrage determine how efficient a market is. Anomalies are like mirages: they tend to disappear when widely exploited, as happened with the small-firm effect after it was published in 1981. The biggest anomaly is you. Your own biases—overconfidence, loss aversion, herding—create predictable mistakes. The market's efficiency is partly a mirror of your own irrationality.",
+    "key_points": [
+      "Arbitrage costs determine where anomalies persist. Anomalies survive only where the cost of exploiting them (shorting constraints, transaction costs, capital limits) exceeds the potential profit. That's why they cluster in less liquid, less covered markets—not in large-cap US stocks.",
+      "The act of exploiting an anomaly often destroys it. Once an anomaly is published and widely known, capital floods in, prices adjust, and the excess return shrinks or vanishes. The small-firm effect weakened after 1981; the value premium has compressed in recent decades. Your edge may be in identifying anomalies before they're crowded—or in avoiding the ones that are already arbitraged away.",
+      "Your edge is more likely in less-covered markets. If you're competing in highly efficient markets (large-cap US equities), you're playing against armies of PhDs with infinite resources. In less efficient markets—micro-caps, emerging markets, specialized niches—you have a better chance of finding mispricing, but you also face higher risks and costs.",
+      "The biggest anomaly is you. Behavioral biases—overconfidence, loss aversion, herding—create predictable mistakes that show up in your own portfolio. The market's efficiency is partly a mirror of your irrationality. Recognizing your own biases is the first step to avoiding them."
+    ],
+    "practice": [
+      {
+        "title": "Assess Your Portfolio's Efficiency Exposure",
+        "steps": [
+          "List your investments. For each, classify it as 'highly efficient' (e.g., S&P 500 index funds, large-cap US stocks), 'moderately efficient' (e.g., developed international stocks, investment-grade bonds), or 'less efficient' (e.g., individual small-caps, emerging markets, micro-caps, private investments).",
+          "Calculate the percentage of your portfolio in each category. If you're unsure how to classify an investment, use a simple rule: the more liquid and widely followed it is, the more efficient it's likely to be.",
+          "If your goal is to beat the market, check whether your active bets are concentrated in less efficient areas where mispricing is more likely—or if you're competing in highly efficient arenas where your edge is slim. If your goal is to match the market, ensure your portfolio is broadly diversified across efficient markets with low costs."
+        ]
+      },
+      {
+        "title": "Audit Your Last Five Trades with a Pre-Defined Rule",
+        "steps": [
+          "Review your last five trades (buys or sells).",
+          "For each trade, ask: Did this trade follow a pre-defined rule or strategy? For example, was it triggered by a specific valuation threshold, a rebalancing schedule, or a documented thesis? If you don't have a written rule, that's a red flag.",
+          "If the trade was not rule-based, it was likely driven by emotion, herd behavior, or a reaction to short-term price movements. Count how many of your last five trades were rule-based. If fewer than three, your process may be driven by noise, not signal."
+        ]
+      },
+      {
+        "title": "Run a One-Month 'Dumb' Portfolio Experiment",
+        "steps": [
+          "Pick 10 stocks by throwing darts at a board (or use a random stock picker).",
+          "Track the performance of this random portfolio over the next month, alongside your actual portfolio.",
+          "At month's end, compare returns. If the darts win, ask yourself: what does that say about the value of your active decisions? This is not about proving randomness beats skill—it's about testing whether your trading adds value. Repeat monthly for three months to see if the pattern holds. If the darts consistently win, consider shifting toward a passive strategy."
+        ]
+      }
+    ],
+    "risk_notes": "The efficient market hypothesis can lull you into passivity, making you miss real opportunities. Conversely, believing you can exploit anomalies can lead to overconfidence and excessive trading. The biggest trap is confusing an anomaly with a data-mined fluke. Many anomalies are just statistical noise that disappears out-of-sample. Also, transaction costs and taxes can eat any excess returns, turning a theoretical anomaly into a real loss. Finally, the 'dumb' portfolio experiment is a tool for self-reflection, not a recommendation to invest randomly. Randomness is not a strategy; it's a benchmark for your own decision-making.",
+    "sources": [
+      {
+        "title": "The Cross-Section of Expected Stock Returns by Fama and French (1992)",
+        "url": "https://www.jstor.org/stable/2329112"
+      },
+      {
+        "title": "Thinking, Fast and Slow by Daniel Kahneman",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      }
+    ],
+    "meta": {
+      "id": "Market efficiency & anomalies",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Efficient market",
+        "Anomalies"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "aa767c50-3aed-495f-9bd3-21c23b722cd8",
     "date": "2026-09-16",
     "topic": "The Hidden Lever: How Trading Rules Shape Your Wealth",
@@ -3799,72 +3863,6 @@
       "related": [
         "Bid-ask spread",
         "Order book"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "278cf889-1a4c-43e0-8b26-838fd1b4da1e",
-    "date": "2026-07-07",
-    "topic": "Short Selling and Margin Trading: The Double-Edged Sword of Leverage",
-    "teaser": "You think shorting is just betting against a stock? The real danger isn't what you know—it's the infinite loss you don't see coming.",
-    "summary": "Imagine you're at a poker table. You bet $100 that the next card is a 2. But the dealer shows you the deck: there are 48 cards that aren't 2, and only 4 that are. Your odds are terrible, but you think you're smart. That's short selling—except the deck has no limit, and the dealer can add more cards. \n\nShort selling is borrowing shares you don't own, selling them, and hoping to buy them back cheaper. But if the price goes up, your loss is unbounded. A stock can rise 100%, 1000%, or more. That's the asymmetry: you risk everything for limited gain. \n\nMargin trading is the flip side—borrowing money to buy stocks, amplifying both wins and losses. Together, they form a lethal cocktail. Most retail traders don't understand the math. They see the upside, not the forced liquidation that can happen in a flash. \n\nHere's the first principle: leverage is a multiplier, not a magic wand. It turns a 10% loss into a 20% loss if you're 2x leveraged. And with short selling, the multiplier is infinite because the denominator (your initial bet) is fixed but the numerator (loss) can go to infinity. \n\nThe key is to think in terms of scenarios, not probabilities. What's the worst case? Can you survive it? If not, don't take the bet. That's the mental model of a professional: they focus on survival, not just returns. \n\nThis lesson will show you how to calculate your true risk, set up safety nets, and avoid the traps that have wiped out legendary traders. You'll learn to see margin calls not as a surprise, but as a predictable event you can prepare for. And you'll understand why the best investors often avoid leverage entirely—or use it with extreme caution.",
-    "key_points": [
-      "Leverage is a multiplier of risk, not just returns. A 2x margin doubles your gains but also doubles your losses. Short selling multiplies risk asymmetrically: your maximum gain is 100% (if the stock goes to zero), but your loss is infinite. This asymmetry is the hidden trap that lures amateurs.",
-      "Short selling is not just a bet against a company; it's a bet against time and momentum. Even if you're right about a company's overvaluation, the market can stay irrational longer than you can stay solvent. The key isn't being right—it's surviving until you're right.",
-      "Margin calls are not a warning; they are a forced exit at the worst possible time. They turn paper losses into real ones. The only way to avoid them is to never rely on them as a safety net. Instead, use position sizing and stop-losses that account for worst-case scenarios."
-    ],
-    "practice": [
-      {
-        "title": "The Worst-Case Scenario Calculator",
-        "steps": [
-          "Pick a stock you might short. Assume it can rise 10x overnight (like a meme stock squeeze).",
-          "Calculate your loss if you short 100 shares at $10 and it goes to $100: loss = (100 - 10) * 100 = $9,000 on a $1,000 margin deposit (900% loss).",
-          "Now set a stop-loss at 20% above entry. If triggered, loss = $200. Compare: $200 vs $9,000.",
-          "Rule: Always define your maximum acceptable loss before entering the trade. Use a hard stop-loss order."
-        ]
-      },
-      {
-        "title": "Margin Call Simulation",
-        "steps": [
-          "Assume you have $10,000 cash and buy $20,000 of stock on margin (50% initial margin). Maintenance margin is 30%.",
-          "If stock drops 25%, market value = $15,000. Equity = $15,000 - $10,000 loan = $5,000. Equity % = 5,000/15,000 = 33.3% > 30%, so no call yet.",
-          "If stock drops to $12,000 (40% decline), equity = $2,000, equity % = 16.7% < 30%. Margin call: you must deposit $1,600 to bring equity to 30% ($3,600) or sell shares.",
-          "Decision: If you sell, you lock in loss. If you deposit, you risk more. The best move is to avoid reaching this point by using smaller position sizes."
-        ]
-      },
-      {
-        "title": "The 1% Rule for Leverage",
-        "steps": [
-          "Never risk more than 1% of your total account on any single leveraged trade.",
-          "For a $100,000 account, max risk per trade = $1,000.",
-          "If shorting a $50 stock with a stop-loss at $55 (10% risk), you can short 200 shares (risk = 200 * $5 = $1,000).",
-          "This ensures that a string of losses won't wipe you out. It's boring but effective."
-        ]
-      }
-    ],
-    "risk_notes": "Short selling carries unlimited loss potential and can be subject to short squeezes (e.g., GameStop). Margin trading can lead to forced liquidation and debt if the market moves against you. Psychological traps include overconfidence in leverage and the sunk cost fallacy when holding losing positions. Always use stop-losses and position sizing to survive.",
-    "sources": [
-      {
-        "title": "The Little Book of Common Sense Investing by John C. Bogle",
-        "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509"
-      },
-      {
-        "title": "When Genius Failed by Roger Lowenstein",
-        "url": "https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259"
-      }
-    ],
-    "meta": {
-      "id": "Short selling & margin trading",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Leverage",
-        "Risk management"
       ],
       "tags": [
         "Market Operations",
