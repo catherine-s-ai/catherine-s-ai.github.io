@@ -1,5 +1,70 @@
 [
   {
+    "id": "9ad9503c-8d29-4c03-87a6-0816eebf4d53",
+    "date": "2026-09-18",
+    "topic": "The Dark Art of Short Selling and Margin Trading: How Leverage Can Make You Rich or Ruin You",
+    "teaser": "In 1929, Jesse Livermore made $100 million shorting the crash—then lost it all. The same leverage that lets you profit from chaos is the leverage that destroys you. Here's the math and the mindset to avoid his fate.",
+    "summary": "In 1929, Jesse Livermore—the greatest short seller who ever lived—made $100 million betting against the stock market. He was right about the crash, but he was wrong about himself. Four years later, he was broke. His suicide note read: 'My life has been a failure.' Livermore's tragedy wasn't a lack of skill. It was a failure to understand the second-order effects of leverage: the way borrowed capital doesn't just magnify your bets—it magnifies your emotions, your mistakes, and your fragility to randomness.\n\nShort selling and margin trading are the only ways to profit in a falling market, but they are also the fastest ways to lose everything. The first principle: leverage is not a tool; it's a contract with the devil. It gives you the ability to amplify returns, but it takes away your margin for error—literally and figuratively. When you short a stock, your maximum gain is 100% (the stock goes to zero), but your maximum loss is infinite. When you use margin, you can lose more than you invested. And in both cases, you're exposed to the invisible hand of the broker: they can change the rules mid-game, raising margin requirements or forcing you to buy back shares at the worst possible moment.\n\nBut this isn't just about mechanics. It's about the mental models that separate the Livermores of the world from the survivors. You'll learn why short selling is a negative-sum game where the house always wins, how margin acts as a fair-weather friend that abandons you in a storm, and why the crowd is often right—until it's catastrophically wrong. This lesson will equip you with the tools to assess your own leverage, avoid the psychological traps, and understand the hidden risks that lurk in leveraged ETFs and meme stocks. The goal isn't to avoid leverage entirely—it's to wield it with the respect it demands.",
+    "key_points": [
+      "Short selling is a negative-sum game: you pay borrowing fees, dividends, and the opportunity cost of capital, while your maximum gain is capped at 100% and your loss is unlimited. But the real asymmetry is in timing: short sellers must be right about direction *and* timing, while longs can simply wait. This is why even correct short calls can bankrupt you.",
+      "Margin is a fair-weather friend: brokers can raise margin requirements or liquidate your positions without warning, and they will do so precisely when you can least afford it. This creates procyclicality—falling prices trigger margin calls, forcing selling, which pushes prices lower. The 1929 crash and the 2008 financial crisis were both amplified by this feedback loop. The lesson: leverage turns a temporary drawdown into permanent loss.",
+      "The crowd is often right—until it's catastrophically wrong: when short interest is extremely high, it signals that the crowd is already bearish, and a small positive catalyst can trigger a short squeeze. Conversely, when margin debt is at record highs, it signals complacency. But the key is to look for *extremes*: when everyone is on one side of the boat, the risk of a violent reversal is highest. Contrarian indicators work only at the tails, not in the middle."
+    ],
+    "practice": [
+      {
+        "title": "Calculate your margin interest cost and break-even point",
+        "steps": [
+          "Gather your latest brokerage statement. Identify your margin loan balance and the annual interest rate (e.g., 8%).",
+          "Compute the annual interest cost: Margin Loan × Interest Rate. For example, $50,000 × 0.08 = $4,000 per year.",
+          "Determine your break-even return: Interest Cost / Margin Loan. In this case, $4,000 / $50,000 = 8%. You need to earn at least 8% just to cover the interest.",
+          "Compare this to your expected annual return on the margined assets. If your expected return is less than 8%, you're losing money on the margin loan.",
+          "Decision rule: If the expected return is not at least 2% above the margin rate (to compensate for risk), reduce margin debt or reallocate to higher-return investments. If you have no margin balance, skip to the next exercise."
+        ]
+      },
+      {
+        "title": "Simulate a short squeeze with real-world factors",
+        "steps": [
+          "Pick a heavily shorted stock (e.g., one with short interest >20% of float). Assume you are short 100 shares at $50, with a 150% maintenance margin requirement.",
+          "Model a 50% price increase in one day: new price = $75. Your loss = (75 - 50) × 100 = $2,500.",
+          "Calculate your equity: initial margin = 150% × (100 × $50) = $7,500. After the price increase, your equity = $7,500 - $2,500 = $5,000. The new maintenance margin required = 150% × (100 × $75) = $11,250. You have a margin call of $6,250.",
+          "Now, account for borrow fees: assume an annual borrow fee of 10%. Daily fee = 10% / 360 × (100 × $75) = $2.08 per day. Over a 5-day squeeze, that's $10.40—small but adds up.",
+          "Decision rule: If the stock's short interest is >20% of float and the borrow fee is >5%, the risk of a squeeze is high. Avoid shorting or use options to define your risk. If you are already short, set a stop-loss at a 25% adverse move and stick to it."
+        ]
+      },
+      {
+        "title": "Quantify the volatility decay of leveraged ETFs",
+        "steps": [
+          "List any leveraged or inverse ETFs you hold (e.g., TQQQ, SQQQ, SPXL).",
+          "Find the underlying index's daily volatility (e.g., VIX or historical standard deviation). Assume a daily volatility of 2% for the S&P 500.",
+          "Use the formula for volatility decay: Decay ≈ (Leverage² × Volatility²) / 2. For a 3x ETF, decay ≈ (9 × 0.0004) / 2 = 0.0018, or 0.18% per day. Over a year (252 trading days), that's about 45%—a massive drag.",
+          "Compare this to the ETF's expense ratio and borrowing costs. If the decay is greater than your expected excess return, the ETF is likely to underperform the underlying index over your holding period.",
+          "Decision rule: If your holding period is longer than one day, avoid leveraged ETFs unless you are hedging or trading short-term. If you must hold, calculate the break-even point: the underlying index must rise by more than the decay to make a profit. For a 3x ETF, the index needs to rise by at least 0.18% per day just to break even."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest risk is psychological: leverage induces overconfidence and leads to revenge trading. Short sellers often fall into the trap of 'fighting the tape' when a stock keeps rising, leading to catastrophic losses. Margin trading can turn a temporary drawdown into permanent loss if you're forced to sell at the bottom. Additionally, short selling can be subject to 'short squeeze' dynamics, where coordinated buying drives the price up, causing unlimited losses. Regulatory risks: short selling bans during crises. And the hidden cost: borrowing fees can spike, making shorts unprofitable even if the stock falls. Always stress-test your positions for a 50% adverse move and ensure you can meet margin calls without forced liquidation.",
+    "sources": [
+      {
+        "title": "Search: The Dark Art of Short Selling and Margin Trading: How Leverage Can Make You Rich or Ruin You",
+        "url": "https://www.google.com/search?q=The%20Dark%20Art%20of%20Short%20Selling%20and%20Margin%20Trading%3A%20How%20Leverage%20Can%20Make%20You%20Rich%20or%20Ruin%20You"
+      }
+    ],
+    "meta": {
+      "id": "Short selling & margin trading",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Leverage",
+        "Risk management"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "745857ca-d839-48e7-80df-8589efa58eca",
     "date": "2026-09-17",
     "topic": "Market Efficiency and Anomalies: Why $100 Bills Don't Stay on the Sidewalk for Long",
@@ -3797,72 +3862,6 @@
       "related": [
         "Time zones",
         "Overnight risk"
-      ],
-      "tags": [
-        "Market Operations",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "751e9e33-498d-4062-a127-84ae2548913a",
-    "date": "2026-07-08",
-    "topic": "Market Microstructure: The Hidden Tax in Every Trade",
-    "teaser": "The stock market is a medieval bazaar, and you're paying the merchant just to haggle. Uncover the invisible cost.",
-    "summary": "Imagine the stock market as a **medieval bazaar**, not a digital exchange. The **bid-ask spread** is the haggling—except you're paying the merchant just for the privilege to negotiate. This is the essence of **market microstructure**, the study of how specific trading mechanisms affect price formation. At its heart lies the **bid-ask spread**: the difference between the highest price a buyer will pay (bid) and the lowest a seller will accept (ask). The **order book** is a real-time list of all pending bids and asks, revealing supply and demand at each price level. From first principles: every trade requires a counterparty; the spread compensates the middleman for immediacy and risk.\n\nWhy does this matter? **Every time you trade, you cross the spread**—paying a hidden tax that can eat **10-30% of your returns** if you trade frequently. In volatile markets, spreads widen, silently draining your portfolio. Understanding microstructure helps you choose the right order type, time your trades, and avoid being the 'liquidity provider' when you intended to be a 'taker'. For example, using limit orders instead of market orders can save you the spread, but requires patience. Recognizing that **liquidity is a mirage**—most orders are 'ghost' liquidity from HFTs that cancel in milliseconds—can prevent you from overestimating market depth. The spread is also a **volatility forecast**: a wide spread signals market makers expect big moves, giving you information about uncertainty. Finally, **time priority is a trap**: in continuous trading, first order at a price gets filled first, but in dark pools or auctions, that advantage disappears—so your execution strategy must adapt.\n\nIn summary, the bid-ask spread is not just a cost; it's a window into market dynamics. By mastering microstructure, you can trade smarter, reduce costs, and avoid being the sucker at the bazaar.",
-    "key_points": [
-      "The spread is a tax on impatience: Every market order you submit pays the spread as an immediacy premium. The wider the spread, the more you're paying for speed. Patience, via limit orders, lets you earn that premium instead.",
-      "Market microstructure reveals the true cost of liquidity, which is often higher than commissions: The bid-ask spread is just the visible tip. Hidden costs include price impact, adverse selection, and slippage. For large trades, the real cost can be 10x the spread.",
-      "The order book is a battlefield: Bids and asks represent armies of buyers and sellers. Depth at each price level shows the strength of support or resistance. A sudden thinning of the book signals vulnerability—like a castle gate left unguarded."
-    ],
-    "practice": [
-      {
-        "title": "Observe Spread Dynamics",
-        "steps": [
-          "Check the bid-ask spread of your favorite stock at market open vs. close.",
-          "Note how it changes—this tells you when liquidity is thinnest.",
-          "Record the spread at different times of day for one week.",
-          "Interpret: if the spread is wide, avoid market orders; use limit orders or wait."
-        ]
-      },
-      {
-        "title": "Limit Order Experiment",
-        "steps": [
-          "Place a limit order 0.5% above the bid (for buys) and see how long it takes to fill.",
-          "Compare to market orders—calculate the cost savings from avoiding the spread.",
-          "Repeat for sells: place limit order 0.5% below the ask.",
-          "Expected outcome: limit orders fill slowly in liquid stocks, but save 50-100% of spread cost over a week."
-        ]
-      },
-      {
-        "title": "Simulate a Flash Crash",
-        "steps": [
-          "Use historical data or a simulator (e.g., QuantConnect) to replay May 6, 2010 flash crash.",
-          "Identify which of your holdings would suffer most from a liquidity vacuum.",
-          "Set a stop-loss based on spread width for that asset.",
-          "Test: if the spread widens to 10x normal, your stop-loss triggers before price crashes further."
-        ]
-      }
-    ],
-    "risk_notes": "Over-optimizing for spread can lead to 'paralysis by analysis'—you miss trades waiting for a better price. Also, in fast markets, limit orders can be 'picked off' by savvy traders when news hits. The spread is a signal, not a rule.",
-    "sources": [
-      {
-        "title": "Larry Harris, Trading and Exchanges: Market Microstructure for Practitioners (Oxford University Press, 2003)",
-        "url": "https://global.oup.com/academic/product/trading-and-exchanges-9780195144703"
-      },
-      {
-        "title": "Maureen O'Hara, Market Microstructure Theory (Wiley, 1998)",
-        "url": "https://www.wiley.com/en-us/Market+Microstructure+Theory-p-9780631207610"
-      }
-    ],
-    "meta": {
-      "id": "Market microstructure",
-      "category": "Market Operations",
-      "difficulty": 2,
-      "level": "2. Investment Fundamentals",
-      "related": [
-        "Bid-ask spread",
-        "Order book"
       ],
       "tags": [
         "Market Operations",
