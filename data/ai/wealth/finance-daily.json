@@ -1,5 +1,71 @@
 [
   {
+    "id": "5ac1f917-30a8-4ab4-a422-e8aacbf877de",
+    "date": "2026-09-20",
+    "topic": "The 24-Hour Market: How Global Time Zones Shape Risk and Opportunity",
+    "teaser": "The sun never sets on your portfolio—but it does set on liquidity. Discover why the 1987 crash was a time-zone relay race, and how to stop running the night shift blind.",
+    "summary": "On October 19, 1987, the Dow fell 22.6% in a single day. But the crash didn't start on the floor of the NYSE. It started in Tokyo. \n\nHere's the first-principles problem: a stock exchange is not a place—it's a continuous auction. And when you link auctions across time zones, you create a **relay race of information and panic**. In 1987, portfolio insurance strategies told computers to sell futures as prices fell. When New York closed, Tokyo opened, saw the blood in the water, and sold off. Then Europe opened and did the same. By the time New York reopened, the feedback loop had become a self-reinforcing spiral. The crash wasn't a single event—it was a chain of handoffs, each time zone amplifying the last.\n\nThis is the hidden clock that drives global markets. Your portfolio doesn't sleep when you do. Overnight, Asian and European markets react to news that hits after the US close. A Fed announcement at 2 PM ET can trigger a ripple that crashes Asian stocks before you wake up. If you only watch your local market, you're flying blind.\n\n**Liquidity is a time zone, not a constant.** The deepest liquidity for US stocks occurs during the overlap of US and European hours (9:30–11:30 ET). Trading outside that window means wider spreads and slippage—your execution cost is a function of the clock. At 3 AM ET, the bid-ask spread on a mid-cap stock can be 10x wider than at 10 AM. You're not just trading against algos; you're trading against the clock itself.\n\n**Overnight risk is not a single risk; it's a chain of handoffs.** Each market close transfers risk to the next time zone. The 1987 crash accelerated because Tokyo opened after New York's fall and sold off, which then hit Europe, creating a feedback loop. The risk is not the gap itself, but the reflexive panic it can ignite. This is reflexivity in action: prices don't just reflect fundamentals; they shape them. A falling price triggers margin calls, which trigger more selling, which triggers more margin calls. The time-zone relay race turns a local sell-off into a global cascade.\n\n**The 'home bias' is a time-zone illusion.** Investors prefer local stocks because they can trade them during waking hours. But this convenience bias leads to under-diversification. The global market is a 24-hour assembly line; ignoring the night shift means you miss half the production. More importantly, you miss the diversification benefit: when your local market sleeps, others are awake and trading on different information. The correlation between markets is not constant—it rises in crises, but in normal times, the night shift can be a source of uncorrelated returns.\n\nTo navigate this landscape, map your portfolio's 'sun exposure,' simulate an overnight shock, and check the 'liquidity clock' before trading. But beware: the biggest trap is the illusion of control—thinking you can trade 24/7 profitably. Most retail traders lose money in extended hours due to thin liquidity and algos. The psychological trap is treating overnight moves as actionable signals when they're often just noise from lower-volume sessions. The market never sleeps, but you should.",
+    "key_points": [
+      "Liquidity is a time zone, not a constant. The deepest liquidity for US stocks occurs during the overlap of US and European hours (9:30–11:30 ET). Trading outside that window means wider spreads and slippage—your execution cost is a function of the clock. At 3 AM ET, the bid-ask spread on a mid-cap stock can be 10x wider than at 10 AM. You're not just trading against algos; you're trading against the clock itself.",
+      "Overnight risk is not a single risk; it's a chain of handoffs. Each market close transfers risk to the next time zone. The 1987 crash accelerated because Tokyo opened after New York's fall and sold off, which then hit Europe, creating a feedback loop. The risk is not the gap itself, but the reflexive panic it can ignite. This is reflexivity in action: prices don't just reflect fundamentals; they shape them. A falling price triggers margin calls, which trigger more selling, which triggers more margin calls. The time-zone relay race turns a local sell-off into a global cascade.",
+      "The 'home bias' is a time-zone illusion. Investors prefer local stocks because they can trade them during waking hours. But this convenience bias leads to under-diversification. The global market is a 24-hour assembly line; ignoring the night shift means you miss half the production. More importantly, you miss the diversification benefit: when your local market sleeps, others are awake and trading on different information. The correlation between markets is not constant—it rises in crises, but in normal times, the night shift can be a source of uncorrelated returns."
+    ],
+    "practice": [
+      {
+        "title": "Map your portfolio's 'sun exposure'",
+        "steps": [
+          "List each holding's primary exchange and note its trading hours in your local time.",
+          "Identify which assets are active when you're asleep.",
+          "Calculate the percentage of your portfolio that trades while you're in bed.",
+          "Interpretation: If >30% of your portfolio trades while you sleep, you have significant overnight gap risk. If <10%, you may be under-diversified globally. The goal is not zero overnight exposure, but conscious exposure."
+        ]
+      },
+      {
+        "title": "Simulate an overnight shock",
+        "steps": [
+          "Pick a specific historical event: e.g., the August 5, 2024, yen carry trade unwind, or the March 2020 COVID crash.",
+          "Look at how the S&P 500 futures reacted after hours, then how the Nikkei opened, then how the DAX opened.",
+          "Write down the chain of moves, noting the time and magnitude of each leg.",
+          "Reflect: If you had held a leveraged position, at what point would you have been forced to sell? This trains you to anticipate gaps and size positions accordingly."
+        ]
+      },
+      {
+        "title": "Check the 'liquidity clock'",
+        "steps": [
+          "Before placing a trade, note the time.",
+          "If it's outside the overlap of major sessions (e.g., 3 AM ET for US stocks), check the bid-ask spread.",
+          "Compare it to the spread at 10 AM ET. You'll see the hidden cost of trading in the dark.",
+          "Action: If the spread is more than 2x the normal spread, either use a limit order or wait for the liquidity window to open. Never use market orders in thin liquidity."
+        ]
+      }
+    ],
+    "risk_notes": "The biggest trap is the illusion of control: thinking you can trade 24/7 profitably. Most retail traders lose money in extended hours due to thin liquidity and algos. Also, the 'gap' between close and open can trigger emotional decisions—selling at the open in a panic, locking in losses that might have recovered. The psychological trap is treating overnight moves as actionable signals when they're often just noise from lower-volume sessions. Remember: the market never sleeps, but you should. Your edge comes from preparation, not from being awake at 3 AM.",
+    "sources": [
+      {
+        "title": "The 1987 Crash: A Retrospective",
+        "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987"
+      },
+      {
+        "title": "The Time Zone Arbitrage",
+        "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380"
+      }
+    ],
+    "meta": {
+      "id": "Global market hours",
+      "category": "Market Operations",
+      "difficulty": 2,
+      "level": "2. Investment Fundamentals",
+      "related": [
+        "Time zones",
+        "Overnight risk"
+      ],
+      "tags": [
+        "Market Operations",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "27a059a7-e48d-46b7-882c-d40dbabd640d",
     "date": "2026-09-19",
     "topic": "Market Microstructure: The Invisible Plumbing of Financial Markets",
@@ -3805,65 +3871,6 @@
       "related": [
         "Utility",
         "Indifference curves"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "e7439ec9-7627-44c8-8bad-b8c2b6719eab",
-    "date": "2026-07-10",
-    "topic": "Supply and Demand: The Psychology Behind the Price Tag",
-    "teaser": "In 1973, oil supply dropped just 5%, but prices quadrupled. The real shortage wasn't crude—it was sanity.",
-    "summary": "The 1973 oil crisis wasn't about oil; it was about the supply of expectations. When OPEC embargoed the US, the price of a barrel quadrupled, but the actual physical supply only dropped by 5%. The rest was panic. **Supply and demand** is a story about human psychology, not just barrels and bushels.\n\nPicture this: You're in line at a gas station in 1973, the air thick with anxiety. The news says OPEC has cut exports, but the real bottleneck is in your head. Every driver, fearing future shortages, fills up their tank and then some. That surge in demand—driven by fear—creates the very shortage everyone feared. The equilibrium price shot up, not because there was less oil, but because everyone *thought* there would be.\n\nAt its simplest, supply and demand describes the relationship between the quantity of a good that producers are willing to sell at various prices (supply) and the quantity that consumers are willing to buy (demand). The intersection of these two curves is the **equilibrium price**—the market-clearing price where every buyer finds a seller. But this is just a static snapshot. In reality, both curves are constantly shifting due to changes in preferences, technology, costs, and expectations. The 'law' is just a first approximation; the real magic is in understanding the dynamics.\n\nEvery day, you participate in markets—as a consumer, an investor, or an employee. The price of your morning coffee, the rent on your apartment, the value of your stock portfolio, and even your salary are all determined by supply and demand. Ignoring these forces is like sailing without a compass. Right now, understanding supply and demand can help you spot bubbles (like the housing market in 2008), negotiate a raise (by demonstrating your scarcity), or avoid overpaying for trendy assets (like NFTs in 2021).",
-    "key_points": [
-      "**Price is a signal, not a verdict.** High prices tell producers to make more and consumers to use less. Low prices do the opposite. But signals can be distorted by subsidies, taxes, or regulations—leading to shortages or surpluses. In 1973, price controls created lines that wouldn't have existed otherwise.",
-      "**Elasticity is the hidden multiplier.** Demand for insulin is inelastic (people need it regardless of price), while demand for concert tickets is elastic (a small price change can cause a big swing in attendance). When supply is disrupted, inelastic goods see massive price spikes; elastic goods see quantity adjustments. But the real insight? Think about *marginal buyers* in an auction: the last bidder willing to pay $500 for a vintage guitar sets the price for everyone. That's why a single motivated buyer can send prices soaring—it's not about the average, it's about the edge.",
-      "**The marginal buyer and seller set the price.** The last person willing to buy at the highest price, and the last person willing to sell at the lowest price, determine the market price. This is why a small shift in supply or demand can cause large price changes—it's all about the edge. In a bidding war, the marginal buyer is the one who just won—and their willingness to pay is often driven by emotion, not logic."
-    ],
-    "practice": [
-      {
-        "title": "Track a Product's Price and Predict Movements",
-        "steps": [
-          "Pick a product you buy regularly (e.g., gasoline, avocados).",
-          "For one week, track its price and note any news about supply (weather, strikes) or demand (holidays, trends).",
-          "See if you can predict price movements based on shifts in supply/demand."
-        ]
-      },
-      {
-        "title": "Elasticity Thought Experiment on Your Skills",
-        "steps": [
-          "If you raised your hourly rate by 20%, how many clients would you lose?",
-          "If you lowered it by 20%, how many new clients would you gain?",
-          "Calculate your elasticity: % change in quantity demanded / % change in price. This tells you your personal demand elasticity."
-        ]
-      },
-      {
-        "title": "Identify a Market and Propose Equilibrium Shifts",
-        "steps": [
-          "Identify a market where you think prices are 'too high' or 'too low'.",
-          "List three factors that could shift supply or demand to bring prices back to 'normal'.",
-          "This trains you to think in terms of equilibrium."
-        ]
-      }
-    ],
-    "risk_notes": "The biggest trap is assuming supply and demand are independent. They are not—advertising can create demand, and production can be adjusted based on expected demand. Another trap is ignoring time lags: supply often takes years to respond (e.g., housing construction), leading to boom-bust cycles. Finally, the model assumes rational actors, but humans are emotional—fear and greed can cause prices to overshoot any 'equilibrium' for extended periods.",
-    "sources": [
-      {
-        "title": "Search: Supply and Demand: The Psychology Behind the Price Tag",
-        "url": "https://www.google.com/search?q=Supply%20and%20Demand%3A%20The%20Psychology%20Behind%20the%20Price%20Tag"
-      }
-    ],
-    "meta": {
-      "id": "Supply & demand analysis",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Equilibrium",
-        "Elasticity"
       ],
       "tags": [
         "Microeconomics Fundamentals",
