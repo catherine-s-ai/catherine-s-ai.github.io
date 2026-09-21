@@ -1,5 +1,64 @@
 [
   {
+    "id": "2afa88bc-cc73-4d50-93af-05db9106897c",
+    "date": "2026-09-21",
+    "topic": "Supply and Demand: The Engine of Prices and Wealth",
+    "teaser": "The price of everything you buy is a lie—a signal, not a truth. Master the hidden curves that dictate your wealth, or be their victim.",
+    "summary": "In 1637, a single tulip bulb in Holland sold for more than a house. The flower was ordinary; the price was a story. That story was written by two invisible curves: supply and demand. When they shifted, fortunes evaporated overnight. The same curves govern your coffee, your salary, your stocks—and your wealth.\n\nForget the textbook definition. Think of supply and demand as a living conversation between buyers and sellers. Demand is not a number; it's a relationship: how much people will buy at every possible price, all else equal. Supply is the same for sellers. Where they meet, a price is born. But that price is not a fact—it's a truce, constantly renegotiated.\n\nThe magic is in the shifts. A drought shifts supply left: prices rise, quantities fall. A new fashion shifts demand right: prices and quantities rise. The equilibrium is not a resting point; it's a moving target. The market is a discovery process, and prices are the whispers of millions of decentralized decisions. As Hayek taught, prices are knowledge surrogates—they tell you what society values without you knowing why.\n\nWhy does this matter for your wealth? Because every investment is a bet on future supply and demand. When you buy a stock, you're buying a claim on future cash flows, which depend on the company's ability to price its products. When you negotiate a salary, you're pricing your labor. When you buy a house, you're betting on local supply constraints and demographic demand. The investor who understands curves anticipates shifts before they become obvious. The one who doesn't mistakes temporary spikes for permanent trends, buys at peaks, and sells at troughs.\n\nThe tulip mania wasn't irrational—it was a supply shock (rare bulbs) meeting a demand frenzy (status competition), fueled by credit. When supply caught up, the curves shifted, and the price collapsed. The lesson: prices are signals, not values. Master the signals, and you master your financial destiny.",
+    "key_points": [
+      "**Elasticity is the hidden taxman.** When demand is inelastic (insulin, addictive products, your rent in a supply-constrained city), consumers bear the burden of cost increases. When elastic (luxury cars, restaurant meals), producers absorb them. In your portfolio, companies with inelastic demand enjoy pricing power—a moat. Your labor is often inelastic in the short run (you can't instantly retrain), which is why wage stagnation hurts. Know the elasticity of what you buy, sell, and invest in.",
+      "**Prices are information, not truth.** A high price doesn't mean something is good; it means demand exceeds supply at that moment. This distinction separates investors from speculators. During the 2000 dot-com bubble, prices signaled demand, not value. Those who confused the two lost fortunes. Use prices as data points in a dynamic process, not as verdicts.",
+      "**Equilibrium is a process, not a point.** Markets are constantly discovering prices through trial and error. The 'equilibrium' you see is a snapshot of a moving target. Profit comes from spotting where the curve is heading, not where it is. This is why trend-following works—until it doesn't. The key is to understand the underlying supply and demand forces driving the trend."
+    ],
+    "practice": [
+      {
+        "title": "Map Your Personal Supply and Demand",
+        "steps": [
+          "List your income sources (labor, investments, side hustles). For each, identify factors that shift demand for your offering (e.g., industry growth, your skills' scarcity).",
+          "List your major expenses (housing, food, transportation). For each, identify factors that shift supply (e.g., zoning laws, oil prices) and demand (e.g., population growth, preferences).",
+          "Predict which of your income sources will face increasing supply (more competition) and which expenses will face inelastic demand (you'll pay more). Adjust your career or spending accordingly."
+        ]
+      },
+      {
+        "title": "Calculate the Price Elasticity of Your Labor",
+        "steps": [
+          "Estimate how many clients or job offers you'd lose if you raised your rate by 10%. If you'd lose fewer than 10%, demand for your labor is inelastic—raise your rate. If more, it's elastic—invest in skills that make you indispensable.",
+          "Research the elasticity of your industry: Is it growing? Are there barriers to entry? Use this to forecast your future bargaining power.",
+          "Apply the same logic to your investments: Identify companies with inelastic demand for their products (e.g., utilities, pharmaceuticals) and consider their pricing power as a moat."
+        ]
+      },
+      {
+        "title": "Simulate a Market Shock and Trade It",
+        "steps": [
+          "Choose a stock or ETF. Identify a potential supply shock (e.g., new technology reduces costs) and a demand shock (e.g., regulatory change increases demand).",
+          "Draw the shifts on a supply and demand diagram. Predict the direction of price and quantity.",
+          "Decide how you would position your portfolio: Would you buy, sell, or hold? Write down your reasoning. Then track the actual news over the next month to see if your prediction holds. This builds the muscle of anticipating shifts."
+        ]
+      }
+    ],
+    "risk_notes": "Supply and demand assumes perfect competition, perfect information, and rational actors. In reality, markets are often dominated by monopolies, information is asymmetric, and humans are emotional. These assumptions fail spectacularly during bubbles and crashes. Also, the model is static—it doesn't account for time lags, feedback loops, or externalities. Relying solely on it can lead to ignoring power dynamics and psychological factors. Use it as a lens, not a religion.",
+    "sources": [
+      {
+        "title": "Search: Supply and Demand: The Engine of Prices and Wealth",
+        "url": "https://www.google.com/search?q=Supply%20and%20Demand%3A%20The%20Engine%20of%20Prices%20and%20Wealth"
+      }
+    ],
+    "meta": {
+      "id": "Supply & demand analysis",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Equilibrium",
+        "Elasticity"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "5ac1f917-30a8-4ab4-a422-e8aacbf877de",
     "date": "2026-09-20",
     "topic": "The 24-Hour Market: How Global Time Zones Shape Risk and Opportunity",
@@ -3807,70 +3866,6 @@
       "related": [
         "Cost structure",
         "Production functions"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "0df5536e-8de7-4b53-ad3f-c165f6f0b02d",
-    "date": "2026-07-11",
-    "topic": "Consumer Theory: The Hidden Logic Behind Every Purchase",
-    "teaser": "Why is water cheap but diamonds expensive? The answer will reprogram how you spend every dollar—and why earning more won't make you happier.",
-    "summary": "The 19th-century 'diamond-water paradox' stumped economists: water, essential for life, is cheap; diamonds, mere trinkets, are exorbitant. The resolution birthed modern consumer theory—and a mental model that can save you thousands.\n\nIt's all about marginal utility. Water's total utility is immense, but its marginal utility (the extra satisfaction from one more glass) is tiny because it's abundant. Diamonds are scarce, so each additional carat delivers a massive jolt of utility. This principle explains why the first slice of pizza is bliss, the fifth is regret, and why your $75,000 salary feels like freedom, but $150,000 feels like a treadmill.\n\nEvery purchase is a trade-off. In a world of infinite choices and targeted ads, understanding your own utility function cuts through the noise. You'll stop overpaying for status goods that don't bring lasting satisfaction and start allocating money to experiences or assets that compound joy. Right now, with inflation and rising rates, consumer theory is your mental budget optimizer—a lens to see hidden costs and fake value.\n\nThis isn't abstract theory. It's the logic behind why you choose Netflix over a night out, why you upgrade your phone but not your mattress, and why the best financial decision is often to do nothing. Let's decode the hidden logic behind every purchase.",
-    "key_points": [
-      "The Easterlin Paradox: Beyond ~$75,000 (adjusted for inflation and location), income gains yield negligible happiness increases. The marginal utility of money itself diminishes sharply. Stop chasing raises—chase time and autonomy.",
-      "Indifference curves reveal your 'shadow preferences'—the trade-offs you make when no one is watching. Track your spending for a month; the pattern shows what you truly value, not what you say you value. Most people over-index on visible consumption and under-index on experiences.",
-      "Narrow framing is the enemy: we treat each purchase in isolation, ignoring the holistic budget constraint. The true cost is the foregone alternative (opportunity cost), not the price tag. Before any discretionary purchase, ask: 'What else could this money do over the next 10 years?'",
-      "The diamond-water paradox is resolved by distinguishing total vs. marginal utility. Water's total utility is high, marginal utility low; diamonds reverse that. This principle explains why essential goods (housing, healthcare) can be 'cheap' in marginal terms, while luxury goods command high prices."
-    ],
-    "practice": [
-      {
-        "title": "Utility Audit",
-        "steps": [
-          "For one week, log every non-essential purchase and rate its satisfaction (1-10).",
-          "Identify the top 3 lowest-utility items—eliminate them permanently.",
-          "Calculate the annual savings and convert into hours of freedom (e.g., 'This frees up 2 months of work')."
-        ]
-      },
-      {
-        "title": "Opportunity Cost Check",
-        "steps": [
-          "Before any purchase over $50, mentally convert the cost into hours of work (after-tax hourly wage).",
-          "Ask: 'Is this worth X hours of my life?'",
-          "For bigger purchases, calculate the future value: if invested at 7% for 20 years, what would it be worth?"
-        ]
-      },
-      {
-        "title": "Shadow Preference Mapping",
-        "steps": [
-          "Instead of abstract indifference curves, track your actual spending on two categories (e.g., dining out vs. streaming).",
-          "List the combinations you chose over the past month.",
-          "Plot them: does your spending pattern align with what you claim to value? If not, adjust."
-        ]
-      }
-    ],
-    "risk_notes": "Consumer theory assumes perfect rationality and stable preferences. In reality, we suffer from present bias (overvaluing now), social comparison (keeping up with Joneses), and addiction (where utility is negative but consumption persists). The model also ignores that preferences are malleable—advertisers shape what we want. Over-reliance on this theory can lead to 'utility maximization' that feels robotic and misses non-quantifiable joys like altruism or spontaneity. Use it as a lens, not a straitjacket.",
-    "sources": [
-      {
-        "title": "Frank, R. H. (2011). The Economic Naturalist: Why Economics Explains Almost Everything.",
-        "url": "https://www.basicbooks.com/titles/robert-h-frank/the-economic-naturalist/9780465022238/"
-      },
-      {
-        "title": "Thaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving Decisions About Health, Wealth, and Happiness.",
-        "url": "https://yalebooks.yale.edu/book/9780300122237/nudge/"
-      }
-    ],
-    "meta": {
-      "id": "Consumer theory",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Utility",
-        "Indifference curves"
       ],
       "tags": [
         "Microeconomics Fundamentals",
