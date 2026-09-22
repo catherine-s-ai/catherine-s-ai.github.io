@@ -1,5 +1,71 @@
 [
   {
+    "id": "f422ee0b-8ad4-444c-8e11-7449646637cb",
+    "date": "2026-09-22",
+    "topic": "Consumer Theory: The Hidden Logic Behind Every Purchase You Make",
+    "teaser": "In 1845, an Irish farmer starved to death so his family could keep a cow he could have eaten. He wasn't irrational. He was solving an equation you solve every day—just with higher stakes.",
+    "summary": "In 1845, an Irish farmer starved to death so his family could keep a cow he could have eaten. He wasn't irrational. He was solving an equation you solve every day—just with higher stakes. That equation is consumer theory: the study of how you allocate scarce resources (money, time, attention) across competing desires. At its core, it assumes you try to maximize **utility**—satisfaction—subject to a **budget constraint**. But here's the hidden logic: utility isn't a fixed quantity you extract from goods. It's a story you tell yourself about what matters. The farmer's choice reveals that his utility function weighted future survival above present hunger. Your choices—the latte, the 401(k), the impulse buy—reveal yours. The framework has three moving parts: **preferences** (what you want, mapped by indifference curves), **prices** (what the market charges), and **income** (what you can spend). You optimize where the rate at which you're willing to trade one good for another equals the rate the market allows—the tangency point. But the real insight is this: your indifference curves are not static. They shift with advertising, social comparison, and the stories you consume. If you feel broke, it's not just because your budget line is tight—it's because your preferences have been hijacked. Consumer theory doesn't just describe spending; it exposes the invisible trade-offs you make every day. Master it, and you stop being a passive consumer. You become an editor of your own desires.",
+    "key_points": [
+      "Utility is subjective—but it's also manufactured. Two people with identical incomes and prices can make opposite choices because their indifference curves differ. There's no 'right' way to spend, only the way that maximizes your utility. But here's the catch: your utility function is not a fixed trait. It's shaped by dopamine loops, social proof, and the stories you tell yourself. The actionable insight: audit your preferences. Are you buying what you truly value, or what you've been trained to want? The first step to optimizing utility is recognizing that your desires are not entirely your own.",
+      "The marginal rate of substitution (MRS) is your personal exchange rate—and you can approximate it. It tells you how much of good Y you'd trade for one more unit of good X while staying equally happy. When MRS equals the price ratio, you've optimized. In practice, you don't need a spreadsheet. Use a simple rule: if you'd gladly pay double for something and still feel it's worth it, you're undervaluing it relative to its price. Shift spending toward those items. Conversely, if you'd barely care if you had to give it up, cut it. This is 'bang for buck' thinking made concrete.",
+      "Income and substitution effects explain why price changes hit you twice. When gas prices rise, you buy less gas (substitution effect) but also feel poorer (income effect). The net effect can be counterintuitive: for inferior goods, you might buy more when the price rises. This isn't just academic—it's a budgeting tool. When inflation spikes, your real income falls. The substitution effect pushes you to cheaper alternatives; the income effect forces you to cut overall spending. Anticipate both. For example, if your rent rises, you'll substitute (maybe move) and also feel poorer (cut dining out). Knowing this, you can plan ahead instead of reacting."
+    ],
+    "practice": [
+      {
+        "title": "Utility Audit: Quantify Your Satisfaction per Dollar",
+        "steps": [
+          "Track every purchase for one week. For each, rate the satisfaction it gave you on a scale of 1–10 (immediate pleasure, long-term value, or social signaling).",
+          "Calculate 'utility per dollar' by dividing the satisfaction score by the cost. For example, a $5 coffee that gives you 8/10 satisfaction = 1.6 utility per dollar. A $100 dinner that gives you 9/10 = 0.09.",
+          "Identify the top three and bottom three purchases by this metric.",
+          "Next month, reallocate 10% of your budget from the bottom three categories to the top three. Measure the change in your overall satisfaction."
+        ]
+      },
+      {
+        "title": "Optimize Your Marginal Rate of Substitution (Without a Spreadsheet)",
+        "steps": [
+          "Pick two goods you buy regularly (e.g., coffee vs. tea, Uber vs. public transit).",
+          "Ask: 'How many units of Good B would I need to receive to be indifferent to giving up one unit of Good A?' That's your MRS.",
+          "Compare that to the price ratio (Price of A / Price of B). If your MRS is higher than the price ratio, you should buy more of A; if lower, buy more of B.",
+          "Adjust your next purchase accordingly. Repeat weekly until your gut feeling aligns with the price ratio. This trains your intuition to approximate optimization."
+        ]
+      },
+      {
+        "title": "Price Elasticity Simulation: Stress-Test Your Budget",
+        "steps": [
+          "Identify your most frequent purchase (e.g., groceries, gas, streaming subscriptions).",
+          "Simulate a 20% price increase. Write down exactly how you would respond: buy less, switch to a substitute, or absorb the cost.",
+          "Calculate the impact on your monthly budget if you absorbed the cost entirely. Then calculate the savings if you switched to the cheapest substitute.",
+          "Use this to set a 'price trigger'—a threshold at which you automatically switch. For example, 'If coffee beans rise above $15/lb, I'll switch to tea.' This turns theory into an automatic rule."
+        ]
+      }
+    ],
+    "risk_notes": "Consumer theory assumes perfect rationality, complete information, and stable preferences—none of which hold in the real world. We are predictably irrational (see Kahneman and Tversky), swayed by framing, and prone to addiction and impulse. Indifference curves can't capture the joy of a spontaneous gift or the regret of a bad purchase. The theory also ignores that utility can be interdependent: your satisfaction may depend on what others have (keeping up with the Joneses). Moreover, it treats time as a constraint but doesn't model procrastination or present bias, which lead to undersaving. Relying solely on consumer theory can make you overconfident in your ability to optimize, leading to analysis paralysis or ignoring emotional and social factors that drive real-world choices.",
+    "sources": [
+      {
+        "title": "Intermediate Microeconomics: A Modern Approach",
+        "url": "https://www.amazon.com/Intermediate-Microeconomics-Modern-Approach-Ninth/dp/0393123960"
+      },
+      {
+        "title": "Thinking, Fast and Slow",
+        "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      }
+    ],
+    "meta": {
+      "id": "Consumer theory",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Utility",
+        "Indifference curves"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "2afa88bc-cc73-4d50-93af-05db9106897c",
     "date": "2026-09-21",
     "topic": "Supply and Demand: The Engine of Prices and Wealth",
@@ -3802,70 +3868,6 @@
       "related": [
         "Competition",
         "Monopoly"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "945c5972-793d-409b-adee-e335c3b6860d",
-    "date": "2026-07-12",
-    "topic": "Producer Theory: The Economics of Inputs and Outputs",
-    "teaser": "Why your 10th hour of work is worth less than your 1st—and how to find the sweet spot before you waste your life.",
-    "summary": "Picture a baker with one oven who can bake 100 loaves a day. She buys a second oven—now 180 loaves. Excited, she buys a third—but only gets 230 loaves. The fourth oven? 250 loaves. She now has four ovens but still only two hands. That's the **law of diminishing returns** in action: each additional input yields less output. Most people and businesses ignore this. They think 'more is better' until they drown in costs.\n\nProducer theory is the science of escaping that trap. It's built on a simple first principle: **profit = revenue - cost**. To maximize profit, you need to know your **production function** (how inputs become outputs) and your **cost structure** (fixed vs. variable costs). The magic lies in the **marginal**—the extra output from one more unit of input, and the extra cost.\n\nIn today's world, where inflation is eating margins and supply chains are fragile, understanding your production function is survival. For a freelancer, it means knowing when to stop taking clients and raise prices. For a startup, it means knowing when to hire vs. automate. For an investor, it means spotting companies that can scale without crumbling under their own weight.\n\nThe key insight? **The optimal scale isn't the biggest; it's the point where average total cost is lowest.** Beyond that, you're just burning resources. And in the short run, **fixed costs are sunk**—ignore them. Only variable costs should guide your pricing or downsizing decisions. This is why airlines sell last-minute tickets for pennies; the marginal cost of an extra passenger is near zero.\n\nBut here's the counterintuitive twist: the pursuit of efficiency can make you fragile. If you optimize for today's costs, you might miss tomorrow's opportunities. The most resilient firms are those that build slack into their system—extra capacity, buffer inventory, flexible contracts. They understand that the true cost of rigidity is often invisible.\n\nProducer theory isn't just for economists. It's a mental model for anyone who wants to get more from less without burning out. It teaches you to obsess over the margin, ignore sunk costs, and know when to stop.",
-    "key_points": [
-      "Diminishing returns is a law, not a suggestion—your 10th hour of work yields less than your 1st. The smartest people quit while they're ahead, not when they're exhausted.",
-      "Fixed costs are sunk; they're gone. Yet most businesses anchor on them when pricing or cutting costs. The only thing that matters for decisions is marginal cost—the cost of the next unit. If that's low, you can price aggressively.",
-      "The optimal scale is where average total cost is minimized—not where revenue is highest. Bigger is often a trap: coordination costs, bureaucracy, and complexity eat profits. Small and efficient beats large and bloated.",
-      "Efficiency is a double-edged sword: lean operations are fragile. The most profitable firms often build in slack—extra capacity, redundancy—to absorb shocks. They sacrifice short-term efficiency for long-term resilience."
-    ],
-    "practice": [
-      {
-        "title": "Audit Your Inputs",
-        "steps": [
-          "List your top 3 personal or business 'inputs' (e.g., time, money, software).",
-          "For each, estimate the 'output' in terms of revenue, satisfaction, or progress (use a simple scale: 1-10).",
-          "Calculate the marginal return: how much extra output did the last unit of input give you? If it's declining, reallocate to something else.",
-          "Example: A freelancer tracked hours vs. income. She found the 40th hour earned 50% less per hour than the 20th. She cut back to 30 hours and used the extra time for skill-building."
-        ]
-      },
-      {
-        "title": "Marginal Cost-Benefit Decision",
-        "steps": [
-          "Think of a recent expense (e.g., a new tool, hiring a helper).",
-          "List the marginal cost (price, time to learn) and marginal benefit (time saved, extra revenue).",
-          "If marginal benefit > marginal cost, it's worth it. But also consider: could you have achieved the same benefit with a cheaper alternative?",
-          "Example: A small business owner considered a $500/month CRM. He calculated it would save 10 hours/month, worth $1000 at his hourly rate. But a free spreadsheet could save 8 hours. He chose the spreadsheet."
-        ]
-      },
-      {
-        "title": "Stress Test Your Fragility",
-        "steps": [
-          "Identify your most critical input (e.g., a key supplier, your own time).",
-          "Simulate a 20% price increase or 20% reduction in availability.",
-          "How would you adapt? List three specific actions (e.g., switch to a substitute, reduce usage, pass on cost).",
-          "If you can't adapt, you're too fragile. Build redundancy: find an alternative supplier, create a buffer stock, or cross-train team members.",
-          "Example: A restaurant owner realized 80% of his dishes used a single imported cheese. When tariffs hit, he reformulated recipes with local cheese and saved 15% on costs."
-        ]
-      }
-    ],
-    "risk_notes": "Producer theory assumes rational profit maximization and perfect information. In reality, companies misjudge costs, follow fads, or ignore long-term consequences (like environmental damage). The trap: obsessing over short-run cost minimization can kill innovation and quality. Also, economies of scale can become diseconomies if coordination costs explode. Beware of the 'efficiency paradox': optimizing for today can make you brittle for tomorrow.",
-    "sources": [
-      {
-        "title": "Microeconomic Theory by Mas-Colell, Whinston, and Green",
-        "url": "https://www.oxford.universitypressscholarship.com/view/10.1093/oso/9780195073409.001.0001/oso-9780195073409"
-      }
-    ],
-    "meta": {
-      "id": "Producer theory",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Cost structure",
-        "Production functions"
       ],
       "tags": [
         "Microeconomics Fundamentals",
