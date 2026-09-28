@@ -683,5 +683,67 @@
         "基础"
       ]
     }
+  },
+  {
+    "id": "9f88c6e8-81b4-4e52-bd70-c7318d0646ee",
+    "date": "2026-07-13",
+    "topic": "Market Structures: The Invisible Rules of Economic Power",
+    "teaser": "Why your favorite airline is probably a cartel—and why that's good for your portfolio.",
+    "summary": "Imagine you're at a farmers market. One vendor sells all the tomatoes. He sets the price. You either pay or go without. That's **monopoly**. But if there are 20 tomato vendors, you have power. **Market structures** are the invisible rules of this game, determining who holds the power—and your wallet's fate.\n\nMarket structures describe the competitive environment of an industry based on number of firms, product differentiation, and barriers to entry. From **perfect competition** (many firms, identical products, free entry) to **monopoly** (single firm, unique product, high barriers), they dictate pricing power, efficiency, and profits. At first principles, it's supply and demand meeting market power.\n\nYour investments and career depend on market structure. Monopolies (like utilities or tech platforms) can earn excess profits—great for stockholders but bad for consumers. Competitive industries (like airlines) get squeezed, hurting wages and returns. Knowing this helps you avoid value traps and spot moats. Today, Big Tech's market power is under regulatory fire; your portfolio hangs in the balance.\n\nMarket structure is a spectrum, not a binary: most industries are **oligopolies** (few firms) with strategic interdependence—think OPEC or mobile carriers. Your job is to identify where on the spectrum a company sits. **Barriers to entry** are the real moat: patents, network effects, economies of scale. Without them, profits attract competitors, eroding returns. Warren Buffett's 'economic castle' is about structural barriers. Regulation is the wildcard: antitrust laws can break monopolies (Standard Oil) or create them (patent protection). Political risk is often mispriced.",
+    "key_points": [
+      "Market structure is a spectrum: most industries are oligopolies with strategic interdependence. The real insight is that oligopolies often coordinate without explicit collusion—think 'price leadership' in airlines or 'follow the leader' in telecom. Identify where a company sits and watch for implicit coordination.",
+      "The best moats are often invisible—like switching costs or network effects. A patent expires, but a customer's habit of using Facebook is decades of data lock-in. Without such barriers, profits attract competitors, eroding returns. The counterintuitive twist: the most durable moats are those that get stronger with use.",
+      "Regulation is the wildcard: antitrust risk is asymmetric—monopolies can be broken (Standard Oil, AT&T), but oligopolies often collude implicitly and escape scrutiny. Political risk is often mispriced because markets assume regulation is either zero or total, while reality is a slow creep of compliance costs."
+    ],
+    "practice": [
+      {
+        "title": "Identify Your Company's Market Structure",
+        "steps": [
+          "Count major competitors in the industry.",
+          "Estimate barriers to entry (e.g., capital requirements, brand loyalty).",
+          "Classify as perfect competition, monopolistic competition, oligopoly, or monopoly.",
+          "Quantify pricing power: compare the company's gross margin to the industry average. A margin >2x industry average often indicates structural pricing power (e.g., Apple vs. PC makers)."
+        ]
+      },
+      {
+        "title": "Analyze Pricing Power",
+        "steps": [
+          "Compare profit margins of a monopoly (e.g., utility) to a competitive industry (e.g., airline).",
+          "Higher margins indicate stronger moat and pricing power.",
+          "Check if margins are stable over time—if not, barriers may be eroding.",
+          "For deeper insight, compute the Lerner Index: (Price - Marginal Cost) / Price. A value above 0.5 suggests significant market power."
+        ]
+      },
+      {
+        "title": "Simulate an Oligopoly Game",
+        "steps": [
+          "Choose an oligopoly (e.g., airlines).",
+          "Imagine one firm cuts fares—what do rivals do? (Prisoner's dilemma).",
+          "This explains why oligopolies often have sticky prices and moderate profits.",
+          "Build a simple payoff matrix: if both firms collude (high price), both profit; if one cheats, it gains short-term; if both cheat, all lose. This reveals why cartels are unstable and why tit-for-tat strategies often emerge."
+        ]
+      }
+    ],
+    "risk_notes": "The trap: assuming market structure is static. Disruption (Netflix vs. Blockbuster) can collapse barriers overnight. Another trap: overvaluing monopoly profits—regulators can intervene, or competition from substitutes (Zoom vs. traditional telecom) can emerge. Finally, perfect competition is a theoretical ideal; real markets have friction. Don't confuse short-term profits with structural power.",
+    "sources": [
+      {
+        "title": "Search: Market Structures: The Invisible Rules of Economic Power",
+        "url": "https://www.google.com/search?q=Market%20Structures%3A%20The%20Invisible%20Rules%20of%20Economic%20Power"
+      }
+    ],
+    "meta": {
+      "id": "Market structures",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Competition",
+        "Monopoly"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
   }
 ]
