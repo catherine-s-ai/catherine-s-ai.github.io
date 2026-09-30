@@ -1,5 +1,77 @@
 [
   {
+    "id": "7b55f29d-aef7-43f2-8194-84c940262344",
+    "date": "2026-09-30",
+    "topic": "Game Theory: The Hidden Operating System of Every Financial Decision",
+    "teaser": "The 1994 spectrum auction was supposed to raise $10 billion. It raised $617 million. The economists weren't wrong about the math—they were wrong about the game. Here's how the same blind spot is quietly costing you money.",
+    "summary": "In 1994, the U.S. government auctioned off wireless spectrum. Economists predicted $10 billion. The final tally: $617 million. The models weren't broken—the bidders were playing a different game than the one the economists had modeled. They withheld bids, signaled collusion, and exploited rules to pay less. The lesson isn't that game theory failed. It's that ignoring game theory is how you become the sucker at the table.\n\nEvery financial decision you make—accepting a job offer, buying a house, holding a stock through a crash—is a move in a game. Not a game of chance, but a game of strategic interaction: your payoff depends on what others do. The most powerful idea in game theory is the **Nash equilibrium**: a state where no player can improve by changing strategy alone. It's stable, but not necessarily good. Two gas stations across the street from each other both stay open 24/7, barely breaking even. Neither can close earlier without losing customers to the other. They're stuck in a bad equilibrium—and so are you, if you don't see the game.\n\nThe **Prisoner's Dilemma** explains why rational self-interest can make everyone poorer. Two suspects, if both stay silent, get 1 year. If one betrays, he goes free and the other gets 10. If both betray, both get 5. Betrayal is the dominant strategy, so both betray—even though mutual silence would be better. This isn't a hypothetical. It's why companies slash prices until profits vanish, why countries overfish, why you panic-sell during a crash while institutions buy. You're not stupid. You're just playing the wrong game.\n\nBut here's the twist: most financial games are **repeated**. In a one-shot Prisoner's Dilemma, defection wins. In a repeated game, cooperation and reputation become assets. This is why 'tit-for-tat'—cooperate first, then mirror—wins tournaments. It's why Warren Buffett's handshake deals work. It's why your credit score matters more than your last paycheck. The game isn't fixed. You can change it.\n\nRight now, you're playing games you don't even know you're in. The question is: are you moving, or are you being moved?",
+    "key_points": [
+      "**The Nash equilibrium is a trap, not a target.** Most people assume that if a situation is stable, it must be good. But a Nash equilibrium can be collectively terrible—like two firms locked in a price war, or you and your neighbor both idling in your cars because neither wants to be the first to turn off the engine. The insight isn't 'find the equilibrium.' It's 'recognize when you're in a bad one and change the game.' In personal finance, this means refusing to play zero-sum games (like timing the market) and designing positive-sum ones (like long-term index investing, where you benefit from others' success).",
+      "**Dominant strategies are rare—and usually boring.** A true dominant strategy wins regardless of what others do. In investing, there is one: minimize costs and diversify broadly. It's not exciting, and it doesn't depend on predicting the Fed or outsmarting Wall Street. It's a heuristic that works because it sidesteps the game entirely. The counterintuitive lesson: the best move is often to stop playing the game others are playing. When everyone else is trading on news, your dominant strategy is to ignore the news.",
+      "**Reputation is a compounding asset in repeated games.** In a one-shot game, defection is rational. In a repeated game, cooperation pays—but only if you can punish defectors. This is why 'tit-for-tat' (cooperate first, then mirror) wins: it's nice, retaliatory, forgiving, and clear. In your career, this means building a reputation for fairness and reliability, but also being willing to walk away from bad actors. In investing, it means choosing fund managers and advisors with long track records of putting clients first—because in a repeated game, their reputation is their bond.",
+      "**Signaling is how you decode and send messages in financial markets.** Companies signal strength via dividends and buybacks; you signal creditworthiness via your credit score. But signals can be faked—which is why costly signals matter. A company that raises its dividend is signaling confidence because it's costly to cut later. A person who saves aggressively is signaling discipline. The actionable insight: when you see a signal, ask 'What would it cost them to fake this?' If the answer is 'nothing,' ignore it. If it's 'a lot,' pay attention."
+    ],
+    "practice": [
+      {
+        "title": "Identify a Bad Equilibrium in Your Financial Life",
+        "steps": [
+          "Think of a recurring financial frustration (e.g., overspending to keep up with friends, staying in a low-yield savings account because switching feels like a hassle).",
+          "Write down the 'players' (you, your friends, your bank) and the 'payoffs' (what each gets from the current situation).",
+          "Ask: Is this stable because no one can improve by acting alone? If so, what collective action or rule change could break the equilibrium?",
+          "Take one concrete step this week to change the game—e.g., propose a cheaper group activity, or automate a transfer to a high-yield account."
+        ]
+      },
+      {
+        "title": "Run a Tit-for-Tat Experiment in a Real Negotiation",
+        "steps": [
+          "Choose a low-stakes negotiation (e.g., asking for a discount, negotiating a bill, splitting a shared expense).",
+          "Start with a clear, cooperative offer that signals your willingness to be fair (e.g., 'I'll cover 60% if you cover 40%').",
+          "If they reciprocate, continue cooperating. If they defect (e.g., demand more), immediately and proportionally retaliate (e.g., withdraw your offer and propose a less favorable split).",
+          "Afterward, write down what happened. Did cooperation emerge? Did retaliation reset the tone? What would you do differently next time?"
+        ]
+      },
+      {
+        "title": "Simulate a Prisoner's Dilemma with Real Stakes",
+        "steps": [
+          "Find a partner and agree to play 10 rounds of a Prisoner's Dilemma with real money (e.g., $10 each). Use the standard payoff matrix: both cooperate = $3 each; both defect = $1 each; one defects = $5 for defector, $0 for cooperator.",
+          "Before playing, write down your strategy (e.g., always defect, always cooperate, tit-for-tat).",
+          "Play the rounds, recording each choice and the outcome.",
+          "Afterward, discuss: How did trust build or break? Did you regret any choices? What does this reveal about your real-life financial interactions (e.g., with banks, employers, partners)?",
+          "Write one sentence about how you'll apply this insight to a current financial relationship."
+        ]
+      }
+    ],
+    "risk_notes": "Game theory assumes rational actors with perfect information—both are often false. In reality, emotions, cognitive biases, and incomplete information lead to 'bounded rationality.' Overapplying game theory can make you paranoid, seeing defection where cooperation exists. It can also justify selfish behavior ('it's the Nash equilibrium!') that erodes trust. In personal finance, treating every interaction as a zero-sum game can destroy valuable long-term relationships. Remember: not all games are zero-sum; many are positive-sum, especially in repeated settings. The goal is not to win every game, but to recognize which games are worth playing—and which are worth changing.",
+    "sources": [
+      {
+        "title": "The Art of Strategy: A Game Theorist's Guide to Success in Business and Life",
+        "url": "https://www.amazon.com/Art-Strategy-Theorists-Success-Business/dp/0393337170"
+      },
+      {
+        "title": "Prisoner's Dilemma",
+        "url": "https://plato.stanford.edu/entries/prisoner-dilemma/"
+      },
+      {
+        "title": "The Evolution of Cooperation",
+        "url": "https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640"
+      }
+    ],
+    "meta": {
+      "id": "Game theory & strategic behavior",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Nash equilibrium",
+        "Prisoner's dilemma"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "516f7c54-0b98-4f7f-bcac-248a73eeb021",
     "date": "2026-09-29",
     "topic": "Market Structure: The Invisible Architecture of Competition",
@@ -3808,65 +3880,6 @@
       "related": [
         "Wage determination",
         "Unemployment"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "cd85a300-7b7d-4048-a83e-14ea0bae353e",
-    "date": "2026-07-15",
-    "topic": "Externalities and Public Goods: The Invisible Forces Shaping Your Wealth",
-    "teaser": "Your neighbor's unkempt lawn is quietly draining your net worth. Here's how.",
-    "summary": "Imagine this: your neighbor lets their lawn go to seed. Weeds multiply, rats move in, and your property value drops 10%. You didn't buy that house next door, but you're paying for it. That's an **externality**—a cost (or benefit) that spills onto a third party. Now scale up: a factory pollutes a river, killing a fishing industry. The factory's profit is private, but the cost is shared. That's a market failure. \n\n**Public goods** are the flip side: streetlights, national defense, basic research. They're non-rivalrous (my use doesn't diminish yours) and non-excludable (can't stop freeloaders). So markets underproduce them. The result? We miss out on innovations that could have been—like a cure for a disease that wasn't profitable enough. \n\nWhy should you care? Because these invisible forces silently shift risk and opportunity in your portfolio. The tragedy of the commons—overfishing, congestion, climate change—destroys shared resources. Companies that ignore externalities (think BP's Deepwater Horizon or Volkswagen's emissions scandal) blow up. Those that internalize them (like Tesla betting on clean energy) create moats. And underfunded public goods—infrastructure, education, R&D—are where governments step in, creating investment booms. \n\nUnderstanding externalities isn't just economics—it's a lens to see hidden risks and asymmetric upside. Your neighbor's lawn is just the start.",
-    "key_points": [
-      "The tragedy of the commons is not just about overuse—it's a systematic failure of pricing. When a resource is free, it gets overused until it collapses. But the real insight? The solution isn't always privatization. Sometimes it's community management (like lobster fisheries in Maine). Don't assume markets or governments have the answer—look for systems that align incentives.",
-      "Internalizing externalities is often framed as a cost, but it's a source of alpha. Companies that proactively manage externalities (e.g., reducing carbon, improving labor practices) tend to have lower cost of capital and higher resilience. Why? Because they're pricing risks that others ignore. The market eventually catches up—but early movers win.",
-      "Free riders aren't just a problem—they're a signal. When public goods are underfunded, it creates a vacuum that can be filled by philanthropy or impact investing. For example, the Gates Foundation's work on malaria vaccines has massive social returns. Similarly, municipal bonds funding public schools offer tax-free income while building human capital. The counterintuitive insight: free rider problems create investment opportunities with asymmetric upside."
-    ],
-    "practice": [
-      {
-        "title": "Audit your portfolio for externality risks",
-        "steps": [
-          "Identify companies in your portfolio with large negative externalities (e.g., high carbon emissions, pollution, or waste).",
-          "Use specific data sources: check your portfolio's carbon footprint using the Carbon Disclosure Project (CDP) data, or review MSCI's ESG ratings for controversy flags.",
-          "Estimate potential regulatory costs or litigation risks: for example, if a company is in the fossil fuel sector, model a $50/ton carbon tax impact on earnings. Consider reducing exposure if the risk-adjusted return is unattractive."
-        ]
-      },
-      {
-        "title": "Calculate your personal externality footprint",
-        "steps": [
-          "Track your daily commute, energy use, and waste generation using a tool like the EPA's carbon footprint calculator.",
-          "Research potential future carbon taxes or regulations in your area (e.g., California's cap-and-trade, EU's carbon border adjustment).",
-          "Estimate how these could affect your cost of living: if a $100/ton carbon tax is implemented, your annual driving cost could rise by $200. Adjust habits (e.g., switch to an EV) or invest in carbon offsets."
-        ]
-      },
-      {
-        "title": "Support public goods with positive spillovers",
-        "steps": [
-          "Invest in a municipal bond funding public schools or infrastructure in your state—these offer tax-free income and strengthen your community.",
-          "Allocate a portion of your portfolio to impact funds focused on clean energy or public health, such as the Calvert Impact Fund or the IIGCC's Net Zero Investment Framework.",
-          "Recognize that these investments hedge against systemic risks: for example, investing in public health R&D reduces pandemic risk, which is good for all assets."
-        ]
-      }
-    ],
-    "risk_notes": "Overzealous regulation of externalities can stifle innovation and economic growth. Also, defining what is a 'public good' can be politically manipulated. The tragedy of the commons can lead to privatization that excludes the poor. And free rider problems may cause underinvestment even when collective benefit is huge.",
-    "sources": [
-      {
-        "title": "Search: Externalities and Public Goods: The Invisible Forces Shaping Your Wealth",
-        "url": "https://www.google.com/search?q=Externalities%20and%20Public%20Goods%3A%20The%20Invisible%20Forces%20Shaping%20Your%20Wealth"
-      }
-    ],
-    "meta": {
-      "id": "Externalities & public goods",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Market failure",
-        "Government intervention"
       ],
       "tags": [
         "Microeconomics Fundamentals",
