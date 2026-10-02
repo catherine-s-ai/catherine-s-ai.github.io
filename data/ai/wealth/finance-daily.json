@@ -1,5 +1,64 @@
 [
   {
+    "id": "e7f6596a-be9e-43f9-a188-f33341d2517b",
+    "date": "2026-10-02",
+    "topic": "Externalities and Public Goods: The Hidden Costs and Benefits That Break Markets",
+    "teaser": "Your neighbor's wooden house is a risk to you. Your brick house is a benefit to them. Yet no one pays. Welcome to externalities.",
+    "summary": "In 1666, the Great Fire of London destroyed 13,000 houses. But it also gave us modern fire insurance—and a brutal lesson in externalities. Your neighbor's wooden house was a risk to you; your brick house was a benefit to them. Yet no one paid for the benefit or the risk. That's an externality: a cost or benefit from a transaction that falls on a third party who didn't choose it. Public goods are the extreme case: non-excludable (you can't prevent others from using them) and non-rivalrous (one person's use doesn't reduce availability). Together, they cause market failure because prices don't reflect true social costs or benefits. First principles: markets allocate efficiently only when all costs and benefits are internalized by buyers and sellers. When they're not, the invisible hand drops the ball.\n\nYou are constantly paying for externalities—and profiting from them—whether you know it or not. Your health insurance premiums rise because unvaccinated neighbors impose costs on the system. Your stock portfolio includes companies that pollute, pushing cleanup costs onto taxpayers. Your home value depends on public goods like roads, schools, and fire protection that you don't pay for directly. Understanding externalities lets you spot mispriced risks and opportunities: from carbon taxes affecting energy stocks to the hidden subsidies in your own consumption. Ignore them, and you'll be blindsided by regulations, taxes, and social backlash that reshape industries overnight.",
+    "key_points": [
+      "Externalities are not 'side effects'—they are the main event. Most real-world markets are defined by their externalities, not their core transaction. The price of a product is often a lie that omits its true social cost. Example: gasoline at $4/gallon doesn't include the $2+ in health, climate, and defense costs you pay elsewhere.",
+      "Public goods are not 'free'—they are funded by taxes, donations, or tragedy. The question is never 'should we have them?' but 'who pays and who free-rides?' The free-rider problem is a feature of human nature, not a bug. Example: overfishing in international waters—every nation wants the fish, none wants to pay for sustainable management.",
+      "The Coase Theorem says that if transaction costs are zero, parties can bargain to internalize externalities regardless of initial rights. But in reality, transaction costs are never zero—they include the cost of finding parties, negotiating, and enforcing agreements. That's why we have laws, norms, and governments—they are transaction-cost-reducing technologies."
+    ],
+    "practice": [
+      {
+        "title": "Calculate Your Personal 'Externality Footprint'",
+        "steps": [
+          "List three regular purchases (e.g., gasoline, fast fashion, meat).",
+          "For each, estimate one external cost (e.g., carbon emissions, water pollution, antibiotic resistance). Use public data: EPA social cost of carbon (~$51/ton), WHO air pollution stats, etc.",
+          "Multiply by your annual consumption to see the hidden bill you're not paying. Example: 500 gallons of gas × $2/gallon external cost = $1,000/year."
+        ]
+      },
+      {
+        "title": "Check Your Portfolio for 'Externality Exposure'",
+        "steps": [
+          "Identify one holding that relies on a negative externality (e.g., a utility with coal plants, a company with labor abuses).",
+          "Estimate the potential liability: if carbon is priced at $50/ton, what's the hit to earnings? Use carbon price estimates from sources like the IMF or World Bank.",
+          "Ask: if that externality were priced in, what would the stock be worth? Decide whether to hedge, divest, or engage."
+        ]
+      },
+      {
+        "title": "Simulate a Public Goods Dilemma",
+        "steps": [
+          "Imagine your neighborhood wants to build a private park. Each household benefits $100, but the cost is $1,000 per household.",
+          "If you contribute, others might free-ride. What would you do? Write down your decision and reasoning.",
+          "Now scale it to national defense or climate change. Write a commitment: 'I will contribute to public goods when...' or 'I will advocate for taxes when...' This turns the thought experiment into a personal rule."
+        ]
+      }
+    ],
+    "risk_notes": "The concept of externalities can be abused to justify endless government intervention. Not every spillover justifies a tax or subsidy—sometimes the cure is worse than the disease. Governments also face externalities: politicians externalize costs onto future generations via debt, or onto minorities via policies. Public goods can become 'public bads' when mismanaged (e.g., overfishing in international waters). Psychologically, we tend to overestimate our own positive externalities (I make the neighborhood better) and underestimate our negative ones (my driving doesn't matter). This bias leads to NIMBYism and climate inaction. Finally, the Coase Theorem assumes rational bargaining, but humans are petty, vengeful, and spiteful—transaction costs are often emotional, not just monetary.",
+    "sources": [
+      {
+        "title": "The Problem of Social Cost",
+        "url": "https://www.jstor.org/stable/725087"
+      }
+    ],
+    "meta": {
+      "id": "Externalities & public goods",
+      "category": "Microeconomics Fundamentals",
+      "difficulty": 2,
+      "level": "3. Economics & Corporate Finance Basics",
+      "related": [
+        "Market failure",
+        "Government intervention"
+      ],
+      "tags": [
+        "Microeconomics Fundamentals",
+        "基础"
+      ]
+    }
+  },
+  {
     "id": "7b55f29d-aef7-43f2-8194-84c940262344",
     "date": "2026-09-30",
     "topic": "Game Theory: The Hidden Operating System of Every Financial Decision",
@@ -3817,69 +3876,6 @@
       "related": [
         "Asymmetric information",
         "Moral hazard"
-      ],
-      "tags": [
-        "Microeconomics Fundamentals",
-        "基础"
-      ]
-    }
-  },
-  {
-    "id": "8c876ceb-6f8c-4dc9-9076-314b64e5fce2",
-    "date": "2026-07-16",
-    "topic": "Labor Markets and Income Distribution",
-    "teaser": "The taxi driver vs. factory worker: why your effort doesn't determine your income.",
-    "summary": "You're a taxi driver in 1920s New York. You hustle 12-hour days, rain or shine. Yet your income barely budges. Meanwhile, a factory worker, doing repetitive tasks, sees their wages double in a decade. Why? Because labor markets don't reward sweat—they reward leverage to growing industries. Fast forward to today: gig drivers vs. AI engineers. Same story. \n\nAt first principles, your wage is set by the intersection of supply and demand for your skills. But demand isn't just about headcount—it's about the value you create per hour. A software engineer builds a tool used by millions; a cashier processes one transaction at a time. That difference in scalability drives income gaps. \n\nYour income is your biggest wealth-building lever. Understanding labor markets helps you spot rising industries, negotiate better, and avoid dead ends. Right now, remote work is globalizing supply, and AI is automating demand. If you don't see the forces shifting under your feet, you'll be the taxi driver of the 2020s.",
-    "key_points": [
-      "Your income is determined by your BATNA (Best Alternative to a Negotiated Agreement), not your effort. Bargaining power = how easily you can walk away. If you have unique skills, you have leverage; if you're replaceable, you don't.",
-      "Winner-take-most effects are amplified by technology: a slightly better programmer can build a product used by millions, while a slightly better barista serves a few more coffees. This power law distribution means a small fraction of workers capture most gains in high-value fields.",
-      "Unemployment isn't just a lack of jobs—it's a skills mismatch (structural unemployment). The 'natural rate' hides millions who have given up or are underemployed. The real risk is being in a shrinking industry without the skills to pivot."
-    ],
-    "practice": [
-      {
-        "title": "Calculate Your Hourly Value",
-        "steps": [
-          "Divide your monthly salary by 160 to get your hourly wage.",
-          "List all tasks you perform in a typical week.",
-          "Identify tasks that generate value greater than your hourly wage—these are high-leverage activities.",
-          "Focus your energy on those high-leverage tasks and delegate or eliminate low-value ones."
-        ]
-      },
-      {
-        "title": "Assess Your Bargaining Power",
-        "steps": [
-          "Go to Indeed or LinkedIn and search for jobs in your field.",
-          "Note the number of vacancies and the salary ranges.",
-          "A high vacancy rate means employers are desperate—you have bargaining power.",
-          "Use this information to ask for a raise or consider switching jobs."
-        ]
-      },
-      {
-        "title": "Simulate a Wage Negotiation",
-        "steps": [
-          "Identify your next best alternative (e.g., another job offer, freelance income, or a skill upgrade).",
-          "Practice stating that alternative and the value you bring to the table.",
-          "Role-play with a friend, focusing on framing your request as a win-win.",
-          "If you lack a concrete alternative, build one (e.g., start a side project, earn a certification).",
-          "Beginner version: Just practice saying 'no' to lowball offers and asking for more time to decide."
-        ]
-      }
-    ],
-    "risk_notes": "The concept that wages reflect productivity can lead to victim-blaming: 'If you're poor, you're just not productive enough.' But productivity is heavily influenced by factors outside individual control—education access, discrimination, industry decline. Also, the 'efficiency wage theory' shows that paying above-market wages can boost productivity, so low wages can be a self-fulfilling prophecy. Beware of over-optimizing for individual action while ignoring systemic barriers.",
-    "sources": [
-      {
-        "title": "Thomas Piketty, 'Capital in the Twenty-First Century' (2014)",
-        "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674430006"
-      }
-    ],
-    "meta": {
-      "id": "Labor markets & income distribution",
-      "category": "Microeconomics Fundamentals",
-      "difficulty": 2,
-      "level": "3. Economics & Corporate Finance Basics",
-      "related": [
-        "Wage determination",
-        "Unemployment"
       ],
       "tags": [
         "Microeconomics Fundamentals",
